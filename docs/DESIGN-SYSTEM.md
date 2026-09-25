@@ -1,34 +1,43 @@
-# Design system: "Field guide"
+# Design system: Minelab red & black, Crawfords blue
 
-Direction came from the UI/UX Pro Max design database. The product type is Magazine/Blog, and the recommended style is **Editorial Grid / Magazine**: content-first, high-contrast type, and one strong accent. It's adapted to the world of metal detecting: turned earth, found gold, map contours, and settings read out like a detector display.
+The palette follows the brief agreed with Paul and Crawfords: **Minelab red and black** for the site's identity, with **Crawfords blue reserved for purchase and redirect points**, so every "buy" action is visually distinct from navigation and never competes with editorial links.
+
+The colour values are taken from the two brands' live stylesheets (minelab.com and crawfordsmd.com), not approximated.
 
 ## Colour
 
-| Token | Light | Dark | Use |
+| Token | Light | Dark | Source / use |
 |---|---|---|---|
-| `--bg` | `#F6F2EA` warm paper | `#15130F` | Page background |
-| `--surface` | `#FFFFFF` | `#1E1B16` | Cards, sidebars |
-| `--ink` | `#1E1B16` soil | `#EFE9DD` | Text, primary buttons |
-| `--muted` | `#5E574B` | `#B0A690` | Secondary text |
-| `--brass` | `#8A6420` found gold | `#D9A441` | Labels, accents, links underline (4.7:1 on paper) |
-| `--red` | `#B3261E` Minelab red | `#D2453A` | **Buy / affiliate actions only** (6.5:1 with white) |
-| `--soil` | `#1C1915` | `#0F0D0A` | Footer and feature bands |
+| `--brand` | `#E1261C` | `#FF3B30` | Minelab red (minelab.com). Primary buttons, labels, accents |
+| `--brand-deep` | `#B81C14` | `#E1261C` | Hover state; text-on-light at 5.6:1 |
+| `--ink` / `--ink-2` | `#1A1816` / `#2E2925` | `#F2EFEB` | Minelab black / charcoal (minelab.com). Text, header mark, dark bands |
+| `--buy` | `#075692` | `#2F8FD8` | **Crawfords blue** (crawfordsmd.com). Buy buttons, product boxes, affiliate links only |
+| `--buy-deep` | `#064575` | `#075692` | Crawfords dark blue. Hover; shop band gradient |
+| `--bg` / `--surface` | `#F7F7F7` / `#FFFFFF` | `#141312` / `#1E1C1A` | Page and cards |
+| `--muted` | `#5F5B57` | `#A9A39C` | Secondary text (5.9:1) |
 
-Red is reserved for buying actions, so affiliate clicks always stand out and are never confused with navigation.
+Rule of thumb: **red says "Paul / Minelab", blue says "buy at Crawfords".** Nothing else uses blue.
+
+## Brand marks (from Paul's own image library)
+
+- **Minelab Detexpert** shield and wordmark: hero badge, hero photo corner, credentials strip, footer.
+- **Minelab** logo: credentials strip and footer.
+- **Crawfords Metal Detectors** white lock-up: hero badge, credentials strip (on black), the shop band, the footer discount band, and the "Where Paul buys" box on every guide and post.
+- **Coiltek**: credentials strip and footer.
 
 ## Type
 
-- **Zilla Slab 600/700** for headings: a sturdy slab, like a field guide or tool catalogue.
-- **IBM Plex Sans 400–600** for body text (17px base, 1.65 line height, 70ch measure).
-- **IBM Plex Mono 500** for uppercase labels, tags and settings, echoing a detector's readout.
+- **Zilla Slab 600/700** for headings: sturdy slab, like a field guide.
+- **IBM Plex Sans 400–600** for body (17px base, 1.65 line height, 70ch measure).
+- **IBM Plex Mono 500** for uppercase labels, tags and settings, echoing a detector readout.
 
 ## Components
 
-Header with mega menus (Detectors / Guides / Rallies / Blog / About); mobile drawer; search dialog (press `/`); detector hub cards; "start here" path cards; post cards (lead + grid); a YouTube facade that loads the player on click; ad-slot placeholders; the "Where Paul buys" affiliate box with a copyable discount code; a sticky table of contents; an author box; previous/next post links; the discount band and affiliate disclosure in the footer.
+Header with mega menus (Detectors / Guides / Rallies / Videos / Blog / About) and a blue "Shop Crawfords MD" button; mobile drawer; search dialog covering guides, posts and videos (press `/`); hero with Detexpert and Crawfords badges; credentials strip; detector hub cards; video cards with a click-to-play YouTube facade; the Crawfords shop band (six categories, each paired with Paul's guide); "start here" paths; post cards; product boxes ("Buy at Crawfords MD" + comparison links); "Gear in this guide" strip; "Where Paul buys" sidebar box with the copyable `PaulCee10` code; sticky table of contents; author box; footer discount band with the Crawfords logo; partner logos; affiliate disclosure.
 
 ## Accessibility and performance
 
-- Contrast is AA or better in both themes. Focus rings are visible, a skip link is provided, and all touch targets are at least 44px.
-- The mega menu works by click and keyboard, and Escape closes it. `prefers-reduced-motion` is respected.
-- Images are WebP with width and height set (no layout shift), lazy-loaded below the fold, and the hero loads with `fetchpriority="high"`.
-- There's no framework and no build dependencies. The JS is about 5 KB and only enhances the page; everything works without it.
+- AA contrast or better in both themes; visible focus rings; skip link; 44px+ touch targets.
+- Mega menu works by click and keyboard; Escape closes. `prefers-reduced-motion` respected.
+- WebP images with intrinsic sizes (no layout shift), lazy-loaded below the fold; YouTube loads only on click.
+- No framework and no build dependencies. About 6 KB of JS, all progressive enhancement.

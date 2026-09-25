@@ -47,14 +47,15 @@
 
   // Blog grid "show more"
   $$('[data-paginate]').forEach(grid => {
-    const step = +grid.dataset.paginate; const cards = $$('.card', grid); const btn = grid.parentElement.querySelector('[data-load-more]');
+    const step = +grid.dataset.paginate; const cards = $$('.card, .vid', grid); const btn = grid.parentElement.querySelector('[data-load-more]');
     if (cards.length <= step || !btn) return;
+    const noun = cards[0].classList.contains('vid') ? 'videos' : 'articles';
     let shown = step; cards.forEach((c, i) => { c.hidden = i >= shown; });
-    btn.hidden = false; btn.textContent = `Show more articles (${cards.length - shown} more)`;
+    btn.hidden = false; btn.textContent = `Show more ${noun} (${cards.length - shown} more)`;
     btn.addEventListener('click', () => {
       const first = cards[shown]; shown += step; cards.forEach((c, i) => { c.hidden = i >= shown; });
-      first?.querySelector('a')?.focus();
-      if (shown >= cards.length) btn.hidden = true; else btn.textContent = `Show more articles (${cards.length - shown} more)`;
+      first?.querySelector('a, button')?.focus();
+      if (shown >= cards.length) btn.hidden = true; else btn.textContent = `Show more ${noun} (${cards.length - shown} more)`;
     });
   });
 

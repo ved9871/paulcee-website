@@ -13,7 +13,7 @@ fs.mkdirSync(OUTDIR, { recursive: true });
 fs.mkdirSync(CACHE, { recursive: true });
 
 const manifest = JSON.parse(fs.readFileSync(path.join(SITE, 'content/assets-manifest.json'), 'utf8'));
-const EXTRA = ['images/google-avatar-aug-17a_pw9ria1c.jpg', 'images/fb-header.jpg', 'images/minelab-logo.jpg', 'images/Detexpert-Header1.png', 'images/logo-portable-antiquities-scheme.png', 'images/logo-crown-estate.png', 'favImage_t3jspbgt.png', 'images/CoiltekLogo.png'];
+const EXTRA = ['images/google-avatar-aug-17a_pw9ria1c.jpg', 'images/fb-header.jpg', 'images/minelab-logo.jpg', 'images/Detexpert-Header1.png', 'images/logo-portable-antiquities-scheme.png', 'images/logo-crown-estate.png', 'favImage_t3jspbgt.png', 'images/CoiltekLogo.png', 'images/YT-thumb_2020.png', 'images/2026-thumb.jpg'];
 for (const e of EXTRA) if (!manifest.find(m => m.rel === e)) manifest.push({ rel: e, alt: '', usedBy: ['brand'] });
 
 const outName = rel => rel.replace(/^images\//, '').replace(/^blog\/files\//, 'b-').replace(/[^a-zA-Z0-9._-]+/g, '-').replace(/\.(jpe?g|png|gif|webp)$/i, '') + '.webp';

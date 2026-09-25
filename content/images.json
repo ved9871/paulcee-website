@@ -4528,5 +4528,17 @@
   "w": 320,
   "h": 320,
   "alt": ""
+ },
+ "images/YT-thumb_2020.png": {
+  "file": "img/YT-thumb_2020.webp",
+  "w": 256,
+  "h": 256,
+  "alt": ""
+ },
+ "images/2026-thumb.jpg": {
+  "file": "img/2026-thumb.webp",
+  "w": 320,
+  "h": 320,
+  "alt": ""
  }
 }

@@ -56,7 +56,7 @@ export const HUBS = [
 export const HOME = {
   eyebrow: 'Minelab Detexpert · Crawfords MD Ambassador',
   h1: 'Master your Minelab metal detector.',
-  sub: 'Field-tested settings, honest reviews and step-by-step tutorials from Paul Cee — Minelab Detexpert, beach-detecting fanatic, and the voice behind 3.5 million+ YouTube views.',
+  sub: 'Field-tested settings, honest reviews and step-by-step tutorials from Paul Cee — Minelab Detexpert, beach-detecting fanatic, and the voice behind 3.8 million+ YouTube views.',
   primary: ['#detectors', 'Find settings for my detector'],
   secondary: ['youtube', 'Watch on YouTube'],
   proof: [['3.5M+', 'YouTube views'], ['220+', 'articles & field reports'], ['Weekly', 'new videos']],

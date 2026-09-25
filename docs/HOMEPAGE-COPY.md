@@ -8,22 +8,46 @@
 
 ## Hero
 
-- **Eyebrow:** Minelab Detexpert · Crawfords MD Ambassador
+- **Badges (above the headline):** "Official · Minelab Detexpert & field tester" with the Detexpert shield, and "Ambassador · Crawfords Metal Detectors" with the Crawfords logo
 - **H1:** Master your Minelab metal detector.
-- **Subhead:** Field-tested settings, honest reviews and step-by-step tutorials from Paul Cee — Minelab Detexpert, beach-detecting fanatic, and the voice behind 3.5 million+ YouTube views.
+- **Subhead:** Field-tested settings, honest reviews and step-by-step tutorials from Paul Cee — Minelab Detexpert, beach-detecting fanatic, and the voice behind 3.8 million+ YouTube views.
 - **Primary CTA:** Find settings for my detector
-- **Secondary CTA:** Watch on YouTube
-- **Proof strip:** 3.5M+ YouTube views · 220+ articles & field reports · Weekly new videos
+- **Secondary CTA:** Watch the tutorials (→ the new Videos page)
+- **Proof strip:** 3.8M+ YouTube views · 1,000+ detecting videos · 223 articles & field reports
+
+## Trusted-by strip
+
+Logos only, under the hero: Minelab · Detexpert · Crawfords Metal Detectors · Coiltek.
 
 Alternative headlines if Paul wants a change:
 1. *Dig deeper with the right settings.*
 2. *Detect smarter. Dig more of the good stuff.*
+
+## Training videos: "Learn your detector, one video at a time"
+
+1,000+ tutorials, settings walk-throughs and beach sessions from Paul's channel — 12.9k subscribers and 3.8M+ views. *(Eight latest videos, then playlist chips: Manticore · Equinox · Vanquish · X-Terra · Beach detecting · Fields, finds & accessories.)*
 
 ## Why detectorists trust Paul: "Advice from the field, not the forum"
 
 1. **Settings that actually work.** Every setting here is tested in real UK ground (wet sand, iron-riddled pasture, mineralised clay), not copied off a forum.
 2. **Straight from the Minelab team.** As a Detexpert and field tester, Paul works alongside Minelab's own engineers, so you get the why behind a setting, not just the numbers.
 3. **Honest gear advice.** Coils, scoops, spades and headphones: what earns its place in Paul's bag, and what doesn't.
+
+## Shop band (Crawfords blue): "Shop Paul's recommendations at Crawfords Metal Detectors"
+
+**Eyebrow:** Where Paul buys his gear
+Authorised Minelab dealer with UK stock, expert advice and free delivery over £50. Every link below carries Paul's recommendation — and his reader discount on accessories.
+
+| Tile | Line | Buttons |
+|---|---|---|
+| Minelab detectors | The full Minelab range, UK stock. | Shop at Crawfords · Paul's guide |
+| Beginner detectors | Vanquish, X-Terra and Go-Find starter bundles. | Shop at Crawfords · Paul's guide |
+| Pinpointers & probes | Pro-Find 20, 35 and 40. | Shop at Crawfords · Paul's guide |
+| Digging tools & scoops | Spades, sand scoops and multi-tools. | Shop at Crawfords · Paul's guide |
+| Search coils | Minelab and Coiltek coils. | Shop at Crawfords · Paul's guide |
+| Headphones & power | ML 85, ML 105, WM 09 and RNB Power X. | Shop at Crawfords · Paul's guide |
+
+Use code **PaulCee10** at checkout for a discount on accessories.
 
 ## Start here: "Where are you on your detecting journey?"
 
@@ -58,6 +82,7 @@ Save on accessories at Crawfords Metal Detectors with code **PaulCee10**. Valid 
 ---
 
 ### Questions for Paul
-- Is "3.5 million+ views" still current? It comes from the About page and may be higher now.
+- The channel now shows 3,825,433 views, 12.9k subscribers and 1,014 videos (Sept 2026) — we use "3.8M+ / 1,000+". OK to quote?
+- The shop tiles link to Crawfords category pages. Are these the six categories Crawfords wants pushed, and are the category URLs current?
 - Is Instagram, Facebook or TikTok active? We can add icons to the header and footer.
 - Should the rally copy mention specific 2026 dates, or stay evergreen?

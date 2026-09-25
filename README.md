@@ -12,10 +12,13 @@ This repository holds the **design preview**, a static build of the full site in
 |---|---|
 | `content/pages/*.json` | 32 core pages extracted from Paul's WebSite X5 project (the pages in the live sitemap) |
 | `content/posts/*.json` | All **223** blog posts fetched from the live blog, with dates, categories, read time and schema |
-| `content/images.json` + `public/img/` | 755 images, converted to WebP (max 1400px), with intrinsic sizes for zero layout shift |
+| `content/videos.json` | 270 videos from Paul's YouTube channel (26 playlists + latest uploads), grouped by detector |
+| `content/images.json` + `public/img/` | 757 images, converted to WebP (max 1400px), with intrinsic sizes for zero layout shift |
 | `src/build.mjs` | Static site generator (no dependencies) |
 | `src/site.css`, `src/site.js` | Design system and progressive-enhancement JS |
 | `src/site.config.mjs` | Navigation, homepage copy, detector hubs, blog topics |
+| `src/commerce.config.mjs` | Crawfords link policy + tracking ID, product catalogue, shop categories, brand assets, YouTube groups |
+| `docs/crawfords-product-links.csv` | Every product box link, with tracking, for Crawfords to verify |
 | `docs/seo-inventory.csv` | Every URL with its title, meta description, canonical, JSON-LD types, ad slots, affiliate links and videos |
 | `docs/redirects.csv` | Old URL → new URL map (becomes the 301 list at launch) |
 | `docs/SEO-AND-ADSENSE.md` | What we preserve and how |
@@ -38,11 +41,23 @@ Build modes:
 node src/build.mjs                          # preview: noindex, ad placeholders
 BASE=/paulcee-website/ node src/build.mjs   # GitHub Pages project path
 MODE=production node src/build.mjs          # real AdSense + GA4 tags, indexable, verification meta
+CNAME=new.paulcee.co.uk node src/build.mjs   # custom subdomain (writes dist/CNAME; use BASE=/)
 ```
 
 ## Deploy
 
 Every push to `main` runs `.github/workflows/pages.yml`, which builds, runs the link/SEO check and publishes to GitHub Pages.
+
+## Commerce rules (agreed with Paul / Crawfords)
+
+- **Every product link goes to crawfordsmd.com with Paul's affiliate tracking** (`?tracking=fa202437c9`). The build normalises all Crawfords URLs to `https://www.crawfordsmd.com/...?tracking=...`, rewrites old short links and the Amazon RNB Power X link to Crawfords, and marks them `rel="sponsored"`. The build log reports the count every time.
+- **Crawfords blue is used only for buy/redirect actions**; Minelab red and black carry the site identity.
+- Each guide and post gets a "Buy at Crawfords MD" box matched to the product in its title, with Crawfords comparison articles (e.g. Equinox 900 vs Manticore, Vanquish 560 first look) where they exist.
+- Links that stay external: YouTube, Facebook group, the Crawfords mailing list, Anderson shafts, Swagier scoops, Minelab.com (Voyager), and one Amazon diamond-tester link (Paul's own Amazon tag).
+
+## Hosting on a subdomain
+
+The brief is to launch on a subdomain of paulcee.co.uk first (e.g. ). GitHub Pages supports this: add a CNAME record at Paul's DNS pointing the subdomain at , set the custom domain in the repo's Pages settings, and build with  and . The preview stays  until launch.
 
 ## Content notes for Paul
 
