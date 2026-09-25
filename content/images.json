@@ -4540,5 +4540,41 @@
   "w": 320,
   "h": 320,
   "alt": ""
+ },
+ "photos/paul-beach-minelab.jpg": {
+  "file": "img/p-paul-beach-minelab.webp",
+  "w": 1600,
+  "h": 1200,
+  "alt": "Paul Cee detecting the wet sand on a UK beach in his Minelab shirt"
+ },
+ "photos/paul-park-video.jpg": {
+  "file": "img/p-paul-park-video.webp",
+  "w": 1600,
+  "h": 520,
+  "alt": "Paul Cee explaining detector modes on the beach in a Minelab Detexpert jacket"
+ },
+ "photos/paul-field-detexpert.jpg": {
+  "file": "img/p-paul-field-detexpert.webp",
+  "w": 1600,
+  "h": 1200,
+  "alt": "Paul Cee detecting a ploughed field with a Minelab Manticore and spade"
+ },
+ "photos/paul-vanquish-screen.jpg": {
+  "file": "img/p-paul-vanquish-screen.webp",
+  "w": 1200,
+  "h": 1600,
+  "alt": "Paul Cee checking the screen of a Minelab Vanquish on stubble"
+ },
+ "photos/paul-drone-beach.jpg": {
+  "file": "img/p-paul-drone-beach.webp",
+  "w": 1600,
+  "h": 640,
+  "alt": "Paul Cee on the beach with detector and sand scoop"
+ },
+ "photos/paul-minelab-shirt-beach.jpg": {
+  "file": "img/p-paul-minelab-shirt-beach.webp",
+  "w": 1200,
+  "h": 1600,
+  "alt": "Paul Cee in a red Minelab shirt swinging a detector along the shoreline"
  }
 }

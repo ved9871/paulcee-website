@@ -1,46 +1,94 @@
 /* ---------- brand components (Minelab red/black + Crawfords blue) ---------- */
 
-/* credentials strip under the hero */
-.creds { border-block: 1px solid var(--line); background: var(--surface); }
-.creds__row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--s-4) var(--s-6); min-height: 88px; padding-block: var(--s-4); }
-.creds__label { display: flex; align-items: center; gap: var(--s-3); font-weight: 600; }
-.creds__label .mono { color: var(--muted); }
-.creds__logos { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-6); }
-.creds__logos img { height: 34px; width: auto; object-fit: contain; }
-.creds__logos .logo--tall { height: 52px; }
-.creds__logos .logo--dark { background: var(--ink); padding: 8px 14px; border-radius: var(--r-1); height: 44px; }
-@media (max-width: 700px) { .creds__logos { gap: var(--s-4); } .creds__logos img { height: 26px; } .creds__logos .logo--tall { height: 40px; } }
+/* Contrast fixes: buttons keep fixed brand backgrounds in both themes; link-blue lightens in dark */
+:root { --buy-link: #075692; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --brand: #e1261c; --brand-deep: #b81c14; --buy: #075692; --buy-deep: #064575; --buy-link: #7cc0f0; --brass: #ff8a80; }
+}
+:root[data-theme="dark"] { --brand: #e1261c; --brand-deep: #b81c14; --buy: #075692; --buy-deep: #064575; --buy-link: #7cc0f0; --brass: #ff8a80; }
+.prose a.aff { color: var(--buy-link); text-decoration-color: var(--buy-link); }
+.btn--buy, .btn--buy:hover { color: #fff; }
 
-/* Detexpert badge in hero */
+/* credentials strip under the hero — always white so every logo reads in light and dark mode */
+.creds { background: #fff; border-block: 1px solid #e2e0dd; color: #1a1816; }
+.creds__row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--s-4) var(--s-6); min-height: 96px; padding-block: var(--s-4); }
+.creds__label { display: flex; align-items: center; gap: var(--s-3); margin: 0; }
+.creds__label .mono { color: #5f5b57; }
+.creds__logos { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-6); }
+.creds__logos img { height: 38px; width: auto; object-fit: contain; }
+.creds__logos .logo--tall { height: 56px; }
+.creds__logos .logo--dark { background: #1a1816; padding: 9px 16px; border-radius: var(--r-1); height: 52px; }
+@media (max-width: 700px) { .creds__logos { gap: var(--s-4); } .creds__logos img { height: 28px; } .creds__logos .logo--tall { height: 42px; } .creds__logos .logo--dark { height: 42px; padding: 7px 12px; } }
+
+/* Detexpert / Crawfords badges in the hero — white pills, dark text (readable in both themes) */
 .hero__badges { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-3); margin: 0 0 var(--s-5); }
-.detexpert { display: inline-flex; align-items: center; gap: 10px; padding: 6px 14px 6px 6px; border-radius: 999px; background: var(--ink); color: #fff; font: 600 .8125rem/1.2 var(--f-body); }
-.detexpert img { height: 34px; width: auto; }
-.detexpert .mono { color: var(--brass-hi); font-size: .625rem; display: block; margin-bottom: 2px; }
+.detexpert { display: inline-flex; align-items: center; gap: 12px; padding: 7px 18px 7px 8px; border-radius: 999px; background: #fff; color: #1a1816; border: 1.5px solid #d9d5cf; box-shadow: 0 1px 3px rgba(0,0,0,.1); font: 600 .9rem/1.2 var(--f-body); }
+.detexpert img { height: 40px; width: auto; }
+.detexpert img.on-dark { background: #1a1816; padding: 8px 10px; border-radius: 999px; height: 40px; }
+.detexpert .mono { color: #b81c14; font-size: .625rem; display: block; margin-bottom: 3px; }
 .hero__photo .hero__shield { position: absolute; top: 14px; right: 14px; width: 74px; height: auto; filter: drop-shadow(0 4px 10px rgba(0,0,0,.35)); }
+.hero__photo--left img:first-child { object-position: 16% center; }
 .hero__ctas .btn--buy svg { width: 1em; height: 1em; }
+
+/* photo treatments: more of Paul through the site */
+.section__head--photo { display: grid; grid-template-columns: 1fr 240px; gap: var(--s-6); align-items: center; max-width: none; }
+.section__head--photo > div { max-width: 760px; }
+.section__photo { width: 100%; aspect-ratio: 3/4; object-fit: cover; object-position: 60% 40%; border-radius: var(--r-3); box-shadow: var(--shadow); }
+@media (max-width: 760px) { .section__head--photo { grid-template-columns: 1fr; } .section__photo { max-width: 240px; } }
+.pillars-wrap { display: grid; grid-template-columns: 1fr 360px; gap: var(--s-7); align-items: start; }
+.pillars-photo { margin: 0; position: relative; }
+.pillars-photo img { width: 100%; aspect-ratio: 4/5; object-fit: cover; object-position: 74% center; border-radius: var(--r-3); box-shadow: var(--shadow); }
+.pillars-photo figcaption, .vid-banner figcaption, .hero__photo figcaption { position: absolute; left: 14px; bottom: 14px; background: rgba(20, 18, 14, .8); color: #f3ede4; padding: 7px 12px; border-radius: 999px; font-size: .6875rem; }
+@media (max-width: 900px) { .pillars-wrap { grid-template-columns: 1fr; } .pillars-photo img { aspect-ratio: 16/10; object-position: 74% 30%; } }
+.vid-banner { margin: 0 0 var(--s-5); position: relative; border-radius: var(--r-3); overflow: hidden; }
+.vid-banner img { width: 100%; aspect-ratio: 1600/520; object-fit: cover; object-position: 55% center; }
+@media (max-width: 600px) { .vid-banner img { aspect-ratio: 16/9; object-position: 45% center; } }
+.page-head--photo { position: relative; color: #fff; background: #1a1816 var(--photo) center / cover no-repeat; padding-block: clamp(48px, 7vw, 96px) clamp(32px, 4vw, 48px); border-bottom: 0; }
+.page-head--photo::before { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(20,18,16,.92) 0%, rgba(20,18,16,.78) 50%, rgba(20,18,16,.45) 100%); }
+.page-head--photo > .wrap { position: relative; }
+.page-head--photo .page-title, .page-head--photo .page-lede, .page-head--photo .stats dt { color: #fff; }
+.page-head--photo .page-lede { color: #e8e2d9; }
+.page-head--photo .stats dd, .page-head--photo .crumbs ol { color: #cfc8bd; }
+.page-head--photo .crumbs li + li::before { color: #7d766c; }
+.page-head--photo .eyebrow { color: #ff8a80; }
+.page-head--photo .chip { background: rgba(255,255,255,.12); color: #fff; border-color: rgba(255,255,255,.3); }
+.page-head--photo .chip .mono { color: #d8d1c6; }
+.page-head--photo .chip:hover { border-color: #fff; color: #fff; }
+.page-head--photo .chip.is-on { background: var(--brand); border-color: var(--brand); color: #fff; }
+.page-head--photo .chip.is-on .mono { color: #fff; }
+.side-card--paul img { width: 100%; aspect-ratio: 16/10; object-fit: cover; object-position: 72% 30%; border-radius: var(--r-2); margin-bottom: var(--s-3); }
+.gallery { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--s-4); margin: var(--s-6) 0; clear: both; }
+.gallery figure { margin: 0; }
+.gallery img { width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: var(--r-2); }
+.gallery figcaption { font-size: .8125rem; color: var(--muted); margin-top: 6px; }
+@media (max-width: 520px) { .gallery { grid-template-columns: 1fr; } }
+
+/* blog library filter chips (buttons or links, filtered in place by JS) */
+button.chip { font-family: inherit; cursor: pointer; }
+.blog-empty { margin: var(--s-6) 0; }
 
 /* product / buy boxes */
 .product { display: grid; grid-template-columns: 96px 1fr; gap: var(--s-4); padding: var(--s-4); background: var(--surface); border: 1px solid var(--line); border-top: 4px solid var(--buy); border-radius: var(--r-3); }
 .product__img { width: 96px; height: 96px; object-fit: cover; border-radius: var(--r-2); background: var(--tint); }
-.product__k { color: var(--buy); margin: 0 0 4px; font-size: .625rem; }
+.product__k { color: var(--buy-link); margin: 0 0 4px; font-size: .625rem; }
 .product__name { font: 700 1.15rem/1.2 var(--f-display); margin: 0 0 var(--s-2); }
 .product .btn { margin-top: var(--s-2); }
 .product__compare { margin: var(--s-3) 0 0; padding: 0; list-style: none; font-size: .875rem; }
 .product__compare li { padding: 3px 0; }
-.product__compare a { color: var(--buy); }
+.product__compare a { color: var(--buy-link); }
 .product__compare .mono { color: var(--muted); display: block; margin-bottom: 4px; }
 .product--wide { grid-template-columns: 140px 1fr; align-items: center; }
 .product--wide .product__img { width: 140px; height: 110px; }
-.gear-strip { margin-top: var(--s-7); padding-top: var(--s-5); border-top: 2px solid var(--ink); }
+.gear-strip { margin-top: var(--s-7); padding-top: var(--s-5); border-top: 2px solid var(--ink); clear: both; }
 .gear-strip h2 { font-size: 1.5rem; border: 0 !important; padding: 0 !important; margin-top: 0 !important; }
 .gear-strip__grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--s-4); }
-.dealer { display: flex; align-items: center; gap: var(--s-3); padding: var(--s-3) var(--s-4); background: var(--buy); color: #fff; border-radius: var(--r-2); font-size: .875rem; }
+.dealer { display: flex; align-items: center; gap: var(--s-3); padding: var(--s-3) var(--s-4); background: #075692; color: #fff; border-radius: var(--r-2); font-size: .875rem; }
 .dealer img { height: 30px; width: auto; }
 .dealer strong { display: block; }
 .side-card--buy .dealer { margin: 0 0 var(--s-4); }
 
 /* shop-by-category band (Crawfords) */
-.shop { background: linear-gradient(160deg, var(--buy-deep), var(--buy) 60%, #2791ac); color: #fff; }
+.shop { background: linear-gradient(160deg, #064575, #075692 60%, #2791ac); color: #fff; }
 .shop .eyebrow { color: #cfe6f8; }
 .shop__head { display: grid; grid-template-columns: 1fr auto; align-items: end; gap: var(--s-5); margin-bottom: var(--s-6); }
 .shop__head h2 { margin: 0; color: #fff; }
@@ -51,8 +99,8 @@
 .shop-tile h3 { margin: 0; font-size: 1.2rem; color: #fff; }
 .shop-tile p { color: #dbeaf5; font-size: .95rem; margin: 0 0 var(--s-2); }
 .shop-tile__links { margin-top: auto; display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; }
-.shop-tile .btn--white { background: #fff; border-color: #fff; color: var(--buy-deep); }
-.shop-tile .btn--white:hover { background: #e6f1fa; border-color: #e6f1fa; color: var(--buy-deep); }
+.shop-tile .btn--white { background: #fff; border-color: #fff; color: #064575; }
+.shop-tile .btn--white:hover { background: #e6f1fa; border-color: #e6f1fa; color: #064575; }
 .shop-tile__guide { color: #fff; font-size: .875rem; }
 .shop__code { margin-top: var(--s-6); display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-3); color: #dbeaf5; font-size: .95rem; }
 .shop__code .code { border-color: #fff; color: #fff; }
@@ -85,9 +133,9 @@
 .watch { padding-block: var(--s-7); background: var(--tint); }
 .watch .section__head { margin-bottom: var(--s-5); }
 
-/* rally + generic dark band tweaks */
+/* dark bands */
 .section--dark .btn--ghost { color: #fff; border-color: rgba(255,255,255,.5); }
-.section--dark .btn--ghost:hover { background: #fff; color: var(--ink); border-color: #fff; }
+.section--dark .btn--ghost:hover { background: #fff; color: #1a1816; border-color: #fff; }
 
 /* footer partner logos */
 .footer__partners { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-5); margin: var(--s-6) 0 0; }

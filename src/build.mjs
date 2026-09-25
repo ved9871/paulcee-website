@@ -98,6 +98,11 @@ const buyAside = (text, fallbackHref) => {
   return `<div class="side-card side-card--buy">${dealer()}${ps.length ? ps.map(p => productBox(p)).join('') : `<a class="btn btn--buy btn--block" href="${fallbackHref || cmdUrl('/metal-detectors/minelab')}" rel="sponsored noopener" target="_blank">Shop Minelab at Crawfords ${icon.ext}</a>`}<p class="side-card__code">Accessories code <button type="button" class="code" data-copy="${DISCOUNT.code}">${DISCOUNT.code}</button></p></div>`;
 };
 
+// Photos of Paul used through the site (see docs/PHOTOS.md)
+const photoHead = rel => IMAGES[rel] ? `class="page-head page-head--photo" style="--photo:url(${url(IMAGES[rel].file)})"` : 'class="page-head"';
+const paulCard = () => `<div class="side-card side-card--paul">${img('photos/paul-field-detexpert.jpg', 'Paul Cee field testing on a ploughed field')}<p class="mono side-card__k">Written by</p><p class="side-card__h">Paul Cee</p><p>Official Minelab Detexpert, field tester and Crawfords Metal Detectors ambassador — every setting here is tested on real UK beaches and fields.</p><p><a href="${pageUrl('about-us')}">About Paul</a> · <a href="${url('videos/')}">Videos</a></p></div>`;
+const gallery = () => `<div class="gallery">${[['photos/paul-beach-minelab.jpg', 'Wet-sand detecting, headphones on'], ['photos/paul-field-detexpert.jpg', 'Field testing on the plough'], ['photos/paul-vanquish-screen.jpg', 'Checking target IDs on the Vanquish'], ['photos/paul-minelab-shirt-beach.jpg', 'Working the tide line']].map(([r, c]) => `<figure>${img(r, '')}<figcaption>${c}</figcaption></figure>`).join('')}</div>`;
+
 // ---------- layout ----------
 const icon = {
   search: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>',
@@ -214,32 +219,33 @@ function renderHome() {
   const body = `
 <section class="hero"><div class="hero__bg" aria-hidden="true"></div><div class="wrap hero__grid">
   <div class="hero__copy">
-    <div class="hero__badges"><span class="detexpert">${img(BRAND.detexpertShield, '')}<span><span class="mono">Official</span>Minelab Detexpert &amp; field tester</span></span><span class="detexpert">${img(BRAND.crawfordsWhite, '')}<span><span class="mono">Ambassador</span>Crawfords Metal Detectors</span></span></div>
+    <div class="hero__badges"><span class="detexpert">${img(BRAND.detexpertShield, '')}<span><span class="mono">Official</span>Minelab Detexpert &amp; field tester</span></span><span class="detexpert">${img(BRAND.crawfordsWhite, '', { cls: 'on-dark' })}<span><span class="mono">Ambassador</span>Crawfords Metal Detectors</span></span></div>
     <h1 class="hero__h1">${HOME.h1}</h1>
     <p class="hero__sub">${HOME.sub}</p>
     <div class="hero__ctas"><a class="btn btn--lg" href="#detectors">${HOME.primary[1]} ${icon.arrow}</a><a class="btn btn--ghost btn--lg" href="${url('videos/')}">${icon.yt} Watch the tutorials</a></div>
     <dl class="proof"><div><dt>${YT.stats.views}</dt><dd>YouTube views</dd></div><div><dt>${YT.stats.videos}</dt><dd>detecting videos</dd></div><div><dt>${posts.length}</dt><dd>articles &amp; field reports</dd></div></dl>
   </div>
-  <figure class="hero__photo">${img('images/DSC07547-copy.jpg', 'Paul Cee metal detecting at dawn with a Minelab detector', { eager: true, sizes: '(min-width: 900px) 40vw, 100vw' })}${img(BRAND.detexpertShield, 'Minelab Detexpert', { cls: 'hero__shield' })}<figcaption class="mono">Paul Cee · Minelab Detexpert</figcaption></figure>
+  <figure class="hero__photo hero__photo--left">${img('photos/paul-beach-minelab.jpg', '', { eager: true, sizes: '(min-width: 900px) 40vw, 100vw' })}${img(BRAND.detexpertShield, 'Minelab Detexpert', { cls: 'hero__shield' })}<figcaption class="mono">Paul Cee · Minelab Detexpert</figcaption></figure>
 </div></section>
 
 <section class="creds" aria-label="Partners"><div class="wrap creds__row"><p class="creds__label"><span class="mono">Trusted by</span></p><div class="creds__logos">${img(BRAND.minelab, 'Minelab', { cls: 'logo--tall' })}${img(BRAND.detexpertWord, 'Minelab Detexpert', { cls: '' })}${img(BRAND.crawfordsWhite, 'Crawfords Metal Detectors', { cls: 'logo--dark' })}${img(BRAND.coiltek, 'Coiltek')}</div></div></section>
 
 <section class="section" id="detectors" aria-labelledby="det-h"><div class="wrap">
-  <div class="section__head"><p class="eyebrow mono">Find your detector</p><h2 id="det-h">Settings &amp; user guides for every Minelab</h2><p class="section__lede">Pick your machine for Paul’s set-up guides, beach and field settings, and the coils and accessories worth adding.</p></div>
+  <div class="section__head section__head--photo"><div><p class="eyebrow mono">Find your detector</p><h2 id="det-h">Settings &amp; user guides for every Minelab</h2><p class="section__lede">Pick your machine for Paul’s set-up guides, beach and field settings, and the coils and accessories worth adding.</p></div>${img('photos/paul-vanquish-screen.jpg', '', { cls: 'section__photo' })}</div>
   <div class="hubs">${hubCards}</div>
   <p class="more-links mono">Also: <a href="${pageUrl('minelab-pro-find')}">Pro-Find pinpointers</a> · <a href="${pageUrl('manticore-settings')}">Manticore settings</a> · <a href="${pageUrl('minelab-vanquish-60-settings')}">Vanquish 60 settings</a> · <a href="${pageUrl('manticore-m8-vs-m9-coil')}">M8 vs M9 coil</a></p>
 </div></section>
 
 <section class="section section--tint" aria-labelledby="vid-h"><div class="wrap">
   <div class="section__head section__head--row"><div><p class="eyebrow mono">Training videos</p><h2 id="vid-h">Learn your detector, one video at a time</h2><p class="section__lede">${YT.stats.videos} tutorials, settings walk-throughs and beach sessions from Paul’s channel — ${YT.stats.subscribers} subscribers and ${YT.stats.views} views.</p></div><a class="btn btn--ghost" href="${url('videos/')}">Browse the video library ${icon.arrow}</a></div>
+  <figure class="vid-banner">${img('photos/paul-park-video.jpg', '')}<figcaption class="mono">Filmed in the field · settings explained step by step</figcaption></figure>
   <div class="vids">${recent.slice(0, 8).map(vidCard).join('')}</div>
   <div class="playlists">${YT.groups.map(g => `<a class="chip" href="${url('videos/')}#${g.key}">${esc(g.title)} <span class="mono">${videos.filter(v => v.group === g.key).length}</span></a>`).join('')}<a class="chip" href="${YT.subscribeUrl}" rel="noopener" target="_blank">${icon.yt} Subscribe on YouTube</a></div>
 </div></section>
 
 <section class="section section--band" aria-labelledby="why-h"><div class="wrap">
   <div class="section__head"><p class="eyebrow mono">Why detectorists trust Paul</p><h2 id="why-h">Advice from the field, not the forum</h2></div>
-  <div class="pillars">${HOME.pillars.map(p => `<div class="pillar"><span class="pillar__k mono">${p.k}</span><h3>${p.title}</h3><p>${p.body}</p></div>`).join('')}</div>
+  <div class="pillars-wrap"><div class="pillars">${HOME.pillars.map(p => `<div class="pillar"><span class="pillar__k mono">${p.k}</span><h3>${p.title}</h3><p>${p.body}</p></div>`).join('')}</div><figure class="pillars-photo">${img('photos/paul-field-detexpert.jpg', '')}<figcaption class="mono">Field testing for Minelab</figcaption></figure></div>
 </div></section>
 
 <section class="section shop" id="shop" aria-labelledby="shop-h"><div class="wrap">
@@ -272,7 +278,7 @@ function renderHome() {
 function renderVideos() {
   const groups = YT.groups.map(g => ({ ...g, list: videos.filter(v => v.group === g.key).sort((a, b) => (a.recent ?? 9e9) - (b.recent ?? 9e9)) })).filter(g => g.list.length);
   const body = `
-<div class="page-head"><div class="wrap">${crumbs([['', 'Videos']])}
+<div ${photoHead('photos/paul-park-video.jpg')}><div class="wrap">${crumbs([['', 'Videos']])}
   <p class="eyebrow mono">Paul Cee on YouTube</p>
   <h1 class="page-title">Metal detecting video library</h1>
   <p class="page-lede">Settings walk-throughs, coil tests, beach sessions and beginner guides — filmed in the field by Paul, Minelab Detexpert. Organised by detector so you can find the tutorial you need.</p>
@@ -299,17 +305,18 @@ function renderPage(r) {
   const gear = productsFor(text, 3);
   const ytGroup = YT.groups.find(g => g.hub === r.slug) || YT.groups.find(g => g.key !== 'more' && g.re.test(text));
   const body = `
-<div class="page-head"><div class="wrap">${crumbs([...(group?.label === 'Detectors' ? [[url('') + '#detectors', 'Detectors']] : []), ['', h1]])}
+<div ${r.slug === 'about-us' ? photoHead('photos/paul-drone-beach.jpg') : 'class="page-head"'}><div class="wrap">${crumbs([...(group?.label === 'Detectors' ? [[url('') + '#detectors', 'Detectors']] : []), ['', h1]])}
   <h1 class="page-title">${esc(h1)}</h1>${r.seo.description ? `<p class="page-lede">${esc(r.seo.description)}</p>` : ''}
   ${r.affiliateLinks.length || gear.length ? `<p class="disclosure-inline"><span class="mono">Affiliate links</span> Product links go to Crawfords Metal Detectors and carry Paul’s affiliate code — <a href="#disclosure">learn more</a>.</p>` : ''}
 </div></div>
 <div class="wrap layout">
-  <article class="prose">${content}
+  <article class="prose">${content}${r.slug === 'about-us' ? gallery() : ''}
     ${gear.length ? `<div class="gear-strip"><h2>Gear in this guide — buy at Crawfords MD</h2><div class="gear-strip__grid">${gear.map(p => productBox(p)).join('')}</div></div>` : ''}
   </article>
   <aside class="sidebar">
     ${toc.length > 3 ? `<nav class="side-card toc" aria-label="On this page"><p class="mono side-card__k">On this page</p><ol>${toc.filter(t => t.level === 'h2' || toc.filter(x => x.level === 'h2').length < 3).slice(0, 12).map(t => `<li><a href="#${t.id}">${esc(t.text)}</a></li>`).join('')}</ol></nav>` : ''}
     ${buyAside(text, r.affiliateLinks.map(crawfords).find(Boolean))}
+    ${paulCard()}
     ${ad('', 'sidebar auto ad')}
     ${related.length ? `<nav class="side-card" aria-label="Related guides"><p class="mono side-card__k">More in ${group.label}</p><ul class="side-list">${related.map(([s, l]) => `<li><a href="${pageUrl(s)}">${l}</a></li>`).join('')}</ul></nav>` : ''}
   </aside>
@@ -381,6 +388,7 @@ function renderPost(p, i) {
   <aside class="sidebar">
     ${ad(BLOG_SLOT, 'blog sidebar')}
     ${buyAside(text, p.affiliateLinks.map(crawfords).find(Boolean))}
+    ${paulCard()}
     <nav class="side-card" aria-label="Recent posts"><p class="mono side-card__k">Recent posts</p><ul class="side-list">${recentPosts.map(x => `<li><a href="${url(`blog/${x.slug}/`)}">${esc(x.title)}</a></li>`).join('')}</ul></nav>
   </aside>
 </div>
@@ -389,15 +397,16 @@ ${related.length ? `<section class="section section--tint"><div class="wrap"><di
 }
 
 function renderBlogIndex(list, { topic } = {}) {
-  const chips = `<div class="chips" role="list">${[{ key: '', label: 'All' }, ...TOPIC_LIST].map(t => { const on = (topic?.key || '') === t.key; const n = t.key ? posts.filter(p => p.topic.key === t.key).length : posts.length; return `<a role="listitem" class="chip${on ? ' is-on' : ''}" href="${url(t.key ? `blog/topic/${t.key}/` : 'blog/')}"${on ? ' aria-current="page"' : ''}>${esc(t.label)} <span class="mono">${n}</span></a>`; }).join('')}</div>`;
+  const chips = `<div class="chips" role="list">${[{ key: '', label: 'All' }, ...TOPIC_LIST].map(t => { const on = (topic?.key || '') === t.key; const n = t.key ? posts.filter(p => p.topic.key === t.key).length : posts.length; return `<a role="listitem" class="chip${on ? ' is-on' : ''}"${topic ? '' : ` data-filter="${t.key}"`} href="${url(t.key ? `blog/topic/${t.key}/` : 'blog/')}"${on ? ' aria-current="page"' : ''}>${esc(t.label)} <span class="mono">${n}</span></a>`; }).join('')}</div>`;
   const body = `
-<div class="page-head"><div class="wrap">${crumbs(topic ? [[url('blog/'), 'Blog'], ['', topic.label]] : [['', 'Blog']])}
+<div ${photoHead('photos/paul-minelab-shirt-beach.jpg')}><div class="wrap">${crumbs(topic ? [[url('blog/'), 'Blog'], ['', topic.label]] : [['', 'Blog']])}
   <h1 class="page-title">${topic ? esc(topic.label) : 'The Paul Cee blog'}</h1>
-  <p class="page-lede">${topic ? `${list.length} articles on ${esc(topic.label.toLowerCase())} from Paul Cee.` : `Settings, reviews, field reports and finds — ${posts.length} articles since 2017.`}</p>
+  <p class="page-lede">${topic ? `${list.length} articles on ${esc(topic.label.toLowerCase())} from Paul Cee.` : `Settings, reviews, field reports and finds — ${posts.length} articles since 2017. Pick a detector or topic to filter the library.`}</p>
   ${chips}
 </div></div>
 <div class="wrap">
-  <div class="grid-3 blog-grid" data-paginate="18">${list.map((p, i) => postCard(p, { size: i === 0 && !topic ? 'card--lg' : '' })).join('')}</div>
+  <div class="grid-3 blog-grid" data-paginate="18"${topic ? '' : ' data-filterable'}>${list.map((p, i) => postCard(p, { size: i === 0 && !topic ? 'card--lg' : '' })).join('')}</div>
+  <p class="blog-empty page-lede" hidden>No articles in this topic yet.</p>
   <p class="load-more-row"><button class="btn btn--ghost" type="button" data-load-more hidden>Show more articles</button></p>
   ${ad(BLOG_SLOT, 'blog index')}
 </div>`;

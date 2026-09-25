@@ -45,18 +45,34 @@
     b.classList.add('is-copied'); setTimeout(() => b.classList.remove('is-copied'), 1800);
   });
 
-  // Blog grid "show more"
+  // Grids: "show more" pagination, plus in-place topic filtering on the blog library
+  // (chips are real links to topic pages, so it still works without JS)
   $$('[data-paginate]').forEach(grid => {
     const step = +grid.dataset.paginate; const cards = $$('.card, .vid', grid); const btn = grid.parentElement.querySelector('[data-load-more]');
-    if (cards.length <= step || !btn) return;
+    if (!cards.length) return;
     const noun = cards[0].classList.contains('vid') ? 'videos' : 'articles';
-    let shown = step; cards.forEach((c, i) => { c.hidden = i >= shown; });
-    btn.hidden = false; btn.textContent = `Show more ${noun} (${cards.length - shown} more)`;
-    btn.addEventListener('click', () => {
-      const first = cards[shown]; shown += step; cards.forEach((c, i) => { c.hidden = i >= shown; });
-      first?.querySelector('a, button')?.focus();
-      if (shown >= cards.length) btn.hidden = true; else btn.textContent = `Show more ${noun} (${cards.length - shown} more)`;
-    });
+    const chips = grid.hasAttribute('data-filterable') ? $$('.chip[data-filter]') : [];
+    const empty = grid.parentElement.querySelector('.blog-empty');
+    let filter = '', shown = step;
+    const match = c => !filter || c.dataset.topic === filter;
+    const render = () => {
+      let n = 0; const vis = cards.filter(match);
+      cards.forEach(c => { c.hidden = !match(c) || n++ >= shown; });
+      const rest = vis.length - Math.min(shown, vis.length);
+      if (btn) { btn.hidden = rest <= 0; btn.textContent = `Show more ${noun} (${rest} more)`; }
+      if (empty) empty.hidden = vis.length > 0;
+    };
+    btn?.addEventListener('click', () => { const first = cards.filter(match)[shown]; shown += step; render(); first?.querySelector('a, button')?.focus(); });
+    const setFilter = key => {
+      filter = key || ''; shown = step;
+      chips.forEach(ch => { const on = (ch.dataset.filter || '') === filter; ch.classList.toggle('is-on', on); if (on) ch.setAttribute('aria-current', 'page'); else ch.removeAttribute('aria-current'); });
+      render();
+    };
+    chips.forEach(ch => ch.addEventListener('click', e => { e.preventDefault(); setFilter(ch.dataset.filter); history.replaceState(null, '', ch.dataset.filter ? '#' + ch.dataset.filter : location.pathname); grid.scrollIntoView({ block: 'start', behavior: 'smooth' }); }));
+    const known = k => chips.some(c => c.dataset.filter === k);
+    const h = location.hash.slice(1);
+    if (chips.length && h && known(h)) setFilter(h); else render();
+    window.addEventListener('hashchange', () => { const k = location.hash.slice(1); if (chips.length && (!k || known(k))) setFilter(k); });
   });
 
   // Table of contents: highlight current section
