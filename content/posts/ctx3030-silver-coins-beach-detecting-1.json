@@ -1,0 +1,327 @@
+{
+ "type": "post",
+ "slug": "ctx3030-silver-coins-beach-detecting-1",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?ctx3030-silver-coins-beach-detecting-1",
+ "title": "CTX3030 Silver coins beach detecting",
+ "seo": {
+  "title": "CTX3030 Silver coins beach detecting - Blog",
+  "description": "beach metal detecting uk in a storm, minelab ctx 3030",
+  "keywords": "metal detecting uk, metal detecting beach uk, minelab ctx 3030",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?ctx3030-silver-coins-beach-detecting-1",
+  "og": {
+   "title": "CTX3030 Silver coins beach detecting",
+   "description": "beach metal detecting uk in a storm, minelab ctx 3030",
+   "image": "https://www.paulcee.co.uk/blog/files/081017b_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?ctx3030-silver-coins-beach-detecting-1"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-11-09T18:54:00",
+    "dateModified": "2017-11-09T18:54:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "CTX3030 Silver coins beach detecting",
+    "description": "Silver coins beach detecting with the CTX3030, this is part 2",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?ctx3030-silver-coins-beach-detecting-1",
+    "image": [
+     "https://www.paulcee.co.uk/images/081017b_bjdufqcv.jpg",
+     "https://www.paulcee.co.uk/blog/files/081017b.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201711",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Silver",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Silver",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "hunting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=hunting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "treasure",
+      "item": "https://www.paulcee.co.uk/blog/?tag=treasure",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coins",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coins",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detectorist",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detectorist",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX3030 Silver coins beach detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-11-09T18:54:00",
+ "dateModified": "2017-11-09T18:54:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "Silver",
+  "hunting",
+  "treasure",
+  "gold",
+  "coins",
+  "detectorist"
+ ],
+ "readTime": 1,
+ "summary": "Silver coins beach detecting with the CTX3030, this is part 2",
+ "cover": "blog/files/081017b.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/081017b_bjdufqcv.jpg\" alt=\"Beach Detecting uk\" title=\"minelab CTX 3030 settings\" width=\"376\" height=\"211\">"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"@sand-scoops-for-metal-detecting/\" data-kind=\"internal\">Beach Metal Detecting</a> in a Storm"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"@ctx3030/\" data-kind=\"internal\">MINELAB Ctx 3030</a> picking up the Silver coins"
+  },
+  {
+   "t": "video",
+   "id": "L70mC8dcKWM",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/081017b_bjdufqcv.jpg"
+ ],
+ "videos": [
+  "L70mC8dcKWM"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

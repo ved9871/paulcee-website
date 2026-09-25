@@ -1,0 +1,57 @@
+{
+ "type": "page",
+ "slug": "contact",
+ "liveUrl": "https://www.paulcee.co.uk/contact.php",
+ "h1": "contact",
+ "seo": {
+  "title": "contact",
+  "description": "Contact Paul Cee. for metal detecting help",
+  "keywords": "Paul Cee, Metal detector help, Minelab Manticore help, crawfords metal detectors, minelab detexpert Uk. minelab equinox help.",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/contact.html",
+  "og": {
+   "title": "contact",
+   "description": "Contact Paul Cee. for metal detecting help",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/contact.php"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "html": "Contact us with email,"
+  },
+  {
+   "t": "p",
+   "html": "For metal detecting help, setting up metal detectors etc"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/GOPR0979a.jpg\" alt=\"how to contact us\" title=\"Contact paul cee\" width=\"798\" height=\"449\"> </a>"
+  },
+  {
+   "t": "contactform"
+  }
+ ],
+ "images": [
+  "images/GOPR0979a.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

@@ -1,0 +1,347 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-settings-for-cleethorpes-beach",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings-for-cleethorpes-beach",
+ "title": "Minelab Equinox Settings for Cleethorpes beach",
+ "seo": {
+  "title": "Minelab Equinox Settings for Cleethorpes beach - Blog",
+  "description": "Where and how to metal detect on cleethorpes beach with a Minelab Equinox",
+  "keywords": "Cleethorpes beach, metal detecting, minelab, equinox",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings-for-cleethorpes-beach",
+  "og": {
+   "title": "Minelab Equinox Settings for Cleethorpes beach",
+   "description": "Where and how to metal detect on cleethorpes beach with a Minelab Equinox",
+   "image": "https://www.paulcee.co.uk/blog/files/png-logo-2025_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings-for-cleethorpes-beach"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-10-21T19:47:00",
+    "dateModified": "2018-10-21T19:47:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Equinox Settings for Cleethorpes beach",
+    "description": "Beach Settings for the Minelab Equinox 800",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings-for-cleethorpes-beach",
+    "image": [
+     "https://www.paulcee.co.uk/images/300918_oldcoins.jpg",
+     "https://www.paulcee.co.uk/blog/files/png-logo-2025.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201810",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cleethorpes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Cleethorpes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings for Cleethorpes beach",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-10-21T19:47:00",
+ "dateModified": "2018-10-21T19:47:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Cleethorpes",
+  "beach",
+  "metal",
+  "detecting",
+  "minelab",
+  "equinox",
+  "settings"
+ ],
+ "readTime": 1,
+ "summary": "Beach Settings for the Minelab Equinox 800",
+ "cover": "blog/files/png-logo-2025.png",
+ "heroVideo": "LyTp6fbcUq4",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/300918_oldcoins.jpg\" alt=\"Minelab Beach Detector settings\" title=\"Minelab Equinox settings cleethorpes beach\" width=\"619\" height=\"346\">"
+  },
+  {
+   "t": "h2",
+   "html": "Another wet day beach metal Detecting Cleethorpes beach."
+  },
+  {
+   "t": "p",
+   "html": "Beach Mode 2 and adjusted iron bias and lowered the sensitivity and upped the recovery speed to deal with the amount of shallow iron that Cleethorpes beach has hidden just below the surface."
+  }
+ ],
+ "images": [
+  "images/300918_oldcoins.jpg"
+ ],
+ "videos": [
+  "LyTp6fbcUq4"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

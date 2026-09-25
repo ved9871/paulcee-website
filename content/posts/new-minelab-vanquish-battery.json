@@ -1,0 +1,339 @@
+{
+ "type": "post",
+ "slug": "new-minelab-vanquish-battery",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?new-minelab-vanquish-battery",
+ "title": "Minelab Vanquish Battery pack",
+ "seo": {
+  "title": "NEW Minelab Vanquish Battery - Blog",
+  "description": "RNB Battery pack for the minelab vanquish metal detectors, will give the user up to 30 hours of detecting time on a single charge",
+  "keywords": "RNB, battery, minelab, vanquish, metal, detectors, uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?new-minelab-vanquish-battery",
+  "og": {
+   "title": "Minelab Vanquish Battery pack",
+   "description": "RNB Battery pack for the minelab vanquish metal detectors, will give the user up to 30 hours of detecting time on a single charge",
+   "image": "https://www.paulcee.co.uk/blog/files/Image5_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?new-minelab-vanquish-battery"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-09-07T17:03:00",
+    "dateModified": "2020-09-07T17:03:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish Battery pack",
+    "description": "New Lithium Battery for MINELAB Vanquish Metal Detectors",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?new-minelab-vanquish-battery",
+    "image": [
+     "https://www.paulcee.co.uk/images/Image1_xsrqkb6r.jpg",
+     "https://www.paulcee.co.uk/images/Image2.jpg",
+     "https://www.paulcee.co.uk/images/Image3.jpg",
+     "https://www.paulcee.co.uk/images/Image4.jpg",
+     "https://www.paulcee.co.uk/blog/files/Image5.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202009",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Battery pack",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Battery pack",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Battery pack",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Battery pack",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Battery pack",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Battery",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Battery",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Battery pack",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB",
+      "item": "https://www.paulcee.co.uk/blog/?tag=RNB",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Battery pack",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Innovations",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Innovations",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Battery pack",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-09-07T17:03:00",
+ "dateModified": "2020-09-07T17:03:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "Minelab",
+  "Vanquish",
+  "Battery",
+  "RNB",
+  "Innovations"
+ ],
+ "readTime": 1,
+ "summary": "New Lithium Battery for MINELAB Vanquish Metal Detectors",
+ "cover": "blog/files/Image5.png",
+ "heroVideo": "QawZym8r0CM",
+ "blocks": [
+  {
+   "t": "p",
+   "html": "The NEW high power Lithium battery for the <a href=\"@minelab-vanquish-40-series/\" data-kind=\"internal\">MINELAB Vanquish Metal Detectors</a>, will be available from <a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\">CRAWFORDS METAL DETECTORS</a> and Selected Minelab Dealers in the U.K."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/Image1_xsrqkb6r.jpg\" alt=\"RNB Innovations Battery for the Minelab Vanquish\" title=\"Minelab Vanquish Battery\" width=\"330\" height=\"276\">"
+  },
+  {
+   "t": "h3",
+   "html": "Super High Powered Minelab Vanquish metal detector",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "It is a built in solution for increasing your metal detecting time and does away with the original battery system."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/Image2.jpg\" alt=\"RNB Minelab Vanquish replacement battery\" title=\"Minelab Vanquish battery uk\" width=\"313\" height=\"262\">"
+  },
+  {
+   "t": "p",
+   "html": "designed to replace and fit the original apperture where the 4 AA batteries fit"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/Image3.jpg\" alt=\"charging minelab Vanquish with USB \" title=\"Minelab Vanquish Battery Charging\" width=\"313\" height=\"262\">"
+  },
+  {
+   "t": "p",
+   "html": "The RNB Innovations Minelab Vanquish Battery is Designed to be Charged Via USB-C and comes complete with a USB charging cable"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/Image4.jpg\" alt=\"charging the Minelab Vanquish battery with a powerbanl\" title=\"Minelab Vanquish battery Charging up\" width=\"313\" height=\"176\">"
+  },
+  {
+   "t": "p",
+   "html": "If your planning on metal detecting for a long period of time, like a weekend <a href=\"@detecting-rallies-2026/\" data-kind=\"internal\">metal detecting rally</a> or other long event this is an ideal add on for you Minelab Vanquish and can also connect to a POWERBANK and top it up while you are resting or having a nap.."
+  },
+  {
+   "t": "p",
+   "html": "Keep An eye on <a href=\"http://bit.ly/2FsdkJD\" data-kind=\"affiliate\">Minelab In Depth</a> or the <a href=\"http://bit.ly/CMDvanquish\" data-kind=\"affiliate\">CMD Social media and WEBSITES</a> for details of availabilty and Pricing"
+  }
+ ],
+ "images": [
+  "images/Image1_xsrqkb6r.jpg",
+  "images/Image2.jpg",
+  "images/Image3.jpg",
+  "images/Image4.jpg"
+ ],
+ "videos": [
+  "QawZym8r0CM"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2FsdkJD",
+  "http://bit.ly/CMDvanquish"
+ ]
+}

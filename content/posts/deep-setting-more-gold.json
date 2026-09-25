@@ -1,0 +1,377 @@
+{
+ "type": "post",
+ "slug": "deep-setting-more-gold",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?deep-setting-more-gold",
+ "title": "deep setting more gold",
+ "seo": {
+  "title": "deep setting more gold - Blog",
+  "description": "set up the minelab equinox too search deep on the beach",
+  "keywords": "minelab, equinox 800, beach, detecting, uk, paul cee, crawfords, metal, detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?deep-setting-more-gold",
+  "og": {
+   "title": "deep setting more gold",
+   "description": "set up the minelab equinox too search deep on the beach",
+   "image": "https://www.paulcee.co.uk/blog/files/300918_gold_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?deep-setting-more-gold"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-10-29T17:25:00",
+    "dateModified": "2018-10-29T17:25:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "deep setting more gold",
+    "description": "more gold with the minelab Equinox",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?deep-setting-more-gold",
+    "image": [
+     "https://www.paulcee.co.uk/images/300918_gold.jpg",
+     "https://www.paulcee.co.uk/blog/files/300918_gold.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201810",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "depth",
+      "item": "https://www.paulcee.co.uk/blog/?tag=depth",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "cleethorpes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=cleethorpes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep setting more gold",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-10-29T17:25:00",
+ "dateModified": "2018-10-29T17:25:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Minelab",
+  "equinox",
+  "depth",
+  "settings",
+  "gold",
+  "cleethorpes",
+  "metal",
+  "detecting"
+ ],
+ "readTime": 1,
+ "summary": "more gold with the minelab Equinox",
+ "cover": "blog/files/300918_gold.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"@minelab-equinox/\" data-kind=\"internal\"><img src=\"@img:images/300918_gold.jpg\" alt=\"minelab Equinox Deep Settings\" title=\"minelab Equinox depth\" width=\"328\" height=\"184\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Set up the Equinox with my deep beach settings, today a rainy day not to many finds but Gold was found"
+  },
+  {
+   "t": "p",
+   "html": "metal detecting on the beach"
+  },
+  {
+   "t": "video",
+   "id": "N_FNehAqOgc",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/300918_gold.jpg"
+ ],
+ "videos": [
+  "N_FNehAqOgc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

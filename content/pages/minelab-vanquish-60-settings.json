@@ -1,0 +1,331 @@
+{
+ "type": "page",
+ "slug": "minelab-vanquish-60-settings",
+ "liveUrl": "https://www.paulcee.co.uk/minelab-vanquish-60-settings.html",
+ "h1": "Minelab Vanquish 60 Settings",
+ "seo": {
+  "title": "How to Set Up Minelab Vanquish 560",
+  "description": "Learn the best settings for your Minelab Vanquish 60 series. We cover sensitivity, discrimination, beach setups",
+  "keywords": "minelab Vanquish, minelab vanquish discrimination, minelab vanquish settings, minelab vanquish help, minelab vanquish pin point, minelab vanquish 560 discrimination, vanquish 560 pro, minelab vanquish uk, minelab metal detectors uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/minelab-vanquish-60-settings.html",
+  "og": {
+   "title": "Minelab Vanquish 60 Settings",
+   "description": "Learn the best settings for your Minelab Vanquish 60 series. We cover sensitivity, discrimination, beach setups",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/minelab-vanquish-60-settings.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "How to Set Up Minelab Vanquish 60 Series: Expert Settings &amp; Guide (2026)"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Meta Description:</strong> Master your Minelab Vanquish 60 series with our 2026 setup guide. Learn the best sensitivity, discrimination, and Multi-IQ settings for beach, field, and relic hunting to maximize your depth and finds."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/2026-thumb_fi4vubdi.jpg\" alt=\"How to Set Up Minelab Vanquish 560 from the 60 series of detectors\" title=\"How to Set Up Minelab Vanquish 560 from the 60 series of detectors\" width=\"320\" height=\"320\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/VANQUISH-560PROPACK-RED.png\" alt=\"Minelab Vanquish 560 settings explained, Paul Cee explains the easy way to learn the minelab vanquish 60 series\" title=\"Minelab Vanquish 560 settings\" width=\"416\" height=\"68\">"
+  },
+  {
+   "t": "h3",
+   "html": "Minelab Vanquish 60 Series settings."
+  },
+  {
+   "t": "h3",
+   "html": "1. How to Set Up Sensitivity &amp; Discrimination",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Don't let chatter ruin your hunt. Learning to balance your <strong>sensitivity and discrimination</strong> is the key to <strong>deep</strong>, clear signals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Sensitivity:</strong> We show you how to run your machine \"hot\" without it becoming unstable. Learn when to max it out for depth and when to dial it back to stop false signals in mineralized soil."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Discrimination:</strong> <strong>Stop digging pull tabs and iron nails</strong>. We explain how to <strong>customize your discrimination</strong> segments to ignore the junk while keeping the gold and silver tones clear."
+  },
+  {
+   "t": "p",
+   "html": "Terrain Tactics: Beach vs. Fields"
+  },
+  {
+   "t": "p",
+   "html": "The Multi-IQ engine handles different grounds automatically, but your mode selection matters."
+  },
+  {
+   "t": "p",
+   "html": "<strong>In the Fields:</strong> Learn how to set up for Relic Hunting, allowing you to hear deep silver and brass targets that other modes might mask out."
+  },
+  {
+   "t": "h2",
+   "html": "VANQUISH 560",
+   "from": "html"
+  },
+  {
+   "t": "h2",
+   "html": "The Ultimate Beginner’s Field Guide",
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "By Paul Cee  Crawfords Metal Detectors UK",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Welcome to the definitive guide for the Minelab Vanquish 560. Whether you are unboxing your machine for the first time or looking to sharpen your field skills, this guide—created by Minelab Detexpert <strong>Paul Cee</strong>—is designed to turn confusing numbers into treasure in your pouch."
+  },
+  {
+   "t": "h3",
+   "html": "💡 Paul Cee’s Golden Rule",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "\"A quiet machine is always more efficient than a noisy one. Never chase high sensitivity if it causes chatter—you’ll only end up missing the very targets you're looking for.\""
+  },
+  {
+   "t": "h3",
+   "html": "📊 Sensitivity",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Higher sensitivity increases \"reach,\" but amplifies ground noise. If the machine chatters, it <strong>drowns out</strong> the tiny whispers of deep targets."
+  },
+  {
+   "t": "h3",
+   "html": "🧲 Discrimination",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "This filters out \"junk\" like nails. Be careful: blocking iron can \"mask\" a silver coin if it's sitting right next to a rusty nail."
+  },
+  {
+   "t": "h3",
+   "html": "Interface Visualizer",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Hover/Tap screen icons to understand the LCD layout"
+  },
+  {
+   "t": "p",
+   "html": "🔋Battery"
+  },
+  {
+   "t": "p",
+   "html": "🔊Volume"
+  },
+  {
+   "t": "p",
+   "html": "☀️Light"
+  },
+  {
+   "t": "p",
+   "html": "🎧Audio"
+  },
+  {
+   "t": "p",
+   "html": "SENS"
+  },
+  {
+   "t": "p",
+   "html": "40"
+  },
+  {
+   "t": "p",
+   "html": "DEPTH"
+  },
+  {
+   "t": "p",
+   "html": "🎯"
+  },
+  {
+   "t": "p",
+   "html": "▼"
+  },
+  {
+   "t": "h4",
+   "html": "Target ID",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The main digital readout. Silver and coins show higher numbers."
+  },
+  {
+   "t": "h4",
+   "html": "Depth",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Shows how deep you need to dig. Fewer arrows mean a shallower find."
+  },
+  {
+   "t": "h3",
+   "html": "Button Navigation",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "GUIDE"
+  },
+  {
+   "t": "p",
+   "html": "−"
+  },
+  {
+   "t": "p",
+   "html": "⚙️"
+  },
+  {
+   "t": "p",
+   "html": "+"
+  },
+  {
+   "t": "p",
+   "html": "🧲"
+  },
+  {
+   "t": "p",
+   "html": "🎯"
+  },
+  {
+   "t": "p",
+   "html": "🔍"
+  },
+  {
+   "t": "h4",
+   "html": "Select a button",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Click any button on the pod to see its primary use."
+  },
+  {
+   "t": "p",
+   "html": "Expert Shortcut: --"
+  },
+  {
+   "t": "h3",
+   "html": "The 7-Step Logic",
+   "from": "html"
+  },
+  {
+   "t": "h4",
+   "html": "Settings Navigator",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Vol Disc Bias Light Torch Vibe Pair"
+  },
+  {
+   "t": "p",
+   "html": "🔊"
+  },
+  {
+   "t": "h4",
+   "html": "Master Volume",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Adjust overall loudness (1–10). Hold Horseshoe here for Iron Volume."
+  },
+  {
+   "t": "h3",
+   "html": "Your Setup Checklist",
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "Target ID &amp; Tone Spectrum",
+   "from": "html"
+  },
+  {
+   "t": "h4",
+   "html": "Audio Tone Pitch",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Low Grunt (Iron) Mid Range High Pitch (Conductive)"
+  },
+  {
+   "t": "h4",
+   "html": "Select a zone above",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Click a bar in the chart to see common UK finds for that range."
+  },
+  {
+   "t": "p",
+   "html": "Crawfords Metal Detectors • Paul Cee Expert Series"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/metal-detectors/minelab\" data-kind=\"affiliate\"> 🛒 Check Current Prices at Crawfords MD </a>"
+  },
+  {
+   "t": "p",
+   "html": "Authorized Minelab Dealer • UK Stock • Free Delivery over £50"
+  },
+  {
+   "t": "h3",
+   "html": "🔥 Save MONEY on Accessories",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Buying a new coil, bag, or digging tool? Use my code at <strong>Crawfords MD</strong> for an exclusive discount!"
+  },
+  {
+   "t": "p",
+   "html": "PaulCee10"
+  },
+  {
+   "t": "p",
+   "html": "<em>Valid Online, In-Store &amp; by Phone.<br> (Applies to accessories only. Excludes metal detectors.)</em>"
+  }
+ ],
+ "images": [
+  "images/2026-thumb_fi4vubdi.jpg",
+  "images/VANQUISH-560PROPACK-RED.png"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/metal-detectors/minelab"
+ ]
+}

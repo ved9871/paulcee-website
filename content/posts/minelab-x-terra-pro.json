@@ -1,0 +1,241 @@
+{
+ "type": "post",
+ "slug": "minelab-x-terra-pro",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-x-terra-pro",
+ "title": "Minelab X-Terra Pro",
+ "seo": {
+  "title": "Minelab X-Terra Pro Features - Blog",
+  "description": "Minelab X-Terra pro a metal detector for beginners, with features of a Mid range detector including Multi frequency shift, coils from Equinox detectors will fit",
+  "keywords": "x-terra pro uk, x terra pro settings, x terra pro coils, cheap metal detector, x-terra pro search coils, x-terra pro headphones",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-x-terra-pro",
+  "og": {
+   "title": "Minelab X-Terra Pro",
+   "description": "Minelab X-Terra pro a metal detector for beginners, with features of a Mid range detector including Multi frequency shift, coils from Equinox detectors will fit",
+   "image": "https://www.paulcee.co.uk/blog/files/xterra-pro-features_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-x-terra-pro"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-01-09T09:00:00",
+    "dateModified": "2026-01-09T09:00:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab X-Terra Pro",
+    "description": "",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-x-terra-pro",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_ygyc27n1.png",
+     "https://www.paulcee.co.uk/images/cmd-xterra-pro-cmd.jpg",
+     "https://www.paulcee.co.uk/images/xterra-search-coils1.jpg",
+     "https://www.paulcee.co.uk/blog/files/xterra-pro-features.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202601",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab X-Terra Pro",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "X-Terra Pro Uk",
+      "item": "https://www.paulcee.co.uk/blog/?category=X-Terra Pro Uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab X-Terra Pro",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab X-Terra Pro",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-01-09T09:00:00",
+ "dateModified": "2026-01-09T09:00:00",
+ "author": "Paul Cee",
+ "category": "X-Terra Pro Uk",
+ "categorySlug": "X-Terra_Pro_Uk",
+ "tags": [],
+ "readTime": 3,
+ "summary": "Minelab X-Terra pro a metal detector for beginners, with features of a Mid range detector including Multi frequency shift, coils from Equinox detectors will fit",
+ "cover": "blog/files/xterra-pro-features.jpg",
+ "heroVideo": "vjv3KGson6Q",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Minelab X-Terra pro settings"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_ygyc27n1.png\" alt=\"paul cee Minelab goes through all the features functions and settings of the minelab X-terra Pro\" title=\"Minelab X-terra Pro Uk Settings\" width=\"137\" height=\"137\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/cmd-xterra-pro-cmd.jpg\" alt=\"minelab x terra pro settings tutorial\" title=\"minelab x terra pro search head\" width=\"335\" height=\"188\">"
+  },
+  {
+   "t": "h3",
+   "html": "The Minelab X-Terra Pro is a feature packed metal detector"
+  },
+  {
+   "t": "p",
+   "html": "For those who wish to start the hobby of metal detecting on a budget."
+  },
+  {
+   "t": "p",
+   "html": "The X-terra Pro uses 4 frequencies 5, 8, 10 and 15 khz) with Minelab pro-switch."
+  },
+  {
+   "t": "p",
+   "html": "The X-Terra pro is fully waterproof to a depth of 5 meters which means you can go diving and detecting in the sea or rivers as well as detecting on beaches or fields."
+  },
+  {
+   "t": "p",
+   "html": "Other features include a collapsable telescopic shaft which goes all the way down to a size of 63cm so will fit in a backpack or suitcase if you travel."
+  },
+  {
+   "t": "p",
+   "html": "Pre set search modes which for a beginner is great as all the settings are pre-set just select where you are going to detect and off you go."
+  },
+  {
+   "t": "p",
+   "html": "Search modes are PARK, FIELD and BEACH, each modes has the discrimination set recovery speed and also most desired Freqency . As you become more confident at using the X-Terra pro you can take advantage of the multi frequncy shaft called PRO-SWITCH, this allows you to change the operating frequency of the detector and also creating as CUSTOM SEARCH PROFILE."
+  },
+  {
+   "t": "p",
+   "html": "Adjustable discrimination so you can select which targets you want to find and also FERROUS target id's to tell you when IRON is detected under the search coil"
+  },
+  {
+   "t": "p",
+   "html": "You can detect with the X-Terra Pro using wireless headphones, headphones on a cable, underwater headphones or just with the built in speaker (with adjustable Volume)."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/xterra-search-coils1.jpg\" alt=\"minelab and coiltek coils that will work on the X-terra Pro metal detector\" title=\"x-terra pro search coils\" width=\"549\" height=\"309\">"
+  },
+  {
+   "t": "p",
+   "html": "The X-terra Pro comes with the Huge 12 inch V12X (12\"x9\") DD Search coil, and also there is a Minelab X-Terra pro V10X (10\"x7\") coil and V8X (8\"x5\") elliptical, but coils for the Minelab Equinox detectors will fit and work along with the optional coils from Coiltek for the Equinox detectors so if you want to detect deep or in trashy areas the x-terra pro has a great range of search coils."
+  },
+  {
+   "t": "p",
+   "html": "IF you enjoy metal detecting at night or early mornings fear not the X-Terra Pro comes with a built in Flashlight and also a RED backlit LCD screen so this illuminates in darkness."
+  },
+  {
+   "t": "p",
+   "html": "Another great feature of the X-Terra pro is the Vibrating handle which as we have seen on the Minelab Test lanes and out at rallies is a great addition as people that are hard of hearing can feel the handle vibrate when a target is detected."
+  },
+  {
+   "t": "p",
+   "html": "And Fear Not the feature filled budget metal detector weighs in at only 1.3kg"
+  },
+  {
+   "t": "p",
+   "html": "Buy the X-Terra Pro From <a href=\"https://www.crawfordsmd.com/metal-detectors/beach-detectors/minelab-x-terra-pro\" data-kind=\"affiliate\">CRAWFORDS METAL DETECTORS</a>"
+  },
+  {
+   "t": "p",
+   "html": "Check out all the features and settings to get you started at metal detecting in this video."
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_ygyc27n1.png",
+  "images/cmd-xterra-pro-cmd.jpg",
+  "images/xterra-search-coils1.jpg"
+ ],
+ "videos": [
+  "vjv3KGson6Q"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detectors/beach-detectors/minelab-x-terra-pro"
+ ]
+}

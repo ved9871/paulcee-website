@@ -1,0 +1,380 @@
+{
+ "type": "post",
+ "slug": "good-finds-metal-detecting-uk",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?good-finds-metal-detecting-uk",
+ "title": "good finds metal detecting uk",
+ "seo": {
+  "title": "good finds metal detecting uk - Blog",
+  "description": "some really good finds from detecting beaches and fields in the uk with minelab metal detectors",
+  "keywords": "metal detecting finds, crawfords metal detectors, minelab equinox 800 settings, minelab vanquish settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?good-finds-metal-detecting-uk",
+  "og": {
+   "title": "good finds metal detecting uk",
+   "description": "some really good finds from detecting beaches and fields in the uk with minelab metal detectors",
+   "image": "https://www.paulcee.co.uk/blog/files/finds-3a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?good-finds-metal-detecting-uk"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-10T16:25:00",
+    "dateModified": "2020-05-10T16:25:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "good finds metal detecting uk",
+    "description": "amazing metal detecting finds on the beach",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?good-finds-metal-detecting-uk",
+    "image": [
+     "https://www.paulcee.co.uk/images/finds-3a.jpg",
+     "https://www.paulcee.co.uk/blog/files/finds-3a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting Finds",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting Finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "finds",
+      "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detectors",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detectors",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good finds metal detecting uk",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-10T16:25:00",
+ "dateModified": "2020-05-10T16:25:00",
+ "author": "Paul Cee",
+ "category": "metal detecting Finds",
+ "categorySlug": "metal_detecting_Finds",
+ "tags": [
+  "metal",
+  "detecting",
+  "finds",
+  "uk",
+  "metal",
+  "detector",
+  "minelab",
+  "detectors"
+ ],
+ "readTime": 1,
+ "summary": "amazing metal detecting finds on the beach",
+ "cover": "blog/files/finds-3a.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/finds-3a.jpg\" alt=\"beach metal detecting uk\" title=\"metal detecting finds uk\" width=\"350\" height=\"197\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Metal detecting finds uk"
+  },
+  {
+   "t": "p",
+   "html": "You really do find some amazing finds metal detecting on the beach, from gold and silver to the bizzare."
+  },
+  {
+   "t": "p",
+   "html": "another compilation of amazing metal detecting finds."
+  },
+  {
+   "t": "p",
+   "html": "&lt;iframe width=\"450\" height=\"315\" src=\"https://www.youtube.com/embed/R_ATJpsPW0w\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;"
+  }
+ ],
+ "images": [
+  "images/finds-3a.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

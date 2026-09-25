@@ -1,0 +1,334 @@
+{
+ "type": "post",
+ "slug": "how-to-fit-tele-knox-handle",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?how-to-fit-tele-knox-handle",
+ "title": "how to fit tele Knox handle",
+ "seo": {
+  "title": "how to fit tele nox handle - Blog",
+  "description": "fitting tele-knox folding handle and arm cup replacement quick and easy",
+  "keywords": "tele-knox, equinox armcup, folding handle, minelab, equinox, vanquish, accessories, detector",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?how-to-fit-tele-knox-handle",
+  "og": {
+   "title": "how to fit tele Knox handle",
+   "description": "fitting tele-knox folding handle and arm cup replacement quick and easy",
+   "image": "https://www.paulcee.co.uk/blog/files/tele-knox_web1_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?how-to-fit-tele-knox-handle"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2022-06-25T17:25:00",
+    "dateModified": "2022-06-25T17:25:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "how to fit tele Knox handle",
+    "description": "step by step to fitting tele-knox armcup and folding handle",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?how-to-fit-tele-knox-handle",
+    "image": [
+     "https://www.paulcee.co.uk/images/tele-knox_weba.jpg",
+     "https://www.paulcee.co.uk/blog/files/tele-knox_web1.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jun 2022",
+      "item": "https://www.paulcee.co.uk/blog/?month=202206",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "accessories",
+      "item": "https://www.paulcee.co.uk/blog/?tag=accessories",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "tele",
+      "item": "https://www.paulcee.co.uk/blog/?tag=tele",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "knox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=knox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "how to fit tele Knox handle",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2022-06-25T17:25:00",
+ "dateModified": "2022-06-25T17:25:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox",
+ "categorySlug": "Minelab_Equinox",
+ "tags": [
+  "minelab",
+  "accessories",
+  "equinox",
+  "detector",
+  "tele",
+  "knox"
+ ],
+ "readTime": 1,
+ "summary": "step by step to fitting tele-knox armcup and folding handle",
+ "cover": "blog/files/tele-knox_web1.jpg",
+ "heroVideo": "HaG3cElzyTA",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "how to fit a tele knox shaft and arm cup to a minelab equinox"
+  },
+  {
+   "t": "p",
+   "html": "The tele-knox folding handle for the Minelab Equinox is also available for the minelab Vanquish and other metal detectors with the correct shaft size."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/tele-knox_weba.jpg\" alt=\"minelab equinox tele knox shaft fitting guide\" title=\"minelab equinox tele knox shaft fitting guide\" width=\"239\" height=\"134\">"
+  },
+  {
+   "t": "p",
+   "html": "The folding Tele-Knox handle allows it to fold down into the arm cup and this makes the equinox more suitable for transporting, if you have one of the tele-knox telescopic detector shafts then this will allow the detector to fold down to around 22 inch."
+  },
+  {
+   "t": "p",
+   "html": "also fitting of the upgraded Tele-Knox aluminium arm cup, if you have suffered from broken armcups or just fancy a cool accessory for your detector then one of these Tele-knox products are a practical must."
+  },
+  {
+   "t": "p",
+   "html": "Fitting of both the tele-know arm cup and folding equinox handle takes around 10-15 minutes"
+  }
+ ],
+ "images": [
+  "images/tele-knox_weba.jpg"
+ ],
+ "videos": [
+  "HaG3cElzyTA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

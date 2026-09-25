@@ -1,0 +1,376 @@
+{
+ "type": "post",
+ "slug": "how-to-update-minelab-equinox",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?how-to-update-minelab-equinox",
+ "title": "HOW TO Update Minelab Equinox",
+ "seo": {
+  "title": "HOW TO Update Minelab Equinox - Blog",
+  "description": "How to Update Minelab Equinox, and find out which Software Version is installed on my Minelab Equinox using the minelab update utility, or rollback software",
+  "keywords": "Minelab Equinox uk, how to update a minelab equinox, Minelab Update utility, equinox software version, new equinox update, rollback equinox updates, equinox detector update",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?how-to-update-minelab-equinox",
+  "og": {
+   "title": "HOW TO Update Minelab Equinox",
+   "description": "How to Update Minelab Equinox, and find out which Software Version is installed on my Minelab Equinox using the minelab update utility, or rollback software",
+   "image": "https://www.paulcee.co.uk/blog/files/equinox-update_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?how-to-update-minelab-equinox"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-01-25T17:50:00",
+    "dateModified": "2020-01-25T17:50:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "HOW TO Update Minelab Equinox",
+    "description": "How to Update Minelab Equinox metal detector to the latest software version\n",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?how-to-update-minelab-equinox",
+    "image": [
+     "https://www.paulcee.co.uk/images/equinox-update.jpg",
+     "https://www.paulcee.co.uk/blog/files/equinox-update.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202001",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "How",
+      "item": "https://www.paulcee.co.uk/blog/?tag=How",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "to",
+      "item": "https://www.paulcee.co.uk/blog/?tag=to",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "update",
+      "item": "https://www.paulcee.co.uk/blog/?tag=update",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "800",
+      "item": "https://www.paulcee.co.uk/blog/?tag=800",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "600",
+      "item": "https://www.paulcee.co.uk/blog/?tag=600",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "HOW TO Update Minelab Equinox",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-01-25T17:50:00",
+ "dateModified": "2020-01-25T17:50:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [
+  "How",
+  "to",
+  "update",
+  "minelab",
+  "equinox",
+  "800",
+  "equinox",
+  "600"
+ ],
+ "readTime": 1,
+ "summary": "How to Update Minelab Equinox metal detector to the latest software version\n",
+ "cover": "blog/files/equinox-update.jpg",
+ "heroVideo": "TemGGVBz8QQ",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/equinox-update.jpg\" alt=\"Latest Minelab Equinox software update\" title=\"Minelab Equinox latest update and how to do it\" width=\"620\" height=\"349\">"
+  },
+  {
+   "t": "h2",
+   "html": "How to Update the Minelab Equinox Metal detector to the Latest SOFTWARE Version"
+  },
+  {
+   "t": "p",
+   "html": "How to Check Which <a href=\"@minelab-equinox/\" data-kind=\"internal\">MINELAB Equinox</a> software is installed on your Minelab Equinox"
+  },
+  {
+   "t": "p",
+   "html": "or if you think the latest software version for the Minelab Equinox is not for you then how to ROLLBACK to a previous software version."
+  }
+ ],
+ "images": [
+  "images/equinox-update.jpg"
+ ],
+ "videos": [
+  "TemGGVBz8QQ"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,356 @@
+{
+ "type": "post",
+ "slug": "equinox-800-and-silver-coins",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-800-and-silver-coins",
+ "title": "Equinox 800 and silver coins",
+ "seo": {
+  "title": "Equinox 800 and silver coins - Blog",
+  "description": "Equinox and silver coins beach metal detecting",
+  "keywords": "minelab,equinox,silver,coins,beach,metal,detecting",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-800-and-silver-coins",
+  "og": {
+   "title": "Equinox 800 and silver coins",
+   "description": "Equinox and silver coins beach metal detecting",
+   "image": "https://www.paulcee.co.uk/blog/files/281018_coins_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-800-and-silver-coins"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-07T20:26:00",
+    "dateModified": "2018-11-07T20:26:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Equinox 800 and silver coins",
+    "description": "Silver coin myth with the Equinox not true",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-800-and-silver-coins",
+    "image": [
+     "https://www.paulcee.co.uk/images/281018_coins.jpg",
+     "https://www.paulcee.co.uk/blog/files/281018_coins.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "EQX15",
+      "item": "https://www.paulcee.co.uk/blog/?tag=EQX15",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "smart",
+      "item": "https://www.paulcee.co.uk/blog/?tag=smart",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coil",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coil",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "cleethorpes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=cleethorpes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 and silver coins",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-07T20:26:00",
+ "dateModified": "2018-11-07T20:26:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "EQX15",
+  "smart",
+  "coil",
+  "minelab",
+  "cleethorpes",
+  "beach",
+  "detecting"
+ ],
+ "readTime": 1,
+ "summary": "Silver coin myth with the Equinox not true",
+ "cover": "blog/files/281018_coins.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/281018_coins.jpg\" alt=\"minelab equinox silver coin myth busted\" title=\"minelab equinox silver coin myth busted\" width=\"278\" height=\"156\">"
+  },
+  {
+   "t": "p",
+   "html": "silver coins with the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox</a> some at Depth metal detecting east coast beach. some say the minelab Equinox has lost depth and the EQUINOX will not detect silver coins, i Found plenty of copper pre decimal coins, all using the deep setting for the <a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\">minelab Equinox 800</a>, on the sand slope of the beach."
+  },
+  {
+   "t": "p",
+   "html": "Silver Coins at Depth seems possible to me."
+  },
+  {
+   "t": "p",
+   "html": "watch the video"
+  },
+  {
+   "t": "video",
+   "id": "lT-TDRGKEHU",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/281018_coins.jpg"
+ ],
+ "videos": [
+  "lT-TDRGKEHU"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

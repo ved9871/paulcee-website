@@ -1,0 +1,308 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-beach",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-beach",
+ "title": "Minelab Vanquish Beach",
+ "seo": {
+  "title": "Minelab Vanquish Beach test - Blog",
+  "description": "how does a beginner start metal detecting with a minelab vanquish, from detecting in water to dry sand the vanquish will work",
+  "keywords": "minelab vanquish beach, minelab vanquish settings, paul cee minelab vanquish, crawfords metal detectors, paul cee",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-beach",
+  "og": {
+   "title": "Minelab Vanquish Beach",
+   "description": "how does a beginner start metal detecting with a minelab vanquish, from detecting in water to dry sand the vanquish will work",
+   "image": "https://www.paulcee.co.uk/blog/files/vanquish_1_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-beach"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-02-02T21:35:00",
+    "dateModified": "2020-02-02T21:35:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish Beach",
+    "description": "Minelab Vanquish Beach Metal Detecting A Beginners story",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-beach",
+    "image": [
+     "https://www.paulcee.co.uk/images/vanquish_1.jpg",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_oqjlxwup.png",
+     "https://www.paulcee.co.uk/blog/files/vanquish_1.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Feb 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202002",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Beach",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-02-02T21:35:00",
+ "dateModified": "2020-02-02T21:35:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "Minelab",
+  "Vanquish",
+  "Beach",
+  "Settings",
+  "Detecting"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Vanquish Beach Metal Detecting A Beginners story",
+ "cover": "blog/files/vanquish_1.jpg",
+ "heroVideo": "u9OzVsaWk6U",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "How does a beginner at metal detecting with a Minelab Vanquish"
+  },
+  {
+   "t": "h3",
+   "html": "get on in reality?",
+   "inferred": true
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/vanquish_1.jpg\" alt=\"minelab Vanquish 440 beach detecting uk\" title=\"minelab Vanquish 540 beach setting\" width=\"217\" height=\"122\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_oqjlxwup.png\" alt=\"paul cee crawfords metal detectors\" title=\"minelab vanquish settings paul cee\" width=\"123\" height=\"123\">"
+  },
+  {
+   "t": "p",
+   "html": "for a beginner at metal detecting its not always about finding gold its learning what the metal detector is telling you, getting the settings right for where you are metal detecting, its also about having fun."
+  }
+ ],
+ "images": [
+  "images/vanquish_1.jpg",
+  "images/YT-thumb_2020_oqjlxwup.png"
+ ],
+ "videos": [
+  "u9OzVsaWk6U"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

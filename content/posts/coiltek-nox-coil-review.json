@@ -1,0 +1,340 @@
+{
+ "type": "post",
+ "slug": "coiltek-nox-coil-review",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?coiltek-nox-coil-review",
+ "title": "Coiltek Nox Coil Review",
+ "seo": {
+  "title": "Coiltek Equinox Coil Review - Blog",
+  "description": "Review and testing of the Coiltek Minelab Equinox 14x9 Search Coil",
+  "keywords": "Coiltek, Equinox, Nox, Review, Coil",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?coiltek-nox-coil-review",
+  "og": {
+   "title": "Coiltek Nox Coil Review",
+   "description": "Review and testing of the Coiltek Minelab Equinox 14x9 Search Coil",
+   "image": "https://www.paulcee.co.uk/blog/files/10x5_WEB1_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?coiltek-nox-coil-review"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-02-18T18:07:00",
+    "dateModified": "2021-02-18T18:07:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Coiltek Nox Coil Review",
+    "description": "Coiltek NOX 14x9 Coil Review",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?coiltek-nox-coil-review",
+    "image": [
+     "https://www.paulcee.co.uk/images/10x5_WEB1.jpg",
+     "https://www.paulcee.co.uk/blog/files/10x5_WEB1.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Feb 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202102",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek NOX Coils",
+      "item": "https://www.paulcee.co.uk/blog/?category=Coiltek NOX Coils",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Coiltek",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "NOX",
+      "item": "https://www.paulcee.co.uk/blog/?tag=NOX",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coils",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Coils",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox Coil Review",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-02-18T18:07:00",
+ "dateModified": "2021-02-18T18:07:00",
+ "author": "Paul Cee",
+ "category": "Coiltek NOX Coils",
+ "categorySlug": "Coiltek_NOX_Coils",
+ "tags": [
+  "Minelab",
+  "Coiltek",
+  "NOX",
+  "Coils",
+  "Detecting",
+  "Metal"
+ ],
+ "readTime": 1,
+ "summary": "Coiltek NOX 14x9 Coil Review",
+ "cover": "blog/files/10x5_WEB1.jpg",
+ "heroVideo": "jQGj0yCzdDI",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek\" data-kind=\"affiliate\"><img src=\"@img:images/10x5_WEB1.jpg\" alt=\"NOX 14x9 Coiltek Coil Review for the Minelab Equinox\" title=\"Coiltek NOX 14x9 Coil Review\" width=\"337\" height=\"187\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "The Coiltek 14x9 NOX Coil"
+  },
+  {
+   "t": "p",
+   "html": "is a Fantastic addition to you Minelab Equinox Coil Collection if you dont already own the Minelab 15 inch Coil."
+  },
+  {
+   "t": "p",
+   "html": "I Think this Nox Coil is going to be more suited to Detecting in Water than for long periods metal detecting on fields. If you own the Minelab CTX 3030 and the Coiltek 14x9 coil then you are already aware of the weight of this Coiltek Nox Coil, it is certainly not for the all day use without some kind of harness or support, but when submerged in water this coil has no trouble at all contending with the movement against the current and waves."
+  },
+  {
+   "t": "p",
+   "html": "Although a large coil this Coiltek Nox 14x9 is super sensitive and has a great depth."
+  },
+  {
+   "t": "p",
+   "html": "You can order or view the Coiltek Nox Coils <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek\" data-kind=\"affiliate\">HERE</a>"
+  },
+  {
+   "t": "p",
+   "html": "Have you ordered one of these coils or looking into their use, leave us a comment below."
+  }
+ ],
+ "images": [
+  "images/10x5_WEB1.jpg"
+ ],
+ "videos": [
+  "jQGj0yCzdDI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek"
+ ]
+}

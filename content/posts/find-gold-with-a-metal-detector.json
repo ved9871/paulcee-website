@@ -1,0 +1,322 @@
+{
+ "type": "post",
+ "slug": "find-gold-with-a-metal-detector",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?find-gold-with-a-metal-detector",
+ "title": "Find gold with a metal detector",
+ "seo": {
+  "title": "Find gold with a metal detector - Blog",
+  "description": "Minelab CTX 3030 is still a great detector for beach detecting and can find gold, metal detecting at night on the beach",
+  "keywords": "minelab ctx 3030, crawfords metal detectos, CMD Detectors, minelab uk, paul cee minelab",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?find-gold-with-a-metal-detector",
+  "og": {
+   "title": "Find gold with a metal detector",
+   "description": "Minelab CTX 3030 is still a great detector for beach detecting and can find gold, metal detecting at night on the beach",
+   "image": "https://www.paulcee.co.uk/blog/files/241217_New_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?find-gold-with-a-metal-detector"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-01-01T18:10:00",
+    "dateModified": "2018-01-01T18:10:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Find gold with a metal detector",
+    "description": "Can you find gold on the beach with a metal detector",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?find-gold-with-a-metal-detector",
+    "image": [
+     "https://www.paulcee.co.uk/images/241217_New.png",
+     "https://www.paulcee.co.uk/blog/files/241217_New.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201801",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx3030",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ctx3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Find gold with a metal detector",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-01-01T18:10:00",
+ "dateModified": "2018-01-01T18:10:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "gold",
+  "equinox",
+  "minelab",
+  "ctx3030",
+  "beach",
+  "detecting"
+ ],
+ "readTime": 1,
+ "summary": "Can you find gold on the beach with a metal detector",
+ "cover": "blog/files/241217_New.png",
+ "heroVideo": "UYd3sUZRDtI",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"@ctx3030/\" data-kind=\"internal\"><img src=\"@img:images/241217_New.png\" alt=\"ctx 3030 gold setting for metal detecting on the beach\" title=\"find gold metal detecting on the beach\" width=\"317\" height=\"179\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Looking for gold on the beach"
+  },
+  {
+   "t": "p",
+   "html": "with the <a href=\"@ctx3030/\" data-kind=\"internal\">Minelab CTX 3030</a>, early morning and dark, with the aid of my ears for signals and a head torch for light, you just dig and look, and there is the glint of gold.."
+  }
+ ],
+ "images": [
+  "images/241217_New.png"
+ ],
+ "videos": [
+  "UYd3sUZRDtI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

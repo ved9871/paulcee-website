@@ -1,0 +1,157 @@
+{
+ "type": "post",
+ "slug": "metal-detector-for-kids",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detector-for-kids",
+ "title": "Metal Detector for kids",
+ "seo": {
+  "title": "Metal Detector for kids - Blog",
+  "description": "good metal detector for kids in the summer is the minelab GO FIND 66. on offer with freebies",
+  "keywords": "Minelab, GOFIND, metal, detector, best, for, kids",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detector-for-kids",
+  "og": {
+   "title": "Metal Detector for kids",
+   "description": "good metal detector for kids in the summer is the minelab GO FIND 66. on offer with freebies",
+   "image": "",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detector-for-kids"
+  },
+  "twitter": {
+   "card": "",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-07-11T16:39:00",
+    "dateModified": "2021-07-11T16:39:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Metal Detector for kids",
+    "description": "Best metal detector for kids",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detector-for-kids",
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202107",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal Detector for kids",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting uk",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal Detector for kids",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal Detector for kids",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-07-11T16:39:00",
+ "dateModified": "2021-07-11T16:39:00",
+ "author": "Paul Cee",
+ "category": "metal detecting uk",
+ "categorySlug": "metal_detecting_uk",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Best metal detector for kids",
+ "cover": null,
+ "heroVideo": "t46l99Z4vIA",
+ "blocks": [
+  {
+   "t": "p",
+   "html": "The Minelab Go- find 66 is an ideal metal detector for kids or anyone toying with the idea of metal detecting, it folds up small and can fit in a backpack, superb for taking along to the beach"
+  }
+ ],
+ "images": [],
+ "videos": [
+  "t46l99Z4vIA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

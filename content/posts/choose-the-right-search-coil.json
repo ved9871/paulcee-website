@@ -1,0 +1,338 @@
+{
+ "type": "post",
+ "slug": "choose-the-right-search-coil",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?choose-the-right-search-coil",
+ "title": "Choose the right search coil",
+ "seo": {
+  "title": "Choose the right search coil - Blog",
+  "description": "choose the correct minelab or coiltek search coil for where you are metal detecting and what you are looking for, differant types of coils have differant uses",
+  "keywords": "minelab, coiltek, manticore, search, coil, equinox, vanquish, xTerra pro, cmd",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?choose-the-right-search-coil",
+  "og": {
+   "title": "Choose the right search coil",
+   "description": "choose the correct minelab or coiltek search coil for where you are metal detecting and what you are looking for, differant types of coils have differant uses",
+   "image": "https://www.paulcee.co.uk/blog/files/coil-size_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?choose-the-right-search-coil"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2024-01-07T10:57:00",
+    "dateModified": "2024-01-07T10:57:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Choose the right search coil",
+    "description": "Choosing the correct search coil",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?choose-the-right-search-coil",
+    "image": [
+     "https://www.paulcee.co.uk/images/coil-size.jpg",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_bgsjxm1h.png",
+     "https://www.paulcee.co.uk/images/minelab-6inch.jpg",
+     "https://www.paulcee.co.uk/images/vanquish-V8.jpg",
+     "https://www.paulcee.co.uk/images/coiltek-nox-18-web.jpg",
+     "https://www.paulcee.co.uk/images/m15-beach.jpg",
+     "https://www.paulcee.co.uk/images/coiltek-14x9.jpg",
+     "https://www.paulcee.co.uk/blog/files/coil-size.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2024",
+      "item": "https://www.paulcee.co.uk/blog/?month=202401",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Choose the right search coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Search Coils",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Search Coils",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Choose the right search coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Choose the right search coil",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2024-01-07T10:57:00",
+ "dateModified": "2024-01-07T10:57:00",
+ "author": "Paul Cee",
+ "category": "Minelab Search Coils",
+ "categorySlug": "Minelab_Search_Coils",
+ "tags": [],
+ "readTime": 5,
+ "summary": "Choosing the correct search coil",
+ "cover": "blog/files/coil-size.jpg",
+ "heroVideo": "rVGsILDXyLM",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/coil-size.jpg\" alt=\"how to choose the right search coil for where you are metal detecting\" title=\"minelab metal detector search coils\" width=\"287\" height=\"161\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_bgsjxm1h.png\" alt=\"choose the correct search coil for where you are metal detecting\" title=\"minelab metal detector search coil\" width=\"164\" height=\"164\">"
+  },
+  {
+   "t": "h2",
+   "html": "Why you need different search coils for a metal detector?<br>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Size and Depth Range:</strong> Larger coils can cover more ground quickly but are less sensitive to small targets and may not reach great depths. Smaller coils are more sensitive to small objects and can reach deeper, but they cover less ground at a time."
+  },
+  {
+   "t": "h3",
+   "html": "Why is a smaller coil on a metal detector more advantageous"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/minelab-6inch.jpg\" alt=\"minelab 6inch DD search Coil\" title=\"Minelab small DD search coil\" width=\"236\" height=\"236\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Sensitivity to Small Targets:</strong> Smaller coils are generally more sensitive to smaller objects. This means they can detect tiny or low-conductivity targets that might be missed by a larger coil due to target masking."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Target Separation:</strong> Smaller coils are better at distinguishing between closely spaced targets. This is important in areas where multiple objects are concentrated, such as in trashy or heavily littered areas."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Navigating Tight Spaces:</strong> In areas with obstacles, like rocks, bushes, or structures, a smaller coil can maneuver more easily. It allows you to search in places where a larger coil might struggle to fit."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Reduced Ground Interference:</strong> Smaller coils have a smaller electromagnetic field, which can result in less interference from the ground or nearby objects. This can lead to cleaner signals and better target identification."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/vanquish-V8.jpg\" alt=\"is the minelab vanquish v8 search coil any good\" title=\"Minelab Vanquish V8 Seach Coil uk\" width=\"236\" height=\"236\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Weight and Comfort:</strong> Smaller coils are lighter, making the detector more comfortable to carry for extended periods. This can be especially important for long days of detecting."
+  },
+  {
+   "t": "h4",
+   "html": "Using a large search coil on a metal detector offers several advantages"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/coiltek-nox-18-web.jpg\" alt=\"Coiltek Nox 18 search coil review\" title=\"Coiltek Nox 18 coil review\" width=\"241\" height=\"136\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Increased Ground Coverage:</strong> Larger coils can cover more ground in a single sweep. This makes them efficient for searching open areas or fields where you want to cover as much ground as possible in a shorter amount of time."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Greater Depth Penetration:</strong> Generally, larger coils can detect targets at greater depths compared to smaller coils. If you're searching for deeper targets, such as buried relics or larger objects, a larger coil can be more effective."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Enhanced Sensitivity to Larger Objects:</strong> Larger coils are better at detecting larger targets. They can pick up signals from larger items like coins, relics, or caches at greater depths more effectively than smaller coils."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/m15-beach.jpg\" alt=\"where would you use a minelab Manticore M15 search coil\" title=\"minelab manticore M15 Coil Uk\" width=\"236\" height=\"236\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Efficiency in Low-Trash Areas:</strong> In areas with fewer obstacles or trash, using a larger coil can be more efficient. It allows you to cover more ground quickly without being impeded by obstacles."
+  },
+  {
+   "t": "p",
+   "html": "However, there are trade-offs with larger coils:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Reduced Target Separation:</strong> Larger coils may struggle with target separation in trashy areas where multiple objects are close together. They might not distinguish between targets as effectively as smaller coils."
+  },
+  {
+   "t": "p",
+   "html": "Coil Types."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Target Specificity:</strong> Some coils are designed to be more specialised for specific types of targets using just a single frequency like on the Minelab XTerra-Pro."
+  },
+  {
+   "t": "p",
+   "html": "For example, a small, high-frequency coil might be used for finding small gold nuggets, while a larger, lower-frequency coil might be better for larger objects like coins or relics."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Search Pattern:</strong> Some coils are designed for specific search patterns (like concentric, double-D or (Mono-loop We wont cover these in this article) which can affect how they respond to different types of targets."
+  },
+  {
+   "t": "p",
+   "html": "A concentric search coil refers to a specific design of search coil. It's constructed with two wire coils that are positioned one inside the other, hence the term \"concentric.\" One coil serves as the transmitter, sending out electromagnetic signals, while the other coil acts as the receiver, detecting the signals bounced back from the ground."
+  },
+  {
+   "t": "p",
+   "html": "However, they do have limitations. Their detection field is typically smaller compared to other coil designs."
+  },
+  {
+   "t": "p",
+   "html": "Also, in highly mineralized ground they might experience some interference."
+  },
+  {
+   "t": "p",
+   "html": "On the plus side they are usually deeper than a DD search coil as the transmit/receive field is a Cone shape."
+  },
+  {
+   "t": "p",
+   "html": "DD Search Coils for the Minelab Manticore, Equinox and XTerra Pro"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/coiltek-14x9.jpg\" alt=\"coiltek nox 14x9 search coil for the Minelab Equinox and minelab xTerra- pro\" title=\"coiltek NOX 14x9 search coil uk\" width=\"247\" height=\"139\">"
+  },
+  {
+   "t": "p",
+   "html": "A DD coil short for \"Double-D coil\" is a type of search coil used in metal detectors. Unlike concentric coils, DD coils have two overlapping wire loops that are shaped like the letter \"D\" in cross-section, hence the name."
+  },
+  {
+   "t": "p",
+   "html": "They excel in separating targets in trashy or highly mineralized areas,as the receive field is along the centre-line of the search coil like a knife edge."
+  },
+  {
+   "t": "p",
+   "html": "DD coils can handle challenging environments where multiple targets are closely packed together, providing better discrimination between different types of metals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Decent Depth and Sensitivity:</strong> DD coils offer a good compromise between depth and sensitivity, making them versatile for various types of targets and terrain."
+  },
+  {
+   "t": "p",
+   "html": "Overall, choosing the right coil for you Minelab Metal Detector, depends on what you're trying to find and the specific conditions of the area you're searching."
+  },
+  {
+   "t": "p",
+   "html": "On the Minelab Manticore, minelab Equinox, minelab vanquish and XTerra-Pro coils are only available in DD configurations."
+  },
+  {
+   "t": "p",
+   "html": "All the Minelab Equinox Search Coils are compatible with the XTerra Pro, but not with the Minelab Vanquish."
+  },
+  {
+   "t": "p",
+   "html": "The M15 and M8 Manticore search coils are only compatible with the Manticore as it uses Multi IQ+."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://bit.ly/CoiltekCoils\" data-kind=\"affiliate\">LOOK FOR COILTEK COILS</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://bit.ly/CMDMDUK\" data-kind=\"affiliate\">LOOK FOR MINELAB COILS</a>"
+  }
+ ],
+ "images": [
+  "images/coil-size.jpg",
+  "images/YT-thumb_2020_bgsjxm1h.png",
+  "images/minelab-6inch.jpg",
+  "images/vanquish-V8.jpg",
+  "images/coiltek-nox-18-web.jpg",
+  "images/m15-beach.jpg",
+  "images/coiltek-14x9.jpg"
+ ],
+ "videos": [
+  "rVGsILDXyLM"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://bit.ly/CoiltekCoils",
+  "https://bit.ly/CMDMDUK"
+ ]
+}

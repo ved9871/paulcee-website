@@ -1,0 +1,372 @@
+{
+ "type": "post",
+ "slug": "metal-detecting-beach-uk-finds",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-beach-uk-finds",
+ "title": "metal detecting beach uk finds",
+ "seo": {
+  "title": "metal detecting beach uk finds - Blog",
+  "description": "metal detector best finds from metal detecting on the beach",
+  "keywords": "beach, metal, detecting, best finds, uk, crawfords, best metal detector finds, treasure hunter",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-beach-uk-finds",
+  "og": {
+   "title": "metal detecting beach uk finds",
+   "description": "metal detector best finds from metal detecting on the beach",
+   "image": "https://www.paulcee.co.uk/blog/files/best-of-3a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detecting-beach-uk-finds"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-10T16:35:00",
+    "dateModified": "2020-05-10T16:35:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "metal detecting beach uk finds",
+    "description": "Best beach metal detecting finds, you know where to detect",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-beach-uk-finds",
+    "image": [
+     "https://www.paulcee.co.uk/images/best-of-3a.jpg",
+     "https://www.paulcee.co.uk/blog/files/best-of-3a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting finds",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "finds",
+      "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "best",
+      "item": "https://www.paulcee.co.uk/blog/?tag=best",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "finds",
+      "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beach uk finds",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-10T16:35:00",
+ "dateModified": "2020-05-10T16:35:00",
+ "author": "Paul Cee",
+ "category": "metal detecting finds",
+ "categorySlug": "metal_detecting_finds",
+ "tags": [
+  "metal",
+  "detecting",
+  "finds",
+  "best",
+  "detector",
+  "finds",
+  "detecting",
+  "uk"
+ ],
+ "readTime": 1,
+ "summary": "Best beach metal detecting finds, you know where to detect",
+ "cover": "blog/files/best-of-3a.jpg",
+ "heroVideo": "w8_1UjTMDgo",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/best-of-3a.jpg\" alt=\"best treasure hunting finds uk\" title=\"metal detector best finds\" width=\"621\" height=\"350\">"
+  },
+  {
+   "t": "p",
+   "html": "More awesome metal detecting finds on uk beaches and fields, gold and silver coins and rings, using minelab metal detectors, the best metal detectors for treasure hunting on the beach."
+  },
+  {
+   "t": "p",
+   "html": "also feature Garrett ATX pulse induction metal detector"
+  }
+ ],
+ "images": [
+  "images/best-of-3a.jpg"
+ ],
+ "videos": [
+  "w8_1UjTMDgo"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

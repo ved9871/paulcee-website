@@ -1,0 +1,65 @@
+{
+ "type": "page",
+ "slug": "social-sites",
+ "liveUrl": "https://www.paulcee.co.uk/social-sites.html",
+ "h1": "metal detecting on facebook",
+ "seo": {
+  "title": "social sites",
+  "description": "Paul Cee, Metal Detecting facebook groups uk, crawfords metal detectors, metal detecting facebook, minelab owners, metal detector groups uk",
+  "keywords": "Metal detecting clubs, metal detecting groups, metal detecting shops near me, metal detecting facebook, minelab metal detectors, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/social-sites.html",
+  "og": {
+   "title": "metal detecting on facebook",
+   "description": "Paul Cee, Metal Detecting facebook groups uk, crawfords metal detectors, metal detecting facebook, minelab owners, metal detector groups uk",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/social-sites.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "h4",
+   "html": "Crawfords Metal Detectors mailing list"
+  },
+  {
+   "t": "p",
+   "html": "Stay up to date with everything Crawfords and metal Detecting. <a href=\"https://bit.ly/CMD_Maling\" data-kind=\"affiliate\">Sign up to the Mailing list</a>"
+  },
+  {
+   "t": "p",
+   "html": "Monthly <strong>free competitions</strong> for subscribers"
+  },
+  {
+   "t": "p",
+   "html": "Find out 1st about <strong>new releases</strong> of detectors and accessories."
+  },
+  {
+   "t": "h3",
+   "html": "Exclusive offers",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Plus ITS FREE"
+  }
+ ],
+ "images": [],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://bit.ly/CMD_Maling"
+ ]
+}

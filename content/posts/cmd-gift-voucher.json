@@ -1,0 +1,380 @@
+{
+ "type": "post",
+ "slug": "cmd-gift-voucher",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?cmd-gift-voucher",
+ "title": "CMD Gift Voucher",
+ "seo": {
+  "title": "CMD Gift Voucher - Blog",
+  "description": "cmd voucher is a great gift for a metal detectorist, can be topped up and used as a savings plan for a next purchase, whether a detector or accessories",
+  "keywords": "cmd voucher, cmd code, crawfords metal detectors, savings voucher, metal detecting uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?cmd-gift-voucher",
+  "og": {
+   "title": "CMD Gift Voucher",
+   "description": "cmd voucher is a great gift for a metal detectorist, can be topped up and used as a savings plan for a next purchase, whether a detector or accessories",
+   "image": "https://www.paulcee.co.uk/blog/files/cmd-gift-card_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?cmd-gift-voucher"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2023-11-11T08:47:00",
+    "dateModified": "2023-11-11T08:47:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "CMD Gift Voucher",
+    "description": "The NEW CMD gift voucher is a great gift.",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?cmd-gift-voucher",
+    "image": [
+     "https://www.paulcee.co.uk/images/cmd-gift-card-1.jpg",
+     "https://www.paulcee.co.uk/blog/files/cmd-gift-card.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2023",
+      "item": "https://www.paulcee.co.uk/blog/?month=202311",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "crawfords metal detectors",
+      "item": "https://www.paulcee.co.uk/blog/?category=crawfords metal detectors",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "crawfords",
+      "item": "https://www.paulcee.co.uk/blog/?tag=crawfords",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gift",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gift",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "voucher",
+      "item": "https://www.paulcee.co.uk/blog/?tag=voucher",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD",
+      "item": "https://www.paulcee.co.uk/blog/?tag=CMD",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detectors",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detectors",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "voucher",
+      "item": "https://www.paulcee.co.uk/blog/?tag=voucher",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CMD Gift Voucher",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2023-11-11T08:47:00",
+ "dateModified": "2023-11-11T08:47:00",
+ "author": "Paul Cee",
+ "category": "crawfords metal detectors",
+ "categorySlug": "crawfords_metal_detectors",
+ "tags": [
+  "crawfords",
+  "gift",
+  "voucher",
+  "CMD",
+  "detectors",
+  "metal",
+  "detecting",
+  "voucher"
+ ],
+ "readTime": 1,
+ "summary": "The NEW CMD gift voucher is a great gift.",
+ "cover": "blog/files/cmd-gift-card.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "The New Gift card from Crawfords Metal Detectors."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/cmd-gift-card-1.jpg\" alt=\"cmd gift card, that can be topped up and used to buy metal detectors and accessories from crawfords metal detectors\" title=\"crawfords metal detecting gift card\" width=\"118\" height=\"118\">"
+  },
+  {
+   "t": "p",
+   "html": "Is the ideal gift for the metal detectorist in your life, can be topped up with the unique code, and used as a savings plan for your next purchase. Whether that is a new metal detector or metal detecting accessories."
+  },
+  {
+   "t": "p",
+   "html": "The CMD Gift card can be purchased or topped up <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/gift-ideas/cmd-Gift-voucher\" data-kind=\"affiliate\">HERE.</a>"
+  },
+  {
+   "t": "p",
+   "html": "Alternativley you can ring one of the stores to top up with an amount of your choice if it is not available in the pre-selected amounts. <a href=\"tel:+4401724845608\" data-kind=\"contact\">+44(0)1724 845 608</a>"
+  }
+ ],
+ "images": [
+  "images/cmd-gift-card-1.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detecting-accessories/gift-ideas/cmd-Gift-voucher"
+ ]
+}

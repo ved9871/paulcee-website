@@ -1,0 +1,78 @@
+{
+ "type": "page",
+ "slug": "evolution-spade",
+ "liveUrl": "https://www.paulcee.co.uk/evolution-spade.html",
+ "h1": "Evolution Spade",
+ "seo": {
+  "title": "Evolution Spade",
+  "description": "Evolution Pro Cut Metal Detecting Spade, a super strong shovel for digging metal detecting finds, one of the strongest shovels designed for metal detecting uk",
+  "keywords": "Evolution Spade, Evolution pro cut, evolution stainless, metal detecting spade, best metal detecting spade, shovel, detecting, best, strongest, uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/evolution-spade.html",
+  "og": {
+   "title": "Evolution Spade",
+   "description": "Evolution Pro Cut Metal Detecting Spade, a super strong shovel for digging metal detecting finds, one of the strongest shovels designed for metal detecting uk",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/evolution-spade.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Evolution spade for metal detecting"
+  },
+  {
+   "t": "p",
+   "html": "Probably One of the highest quality metal detecting spade on the market."
+  },
+  {
+   "t": "p",
+   "html": "Designed by detectorists for detectorists."
+  },
+  {
+   "t": "p",
+   "html": "A heavy duty pro spade, designed to withstand the toughest ground and cope with the rigours of metal detecting"
+  },
+  {
+   "t": "p",
+   "html": "Features."
+  },
+  {
+   "t": "ul",
+   "items": [
+    "3mm high grade pre-formed stainless steel blade",
+    "Blade edges serrated and sharpened to cut through roots and vegetation with ease.",
+    "Tough 25mm tubular shaft and 'T' handle.",
+    "overall length 840mm (33\")",
+    "Blade measures 250mm (10\") long x 200mm (8\") wide at top and tapers to 115mm (6\")",
+    "Weight 1300g<br>",
+    "BUY <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/evolution-spades/Evolution-pro-cut-spade\" data-kind=\"affiliate\">HERE</a>"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/evolution-spades/Evolution-pro-cut-spade\" data-kind=\"affiliate\"><img src=\"@img:images/pro-cut001-500x500.jpg\" alt=\"Evolution PRO CUT heavy duty metal detecting spade\" title=\"Evolution Pro cut spade Uk\" width=\"500\" height=\"500\"> </a>"
+  }
+ ],
+ "images": [
+  "images/pro-cut001-500x500.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/evolution-spades/Evolution-pro-cut-spade"
+ ]
+}

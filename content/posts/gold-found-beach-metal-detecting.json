@@ -1,0 +1,336 @@
+{
+ "type": "post",
+ "slug": "gold-found-beach-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?gold-found-beach-metal-detecting",
+ "title": "gold found beach metal detecting",
+ "seo": {
+  "title": "gold found beach metal detecting - Blog",
+  "description": "minelab equinox 800 will find gold metal detecting on the beach",
+  "keywords": "minelab, equinox 800, metal detector, beach, crawfords, metal, detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?gold-found-beach-metal-detecting",
+  "og": {
+   "title": "gold found beach metal detecting",
+   "description": "minelab equinox 800 will find gold metal detecting on the beach",
+   "image": "https://www.paulcee.co.uk/blog/files/P1040494_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?gold-found-beach-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-10-13T15:17:00",
+    "dateModified": "2018-10-13T15:17:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "gold found beach metal detecting",
+    "description": "I found more gold with the Minelab Equinox.\nbeach metal detecting Cleethorpes",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?gold-found-beach-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/P1040494.jpg",
+     "https://www.paulcee.co.uk/blog/files/P1040494.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201810",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cleethorpes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Cleethorpes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "800",
+      "item": "https://www.paulcee.co.uk/blog/?tag=800",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold found beach metal detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-10-13T15:17:00",
+ "dateModified": "2018-10-13T15:17:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Cleethorpes",
+  "beach",
+  "metal",
+  "detecting",
+  "equinox",
+  "800"
+ ],
+ "readTime": 1,
+ "summary": "I found more gold with the Minelab Equinox.\nbeach metal detecting Cleethorpes",
+ "cover": "blog/files/P1040494.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1040494.jpg\" alt=\"found gold detecting on the beach\" title=\"minelab equinox gold found on the beach\" width=\"610\" height=\"458\">"
+  },
+  {
+   "t": "h3",
+   "html": "More gold found with the Minelab Equinox 800"
+  },
+  {
+   "t": "h3",
+   "html": "metal detecting the beach at cleethorpes."
+  },
+  {
+   "t": "p",
+   "html": "Early morning on the beach today as high tide was so early. Setting the Equinox into beach mode 2 and sensitivity to 23, 5 tones are my personal favourite and manual ground balance. Iron Bias set to 5 recovery speed set to 6, and iron discrimination upto 2 on the tone breaks and then run in all metal mode as this beach has lots of shallow iron so these settings help alot."
+  },
+  {
+   "t": "p",
+   "html": "The gold came in at number 9-10 on the middle of the slope."
+  },
+  {
+   "t": "p",
+   "html": "video coming soon."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\">Subscribe to make sure you dont miss it</a>"
+  }
+ ],
+ "images": [
+  "images/P1040494.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

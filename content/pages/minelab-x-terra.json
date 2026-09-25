@@ -1,0 +1,332 @@
+{
+ "type": "page",
+ "slug": "minelab-x-terra",
+ "liveUrl": "https://www.paulcee.co.uk/minelab-x-terra.html",
+ "h1": "Minelab X-Terra Elite vs Pro: Review, Pros, Cons & Coil Guide",
+ "seo": {
+  "title": "Minelab X Terra",
+  "description": "Compare the Minelab X-Terra Elite and X-Terra Pro. Discover the pros, cons, Multi-IQ features, and full compatibility guide for Equinox and Coiltek Nox coils",
+  "keywords": "Minelab X-Terra Elite, Minelab X-Terra Pro, X-Terra Elite vs Pro, Minelab Equinox coils, Coiltek Nox coils, Multi-IQ detector, Pro-Switch technology, metal detector review, waterproof metal detector, X-Terra coil compatibility",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/minelab-x-terra.html",
+  "og": {
+   "title": "Minelab X-Terra Elite vs Pro: Review, Pros, Cons & Coil Guide",
+   "description": "Compare the Minelab X-Terra Elite and X-Terra Pro. Discover the pros, cons, Multi-IQ features, and full compatibility guide for Equinox and Coiltek Nox coils",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/minelab-x-terra.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "Minelab X-terra pro and Coiltek 18inch coil",
+    "description": "This video is relevant because it demonstrates the X-Terra Pro effectively using the Coiltek Nox 18 coil, verifying the coil compatibility discussed in the content.",
+    "uploadDate": "2025-12-31T12:12:15+00:00",
+    "thumbnailUrl": "images/XTP_WEB.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=LDcEDpRyk3c",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/XTE_web.jpg\" alt=\"Minelab X Terra Elite Review\" title=\"Minelab X Terra Elite Review\" width=\"230\" height=\"230\"> </a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9\" data-kind=\"affiliate\" class=\"btn\">Buy Elite</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/XTP_WEB.jpg\" alt=\"Minelab X-Terra Pro Review\" title=\"Minelab X-Terra Pro Review\" width=\"230\" height=\"230\"> </a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9\" data-kind=\"affiliate\" class=\"btn\">Buy Pro</a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab X-Terra Elite vs. X-Terra Pro: Which Detector is Right for You?",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "When it comes to modern, high-performance metal detecting at an affordable price point, Minelab has changed the game with the <strong>X-Terra</strong> series. Whether you are a beginner looking for your first serious machine or a seasoned detectorist needing a reliable backup, the <strong>Minelab X-Terra Pro</strong> and the all-new <strong>Minelab X-Terra Elite</strong> are top contenders."
+  },
+  {
+   "t": "p",
+   "html": "But what is the difference between them? And can they really use the high-performance coils from the Equinox range? (Spoiler: <strong>Yes, they can!</strong>)"
+  },
+  {
+   "t": "h2",
+   "html": "At a Glance: The Core Difference",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "While both machines share a rugged, waterproof chassis and excellent ergonomics, the engine under the hood is different."
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>X-Terra Pro:</strong> Uses <strong>Pro-Switch™ Technology</strong>. This allows you to switch between single frequencies (5, 8, 10, or 15 kHz) to suit your specific target and environment.",
+    "<strong>X-Terra Elite:</strong> Uses <strong>Multi-IQ® Technology</strong>. This is Minelab’s famous Simultaneous Multi-Frequency engine (found in the Equinox and Manticore), allowing the detector to listen to all frequencies at once for maximum depth and stability in difficult soil."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab X-Terra Pro Review",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The X-Terra Pro is designed to be the ultimate \"switch on and go\" detector. It is fully waterproof and offers features usually reserved for much more expensive machines."
+  },
+  {
+   "t": "h4",
+   "html": "✅ The Pros",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Price:</strong> Unbeatable value for a fully waterproof (up to 5m/16ft) detector.",
+    "<strong>Pro-Switch:</strong> Ability to manually select 5, 8, 10, or 15 kHz gives you control over interference and specific target sizes.",
+    "<strong>Ergonomics:</strong> Lightweight with a collapsible shaft, identical to the Elite and Equinox designs.",
+    "<strong>Vibration Mode:</strong> Handle vibration is excellent for underwater use or hearing-impaired users."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h4",
+   "html": "❌ The Cons",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Single Frequency Only:</strong> It does not use Multi-IQ, meaning you must choose one frequency at a time. It may struggle more than the Elite in wet salt sand or highly mineralised ground.",
+    "<strong>Recovery Speed:</strong> Slightly slower recovery speed compared to the Elite in dense iron trash."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab X-Terra Elite Review",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The X-Terra Elite takes the same rugged body as the Pro but upgrades the internal processor to run <strong>Multi-IQ</strong>. This makes it a direct competitor to the Equinox series, offering simultaneous multi-frequency detection at a mid-range price."
+  },
+  {
+   "t": "h4",
+   "html": "✅ The Pros",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Multi-IQ Technology:</strong> Scans multiple frequencies at once. This provides superior detection in wet saltwater sand and highly mineralised soil compared to the Pro.",
+    "<strong>Iron Control:</strong> Advanced Iron Bias settings allow for better separation of non-ferrous targets in trashy sites.",
+    "<strong>Audio:</strong> Rich, multi-tone audio that provides more nuanced information about the target before you dig.",
+    "<strong>Depth:</strong> Generally offers better depth on small targets in difficult ground conditions."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h4",
+   "html": "❌ The Cons",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Price:</strong> Higher cost than the X-Terra Pro (though still cheaper than an Equinox).",
+    "<strong>Battery Consumption:</strong> Multi-frequency processing can drain the battery slightly faster than single-frequency operation."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h2",
+   "html": "Technical Comparison",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Use this table to quickly compare the specifications. We have highlighted the key upgrades in the Elite model."
+  },
+  {
+   "t": "h3",
+   "html": "Features &amp; Settings Breakdown",
+   "from": "html"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Feature",
+     "Minelab X-Terra Pro",
+     "Minelab X-Terra Elite"
+    ],
+    [
+     "Core Engine",
+     "Pro-Switch™ (Single Frequency)",
+     "<strong>Multi-IQ® (Simultaneous Multi-Freq)</strong>"
+    ],
+    [
+     "Operating Frequencies",
+     "5, 8, 10, or 15 kHz (Selectable)",
+     "Multi-IQ (All at once) or 15 kHz"
+    ],
+    [
+     "Iron Bias",
+     "Fixed (Standard)",
+     "<strong>Adjustable (-1 to 2)</strong>"
+    ],
+    [
+     "Search Modes",
+     "Park, Field, Beach",
+     "Park, Field, Beach"
+    ],
+    [
+     "Target ID Range",
+     "-19 to 99 (119 Segments)",
+     "-19 to 99 (119 Segments)"
+    ],
+    [
+     "Recovery Speed",
+     "Adjustable (Levels 1 to 3)",
+     "Adjustable (Levels 1 to 3)"
+    ],
+    [
+     "Waterproof Rating",
+     "5m (16ft) IP68",
+     "5m (16ft) IP68"
+    ],
+    [
+     "Weight",
+     "1.3kg (2.9lbs)",
+     "1.3kg (2.9lbs)"
+    ],
+    [
+     "Flashlight &amp; Vibrate",
+     "Yes",
+     "Yes"
+    ]
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h4",
+   "html": "Key Differences Explained",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>The Engine:</strong> The Pro requires you to choose a frequency (e.g., 5kHz for silver, 15kHz for gold). The Elite uses Multi-IQ to listen for both simultaneously, making it much easier to use on beaches where salt interferes with single frequencies.",
+    "<strong>Iron Bias:</strong> The Elite features an Adjustable Iron Bias (-1 to 2). This professional setting allows you to filter out bottle caps and iron falsing much more effectively than the fixed setting on the Pro."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h2",
+   "html": "The Secret Weapon: Coil Compatibility",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "One of the massive advantages of the new X-Terra series is the ecosystem Minelab has built. Both the X-Terra Elite and X-Terra Pro have cross-compatibility with a huge range of search coils."
+  },
+  {
+   "t": "h3",
+   "html": "1. Minelab Equinox Range Compatibility",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Both the X-Terra Elite and X-Terra Pro can use the official Minelab coils designed for the Equinox 600, 700, 800, and 900."
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>EQX 06 (6-inch):</strong> Perfect for trashy parks or tight spaces.",
+    "<strong>EQX 11 (11-inch):</strong> The standard all-rounder.",
+    "<strong>EQX 15 (15x12-inch):</strong> For maximum depth on open pasture."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "2. Coiltek Nox Coil Compatibility",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "For the serious enthusiast, <strong>Coiltek's \"Nox\" series coils are fully compatible with both the X-Terra Elite and X-Terra Pro.</strong> These aftermarket coils are renowned for their build quality and performance."
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Coiltek 10x5 Nox:</strong> A sniper coil that offers incredible separation in iron-infested sites.",
+    "<strong>Coiltek 14x9 Nox:</strong> An elliptical coil that balances depth with easy maneuverability in water.",
+    "<strong>Coiltek 15-inch &amp; 18-inch Nox:</strong> Beastly coils for deep-seeking hoards and relics on clear ground."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<em>Note: When using an Equinox or Coiltek coil on an X-Terra Pro, the detector will function perfectly, though it will operate in the single frequency you have selected.</em>"
+  },
+  {
+   "t": "h2",
+   "html": "Verdict",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "If you are on a strict budget and detect mostly on inland fields or dry sand, the <strong>X-Terra Pro</strong> is an incredible bargain. However, if you detect on wet saltwater beaches or want the \"do-it-all\" power of Simultaneous Multi-Frequency, the <strong>X-Terra Elite</strong> is worth the extra investment."
+  },
+  {
+   "t": "p",
+   "html": "Both machines give you the flexibility to upgrade your performance later by adding <strong>Minelab Equinox</strong> or <strong>Coiltek Nox</strong> coils to your arsenal."
+  },
+  {
+   "t": "video",
+   "id": "LDcEDpRyk3c",
+   "title": "using the Minelab X-Terra Pro, compare to the X-Terra Elite"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://bit.ly/CMDMDUK\" data-kind=\"affiliate\"><img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Minelab X-terra elite Vs Minelab X-Terra Pro\" title=\"Minelab X-Terra Elite Vs Pro\" width=\"230\" height=\"230\"> </a>"
+  }
+ ],
+ "images": [
+  "images/XTE_web.jpg",
+  "images/XTP_WEB.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "LDcEDpRyk3c"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9",
+  "https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9",
+  "https://bit.ly/CMDMDUK"
+ ]
+}

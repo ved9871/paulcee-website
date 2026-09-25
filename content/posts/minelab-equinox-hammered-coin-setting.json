@@ -1,0 +1,213 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-hammered-coin-setting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-hammered-coin-setting",
+ "title": "minelab equinox hammered coin setting",
+ "seo": {
+  "title": "minelab equinox hammered coin setting - Blog",
+  "description": "A Setting for the minelab equinox 800 for finding hammered coins i use",
+  "keywords": "equinox 800 settings, equinox 800 hammered coins, minelab equinox, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-hammered-coin-setting",
+  "og": {
+   "title": "minelab equinox hammered coin setting",
+   "description": "A Setting for the minelab equinox 800 for finding hammered coins i use",
+   "image": "https://www.paulcee.co.uk/blog/files/hammered-web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-hammered-coin-setting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-01-09T07:35:00",
+    "dateModified": "2026-01-09T07:35:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "minelab equinox hammered coin setting",
+    "description": "setting up to find hammered coins",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-hammered-coin-setting",
+    "image": [
+     "https://www.paulcee.co.uk/images/P1060612_web.jpg",
+     "https://www.paulcee.co.uk/images/GH010590_web.jpg",
+     "https://www.paulcee.co.uk/images/GH010591_web.jpg",
+     "https://www.paulcee.co.uk/blog/files/hammered-web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202601",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox hammered coin setting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox hammered coin setting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox hammered coin setting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-01-09T07:35:00",
+ "dateModified": "2026-01-09T07:35:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [],
+ "readTime": 1,
+ "summary": "setting up to find hammered coins",
+ "cover": "blog/files/hammered-web.jpg",
+ "heroVideo": "7uxkIvl8yeA",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "minelab equinox settings for hammered coins"
+  },
+  {
+   "t": "p",
+   "html": "highly sought after for most people metal detecting are hammered coins."
+  },
+  {
+   "t": "p",
+   "html": "these very thin and usually tiny coins can be notoriously difficult to find"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1060612_web.jpg\" alt=\"how to find small hammered coins with a minelab equinox metal detector\" title=\"small hammered coin\" width=\"238\" height=\"159\">"
+  },
+  {
+   "t": "p",
+   "html": "that is unless they are laid dead flat and then give off a great tone on the metal detector."
+  },
+  {
+   "t": "p",
+   "html": "Most people will opt for one setting like beach to land which to be fair will detect anything so long as it is under the coil."
+  },
+  {
+   "t": "p",
+   "html": "This time just to show that which mode you use as long as it is set up correctly for where you are searching will find these small hammered coins."
+  },
+  {
+   "t": "p",
+   "html": "we set up in \"Park 1 search mode\" on the equinox 800 and using the 15 inch minelab elliptical coil."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/GH010590_web.jpg\" alt=\"metal detecting for hammered coins in park 1 mode\" title=\"minelab Equinox Settings\" width=\"296\" height=\"167\">"
+  },
+  {
+   "t": "p",
+   "html": "The advantage of NOT using the beach to land setting is that if you detect under electric pylons or near to an electric fence the you have the ability to switch to a single frequency to loose the pulsing of the electrical interference."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/GH010591_web.jpg\" alt=\"finding small hammered coins with a minelab equinox\" title=\"minelab Equinox hammered coins\" width=\"300\" height=\"169\">"
+  },
+  {
+   "t": "p",
+   "html": "Find out more on Minelab Training days <a href=\"https://www.crawfordsmd.com/\" data-kind=\"affiliate\">HERE</a> and click on CMD NEWS Letter"
+  }
+ ],
+ "images": [
+  "images/P1060612_web.jpg",
+  "images/GH010590_web.jpg",
+  "images/GH010591_web.jpg"
+ ],
+ "videos": [
+  "7uxkIvl8yeA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/"
+ ]
+}

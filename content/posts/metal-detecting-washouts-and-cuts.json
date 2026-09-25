@@ -1,0 +1,348 @@
+{
+ "type": "post",
+ "slug": "metal-detecting-washouts-and-cuts",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-washouts-and-cuts",
+ "title": "metal Detecting Washouts and Cuts",
+ "seo": {
+  "title": "metal Detecting Washouts and Cuts - Blog",
+  "description": "why you should metal detect in washouts and cuts on a beach",
+  "keywords": "beach, metal, detecting, treasure, hunt, uk, minelab",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-washouts-and-cuts",
+  "og": {
+   "title": "metal Detecting Washouts and Cuts",
+   "description": "why you should metal detect in washouts and cuts on a beach",
+   "image": "https://www.paulcee.co.uk/blog/files/060118_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detecting-washouts-and-cuts"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-01-26T19:01:00",
+    "dateModified": "2018-01-26T19:01:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "metal Detecting Washouts and Cuts",
+    "description": "Where are cuts and washouts on the beach when metal detecting? are they worth Metal Detecting, here we find one and meta detect with the Minelab CTX 3030",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-washouts-and-cuts",
+    "image": [
+     "https://www.paulcee.co.uk/images/060118.png",
+     "https://www.paulcee.co.uk/blog/files/060118.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201801",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ctx",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "3030",
+      "item": "https://www.paulcee.co.uk/blog/?tag=3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Paul",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cee",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cleethorpes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Cleethorpes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal Detecting Washouts and Cuts",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-01-26T19:01:00",
+ "dateModified": "2018-01-26T19:01:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "ctx",
+  "3030",
+  "Paul",
+  "Cee",
+  "metal",
+  "detecting",
+  "Cleethorpes"
+ ],
+ "readTime": 1,
+ "summary": "Where are cuts and washouts on the beach when metal detecting? are they worth Metal Detecting, here we find one and meta detect with the Minelab CTX 3030",
+ "cover": "blog/files/060118.png",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/060118.png\" alt=\"where to metal detect on a beach\" title=\"beach metal detecting after a storm\" width=\"263\" height=\"148\">"
+  },
+  {
+   "t": "p",
+   "html": "When you find a washout or cut metal detecting on the beach it is always worth detecting along the cut in the washouts and the sand area that has been removed by the surf and tides, gold and silver or coins are not always found in large quantities but sometimes what has built up over the summer could be released and picked up by the keen beach detectorist. here we explore a big cut on the beach with the Minelab CTX 3030"
+  },
+  {
+   "t": "video",
+   "id": "QN-Dq6b-Ovo",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/060118.png"
+ ],
+ "videos": [
+  "QN-Dq6b-Ovo"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,351 @@
+{
+ "type": "post",
+ "slug": "gold-rings-and-some-coins-with-the-ctx3030-on-the-beach",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?gold-rings-and-some-coins-with-the-ctx3030-on-the-beach",
+ "title": "gold rings with the CTX3030 on the beach",
+ "seo": {
+  "title": "CTX3030 metal detecting beach gold - Blog",
+  "description": "beach metal detecting minelab ctx 3030 finds gold, where and how to find gold with a metal detector",
+  "keywords": "metal detecting, best beach metal detector uk, metal detector for gold, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?gold-rings-and-some-coins-with-the-ctx3030-on-the-beach",
+  "og": {
+   "title": "gold rings with the CTX3030 on the beach",
+   "description": "beach metal detecting minelab ctx 3030 finds gold, where and how to find gold with a metal detector",
+   "image": "https://www.paulcee.co.uk/blog/files/pdc-sticker_sml_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?gold-rings-and-some-coins-with-the-ctx3030-on-the-beach"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-08-28T04:51:00",
+    "dateModified": "2019-08-28T04:51:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "gold rings with the CTX3030 on the beach",
+    "description": "Minelab CTX 3030 Finds Gold beach metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?gold-rings-and-some-coins-with-the-ctx3030-on-the-beach",
+    "image": [
+     "https://www.paulcee.co.uk/images/250515.png",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/pdc-sticker_sml.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201908",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX",
+      "item": "https://www.paulcee.co.uk/blog/?tag=CTX",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "3030",
+      "item": "https://www.paulcee.co.uk/blog/?tag=3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold rings with the CTX3030 on the beach",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-08-28T04:51:00",
+ "dateModified": "2019-08-28T04:51:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "CTX",
+  "3030",
+  "uk",
+  "minelab",
+  "metal",
+  "detecting",
+  "uk"
+ ],
+ "readTime": 1,
+ "summary": "Minelab CTX 3030 Finds Gold beach metal detecting",
+ "cover": "blog/files/pdc-sticker_sml.jpg",
+ "heroVideo": "R-NBlW0Xs_I",
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2xJ0AJW\" data-kind=\"affiliate\"><img src=\"@img:images/250515.png\" alt=\"find gold beach metal detecting cleethorpes metal detecting\" title=\"find gold beach metal detecting\" width=\"619\" height=\"415\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Beach Metal Detecting on the East Coast of England, Using the <a href=\"@ctx3030/\" data-kind=\"internal\">Minelab</a> CTX3030, with the stock coil and 17\" coil, some really deep targets <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">gold rings</a> and pre decimal coins."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Minelab CTX 3030 beach Detecting\" title=\"Minelab CTX 3030 beach Detecting\" width=\"616\" height=\"616\">"
+  }
+ ],
+ "images": [
+  "images/250515.png",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "R-NBlW0Xs_I"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2xJ0AJW"
+ ]
+}

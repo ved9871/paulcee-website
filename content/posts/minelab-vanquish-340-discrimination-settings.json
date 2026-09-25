@@ -1,0 +1,370 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-340-discrimination-settings",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-340-discrimination-settings",
+ "title": "Minelab Vanquish 340 Discrimination settings",
+ "seo": {
+  "title": "Minelab Vanquish 340 Discrimination settings - Blog",
+  "description": "how to use and set up discrimination on a minelab vanquish metal detector",
+  "keywords": "minelab vanquish, discrimination settings, how to, help, metal detector, uk settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-340-discrimination-settings",
+  "og": {
+   "title": "Minelab Vanquish 340 Discrimination settings",
+   "description": "how to use and set up discrimination on a minelab vanquish metal detector",
+   "image": "https://www.paulcee.co.uk/blog/files/vanq_tutorials_discrim_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-340-discrimination-settings"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-18T19:17:00",
+    "dateModified": "2020-05-18T19:17:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish 340 Discrimination settings",
+    "description": "Minelab Vanquish 340 Discrimination Settings for effective beach metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-340-discrimination-settings",
+    "image": [
+     "https://www.paulcee.co.uk/images/vanquish_discrim.jpg",
+     "https://www.paulcee.co.uk/blog/files/vanq_tutorials_discrim_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "340",
+      "item": "https://www.paulcee.co.uk/blog/?tag=340",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "discrimination",
+      "item": "https://www.paulcee.co.uk/blog/?tag=discrimination",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 340 Discrimination settings",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-18T19:17:00",
+ "dateModified": "2020-05-18T19:17:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish Settings",
+ "categorySlug": "Minelab_Vanquish_Settings",
+ "tags": [
+  "minelab",
+  "vanquish",
+  "340",
+  "metal",
+  "detector",
+  "discrimination",
+  "settings"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Vanquish 340 Discrimination Settings for effective beach metal detecting",
+ "cover": "blog/files/vanq_tutorials_discrim_web.jpg",
+ "heroVideo": "hqBnFZE2Q80",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/vanquish_discrim.jpg\" alt=\"Discrimination settings on minelab Vanquish 340 metal detector\" title=\"Minelab Vanquish 340 Discrimination tutorial\" width=\"621\" height=\"348\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Vanquish 340 discrimination"
+  },
+  {
+   "t": "p",
+   "html": "is simple to setup for effective beach metal detecting."
+  },
+  {
+   "t": "p",
+   "html": "The first pre set program on the <a href=\"@minelab-vanquish-40-series/\" data-kind=\"internal\">Minelab VANQUISH</a> 340 is coin mode, this has a larger amount of discrimination from 0-9, this mode has a slightly lower recover speed but eliminates olwer conductive targets that could be desirable targets you can find on the beach."
+  },
+  {
+   "t": "p",
+   "html": "The Second preset search mode of the <a href=\"http://bit.ly/mnlbVnqush\" data-kind=\"affiliate\">Vanquish 340</a> is Jewellery mode a faster pre set recovery speed and less discrimination from 0-40, this is the mode that is most suitable for quick effective beach detecting."
+  },
+  {
+   "t": "p",
+   "html": "The Third Preset mode is all metal mode in which there is no discrimination of any metal Ferrous or Non Ferrous, for the beginner to metal detecting this can be slightly overwhelming as the Vanquish 340 has the possibilty of sounding off all of the time if there are metal targets below the search coil"
+  },
+  {
+   "t": "p",
+   "html": "join us next time for <a href=\"@minelab-vanquish-60-settings/\" data-kind=\"internal\">Minelab Vanquish 540 setting</a> and beach settings"
+  },
+  {
+   "t": "p",
+   "html": "If you need to see how to setup MINELAB VANQUISH 340 SENSITIVITY the Video is HERE"
+  }
+ ],
+ "images": [
+  "images/vanquish_discrim.jpg"
+ ],
+ "videos": [
+  "hqBnFZE2Q80"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q",
+  "http://bit.ly/mnlbVnqush"
+ ]
+}

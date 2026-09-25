@@ -1,0 +1,183 @@
+{
+ "type": "post",
+ "slug": "metal-detectors-used-in-the-grand-tour",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detectors-used-in-the-grand-tour",
+ "title": "metal detectors used in the grand tour",
+ "seo": {
+  "title": "metal detectors used in the grand tour - Blog",
+  "description": "We Look at the metal detector which featured in the Grand Tour on Amazon with Clarksom, May and Hammond, in a Massive Hunt",
+  "keywords": "metal detector, the grand tour, a massive hunt, what metal detector, new to metal detecting",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detectors-used-in-the-grand-tour",
+  "og": {
+   "title": "metal detectors used in the grand tour",
+   "description": "We Look at the metal detector which featured in the Grand Tour on Amazon with Clarksom, May and Hammond, in a Massive Hunt",
+   "image": "https://www.paulcee.co.uk/blog/files/Massive-hunt-web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detectors-used-in-the-grand-tour"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-12-18T17:34:00",
+    "dateModified": "2020-12-18T17:34:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "metal detectors used in the grand tour",
+    "description": "the grand tour a massive hunt metal detectors used",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detectors-used-in-the-grand-tour",
+    "image": [
+     "https://www.paulcee.co.uk/images/Massive-hunt-web.jpg",
+     "https://www.paulcee.co.uk/blog/files/Massive-hunt-web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Dec 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202012",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detectors used in the grand tour",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detectors used in the grand tour",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detectors used in the grand tour",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-12-18T17:34:00",
+ "dateModified": "2020-12-18T17:34:00",
+ "author": "David Wallace",
+ "category": "metal detecting",
+ "categorySlug": "metal_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "the grand tour a massive hunt metal detectors used",
+ "cover": "blog/files/Massive-hunt-web.jpg",
+ "heroVideo": "64EZU8zFQFg",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/Massive-hunt-web.jpg\" alt=\"what metal detectors were used in the grand tour\" title=\"grand tour massive hunt metal detectors used\" width=\"622\" height=\"597\">"
+  },
+  {
+   "t": "h2",
+   "html": "The Grand tour A MASSIVE HUNT"
+  },
+  {
+   "t": "p",
+   "html": "see the team going on a treasure hunt, with the usual messing about from the cast."
+  },
+  {
+   "t": "p",
+   "html": "Metal detectors used in the GRAND TOUR A MASSIVE HUNT were the <a href=\"@ctx3030/\" data-kind=\"internal\">MINELAB CTX 3030 </a> and the Entry level Minelab Go-Find Metal Detectors"
+  },
+  {
+   "t": "p",
+   "html": "Minelab CTX 3030 used properly can reward with superb finds"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\">To Buy Either the Minelab CTX 3030 or Minelab Go Find metal detectors</a>"
+  }
+ ],
+ "images": [
+  "images/Massive-hunt-web.jpg"
+ ],
+ "videos": [
+  "64EZU8zFQFg"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

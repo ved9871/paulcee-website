@@ -1,0 +1,329 @@
+{
+ "type": "post",
+ "slug": "be-successful-metal-detecting-beach",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?be-successful-metal-detecting-beach",
+ "title": "be successful metal detecting beach",
+ "seo": {
+  "title": "be successful metal detecting beach - Blog",
+  "description": "where and how to metal detect on a beach",
+  "keywords": "beach detecting, minelab, crawfords, metal detector, uk, tutorial",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?be-successful-metal-detecting-beach",
+  "og": {
+   "title": "be successful metal detecting beach",
+   "description": "where and how to metal detect on a beach",
+   "image": "https://www.paulcee.co.uk/blog/files/minelab-2026_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?be-successful-metal-detecting-beach"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-01-09T09:00:00",
+    "dateModified": "2026-01-09T09:00:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "be successful metal detecting beach",
+    "description": "Be a success at beach metal detecting in the UK",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?be-successful-metal-detecting-beach",
+    "image": [
+     "https://www.paulcee.co.uk/images/best-of-5_final1.jpg",
+     "https://www.paulcee.co.uk/blog/files/minelab-2026.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202601",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach metal detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=beach metal detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "be successful metal detecting beach",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-01-09T09:00:00",
+ "dateModified": "2026-01-09T09:00:00",
+ "author": "Paul Cee",
+ "category": "beach metal detecting",
+ "categorySlug": "beach_metal_detecting",
+ "tags": [
+  "beach",
+  "metal",
+  "detecting",
+  "metal",
+  "detecting",
+  "uk"
+ ],
+ "readTime": 1,
+ "summary": "Be a success at beach metal detecting in the UK",
+ "cover": "blog/files/minelab-2026.jpg",
+ "heroVideo": "-se1nmB1E3w",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/best-of-5_final1.jpg\" alt=\"metal detecting for beginners\" title=\"how to be good a beach metal detecting\" width=\"304\" height=\"171\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Get the best results beach metal detecting, find all the gold that other people leave behind, where are the best places to metal detect on beach, we try all parts of the beach for the best results"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/CMDMDUK\" data-kind=\"affiliate\">Buy the best metal detectors here</a>"
+  },
+  {
+   "t": "p",
+   "html": "We think the Gold brooch buster Found is the front part of the one i found a couple of years ago, but we have yet to put the 2 together as the lockdown prevents us, but in the future we hope they are both from the same brooch"
+  }
+ ],
+ "images": [
+  "images/best-of-5_final1.jpg"
+ ],
+ "videos": [
+  "-se1nmB1E3w"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q",
+  "http://bit.ly/CMDMDUK"
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-v3-update-2020-4khz-added",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-v3-update-2020-4khz-added",
+ "title": "Minelab Equinox V3 UPDATE 2020 4khz added",
+ "seo": {
+  "title": "Minelab Equinox V3 UPDATE 2020 4khz added - Blog",
+  "description": "Minelab Equinox update V3 2020 how to download and install",
+  "keywords": "Metal, Detecting, UK, Crawfords metal detectors, minelab metal detectors, metal detector tutorial, minelab vanquish, minelab manticore, minelab equinox, minelab detexpert",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-v3-update-2020-4khz-added",
+  "og": {
+   "title": "Minelab Equinox V3 UPDATE 2020 4khz added",
+   "description": "Minelab Equinox update V3 2020 how to download and install",
+   "image": "https://www.paulcee.co.uk/blog/files/update-v3_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-v3-update-2020-4khz-added"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-07-25T09:20:00",
+    "dateModified": "2020-07-25T09:20:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Equinox V3 UPDATE 2020 4khz added",
+    "description": "Minelab Equinox update V3 2020 how to download and install",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-v3-update-2020-4khz-added",
+    "image": [
+     "https://www.paulcee.co.uk/images/update-v3.jpg",
+     "https://www.paulcee.co.uk/blog/files/update-v3.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202007",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "update",
+      "item": "https://www.paulcee.co.uk/blog/?tag=update",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "2020",
+      "item": "https://www.paulcee.co.uk/blog/?tag=2020",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "how",
+      "item": "https://www.paulcee.co.uk/blog/?tag=how",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "to",
+      "item": "https://www.paulcee.co.uk/blog/?tag=to",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox V3 UPDATE 2020 4khz added",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-07-25T09:20:00",
+ "dateModified": "2020-07-25T09:20:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [
+  "minelab",
+  "equinox",
+  "update",
+  "2020",
+  "how",
+  "to"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Equinox update V3 2020 how to download and install",
+ "cover": "blog/files/update-v3.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/update-v3.jpg\" alt=\"4khz added to the minelab equinox what other features have been added\" title=\"minelab equinox update latest version\" width=\"304\" height=\"171\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox Update latest version"
+  },
+  {
+   "t": "p",
+   "html": "is now available for download and installing to minelab Equinox metal detectors."
+  },
+  {
+   "t": "h3",
+   "html": "what features does the minelab equinox update 3 have?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "A new Single Frequency of 4 kHz has been added to the existing 5, 10, 15, 20 and 40 kHz options."
+  },
+  {
+   "t": "p",
+   "html": "This new 4 kHz frequency enhances the detection of large deep targets, particularly those found in parts of Asia."
+  },
+  {
+   "t": "p",
+   "html": "As a result of optimising for these conditions, this new frequency may respond differently for users compared to the other single frequencies."
+  },
+  {
+   "t": "p",
+   "html": "All other single and multi-frequency settings are unchanged in their performance. In addition to the 4 kHz upgrade feature, various stability enhancements have been included."
+  },
+  {
+   "t": "h3",
+   "html": "For step-by-step instructions on downloading the software",
+   "inferred": true
+  },
+  {
+   "t": "video",
+   "id": "TemGGVBz8QQ",
+   "title": ""
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.minelab.com/equinox-software-update-3-0\" data-kind=\"affiliate\">Download the Minelab Equinox software utility</a>"
+  }
+ ],
+ "images": [
+  "images/update-v3.jpg"
+ ],
+ "videos": [
+  "TemGGVBz8QQ"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q",
+  "https://www.minelab.com/equinox-software-update-3-0"
+ ]
+}

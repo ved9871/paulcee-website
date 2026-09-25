@@ -1,0 +1,227 @@
+{
+ "type": "post",
+ "slug": "why-detectors-miss-targets",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?why-detectors-miss-targets",
+ "title": "why detectors miss targets",
+ "seo": {
+  "title": "why detectors miss things - Blog",
+  "description": "a rally we attendend and waited for all the detectorists to set off, be amazed at what they all missed with their metal detectors",
+  "keywords": "metal detecting, crawfords metal detectors, minelab, manricore, equinox 900, rally 24",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?why-detectors-miss-targets",
+  "og": {
+   "title": "why detectors miss targets",
+   "description": "a rally we attendend and waited for all the detectorists to set off, be amazed at what they all missed with their metal detectors",
+   "image": "https://www.paulcee.co.uk/blog/files/101223_manticore1_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?why-detectors-miss-targets"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2023-12-13T17:46:00",
+    "dateModified": "2023-12-13T17:46:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "why detectors miss targets",
+    "description": "what they missed was shocking",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?why-detectors-miss-targets",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_1mwc8qn1.png",
+     "https://www.paulcee.co.uk/images/Untitled.jpg",
+     "https://www.paulcee.co.uk/images/P1010738.jpg",
+     "https://www.paulcee.co.uk/images/P1010734.jpg",
+     "https://www.paulcee.co.uk/images/P1010743.jpg",
+     "https://www.paulcee.co.uk/blog/files/101223_manticore1.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Dec 2023",
+      "item": "https://www.paulcee.co.uk/blog/?month=202312",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "why detectors miss targets",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "why detectors miss targets",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "why detectors miss targets",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2023-12-13T17:46:00",
+ "dateModified": "2023-12-13T17:46:00",
+ "author": "Paul Cee",
+ "category": "metal detecting",
+ "categorySlug": "metal_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "what they missed was shocking",
+ "cover": "blog/files/101223_manticore1.jpg",
+ "heroVideo": "a23x4dUgTg8",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_1mwc8qn1.png\" alt=\"crawfords metal detecting uk discount code\" title=\"metal detecting finds uk\" width=\"90\" height=\"90\">"
+  },
+  {
+   "t": "h2",
+   "html": "metal detectorists miss targets"
+  },
+  {
+   "t": "h3",
+   "html": "Metal detectorists are always on the hunt for hidden treasures."
+  },
+  {
+   "t": "p",
+   "html": "but sometimes their excitement can lead them to go too fast. It's no secret that metal detectors can miss targets if they are not used properly, and one common mistake is rushing through the search area. Whether it's the desire to cover more ground or simply impatience, going too fast can cause detectors to overlook valuable finds. So, slow down, take your time, and let your metal detector do its job properly. You never know what treasures you might find if you give it the chance!"
+  },
+  {
+   "t": "p",
+   "html": "heres is what we found detecting where all the other 80 metal detectorists started, how could anybody actually miss some of these targets.."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/Untitled.jpg\" alt=\"a bag seal found with a metal detector\" title=\"bag seal find\" width=\"147\" height=\"83\">"
+  },
+  {
+   "t": "p",
+   "html": "Not sure if this is a Bag seal or a something similar"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1010738.jpg\" alt=\"metal detecting find is a cut quarter hammered coin\" title=\"quarter hammered coin metal detecting find\" width=\"145\" height=\"82\">"
+  },
+  {
+   "t": "p",
+   "html": "1/4 cut hammered coin unknown date"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1010734.jpg\" alt=\"1911 Silver sixpence from king george V\" title=\"1911 Silver Sixpence\" width=\"144\" height=\"81\">"
+  },
+  {
+   "t": "p",
+   "html": "1911 silver sixpence from King George V"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1010743.jpg\" alt=\"king george copper half penny 1932\" title=\"1932 copper halfpenny\" width=\"142\" height=\"80\">"
+  },
+  {
+   "t": "p",
+   "html": "1932 Copper half penny king george"
+  },
+  {
+   "t": "p",
+   "html": "So you can see if you rush about when metal detecting and dont have your detector setup correctly you will miss things."
+  },
+  {
+   "t": "p",
+   "html": "Check out the video to see what else was missed."
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_1mwc8qn1.png",
+  "images/Untitled.jpg",
+  "images/P1010738.jpg",
+  "images/P1010734.jpg",
+  "images/P1010743.jpg"
+ ],
+ "videos": [
+  "a23x4dUgTg8"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

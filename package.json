@@ -1,0 +1,15 @@
+{
+  "name": "paulcee-website",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Redesign of paulcee.co.uk — Paul Cee Metal Detecting (design preview + content migration)",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "build:prod": "MODE=production node src/build.mjs",
+    "check": "node src/check.mjs",
+    "serve": "node src/serve.mjs 4173",
+    "dev": "node src/build.mjs && node src/serve.mjs 4173"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,478 @@
+{
+ "type": "post",
+ "slug": "a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen",
+ "title": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+ "seo": {
+  "title": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen - Blog",
+  "description": "Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.",
+  "keywords": "Minelab Manticore, 2D Screen, Target ID Map, gold detection, metal detecting, beginner guide, trash identification, treasure hunting, metal detector tips",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen",
+  "og": {
+   "title": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+   "description": "Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.",
+   "image": "https://www.paulcee.co.uk/blog/files/210523_manticore_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2025-12-24T11:11:00",
+    "dateModified": "2025-12-24T11:11:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+    "description": "Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen",
+    "image": [
+     "https://www.paulcee.co.uk/images/2026-thumb_8esxlmtp.jpg",
+     "https://www.paulcee.co.uk/images/2d-screen.jpg",
+     "https://www.paulcee.co.uk/images/2d-blog.jpg",
+     "https://www.paulcee.co.uk/blog/files/210523_manticore.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Dec 2025",
+      "item": "https://www.paulcee.co.uk/blog/?month=202512",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=minelab manticore settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "manticore",
+      "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "2d",
+      "item": "https://www.paulcee.co.uk/blog/?tag=2d",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ferrous",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ferrous",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "limits",
+      "item": "https://www.paulcee.co.uk/blog/?tag=limits",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2025-12-24T11:11:00",
+ "dateModified": "2025-12-24T11:11:00",
+ "author": "Paul Cee",
+ "category": "minelab manticore settings",
+ "categorySlug": "minelab_manticore_settings",
+ "tags": [
+  "minelab",
+  "manticore",
+  "settings",
+  "2d",
+  "ferrous",
+  "limits"
+ ],
+ "readTime": 4,
+ "summary": "Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.",
+ "cover": "blog/files/210523_manticore.jpg",
+ "heroVideo": "Kt3HQN17ank",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/2026-thumb_8esxlmtp.jpg\" alt=\"Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.\" title=\"minelab manticore settings\" width=\"176\" height=\"176\">"
+  },
+  {
+   "t": "h2",
+   "html": "Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash."
+  },
+  {
+   "t": "h3",
+   "html": "Introduction",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Every metal detectorist knows the feeling. You get a solid, target tone signal. The Target ID number looks promising. You dig a perfect plug, anticipating a silver coin, only to pull out… a rusty bottle cap. Again."
+  },
+  {
+   "t": "p",
+   "html": "If you are looking at upgrading to the Minelab Manticore, you have likely heard about its \"Beast\" power. But the real game-changer isn't just the depth—it’s the screen."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/2d-screen.jpg\" alt=\"Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.\" title=\"minelab manticore 2D screen\" width=\"174\" height=\"174\">"
+  },
+  {
+   "t": "p",
+   "html": "The Manticore uses a revolutionary 2D Target ID Map (also known as Target Trace) that gives you X-ray vision into the ground. But if you’ve never used a high-end Minelab machine, the screen can look like a confusing scattering of dots."
+  },
+  {
+   "t": "p",
+   "html": "In this guide, we’ll demystify the Manticore’s display so you can stop guessing and start finding."
+  },
+  {
+   "t": "h3",
+   "html": "The Problem with \"Old School\" Numbers",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "To understand why the Manticore is special, you have to understand the limitation of traditional detectors."
+  },
+  {
+   "t": "p",
+   "html": "Most detectors operate on a 1D (One-Dimensional) scale. They give you a single number (e.g., \"55\") based on conductivity."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Issue:</strong> A gold ring and a modern aluminium pull tab often share the exact same conductivity. A detector relying only on ID numbers can't tell the difference. You have to dig it to find out."
+  },
+  {
+   "t": "h3",
+   "html": "Enter the 2D Map: Seeing the Shape of Sound",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Manticore doesn't just measure conductivity; it measures ferrous limits (magnetic properties) at the same time. It plots this information on a visual graph."
+  },
+  {
+   "t": "p",
+   "html": "Here is the simple breakdown of the screen layout:"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/2d-blog.jpg\" alt=\"how to use the minelab manticore 2D screen in real world metal detecting\" title=\"minelab manticore 2d screen settings\" width=\"198\" height=\"198\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Horizontal Line (Centre):</strong> This is the \"Non-Ferrous\" zone. Treasure lives here. Coins, silver, and copper usually appear as tight dots directly on or near this centre line."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Vertical Space (Top &amp; Bottom):</strong> This is the \"Ferrous\" zone. Iron junk lives here. Nails, wire, and rusty bits usually appear scattered at the very top or very bottom of the screen."
+  },
+  {
+   "t": "h3",
+   "html": "Real-World Scenarios: What to Look For",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Here is how to interpret the shapes (\"traces\") you see on the screen to decide if you should dig."
+  },
+  {
+   "t": "h3",
+   "html": "1. The Solid Dot (Dig It!)",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Target:</strong> A silver coin or copper penny (Modern Copper coins do have an \"iron Core\" and will sometimes give a tone as-well as going into the upper ferrous limits."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Screen:</strong> You will see a tight, round dot sitting perfectly on the centre horizontal line. It doesn't move much as you swing back and forth. This is a clean, conductive target."
+  },
+  {
+   "t": "h3",
+   "html": "2. The \"Smear\" (Caution!)",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Target:</strong> A jagged piece of aluminium can slaw or an oddly shaped lead object. The Screen: Instead of a tight dot, the graphic looks like a smear or a blob that stretches diagonally. While it might sound good, the visual shape tells you the object is irregular."
+  },
+  {
+   "t": "h3",
+   "html": "3. The Bottle Cap Trick (The Money Saver)",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Target:</strong> A steel bottle cap. The Screen: This is where the Manticore shines. On a normal detector, this sounds like a coin. On the Manticore, the target might start near the centre line, but as you swing, the visual trace will drag or \"hook\" down into the ferrous (iron) zone at the bottom."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Verdict:</strong> If the dot drags into the iron zone, walk away."
+  },
+  {
+   "t": "h3",
+   "html": "Why Multi-IQ+ Makes This Possible",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "This visual accuracy is powered by Multi-IQ+ technology. Because the Manticore is blasting multiple frequencies into the ground simultaneously, it gets a complete picture of the target's metal composition."
+  },
+  {
+   "t": "p",
+   "html": "It’s the difference between hearing a description of an object and actually seeing a picture of it."
+  },
+  {
+   "t": "h3",
+   "html": "Rapid-Fire Tips for Manticore Beginners",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>Trust Your Ears First:</strong> The Manticore’s audio is incredibly descriptive. Use the screen to confirm what your ears are telling you, not to replace them."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Watch the \"Tails\":</strong> If a target signal looks good but has a faint \"tail\" or smear reaching into the top or bottom iron limits, it’s likely a rusted washer or bent nail trying to trick you."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Test It Yourself:</strong> Before you head to the field, bury a coin and a bottle cap in your garden. Swing over them and watch how the screen reacts differently to each."
+  },
+  {
+   "t": "h3",
+   "html": "Ready to Unleash the Beast?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The learning curve of the Minelab Manticore is much shorter than you think. Once you learn to recognize the \"good shapes\" from the \"bad shapes,\" you will find yourself digging much less trash and recovering deeper targets than ever before."
+  },
+  {
+   "t": "p",
+   "html": "<strong><a href=\"https://crawfordsmd.com/minelab-manticore?tracking=fa202437c9\" data-kind=\"affiliate\">Shop the Minelab Manticore Here</a></strong>"
+  }
+ ],
+ "images": [
+  "images/2026-thumb_8esxlmtp.jpg",
+  "images/2d-screen.jpg",
+  "images/2d-blog.jpg"
+ ],
+ "videos": [
+  "Kt3HQN17ank"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/minelab-manticore?tracking=fa202437c9"
+ ]
+}

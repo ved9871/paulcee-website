@@ -1,0 +1,400 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-setup",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-setup",
+ "title": "minelab Vanquish setup",
+ "seo": {
+  "title": "minelab Vanquish setup - Blog",
+  "description": "minelab vanquish features, setting and what the buttons do, what you can change to make it easy to metal detect as a beginner",
+  "keywords": "minelab vanquish settings, minelab vanquish 540 settings, metal detecting for a beginner, learn to metal detect",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-setup",
+  "og": {
+   "title": "minelab Vanquish setup",
+   "description": "minelab vanquish features, setting and what the buttons do, what you can change to make it easy to metal detect as a beginner",
+   "image": "https://www.paulcee.co.uk/blog/files/vs191023-002_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-setup"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-10-26T18:03:00",
+    "dateModified": "2019-10-26T18:03:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "minelab Vanquish setup",
+    "description": "minelab vanquish setup, review, metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-setup",
+    "image": "https://www.paulcee.co.uk/blog/files/vs191023-002_web.jpg",
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201910",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "update",
+      "item": "https://www.paulcee.co.uk/blog/?tag=update",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "540",
+      "item": "https://www.paulcee.co.uk/blog/?tag=540",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "pro",
+      "item": "https://www.paulcee.co.uk/blog/?tag=pro",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "pack",
+      "item": "https://www.paulcee.co.uk/blog/?tag=pack",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "540",
+      "item": "https://www.paulcee.co.uk/blog/?tag=540",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "440",
+      "item": "https://www.paulcee.co.uk/blog/?tag=440",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "340",
+      "item": "https://www.paulcee.co.uk/blog/?tag=340",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Vanquish setup",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-10-26T18:03:00",
+ "dateModified": "2019-10-26T18:03:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish Settings",
+ "categorySlug": "Minelab_Vanquish_Settings",
+ "tags": [
+  "minelab",
+  "vanquish",
+  "update",
+  "540",
+  "pro",
+  "pack",
+  "540",
+  "440",
+  "340"
+ ],
+ "readTime": 1,
+ "summary": "minelab vanquish setup, review, metal detecting",
+ "cover": "blog/files/vs191023-002_web.jpg",
+ "heroVideo": "yA7hhnbGFwI",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Minelab Vanquish Metal detectors settings"
+  },
+  {
+   "t": "p",
+   "html": "Minelab Vanquish 540 MULTI IQ Metal Detector SET Up &amp; Features metal detecting."
+  },
+  {
+   "t": "p",
+   "html": "what is the best metal detector? for beginners or as a backup metal detector?"
+  },
+  {
+   "t": "p",
+   "html": "Looking at Set up the minelab vanquish programs for metal detecting coins, relics and jewelry. minelab vanquish tones, recovery speed, sensitivity, what headphones will work with the minelab vanquish?."
+  },
+  {
+   "t": "p",
+   "html": "Minelab Vanquish 340, 440, 540 and 540 pro pack features and comparisons"
+  }
+ ],
+ "images": [],
+ "videos": [
+  "yA7hhnbGFwI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

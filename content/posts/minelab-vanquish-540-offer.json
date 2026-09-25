@@ -1,0 +1,173 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-540-offer",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540-offer",
+ "title": "Minelab Vanquish 540 OFFER",
+ "seo": {
+  "title": "Minelab Vanquish 540 OFFER - Blog",
+  "description": "Minelab Vanquish UK best price",
+  "keywords": "Minelab, Vanquish, 540, best, price, metal, detector, uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540-offer",
+  "og": {
+   "title": "Minelab Vanquish 540 OFFER",
+   "description": "Minelab Vanquish UK best price",
+   "image": "https://www.paulcee.co.uk/blog/files/340c_Final2offer_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540-offer"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-07-11T16:23:00",
+    "dateModified": "2021-07-11T16:23:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish 540 OFFER",
+    "description": "Summer offer for the Minelab Vanquish 540 PRO PACK",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540-offer",
+    "image": [
+     "https://www.paulcee.co.uk/images/340c_Final2offer.jpg",
+     "https://www.paulcee.co.uk/blog/files/340c_Final2offer.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202107",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540 OFFER",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540 OFFER",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540 OFFER",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-07-11T16:23:00",
+ "dateModified": "2021-07-11T16:23:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Summer offer for the Minelab Vanquish 540 PRO PACK",
+ "cover": "blog/files/340c_Final2offer.jpg",
+ "heroVideo": "T8Bpd1S_oCM",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/340c_Final2offer.jpg\" alt=\"minelab vanquish best price\" title=\"minelab vanquish best price\" width=\"430\" height=\"242\">"
+  },
+  {
+   "t": "p",
+   "html": "SUMMER OFFER for the Minelab Vanquish 540 Pro Pack."
+  },
+  {
+   "t": "p",
+   "html": "Find out More... <a href=\"https://www.crawfordsmd.com/metal-detectors/minelab/minelab-vanquish/minelab-vanquish540-pro\" data-kind=\"affiliate\">HERE</a>"
+  }
+ ],
+ "images": [
+  "images/340c_Final2offer.jpg"
+ ],
+ "videos": [
+  "T8Bpd1S_oCM"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detectors/minelab/minelab-vanquish/minelab-vanquish540-pro"
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-dig-less-iron",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-dig-less-iron",
+ "title": "Minelab Vanquish dig less iron",
+ "seo": {
+  "title": "Minelab Vanquish dig less iron - Blog",
+  "description": "how to tell iron in the ground, with a minelab Vanquish Metal detector",
+  "keywords": "Minelab, Vanquish, Tutorial, detecting, metal, iron",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-dig-less-iron",
+  "og": {
+   "title": "Minelab Vanquish dig less iron",
+   "description": "how to tell iron in the ground, with a minelab Vanquish Metal detector",
+   "image": "https://www.paulcee.co.uk/blog/files/vanquish-short_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-dig-less-iron"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2022-06-25T16:42:00",
+    "dateModified": "2022-06-25T16:42:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish dig less iron",
+    "description": "Help identify IRON with a Minelab Vanquish",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-dig-less-iron",
+    "image": "https://www.paulcee.co.uk/blog/files/vanquish-short_web.jpg",
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jun 2022",
+      "item": "https://www.paulcee.co.uk/blog/?month=202206",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish dig less iron",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish dig less iron",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish dig less iron",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish dig less iron",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish dig less iron",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "iron",
+      "item": "https://www.paulcee.co.uk/blog/?tag=iron",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish dig less iron",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "identification",
+      "item": "https://www.paulcee.co.uk/blog/?tag=identification",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish dig less iron",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2022-06-25T16:42:00",
+ "dateModified": "2022-06-25T16:42:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "minelab",
+  "vanquish",
+  "iron",
+  "identification"
+ ],
+ "readTime": 2,
+ "summary": "Help identify IRON with a Minelab Vanquish",
+ "cover": "blog/files/vanquish-short_web.jpg",
+ "heroVideo": "R3axDr_92yc",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Digging iron with a metal detector"
+  },
+  {
+   "t": "p",
+   "html": "can be a whole heap of time wasting, although some areas that we detect it can be a good thing to do as iron swords etc can be found and not left behind."
+  },
+  {
+   "t": "p",
+   "html": "Identifying iron can be a useful tool in your detecting knowledge, The Minelab Vanquish is pretty good at discriminating iron or small and regular shaped, but as with all metal detectors large or circular shaped iron can cause a positive signal usually a tone and target I.d. on the vanquish series at around the number 18."
+  },
+  {
+   "t": "p",
+   "html": "1 if you have a signal which breaks up and the numbers jump negative to the mid 20's it could be iron."
+  },
+  {
+   "t": "p",
+   "html": "2 if you raise your coil above the ground and swing listening for the signal, then look at the long part down the center of the search coil and make an imaginary line where you get the tone, then turn to 90 dgrs and down the same but the tone isnt locked to the same place then usually it is iron."
+  },
+  {
+   "t": "p",
+   "html": "3. Pump the coil above the target area if you can get a solid reading and the numbers jump then generally it is iron"
+  }
+ ],
+ "images": [],
+ "videos": [
+  "R3axDr_92yc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

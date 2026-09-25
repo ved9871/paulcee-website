@@ -1,0 +1,232 @@
+{
+ "type": "post",
+ "slug": "good-gold-ring-beach-metal-detect",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?good-gold-ring-beach-metal-detect",
+ "title": "good gold ring beach metal detect",
+ "seo": {
+  "title": "good gold ring beach metal detecting - Blog",
+  "description": "gold submariners ring found metal detecting on a beach in england, this was a really nice find with the Minelab ctx 3030",
+  "keywords": "ww1 metal detecting finds, metal detecting uk, minelab ctx 3030 uk, ctx 3030 beach program",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?good-gold-ring-beach-metal-detect",
+  "og": {
+   "title": "good gold ring beach metal detect",
+   "description": "gold submariners ring found metal detecting on a beach in england, this was a really nice find with the Minelab ctx 3030",
+   "image": "https://www.paulcee.co.uk/blog/files/45-mm-stickerWeb_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?good-gold-ring-beach-metal-detect"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-08-28T18:20:00",
+    "dateModified": "2019-08-28T18:20:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "good gold ring beach metal detect",
+    "description": "Rare gold find beach metal detecting uk",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?good-gold-ring-beach-metal-detect",
+    "image": [
+     "https://www.paulcee.co.uk/images/resize--28-of-28-a.jpg",
+     "https://www.paulcee.co.uk/images/resize--6-of-11-.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/45-mm-stickerWeb.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201908",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good gold ring beach metal detect",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good gold ring beach metal detect",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "good gold ring beach metal detect",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-08-28T18:20:00",
+ "dateModified": "2019-08-28T18:20:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030",
+ "categorySlug": "CTX_3030",
+ "tags": [],
+ "readTime": 3,
+ "summary": "Rare gold find beach metal detecting uk",
+ "cover": "blog/files/45-mm-stickerWeb.jpg",
+ "heroVideo": "84Nvuph0aBQ",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/resize--28-of-28-a.jpg\" alt=\"beach metal detecting\" title=\"metal detect gold\" width=\"620\" height=\"347\">"
+  },
+  {
+   "t": "h2",
+   "html": "OLD Gold Submariners ring found with a metal detector"
+  },
+  {
+   "t": "p",
+   "html": "Well good to be back Metal detecting on the beach with the <a href=\"@ctx3030/\" data-kind=\"internal\">Minelab CTX 3030</a> and finding gold again, this time a nice gold ring that really is pretty cool, history of submariners on HMS Osiris II, not many old coins but some modern ones, good day when you get some sand movement, and then looking for the treasures its uncovered.."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/resize--6-of-11-.jpg\" alt=\"old gold ring found metal detecting\" title=\"cleethorpes beach detecting\" width=\"598\" height=\"449\">"
+  },
+  {
+   "t": "h3",
+   "html": "A Little bit about the HMS OSIRIS"
+  },
+  {
+   "t": "h3",
+   "html": "Ref: Wiki",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "HMS Osiris was an O-class submarine of the Royal Navy. She was laid down by Vickers-Armstrongs of Barrow-in-Furness on 12 May 1927, launched on 19 May 1928 and commissioned on 25 Jan 1929."
+  },
+  {
+   "t": "p",
+   "html": "She was first commissioned for service with the 4th Submarine Flotilla on the China Station."
+  },
+  {
+   "t": "p",
+   "html": "In September 1939, she was nominated for service on the East Indies Station and deployed with the 8th Flotilla at Colombo for flotilla duties. During January 1940 she transferred to the British Mediterranean Fleet and was deployed with the 1st Submarine Flotilla based at Alexandria."
+  },
+  {
+   "t": "p",
+   "html": "On 16 August 1940, Osiris sank the Italian merchantman Morea (1,968 tons) approximately 50 nautical miles (93 km; 58 mi) west of Durazzo, Albania, with gunfire in a surface engagement, after Morea twice evaded torpedoes fired at the ship."
+  },
+  {
+   "t": "p",
+   "html": "During an attack carried out on a convoy in the Otranto Strait on 22 September 1940 Osiris torpedoed and sank one of the convoy escorts, the Italian torpedo boat Palestro (875 tons displacement), approximately 40 nautical miles (74 km; 46 mi) west of Durazzo, Albania (position 41°19'N, 18°34'E).[2] On returning to Alexandria, Osiris received a package from the commanding officer of the flotilla with instructions \"not to come alongside unless this identity signal is showing\". The package contained a Jolly Roger which was duly hoisted. From that day onward the Captain (S) gave each submarine in his flotilla a Jolly Roger as soon as she had achieved a success on patrol."
+  },
+  {
+   "t": "p",
+   "html": "On 14 July 1941 Osiris damaged the Italian merchant ship Capo d'Orso (3,149 tons) with gunfire in a surface engagement near Argostolion, Kefalonia, Greece."
+  },
+  {
+   "t": "p",
+   "html": "In another surface engagement on the 27 June 1943, Osiris sank the Italian sailing vessel Vittorina (11 tons) north of Crete (position 36°12'N, 26°45'E) with gunfire."
+  },
+  {
+   "t": "p",
+   "html": "During the Allied invasion of Sicily from July to August 1943, she was deployed on interception patrol to prevent Italian warships interfering with the landings. From August 1943 she served with the Eastern Fleet training anti-submarine escorts before transferring to the new East Indies Fleet in November 1944."
+  },
+  {
+   "t": "p",
+   "html": "She was decommissioned on 7 March 1945."
+  },
+  {
+   "t": "p",
+   "html": "Osiris was sold to be broken up for scrap in September 1945. She was scrapped at Durban, South Africa."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"where is the best place to find gold\" title=\"where is the best place to find gold\" width=\"616\" height=\"616\">"
+  }
+ ],
+ "images": [
+  "images/resize--28-of-28-a.jpg",
+  "images/resize--6-of-11-.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "84Nvuph0aBQ"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

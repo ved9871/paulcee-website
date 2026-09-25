@@ -1,0 +1,195 @@
+{
+ "type": "post",
+ "slug": "cut-hammered-coins",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?cut-hammered-coins",
+ "title": "Cut Hammered coins",
+ "seo": {
+  "title": "minelab equinox Cut Hammered coins - Blog",
+  "description": "find very small cur hammered silver coins with a minelab equinox and the correct settings for where you are detecting, not beach to land settings",
+  "keywords": "minelab equinox uk, minelab equinox settings, paul cee, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?cut-hammered-coins",
+  "og": {
+   "title": "Cut Hammered coins",
+   "description": "find very small cur hammered silver coins with a minelab equinox and the correct settings for where you are detecting, not beach to land settings",
+   "image": "https://www.paulcee.co.uk/blog/files/P9020284_a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?cut-hammered-coins"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-09-04T19:10:00",
+    "dateModified": "2019-09-04T19:10:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Cut Hammered coins",
+    "description": "cut 1/4 hammered and Roman coins found metal detecting with the Equinox 800\n",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?cut-hammered-coins",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_yoz5yje9.png",
+     "https://www.paulcee.co.uk/images/detexpert-logosml_mqph5bcu.png",
+     "https://www.paulcee.co.uk/blog/files/P9020284_a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201909",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cut Hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cut Hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cut Hammered coins",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-09-04T19:10:00",
+ "dateModified": "2019-09-04T19:10:00",
+ "author": "David Wallace",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [],
+ "readTime": 1,
+ "summary": "cut 1/4 hammered and Roman coins found metal detecting with the Equinox 800\n",
+ "cover": "blog/files/P9020284_a.jpg",
+ "heroVideo": "RpzLl8jU_bM",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_yoz5yje9.png\" alt=\"paul cee crawfords metal detectors\" title=\"minelab manticore settings uk\" width=\"103\" height=\"103\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_mqph5bcu.png\" alt=\"paul cee crawfords metal detectors\" title=\"minelab equinox settings uk\" width=\"68\" height=\"101\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox small hammered coins"
+  },
+  {
+   "t": "p",
+   "html": "Metal detecting on Stubble with the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox</a> today we venture to the Midlands in England on another Rally."
+  },
+  {
+   "t": "p",
+   "html": "Set up the Equinox in Field 1 and 50 tones manual Ground balance ( ground Balance varied between 28 - 38) you could set the Ground Balance to tracking in such a circumstance. recovery speed 3 and iron Bias set at 2 generally picking out buttons and small pieces of lead."
+  },
+  {
+   "t": "p",
+   "html": "no real areas to call hot spots were found but once a decent target was found then an area of about 10 sq ft was gridded.."
+  },
+  {
+   "t": "p",
+   "html": "Join at <a href=\"http://bit.ly/2FsdkJD\" data-kind=\"affiliate\">MINELAB IN DEPTH</a> for all the latest news from minelab"
+  },
+  {
+   "t": "p",
+   "html": "for the latest news and information on the <a href=\"@minelab-vanquish-40-series/\" data-kind=\"internal\">MINELAB VANQUISH</a>"
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_yoz5yje9.png",
+  "images/detexpert-logosml_mqph5bcu.png"
+ ],
+ "videos": [
+  "RpzLl8jU_bM"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2FsdkJD"
+ ]
+}

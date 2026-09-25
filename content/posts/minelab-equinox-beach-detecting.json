@@ -1,0 +1,322 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-beach-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-detecting",
+ "title": "Minelab Equinox Beach Detecting",
+ "seo": {
+  "title": "Minelab Equinox Beach Detecting - Blog",
+  "description": "minelab equinox settings for beach metal detecting at cleethorpes",
+  "keywords": "minelab, equinox, 800, settings, crawfords, metal detectors, beach",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-detecting",
+  "og": {
+   "title": "Minelab Equinox Beach Detecting",
+   "description": "minelab equinox settings for beach metal detecting at cleethorpes",
+   "image": "https://www.paulcee.co.uk/blog/files/vs180221-001_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-02-23T19:34:00",
+    "dateModified": "2018-02-23T19:34:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Equinox Beach Detecting",
+    "description": "Beach Metal Detecting Uk, Tones and TID Display of the Minelab Equinox 800",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-detecting",
+    "image": "https://www.paulcee.co.uk/blog/files/vs180221-001.png",
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Feb 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201802",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "800",
+      "item": "https://www.paulcee.co.uk/blog/?tag=800",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beaches",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beaches",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Beach Detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-02-23T19:34:00",
+ "dateModified": "2018-02-23T19:34:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Minelab",
+  "Equinox",
+  "800",
+  "metal",
+  "detecting",
+  "beaches"
+ ],
+ "readTime": 1,
+ "summary": "Beach Metal Detecting Uk, Tones and TID Display of the Minelab Equinox 800",
+ "cover": "blog/files/vs180221-001.png",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "Minelab equinox 800 beach settings"
+  },
+  {
+   "t": "p",
+   "html": "Review of tones and TID on the beach metal detecting, Standard Setting beach program2 and 5 tones"
+  },
+  {
+   "t": "p",
+   "html": "no adjustment to the Iron Bias or Recovery speed, only tones and sensitivity changed on the beach detecting session"
+  },
+  {
+   "t": "video",
+   "id": "dWssiiW5bxI",
+   "title": ""
+  }
+ ],
+ "images": [],
+ "videos": [
+  "dWssiiW5bxI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

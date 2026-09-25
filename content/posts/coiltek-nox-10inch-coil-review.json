@@ -1,0 +1,296 @@
+{
+ "type": "post",
+ "slug": "coiltek-nox-10inch-coil-review",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?coiltek-nox-10inch-coil-review",
+ "title": "Coiltek Nox 10inch coil Review",
+ "seo": {
+  "title": "Coiltek Nox 10inch coil Review - Blog",
+  "description": "Coiltek NOX 10 inch coil test and review of the new search coils for the minelab equinox",
+  "keywords": "Coiltek, minelab, Equinox, coil, metal, detecting, uk, Review",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?coiltek-nox-10inch-coil-review",
+  "og": {
+   "title": "Coiltek Nox 10inch coil Review",
+   "description": "Coiltek NOX 10 inch coil test and review of the new search coils for the minelab equinox",
+   "image": "https://www.paulcee.co.uk/blog/files/14th-feb_gold1_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?coiltek-nox-10inch-coil-review"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-01-09T09:00:00",
+    "dateModified": "2026-01-09T09:00:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Coiltek Nox 10inch coil Review",
+    "description": "Coiltek NOX 10x5 Review and Test",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?coiltek-nox-10inch-coil-review",
+    "image": [
+     "https://www.paulcee.co.uk/images/14th-feb_gold1_web.jpg",
+     "https://www.paulcee.co.uk/blog/files/14th-feb_gold1_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202601",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox 10inch coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek NOX Coils",
+      "item": "https://www.paulcee.co.uk/blog/?category=Coiltek NOX Coils",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox 10inch coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox 10inch coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox 10inch coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Coiltek",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox 10inch coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Nox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox 10inch coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coil",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Coil",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Coiltek Nox 10inch coil Review",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-01-09T09:00:00",
+ "dateModified": "2026-01-09T09:00:00",
+ "author": "Paul Cee",
+ "category": "Coiltek NOX Coils",
+ "categorySlug": "Coiltek_NOX_Coils",
+ "tags": [
+  "Minelab",
+  "Coiltek",
+  "Nox",
+  "Coil"
+ ],
+ "readTime": 1,
+ "summary": "Coiltek NOX 10x5 Review and Test",
+ "cover": "blog/files/14th-feb_gold1_web.jpg",
+ "heroVideo": "vTH2CSCNpVU",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/14th-feb_gold1_web.jpg\" alt=\"Review and Test of the Coiltek Nox 10x5 Equinox coil\" title=\"Coiltek NOX 10x5 Coil Review\" width=\"249\" height=\"138\">"
+  },
+  {
+   "t": "h2",
+   "html": "Test and REVIEW of the COILTEK NOX 10x5 inch coil."
+  },
+  {
+   "t": "p",
+   "html": "This COILTEK Coil is IDEAL for metal detector searching in very trashy areas."
+  },
+  {
+   "t": "p",
+   "html": "We Came across some serious beach errosion and knew straight away the the Coiltek Nox Coil 10x5 would be ideal for this area."
+  },
+  {
+   "t": "p",
+   "html": "The Coiltek Coils will work with the EQUINOX 700 and 900 and also the Minelab x-terra Pro"
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Equinox paired with the Coiltek 10x5 NOX Coil is going to be an unrivaled power for searching trashy areas, rockpools and inbetween boulders."
+  },
+  {
+   "t": "p",
+   "html": "You can also keep on the Coiltek Coil for dry sand searching as it still has the 10 inch length to cover ground but also using the 5 inch width the easily identify targets that are close together."
+  },
+  {
+   "t": "p",
+   "html": "Are You intrested in the New range of COILTEK Coils for the Minelab Equinox??"
+  },
+  {
+   "t": "p",
+   "html": "Leave a comment below"
+  }
+ ],
+ "images": [
+  "images/14th-feb_gold1_web.jpg"
+ ],
+ "videos": [
+  "vTH2CSCNpVU"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

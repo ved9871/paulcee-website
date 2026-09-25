@@ -1,0 +1,191 @@
+{
+ "type": "post",
+ "slug": "metal-detecting-jackpot",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-jackpot",
+ "title": "Metal Detecting Jackpot",
+ "seo": {
+  "title": "minelab equinox hammered coins - Blog",
+  "description": "Minelab Equinox 800, setup up to find small silver hammered coins, metal detecting find of a lifetime for me",
+  "keywords": "equinox 800, metal detecting, awesome finds, relic hunting, minelab, metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-jackpot",
+  "og": {
+   "title": "Metal Detecting Jackpot",
+   "description": "Minelab Equinox 800, setup up to find small silver hammered coins, metal detecting find of a lifetime for me",
+   "image": "https://www.paulcee.co.uk/blog/files/5-hammered_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detecting-jackpot"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-07-14T18:24:00",
+    "dateModified": "2019-07-14T18:24:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Metal Detecting Jackpot",
+    "description": "what an EPIC day metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-jackpot",
+    "image": [
+     "https://www.paulcee.co.uk/images/5-hammered_web1.jpg",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_4o2m9k13.png",
+     "https://www.paulcee.co.uk/images/P1040834.jpg",
+     "https://www.paulcee.co.uk/images/P1040832.jpg",
+     "https://www.paulcee.co.uk/blog/files/5-hammered_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201907",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal Detecting Jackpot",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal Detecting Jackpot",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal Detecting Jackpot",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-07-14T18:24:00",
+ "dateModified": "2019-07-14T18:24:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "what an EPIC day metal detecting",
+ "cover": "blog/files/5-hammered_web.jpg",
+ "heroVideo": "QEZ8_DVFSDo",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/5-hammered_web1.jpg\" alt=\"hammered coin settings for the minelab Equinox\" title=\"Minelab Equinox 800 settings\" width=\"533\" height=\"300\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_4o2m9k13.png\" alt=\"paul cee beach and land settings for the minelab equinox\" title=\"minelab equinox settings\" width=\"89\" height=\"89\">"
+  },
+  {
+   "t": "h2",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\">http://bit.ly/2VcUX0q</a>hammered coins with a minelab equinox"
+  },
+  {
+   "t": "p",
+   "html": "What an awesome day metal detecting with the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox 800 </a>and 15 inch coil, fresh ploughed field"
+  },
+  {
+   "t": "p",
+   "html": "and the day just started off superb, setup the equinox in field 1 and 50 tones, manual ground balance recovery speed 3 and iron bias 2.. nice and steady swing speed and the hammered coins just kept coming every once in a while throughout the day.."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/P1040834.jpg\" alt=\"best settings to find hammered coins with a minelab equinox\" title=\"minelab equinox hammered coins\" width=\"623\" height=\"468\"></a><a href=\"@detecting-rallies-2026/\" data-kind=\"internal\"><img src=\"@img:images/P1040832.jpg\" alt=\"hammered cut coin with a minelab equinox\" title=\"find cut hammered coins metal detecting\" width=\"622\" height=\"351\"></a>"
+  }
+ ],
+ "images": [
+  "images/5-hammered_web1.jpg",
+  "images/YT-thumb_2020_4o2m9k13.png",
+  "images/P1040834.jpg",
+  "images/P1040832.jpg"
+ ],
+ "videos": [
+  "QEZ8_DVFSDo"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

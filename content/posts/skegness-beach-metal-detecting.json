@@ -1,0 +1,167 @@
+{
+ "type": "post",
+ "slug": "skegness-beach-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?skegness-beach-metal-detecting",
+ "title": "Skegness Beach Metal Detecting",
+ "seo": {
+  "title": "Skegness Beach Metal Detecting - Blog",
+  "description": "skegness beach metal detecting, minelab CTX 3030 and XP Deus",
+  "keywords": "beach metal detecting, minelab CTX 3030, metal detecting, skegness, beach detecting uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?skegness-beach-metal-detecting",
+  "og": {
+   "title": "Skegness Beach Metal Detecting",
+   "description": "skegness beach metal detecting, minelab CTX 3030 and XP Deus",
+   "image": "https://www.paulcee.co.uk/blog/files/xp-deus-logo_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?skegness-beach-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-06-02T19:58:00",
+    "dateModified": "2017-06-02T19:58:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Skegness Beach Metal Detecting",
+    "description": "Skegness beach,metal detecting Minelab CTX3030 and Xp Deus",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?skegness-beach-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/290517_y4mmyqxb.jpg",
+     "https://www.paulcee.co.uk/blog/files/xp-deus-logo.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jun 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201706",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Skegness Beach Metal Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach metal detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=beach metal detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Skegness Beach Metal Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Skegness Beach Metal Detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-06-02T19:58:00",
+ "dateModified": "2017-06-02T19:58:00",
+ "author": "Paul Cee",
+ "category": "beach metal detecting",
+ "categorySlug": "beach_metal_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Skegness beach,metal detecting Minelab CTX3030 and Xp Deus",
+ "cover": "blog/files/xp-deus-logo.jpg",
+ "heroVideo": "2KS7Kgcq-Yg",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/290517_y4mmyqxb.jpg\" alt=\"metal detecting skegness beach\" title=\"metal detecting skegness beach\" width=\"618\" height=\"348\">"
+  },
+  {
+   "t": "p",
+   "html": "lack of finds locally, time to head south and metal detect Skegness beach in lincolnshire, dry sand with the Xp Deus v4.1 and the ctx3030 and stock coil, along with the t-rex sandscoop and \"<a href=\"@anderson-carbon-fibre-shafts/\" data-kind=\"internal\">Anderson Neptune Carbon</a>\" fibre shaft."
+  }
+ ],
+ "images": [
+  "images/290517_y4mmyqxb.jpg"
+ ],
+ "videos": [
+  "2KS7Kgcq-Yg"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

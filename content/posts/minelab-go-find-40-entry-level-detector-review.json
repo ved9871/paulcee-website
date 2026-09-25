@@ -1,0 +1,384 @@
+{
+ "type": "post",
+ "slug": "minelab-go-find-40-entry-level-detector-review",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-go-find-40-entry-level-detector-review",
+ "title": "Minelab Go-find 40 Entry level detector review",
+ "seo": {
+  "title": "Minelab Go-find 40 Entry level detector review - Blog",
+  "description": "minelab gofind metal detector for beginners",
+  "keywords": "minelab go find, metal detector uk, best metal detector for kids",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-go-find-40-entry-level-detector-review",
+  "og": {
+   "title": "Minelab Go-find 40 Entry level detector review",
+   "description": "minelab gofind metal detector for beginners",
+   "image": "https://www.paulcee.co.uk/blog/files/go-find-40-web_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-go-find-40-entry-level-detector-review"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-08-27T10:16:00",
+    "dateModified": "2019-08-27T10:16:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Go-find 40 Entry level detector review",
+    "description": "Minelab Gofind series of metal detectors, review and testing",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-go-find-40-entry-level-detector-review",
+    "image": [
+     "https://www.paulcee.co.uk/images/go-find-40-web_dnyoo56v.png",
+     "https://www.paulcee.co.uk/images/pdc-sticker_sml_8eue1wao.jpg",
+     "https://www.paulcee.co.uk/blog/files/go-find-40-web.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201908",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Go-Find",
+      "item": "https://www.paulcee.co.uk/blog/?category=minelab Go-Find",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Go",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Go",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "find",
+      "item": "https://www.paulcee.co.uk/blog/?tag=find",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "40",
+      "item": "https://www.paulcee.co.uk/blog/?tag=40",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Entry",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Entry",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "level",
+      "item": "https://www.paulcee.co.uk/blog/?tag=level",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "review",
+      "item": "https://www.paulcee.co.uk/blog/?tag=review",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Go-find 40 Entry level detector review",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-08-27T10:16:00",
+ "dateModified": "2019-08-27T10:16:00",
+ "author": "Paul Cee",
+ "category": "minelab Go-Find",
+ "categorySlug": "minelab_Go-Find",
+ "tags": [
+  "Minelab",
+  "Go",
+  "find",
+  "40",
+  "Entry",
+  "level",
+  "detector",
+  "review"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Gofind series of metal detectors, review and testing",
+ "cover": "blog/files/go-find-40-web.png",
+ "heroVideo": "-tQ8UPpDcYw",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\"><img src=\"@img:images/go-find-40-web_dnyoo56v.png\" alt=\"cheap metal detector that works\" title=\"minelab go find uk\" width=\"240\" height=\"240\"></a>"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pdc-sticker_sml_8eue1wao.jpg\" alt=\"metal detector for beginner\" title=\"go find metal detector\" width=\"242\" height=\"242\">"
+  },
+  {
+   "t": "h2",
+   "html": "The go-find metaldetector is it any good"
+  },
+  {
+   "t": "p",
+   "html": "on test for <a href=\"@minelab-manticore/\" data-kind=\"internal\">minelab</a> and <a href=\"http://www.crawfordsmd.com\" data-kind=\"affiliate\">Crawfords metal detecting store</a>. This is a prototype model and doesn't have the Bluetooth feature enabled. There will be 3 in the range and are superb entry level machines. From what I've already tested this is going to be a great machine,quick recovery and discrimination is pretty swift. It has L.E.D display and coloured lights to help with identifying good targets and iron. Looking forward to getting this out and hopefully will be a great review. Have a great weekend and happy hunting"
+  },
+  {
+   "t": "p",
+   "html": "I will be testing and Reviewing this Detector over the weekend"
+  }
+ ],
+ "images": [
+  "images/go-find-40-web_dnyoo56v.png",
+  "images/pdc-sticker_sml_8eue1wao.jpg"
+ ],
+ "videos": [
+  "-tQ8UPpDcYw"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://www.crawfordsmd.com"
+ ]
+}

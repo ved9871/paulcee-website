@@ -1,0 +1,668 @@
+{
+ "type": "post",
+ "slug": "minelab-manticore-m9-coil-review",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-manticore-m9-coil-review",
+ "title": "Minelab Manticore M9 coil Review",
+ "seo": {
+  "title": "Minelab Manticore M9 coil Review - Blog",
+  "description": "Discover the best-selling Minelab Manticore search coil: Superior depth detection, accuracy, lightweight (262g), perfect for metal detecting everywhere.",
+  "keywords": "minelab manticore M9, Manticore m9 search coil, water detecting coil, minelab manticore accessories, manticore m9 coil review, best selling manticore coil",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-manticore-m9-coil-review",
+  "og": {
+   "title": "Minelab Manticore M9 coil Review",
+   "description": "Discover the best-selling Minelab Manticore search coil: Superior depth detection, accuracy, lightweight (262g), perfect for metal detecting everywhere.",
+   "image": "https://www.paulcee.co.uk/blog/files/m9-review_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-manticore-m9-coil-review"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2025-01-04T06:36:00",
+    "dateModified": "2025-01-04T06:36:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Manticore M9 coil Review",
+    "description": "Minelab Manticore M9 Search Coil Review",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-manticore-m9-coil-review",
+    "image": [
+     "https://www.paulcee.co.uk/images/m9-review.jpg",
+     "https://www.paulcee.co.uk/blog/files/m9-review.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2025",
+      "item": "https://www.paulcee.co.uk/blog/?month=202501",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Manticore M9 coil",
+      "item": "https://www.paulcee.co.uk/blog/?category=Manticore M9 coil",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Manticore",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Manticore",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "M9",
+      "item": "https://www.paulcee.co.uk/blog/?tag=M9",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "search",
+      "item": "https://www.paulcee.co.uk/blog/?tag=search",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coil",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coil",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "review",
+      "item": "https://www.paulcee.co.uk/blog/?tag=review",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equipment",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equipment",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "review",
+      "item": "https://www.paulcee.co.uk/blog/?tag=review",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "treasure",
+      "item": "https://www.paulcee.co.uk/blog/?tag=treasure",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "hunting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=hunting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "accessories",
+      "item": "https://www.paulcee.co.uk/blog/?tag=accessories",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "performance",
+      "item": "https://www.paulcee.co.uk/blog/?tag=performance",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore M9 coil Review",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2025-01-04T06:36:00",
+ "dateModified": "2025-01-04T06:36:00",
+ "author": "Paul Cee",
+ "category": "Manticore M9 coil",
+ "categorySlug": "Manticore_M9_coil",
+ "tags": [
+  "Minelab",
+  "Manticore",
+  "M9",
+  "search",
+  "coil",
+  "review",
+  "metal",
+  "detecting",
+  "equipment",
+  "review",
+  "treasure",
+  "hunting",
+  "accessories",
+  "performance"
+ ],
+ "readTime": 4,
+ "summary": "Minelab Manticore M9 Search Coil Review",
+ "cover": "blog/files/m9-review.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Minelab Manticore M9 Search Coil Review"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/m9-review.jpg\" alt=\"a review of the M9 coil for the Minelab Manticore\" title=\"Manticore M9 Coil Review\" width=\"231\" height=\"130\">"
+  },
+  {
+   "t": "h3",
+   "html": "Best Selling",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The Manticore M9 has quickly become the best-selling coil for the Minelab Manticore. Its impressive features and reliable performance have made it a popular choice among metal detectorists."
+  },
+  {
+   "t": "h3",
+   "html": "Slim Profile",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "One notable feature of the Manticore M9 is its slim profile, which is particularly suited for water detecting. The streamlined design, weighing only 262 grams, allows for easy manoeuvrability in water, helping users efficiently locate targets even in challenging underwater environments."
+  },
+  {
+   "t": "h3",
+   "html": "Performance",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Manticore M9 search coil excels in delivering outstanding performance. It offers exceptional depth detection and precise pinpointing, making it an excellent choice for both beginners and experienced metal detector enthusiasts. Its advanced technology ensures that even small items are accurately detected. Of course its a smaller coil than the stock coil, which means slightly less ground coverage, so an adjusted swing speed of the Manticore is recommended."
+  },
+  {
+   "t": "h3",
+   "html": "Durability",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Built to withstand rugged conditions, the M9 coil is highly durable. Its robust construction and high-quality materials make it resistant to damage from rough terrains with a<a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/minelab-m9-skidplate\" data-kind=\"affiliate\"> replaceable scuff plate</a>, ensuring long-lasting use. Users can confidently take it on various treasure-hunting adventures without worrying about wear and tear."
+  },
+  {
+   "t": "p",
+   "html": "Strong coil lugs mean NO NEED for 3D printed stiffeners which to be honest are a waste of time and your money."
+  },
+  {
+   "t": "h3",
+   "html": "Ease of Use",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The M9 search coil is Plug and Play, so just unscrew the connectors and change coils over, there is no need to do a factory reset or other major adjustment."
+  },
+  {
+   "t": "p",
+   "html": "Its lightweight design (262 grams) reduces arm fatigue, allowing for extended periods of use without discomfort. The coil’s ergonomic structure make it great to users of all skill levels."
+  },
+  {
+   "t": "h3",
+   "html": "Accuracy",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "One of the standout features of the Manticore M9 is its unparalleled accuracy. With advanced discrimination capabilities of the Minelab Manticore, it can effectively distinguish between valuable targets and unwanted trash. This level of precision enhances the overall metal detecting experience, increasing the likelihood of finding treasure."
+  },
+  {
+   "t": "h3",
+   "html": "Versatility",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The Minelab M9 search coil is versatile and adaptable to various environments, including beaches, fields, and forests. Its ability to perform well in different conditions makes it a reliable companion for diverse metal detecting activities."
+  },
+  {
+   "t": "h3",
+   "html": "Stabiliser Feature",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Using the stabiliser feature on the Minelab Manticore, you have the ability to increase the sensitivity slightly, which will provide slightly more depth. This enhancement makes the M9 coil even more effective in detecting buried treasures."
+  },
+  {
+   "t": "h3",
+   "html": "Recovery Speed",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Using a recovery speed of 5 or 6 will still maintain a good depth and sharp target tones with the M9 coil. This allows users to effectively detect targets in areas with high trash density without compromising on depth."
+  },
+  {
+   "t": "p",
+   "html": "Pros:"
+  },
+  {
+   "t": "p",
+   "html": "Superior depth detection for its size"
+  },
+  {
+   "t": "p",
+   "html": "Excellent durability"
+  },
+  {
+   "t": "p",
+   "html": "Lightweight and user-friendly (262 grams)"
+  },
+  {
+   "t": "p",
+   "html": "Slim profile suited for water detecting (262 grams)"
+  },
+  {
+   "t": "p",
+   "html": "High accuracy and discrimination"
+  },
+  {
+   "t": "p",
+   "html": "Versatile for various terrains"
+  },
+  {
+   "t": "p",
+   "html": "Comparable depth to a stock coil despite its smaller size"
+  },
+  {
+   "t": "p",
+   "html": "Best-selling coil for the Minelab Manticore"
+  },
+  {
+   "t": "p",
+   "html": "Cons:"
+  },
+  {
+   "t": "p",
+   "html": "Might be on the pricier side for beginners"
+  },
+  {
+   "t": "p",
+   "html": "Requires some time to master advanced settings"
+  },
+  {
+   "t": "p",
+   "html": "With it being 2\" smaller than a stock coil, it has less ground coverage"
+  },
+  {
+   "t": "p",
+   "html": "Final Thoughts:"
+  },
+  {
+   "t": "p",
+   "html": "The <a href=\"https://www.crawfordsmd.com/minelab-m9\" data-kind=\"affiliate\">Minelab Manticore M9 search coil</a> is a top-notch choice for anyone serious about metal detecting. Its combination of performance, durability, and ease of use makes it a valuable addition to any metal detectorist's toolkit. While it may come with a higher price tag, the investment is justified by its high-quality features and reliability. This M9 coil will quickly become your coil of choice for the Manticore. For a visual demonstration of the Manticore M9 coil in action, check out <a href=\"https://www.youtube.com/channel/UCAJhc7UhOgQaupZhJt42G7w\" data-kind=\"external\">Paul Cee on YouTube.</a>"
+  }
+ ],
+ "images": [
+  "images/m9-review.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/minelab-m9-skidplate",
+  "https://www.crawfordsmd.com/minelab-m9"
+ ]
+}

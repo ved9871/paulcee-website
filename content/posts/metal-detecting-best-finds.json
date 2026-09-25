@@ -1,0 +1,326 @@
+{
+ "type": "post",
+ "slug": "metal-detecting-best-finds",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-best-finds",
+ "title": "metal detecting best finds",
+ "seo": {
+  "title": "metal detecting good finds - Blog",
+  "description": "Really good metal detecting finds from the UK metal detecting on beach and fields with our minelab detectors",
+  "keywords": "Minelab Detecting, metal detecting finds, best, detector, metal detecting for beginners, crawfords metal detectors, minelab finds",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-best-finds",
+  "og": {
+   "title": "metal detecting best finds",
+   "description": "Really good metal detecting finds from the UK metal detecting on beach and fields with our minelab detectors",
+   "image": "https://www.paulcee.co.uk/blog/files/best-of-2_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detecting-best-finds"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-05T13:01:00",
+    "dateModified": "2020-05-05T13:01:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "metal detecting best finds",
+    "description": "best of metal detecting finds\nunforgettable finds and sights",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-best-finds",
+    "image": [
+     "https://www.paulcee.co.uk/images/best-of-2.jpg",
+     "https://www.paulcee.co.uk/blog/files/best-of-2.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting Finds",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting Finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "finds",
+      "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "best",
+      "item": "https://www.paulcee.co.uk/blog/?tag=best",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting best finds",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-05T13:01:00",
+ "dateModified": "2020-05-05T13:01:00",
+ "author": "Paul Cee",
+ "category": "metal detecting Finds",
+ "categorySlug": "metal_detecting_Finds",
+ "tags": [
+  "metal",
+  "detecting",
+  "detecting",
+  "finds",
+  "best",
+  "detector"
+ ],
+ "readTime": 1,
+ "summary": "best of metal detecting finds\nunforgettable finds and sights",
+ "cover": "blog/files/best-of-2.jpg",
+ "heroVideo": "tHlHRURKLdw",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/best-of-2.jpg\" alt=\"metal detecting best finds\" title=\"metal detecting best finds uk\" width=\"341\" height=\"192\">"
+  },
+  {
+   "t": "h2",
+   "html": "Metal detecting and treasure hunting uk"
+  },
+  {
+   "t": "p",
+   "html": "some unforgettable finds and sights."
+  },
+  {
+   "t": "p",
+   "html": "a look back at some of the amazing finds we have had metal detecting with the Minelab metal detectors we use, lots of coins found on the beach and fields of the uk"
+  }
+ ],
+ "images": [
+  "images/best-of-2.jpg"
+ ],
+ "videos": [
+  "tHlHRURKLdw"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

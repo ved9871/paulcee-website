@@ -1,0 +1,351 @@
+{
+ "type": "post",
+ "slug": "why-minelab-equinox",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?why-minelab-equinox",
+ "title": "Why Minelab Equinox",
+ "seo": {
+  "title": "Why Minelab Equinox - Blog",
+  "description": "minelab equinox 800, the best metal detector for the beach and beginners and why its a great detector to use",
+  "keywords": "equinox 800 uk, best metal detector for beginners, equinox 800 settings, beach detecting uk, minelab equinox 800, paul cee",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?why-minelab-equinox",
+  "og": {
+   "title": "Why Minelab Equinox",
+   "description": "minelab equinox 800, the best metal detector for the beach and beginners and why its a great detector to use",
+   "image": "https://www.paulcee.co.uk/blog/files/why-nox_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?why-minelab-equinox"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-08-25T20:02:00",
+    "dateModified": "2020-08-25T20:02:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Why Minelab Equinox",
+    "description": "why i detect with a minelab equinox",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?why-minelab-equinox",
+    "image": [
+     "https://www.paulcee.co.uk/images/why-nox.jpg",
+     "https://www.paulcee.co.uk/images/optimal.jpg",
+     "https://www.paulcee.co.uk/blog/files/why-nox.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202008",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "best",
+      "item": "https://www.paulcee.co.uk/blog/?tag=best",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Minelab Equinox",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Minelab Equinox",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-08-25T20:02:00",
+ "dateModified": "2020-08-25T20:02:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox",
+ "categorySlug": "Minelab_Equinox",
+ "tags": [
+  "minelab",
+  "equinox",
+  "best",
+  "metal",
+  "detector"
+ ],
+ "readTime": 4,
+ "summary": "why i detect with a minelab equinox",
+ "cover": "blog/files/why-nox.jpg",
+ "heroVideo": "MrT-sitP1z8",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/why-nox.jpg\" alt=\"what is the best metal detector for beach\" title=\"minelab equinox best metal detector 2025\" width=\"241\" height=\"202\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox 800 for my beach metal detecting"
+  },
+  {
+   "t": "p",
+   "html": "I primarily search beaches 80% of the time, and when fields allow, I do some searching on fields."
+  },
+  {
+   "t": "p",
+   "html": "Summertime I detect both the dry sand in the Towel Zones and in the water where swimmers congregate, during the winter months its mainly detecting the wet sand when only the hardy and well prepared detectorists are willing to venture out."
+  },
+  {
+   "t": "p",
+   "html": "Winter storms and high winds usually mean a lot of sand movement and opens up the beach for the older finds which can date from the middle ages up to the present day."
+  },
+  {
+   "t": "p",
+   "html": "Winter and bad weather detecting means you need a detector that can stand the pace... bad weather and lots of rain, previously using the CTX 3030 for this type of adventure, since the launch of the Equinox this has made life so much easier with a lightweight high performance detector."
+  },
+  {
+   "t": "p",
+   "html": "The Summer months life is so much easier warm weather and warm water, again for beach detecting the Equinox has risen to bring this to the next level, a feature packed detector that can venture from dry sand to the depths of water where jewellery lost by bathers and water lovers can be found."
+  },
+  {
+   "t": "p",
+   "html": "Out of the box the Minelab Equinox is a turn on and go detector but as you advance on your knowledge the tweaks that are available and so easy to do, when you learn what the features are and the effects that happen when you make a change, when you understand this you will mange to get the best out of what the Equinox has to offer and with software and firmware updates from MINELAB you can be assured that it is always upto date."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/optimal.jpg\" alt=\"minelab equinox settings for successful beach metal detecting\" title=\"minelab equinox settings uk\" width=\"259\" height=\"217\">"
+  },
+  {
+   "t": "p",
+   "html": "Settings for dry sand beach metal detecting I use."
+  },
+  {
+   "t": "p",
+   "html": "Dry sand detecting can be frustrating with so many junk finds using the same VID numbers and tones as non-desired items, but with a little tuning and practice you can turn the tide on a not so good “there’s too much junk” day into a bumper day of coins and possibly some jewellery."
+  },
+  {
+   "t": "p",
+   "html": "Recovery speed, iron bias and Tones are the key for dry sand detecting, as you are searching for “recent losses” so nothing is going to be really deep in the sand but it can be hidden amongst junk I.E. Bottle tops (crown caps)."
+  },
+  {
+   "t": "p",
+   "html": "Many Uk coins fall into this area on the Target id display but with the help of recovery speed, 50 tones and a high F2 setting these can be so easy to distinguish as now you will be able to hear the serrated edges of the crown caps (with the Higher recovery speed) and use of a higher iron bias setting. Again, this takes a little time and practice to hear the difference between a coin with multiple edges and a bottle top (crown cap) but it works. (other methods are also used such as wiggling back from the target to get a sense of the iron tone)."
+  },
+  {
+   "t": "p",
+   "html": "Ring pulls (beavertails) are the same a shotgun percussion caps a pain in the ass but cant be avoided"
+  },
+  {
+   "t": "p",
+   "html": "Some UK Coins are now made with an iron core so this makes detecting them difficult, but as they are low denomination they are really only targets to search for on a poor day or to keep the ears tunes for faint scratchy signals.."
+  },
+  {
+   "t": "p",
+   "html": "Have a look at the video for a walkthrough on individual settings for dry sand and water detecting, some tips on dealing with electrical interference as you can’t switch to a single frequency in beach mode on the Equinox, and some settings I use on fields"
+  }
+ ],
+ "images": [
+  "images/why-nox.jpg",
+  "images/optimal.jpg"
+ ],
+ "videos": [
+  "MrT-sitP1z8"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

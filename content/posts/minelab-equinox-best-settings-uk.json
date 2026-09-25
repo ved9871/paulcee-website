@@ -1,0 +1,183 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-best-settings-uk",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-best-settings-uk",
+ "title": "Minelab Equinox best settings Uk",
+ "seo": {
+  "title": "Minelab Equinox best settings - Blog",
+  "description": "Best settings for the Minelab Equinox, beach and land, will help you for metal detecting and get better results and finds will increase",
+  "keywords": "Minelab, equinox, settings, best, beach, land, beginner, detecting, metal, uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-best-settings-uk",
+  "og": {
+   "title": "Minelab Equinox best settings Uk",
+   "description": "Best settings for the Minelab Equinox, beach and land, will help you for metal detecting and get better results and finds will increase",
+   "image": "https://www.paulcee.co.uk/blog/files/bournemouth1a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-best-settings-uk"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-04-23T17:34:00",
+    "dateModified": "2021-04-23T17:34:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Equinox best settings Uk",
+    "description": "Minelab equinox settings for uk beach and fields",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-best-settings-uk",
+    "image": [
+     "https://www.paulcee.co.uk/images/bournemouth1a.jpg",
+     "https://www.paulcee.co.uk/blog/files/bournemouth1a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202104",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox best settings Uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox best settings Uk",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox best settings Uk",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-04-23T17:34:00",
+ "dateModified": "2021-04-23T17:34:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab equinox settings for uk beach and fields",
+ "cover": "blog/files/bournemouth1a.jpg",
+ "heroVideo": "MrT-sitP1z8",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/bournemouth1a.jpg\" alt=\"set up the minelab Equinox and get best results for beach and land detecting\" title=\"best minelab Equinox settings for beach and land\" width=\"616\" height=\"347\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox 800 Settings"
+  },
+  {
+   "t": "p",
+   "html": "For Beach and Water and Land."
+  },
+  {
+   "t": "p",
+   "html": "Preferred settings for metal detecting Beach, in the Water and on land."
+  },
+  {
+   "t": "p",
+   "html": "ideal beach settings for beginners with a Minelab Equinox"
+  },
+  {
+   "t": "p",
+   "html": "Equinox 800 Settings for dry sand and dealing with bottletops"
+  }
+ ],
+ "images": [
+  "images/bournemouth1a.jpg"
+ ],
+ "videos": [
+  "MrT-sitP1z8"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

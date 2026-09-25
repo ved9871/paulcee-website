@@ -1,0 +1,207 @@
+{
+ "type": "post",
+ "slug": "manticore-dealing-with-emi",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?manticore-dealing-with-emi",
+ "title": "Manticore dealing with EMI",
+ "seo": {
+  "title": "Manticore dealing with EMI - Blog",
+  "description": "how do you deal with interferance on a minelab manticore or minelab equinox metal detector, electric fences and phone mast can cause problems",
+  "keywords": "minelab manticore settings, minelab equinox settings, EMI, minelab manticore uk, minelab equinox uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?manticore-dealing-with-emi",
+  "og": {
+   "title": "Manticore dealing with EMI",
+   "description": "how do you deal with interferance on a minelab manticore or minelab equinox metal detector, electric fences and phone mast can cause problems",
+   "image": "https://www.paulcee.co.uk/blog/files/manticore_emi_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?manticore-dealing-with-emi"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2023-11-20T18:03:00",
+    "dateModified": "2023-11-20T18:03:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Manticore dealing with EMI",
+    "description": "",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?manticore-dealing-with-emi",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_h3v355op.png",
+     "https://www.paulcee.co.uk/images/detexpert-logosml_0e0vdxkk.png",
+     "https://www.paulcee.co.uk/images/cmd-white-alpha_l2pfxf7n.png",
+     "https://www.paulcee.co.uk/blog/files/manticore_emi.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2023",
+      "item": "https://www.paulcee.co.uk/blog/?month=202311",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Manticore dealing with EMI",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=minelab manticore settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Manticore dealing with EMI",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Manticore dealing with EMI",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2023-11-20T18:03:00",
+ "dateModified": "2023-11-20T18:03:00",
+ "author": "Paul Cee",
+ "category": "minelab manticore settings",
+ "categorySlug": "minelab_manticore_settings",
+ "tags": [],
+ "readTime": 2,
+ "summary": "how do you deal with interferance on a minelab manticore or minelab equinox metal detector, electric fences and phone mast can cause problems",
+ "cover": "blog/files/manticore_emi.jpg",
+ "heroVideo": "FKQsXUGtfuc",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Minelab Manticore setting for interferance"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_h3v355op.png\" alt=\"minelab manticore settings to help deal with interferance\" title=\"minelab manticore settings\" width=\"109\" height=\"109\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_0e0vdxkk.png\" alt=\"settings to help deal with EMI on a minelab metal detector\" title=\"minelab manticore uk settings\" width=\"71\" height=\"105\">"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\"><img src=\"@img:images/cmd-white-alpha_l2pfxf7n.png\" alt=\"minelab manticore tutorials in the uk from crawfords metal detectors\" title=\"minelab manticore settings paul cee\" width=\"204\" height=\"79\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "How do you deal with interference on a metal detector?."
+  },
+  {
+   "t": "p",
+   "html": "With the Minelab Manticore and Equinox 700 and Equinox 900 the EMI (electro magnetic interference) circuits have been greatly improved, so generally a noise cancel will be enough to get your detector working quietly."
+  },
+  {
+   "t": "p",
+   "html": "The minelab Equinox 800 and 700 will need to be noise cancelled maybe more often."
+  },
+  {
+   "t": "p",
+   "html": "Sometimes at rallies or events with many people detecting can also cause problems, you can perform a noise cancel and it usually sort this out."
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Vanquish used an auto noise cancel on startup so you could try to switch off and start up again (Re-boot)"
+  },
+  {
+   "t": "p",
+   "html": "You should try to avoid switching on to test your detector inside your house or close-by as signals from wi-fi and other house-hold items can cause interference, as can a mobile phone in your pocket, so you may also find that switching to aeroplane mode will quieten things down."
+  },
+  {
+   "t": "p",
+   "html": "The example below will usually work near electric fences which cause the detector to pulse as it receives from the source. overhead pylons and underground cables can be tricky but here we see a very high power underground cable from a solar farm can be quietened down ro enable you to detect nearby."
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_h3v355op.png",
+  "images/detexpert-logosml_0e0vdxkk.png",
+  "images/cmd-white-alpha_l2pfxf7n.png"
+ ],
+ "videos": [
+  "FKQsXUGtfuc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,448 @@
+{
+ "type": "post",
+ "slug": "detecting-beaches-with-the-ctx3030-and-garrett-seahunter-mkii",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?detecting-beaches-with-the-ctx3030-and-garrett-seahunter-mkii",
+ "title": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+ "seo": {
+  "title": "Garrett Seahunter MkII uk beach detect - Blog",
+  "description": "CTX 3030 and garrett seahunter mk2 metal detecting uk beaches",
+  "keywords": "seahunter mk2 uk, garrett metal detectors uk, best garrett metal detector for beach, ctx 3030 uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?detecting-beaches-with-the-ctx3030-and-garrett-seahunter-mkii",
+  "og": {
+   "title": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+   "description": "CTX 3030 and garrett seahunter mk2 metal detecting uk beaches",
+   "image": "https://www.paulcee.co.uk/blog/files/45-mm-stickerWeb_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?detecting-beaches-with-the-ctx3030-and-garrett-seahunter-mkii"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-08-28T05:06:00",
+    "dateModified": "2019-08-28T05:06:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+    "description": "Minelab CTX 3030 and Garrett Seahunter MK2 beach metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?detecting-beaches-with-the-ctx3030-and-garrett-seahunter-mkii",
+    "image": [
+     "https://www.paulcee.co.uk/images/45-mm-stickerWeb_8dfs91aj.jpg",
+     "https://www.paulcee.co.uk/images/010614.jpg",
+     "https://www.paulcee.co.uk/blog/files/45-mm-stickerWeb.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201908",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "garrett",
+      "item": "https://www.paulcee.co.uk/blog/?tag=garrett",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "seahunter",
+      "item": "https://www.paulcee.co.uk/blog/?tag=seahunter",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "garrett",
+      "item": "https://www.paulcee.co.uk/blog/?tag=garrett",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "seahunter",
+      "item": "https://www.paulcee.co.uk/blog/?tag=seahunter",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "mk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=mk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "2",
+      "item": "https://www.paulcee.co.uk/blog/?tag=2",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "garrett",
+      "item": "https://www.paulcee.co.uk/blog/?tag=garrett",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "pi",
+      "item": "https://www.paulcee.co.uk/blog/?tag=pi",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting beaches with the CTX3030 and Garrett Seahunter MkII",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-08-28T05:06:00",
+ "dateModified": "2019-08-28T05:06:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "garrett",
+  "seahunter",
+  "uk",
+  "garrett",
+  "seahunter",
+  "mk",
+  "2",
+  "garrett",
+  "pi",
+  "metal",
+  "detector"
+ ],
+ "readTime": 1,
+ "summary": "Minelab CTX 3030 and Garrett Seahunter MK2 beach metal detecting",
+ "cover": "blog/files/45-mm-stickerWeb.jpg",
+ "heroVideo": "LeFf35sIzfc",
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/45-mm-stickerWeb_8dfs91aj.jpg\" alt=\"metal detecting on cleethorpes beach\" title=\"metal detecting on cleethorpes beach\" width=\"187\" height=\"187\"></a><a href=\"http://bit.ly/32hjeGL\" data-kind=\"affiliate\"><img src=\"@img:images/010614.jpg\" alt=\"garrett seahunter mk2 uk metal detecting on cleethorpes beach\" title=\"garrett seahunter mk2 uk\" width=\"340\" height=\"191\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Latest trip to the beaches of East Uk, pre-decimal coins, some spendables, an iPhone and a silver plated pendant"
+  }
+ ],
+ "images": [
+  "images/45-mm-stickerWeb_8dfs91aj.jpg",
+  "images/010614.jpg"
+ ],
+ "videos": [
+  "LeFf35sIzfc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q",
+  "http://bit.ly/32hjeGL"
+ ]
+}

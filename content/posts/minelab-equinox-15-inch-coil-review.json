@@ -1,0 +1,372 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-15-inch-coil-review",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-15-inch-coil-review",
+ "title": "minelab equinox 15 inch coil review",
+ "seo": {
+  "title": "minelab equinox 15 inch coil review - Blog",
+  "description": "Minelab Equinox 15 inch coil, review and depth setup",
+  "keywords": "Equinox, 15inch, big coil, Equinox, minelab, search coil",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-15-inch-coil-review",
+  "og": {
+   "title": "minelab equinox 15 inch coil review",
+   "description": "Minelab Equinox 15 inch coil, review and depth setup",
+   "image": "https://www.paulcee.co.uk/blog/files/nox-large-coil_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-15-inch-coil-review"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-12T17:29:00",
+    "dateModified": "2018-11-12T17:29:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "minelab equinox 15 inch coil review",
+    "description": "Review of the Minelab Equinox 15 inch coil",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-15-inch-coil-review",
+    "image": [
+     "https://www.paulcee.co.uk/images/111118_silverWEB.jpg",
+     "https://www.paulcee.co.uk/images/IMG_20181104_073523_zqrrhr1q.jpg",
+     "https://www.paulcee.co.uk/blog/files/nox-large-coil.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "15",
+      "item": "https://www.paulcee.co.uk/blog/?tag=15",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "inch",
+      "item": "https://www.paulcee.co.uk/blog/?tag=inch",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coil",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coil",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "review",
+      "item": "https://www.paulcee.co.uk/blog/?tag=review",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "smart",
+      "item": "https://www.paulcee.co.uk/blog/?tag=smart",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coil",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coil",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab equinox 15 inch coil review",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-12T17:29:00",
+ "dateModified": "2018-11-12T17:29:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "minelab",
+  "equinox",
+  "15",
+  "inch",
+  "coil",
+  "review",
+  "smart",
+  "coil"
+ ],
+ "readTime": 1,
+ "summary": "Review of the Minelab Equinox 15 inch coil",
+ "cover": "blog/files/nox-large-coil.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/111118_silverWEB.jpg\" alt=\"minelab Equinox big coil review\" title=\"minelab Equinox big coil review\" width=\"617\" height=\"345\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/IMG_20181104_073523_zqrrhr1q.jpg\" alt=\"minelab big equinox coil\" title=\"Equinox coil review\" width=\"175\" height=\"233\">"
+  },
+  {
+   "t": "p",
+   "html": "Extremely sensitive as with the stock coil and slightly deeper than the stock coil, weight is not and issue although heavier than the stock coil a slight front heavy detector it now becomes, superb for clean sites and able to run at maximum sensitivity, but i am still going through settings to make this work out better for trashy beaches."
+  }
+ ],
+ "images": [
+  "images/111118_silverWEB.jpg",
+  "images/IMG_20181104_073523_zqrrhr1q.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

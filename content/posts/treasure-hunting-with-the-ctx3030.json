@@ -1,0 +1,341 @@
+{
+ "type": "post",
+ "slug": "treasure-hunting-with-the-ctx3030",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?treasure-hunting-with-the-ctx3030",
+ "title": "Treasure hunting with the CTX3030",
+ "seo": {
+  "title": "Treasure hunting with the CTX3030 - Blog",
+  "description": "metal detecting on cleethorpes beach",
+  "keywords": "metal, detect, cleethorpes, beach, crawfords, detectors, uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?treasure-hunting-with-the-ctx3030",
+  "og": {
+   "title": "Treasure hunting with the CTX3030",
+   "description": "metal detecting on cleethorpes beach",
+   "image": "https://www.paulcee.co.uk/blog/files/100917a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?treasure-hunting-with-the-ctx3030"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-09-20T18:45:00",
+    "dateModified": "2017-09-20T18:45:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Treasure hunting with the CTX3030",
+    "description": "Treasure hunting with the CTX 3030, Victorian Treasure Found",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?treasure-hunting-with-the-ctx3030",
+    "image": [
+     "https://www.paulcee.co.uk/images/100917a_7yhbupcd.jpg",
+     "https://www.paulcee.co.uk/blog/files/100917a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201709",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Death",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Death",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "pendant",
+      "item": "https://www.paulcee.co.uk/blog/?tag=pendant",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "blackpook",
+      "item": "https://www.paulcee.co.uk/blog/?tag=blackpook",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Treasure hunting with the CTX3030",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-09-20T18:45:00",
+ "dateModified": "2017-09-20T18:45:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "Death",
+  "pendant",
+  "beach",
+  "detecting",
+  "uk",
+  "blackpook",
+  "Equinox"
+ ],
+ "readTime": 1,
+ "summary": "Treasure hunting with the CTX 3030, Victorian Treasure Found",
+ "cover": "blog/files/100917a.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/100917a_7yhbupcd.jpg\" alt=\"metal detecting on cleethorpes beach\" title=\"metal detecting on cleethorpes beach\" width=\"278\" height=\"156\">"
+  },
+  {
+   "t": "p",
+   "html": "Back on the beaches of Lincolnshire with the <a href=\"@ctx3030/\" data-kind=\"internal\">CTX3030</a> and to say what a jumbled up beach today, Sand had moved in a very small area, old finds new finds all jumbled together, just didnt really have a clue as to what to expect next, lots of old coins, plenty of new coins and a really nice quite rare Death Pendant, and somebody else also found the same one this weekend in a different part of the country, how strange was that. Feel free to <a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\">Comment and subscribe</a> for New Beach metal detecting videos, <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">hints and tips</a>"
+  }
+ ],
+ "images": [
+  "images/100917a_7yhbupcd.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

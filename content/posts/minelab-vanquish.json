@@ -1,0 +1,331 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish",
+ "title": "Minelab Vanquish",
+ "seo": {
+  "title": "Minelab Vanquish Review - Blog",
+  "description": "test and review of the minelab vanquish 340 and vanquish 440, how do they perform and are the good for the money, these are ideal for beginners to detecting",
+  "keywords": "minelab vanquish review, minelab vanquish 440 uk, minelab vanquish 340 uk, minelab vanquish settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish",
+  "og": {
+   "title": "Minelab Vanquish",
+   "description": "test and review of the minelab vanquish 340 and vanquish 440, how do they perform and are the good for the money, these are ideal for beginners to detecting",
+   "image": "https://www.paulcee.co.uk/blog/files/20190914_114002_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-09-16T16:36:00",
+    "dateModified": "2019-09-16T16:36:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish",
+    "description": "Minelab Vanquish release date is on",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish",
+    "image": [
+     "https://www.paulcee.co.uk/images/DSC01037.jpg",
+     "https://www.paulcee.co.uk/images/20190914_114002.jpg",
+     "https://www.paulcee.co.uk/blog/files/20190914_114002.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201909",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Review",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Review",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "test",
+      "item": "https://www.paulcee.co.uk/blog/?tag=test",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "340",
+      "item": "https://www.paulcee.co.uk/blog/?tag=340",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-09-16T16:36:00",
+ "dateModified": "2019-09-16T16:36:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "minelab",
+  "Vanquish",
+  "Review",
+  "test",
+  "340",
+  "uk"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Vanquish release date is on",
+ "cover": "blog/files/20190914_114002.jpg",
+ "heroVideo": "k9Z_jH17y-A",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/DSC01037.jpg\" alt=\"minelab Vanquish 440 uk test and review\" title=\"Minelab Detexpert uk\" width=\"246\" height=\"328\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Vanquish UK"
+  },
+  {
+   "t": "p",
+   "html": "Detectival 2019 saw the launch of the Minelab Vanquish series of metal detectors, we have tried and tested on test beds and in the field, astounding results against single frequency metal detectors which now have a good fight on their hands to stay popular with the well priced <a href=\"http://bit.ly/CMDvanquish\" data-kind=\"affiliate\">minelab vanquish</a> which is going to be an ideal detector the beginner or as a back up detector, although not fully waterproof it is showerproof with the control box cover and has the same multi iq as the equinox detecotrs"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/20190914_114002.jpg\" alt=\"minelab vanquish 340 review\" title=\"minelab vanquish uk\" width=\"250\" height=\"141\"></a>"
+  }
+ ],
+ "images": [
+  "images/DSC01037.jpg",
+  "images/20190914_114002.jpg"
+ ],
+ "videos": [
+  "k9Z_jH17y-A"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q",
+  "http://bit.ly/CMDvanquish"
+ ]
+}

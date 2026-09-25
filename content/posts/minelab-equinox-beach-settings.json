@@ -1,0 +1,427 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-beach-settings",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings",
+ "title": "Minelab equinox beach settings",
+ "seo": {
+  "title": "Minelab equinox beach settings - Blog",
+  "description": "Minelab Equinox beach settings",
+  "keywords": "Minelab,equinox,beach,settings,best,deep,stable",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings",
+  "og": {
+   "title": "Minelab equinox beach settings",
+   "description": "Minelab Equinox beach settings",
+   "image": "https://www.paulcee.co.uk/blog/files/beach_settings_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-17T17:00:00",
+    "dateModified": "2018-11-17T17:00:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Minelab equinox beach settings",
+    "description": "equinox beach settings. that work",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings",
+    "image": [
+     "https://www.paulcee.co.uk/images/P1040528_sml.jpg",
+     "https://www.paulcee.co.uk/blog/files/beach_settings.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "deep",
+      "item": "https://www.paulcee.co.uk/blog/?tag=deep",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "silver",
+      "item": "https://www.paulcee.co.uk/blog/?tag=silver",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox beach settings",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-17T17:00:00",
+ "dateModified": "2018-11-17T17:00:00",
+ "author": "David Wallace",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "minelab",
+  "equinox",
+  "beach",
+  "settings",
+  "detecting",
+  "metal",
+  "gold",
+  "deep",
+  "silver"
+ ],
+ "readTime": 1,
+ "summary": "equinox beach settings. that work",
+ "cover": "blog/files/beach_settings.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1040528_sml.jpg\" alt=\"equinox beach program\" title=\"minelab equinox settings\" width=\"214\" height=\"120\">"
+  },
+  {
+   "t": "p",
+   "html": "Why do people go with settings from Youtube videos that are not tried and tested?"
+  },
+  {
+   "t": "p",
+   "html": "Some people just make the videos with no beach detecting knowledge, for likes and views."
+  },
+  {
+   "t": "p",
+   "html": "Lots of beaches are very differant in the make up of the sand and what lies beneath, some are very clean"
+  },
+  {
+   "t": "p",
+   "html": "with no deep iron or other deep trash, some sand is very mineralised and can vary greatly withing a few yards of walking."
+  },
+  {
+   "t": "p",
+   "html": "The minelab Equinox standard programs are a great place to start if your just <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">learning to metal detect</a>"
+  },
+  {
+   "t": "p",
+   "html": "and noise cancel and senstivity are usually the only settings you need to change, until you are confident in the use of your metal detector."
+  },
+  {
+   "t": "p",
+   "html": "With practice and knowledge gained of how the beach you are detecting is made up, then settings can be adjusted."
+  },
+  {
+   "t": "p",
+   "html": "To many false signals and digging of junk targets can leave you frustrated where as a quiet running metal detector will help you find more."
+  },
+  {
+   "t": "p",
+   "html": "Enjoy the Hobby of metal detecting without/"
+  },
+  {
+   "t": "p",
+   "html": "What are your thoughts?? feel free to comment"
+  }
+ ],
+ "images": [
+  "images/P1040528_sml.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

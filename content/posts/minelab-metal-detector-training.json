@@ -1,0 +1,337 @@
+{
+ "type": "post",
+ "slug": "minelab-metal-detector-training",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-metal-detector-training",
+ "title": "Minelab Metal Detector Training",
+ "seo": {
+  "title": "Minelab Metal Detector Training - Blog",
+  "description": "Metal detectors training Days",
+  "keywords": "Metal, Detecting, UK, Crawfords metal detectors, minelab metal detectors, metal detector tutorial, minelab vanquish, minelab manticore, minelab equinox, minelab detexpert",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-metal-detector-training",
+  "og": {
+   "title": "Minelab Metal Detector Training",
+   "description": "Metal detectors training Days",
+   "image": "https://www.paulcee.co.uk/blog/files/DSC00062-copy_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-metal-detector-training"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2022-06-25T06:02:00",
+    "dateModified": "2022-06-25T06:02:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Metal Detector Training",
+    "description": "Metal detectors training Days",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-metal-detector-training",
+    "image": [
+     "https://www.paulcee.co.uk/images/DSC00308-copy.jpg",
+     "https://www.paulcee.co.uk/images/DSC00062-copy.jpg",
+     "https://www.paulcee.co.uk/images/DSC00248-copy.jpg",
+     "https://www.paulcee.co.uk/blog/files/DSC00062-copy.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jun 2022",
+      "item": "https://www.paulcee.co.uk/blog/?month=202206",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Metal Detector Training",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Metal Detector Training",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Metal Detector Training",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Metal Detector Training",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Metal Detector Training",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "training",
+      "item": "https://www.paulcee.co.uk/blog/?tag=training",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Metal Detector Training",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "learning",
+      "item": "https://www.paulcee.co.uk/blog/?tag=learning",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Metal Detector Training",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "tips",
+      "item": "https://www.paulcee.co.uk/blog/?tag=tips",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Metal Detector Training",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2022-06-25T06:02:00",
+ "dateModified": "2022-06-25T06:02:00",
+ "author": "Paul Cee",
+ "category": "metal detecting",
+ "categorySlug": "metal_detecting",
+ "tags": [
+  "metal",
+  "detector",
+  "training",
+  "learning",
+  "tips"
+ ],
+ "readTime": 1,
+ "summary": "Metal detectors training Days",
+ "cover": "blog/files/DSC00062-copy.jpg",
+ "heroVideo": "63oEgXJ7Daw",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Crawfords Metal Detectors Training days what do you get to learn"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/DSC00308-copy.jpg\" alt=\"Crawfords Metal Detecting Training days\" title=\"Crawfords Metal Detectors\" width=\"257\" height=\"165\">"
+  },
+  {
+   "t": "p",
+   "html": "Crawfords Metal Detectors north and south, join forces to hold metal detector training days."
+  },
+  {
+   "t": "p",
+   "html": "With A \"Minelab Detexpert Paul Cee\" <img src=\"@img:images/DSC00062-copy.jpg\" alt=\"Minelab Detexpert, Paul Cee explaining how to set up a minelab Equinox\" title=\"paul cee Minelab Detexpert\" width=\"327\" height=\"245\">"
+  },
+  {
+   "t": "p",
+   "html": "Gary Blackwell For Xp Metal Detectors."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/DSC00248-copy.jpg\" alt=\"Gary Blackwell Xp Metal detector Tutorials\" title=\"Gary Blackwell Xp Metal Detectors\" width=\"326\" height=\"237\">"
+  },
+  {
+   "t": "p",
+   "html": "The Training days are not classroom based as we feel that just sat listening to people talk does not help a beginner to metal detecting figure out all the settings to get the best out of their metal detector."
+  },
+  {
+   "t": "p",
+   "html": "Out in the field the experts are on hand and can coach one to one all through the day."
+  },
+  {
+   "t": "p",
+   "html": "Setting up metal detectors for specific search areas or more generic settings."
+  },
+  {
+   "t": "p",
+   "html": "setting up minelab Ctx3030, Minelab Etrac, Equinox detectors and the Minelab Vanquish Series multi iq. and of course the Xp range of detectors,"
+  },
+  {
+   "t": "p",
+   "html": "including the Deus I and the New multi frequency Deus II."
+  },
+  {
+   "t": "p",
+   "html": "If you would like to know more about crawfords Detecting traing day then you can sign up to the monthly news letter, where details are sent out when available and of course its free to sign up"
+  }
+ ],
+ "images": [
+  "images/DSC00308-copy.jpg",
+  "images/DSC00062-copy.jpg",
+  "images/DSC00248-copy.jpg"
+ ],
+ "videos": [
+  "63oEgXJ7Daw"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

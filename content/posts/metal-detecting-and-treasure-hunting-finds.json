@@ -1,0 +1,171 @@
+{
+ "type": "post",
+ "slug": "metal-detecting-and-treasure-hunting-finds",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-and-treasure-hunting-finds",
+ "title": "metal detecting and treasure hunting finds",
+ "seo": {
+  "title": "metal detecting and treasure hunting finds - Blog",
+  "description": "metal detector finds silver coins",
+  "keywords": "metal, detector, detecting, best, finds, silver, coins, uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-and-treasure-hunting-finds",
+  "og": {
+   "title": "metal detecting and treasure hunting finds",
+   "description": "metal detector finds silver coins",
+   "image": "https://www.paulcee.co.uk/blog/files/finds_sorting_c_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detecting-and-treasure-hunting-finds"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-10T16:45:00",
+    "dateModified": "2020-05-10T16:45:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "metal detecting and treasure hunting finds",
+    "description": "treasure hunting finds, and metal detector finds that make you smile",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-and-treasure-hunting-finds",
+    "image": [
+     "https://www.paulcee.co.uk/images/finds_sorting.jpg",
+     "https://www.paulcee.co.uk/blog/files/finds_sorting_c.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting and treasure hunting finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting finds",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting and treasure hunting finds",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting and treasure hunting finds",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-10T16:45:00",
+ "dateModified": "2020-05-10T16:45:00",
+ "author": "Paul Cee",
+ "category": "metal detecting finds",
+ "categorySlug": "metal_detecting_finds",
+ "tags": [],
+ "readTime": 1,
+ "summary": "treasure hunting finds, and metal detector finds that make you smile",
+ "cover": "blog/files/finds_sorting_c.jpg",
+ "heroVideo": "9htdRBGqWDA",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/finds_sorting.jpg\" alt=\"treasure hunting finds, and what you could find with a metal detector\" title=\"metal detecting finds uk\" width=\"626\" height=\"352\">"
+  },
+  {
+   "t": "h2",
+   "html": "Metal detecting and treasure hunting finds in the uk."
+  },
+  {
+   "t": "p",
+   "html": "looking at and sorting out coins and relics."
+  }
+ ],
+ "images": [
+  "images/finds_sorting.jpg"
+ ],
+ "videos": [
+  "9htdRBGqWDA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

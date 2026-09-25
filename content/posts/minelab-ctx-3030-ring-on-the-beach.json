@@ -1,0 +1,348 @@
+{
+ "type": "post",
+ "slug": "minelab-ctx-3030-ring-on-the-beach",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-ctx-3030-ring-on-the-beach",
+ "title": "Minelab Ctx 3030 Ring on the beach",
+ "seo": {
+  "title": "Minelab Ctx 3030 Ring on the beach - Blog",
+  "description": "still a great detector for searching on the beach, here we are detecting cleethorpes beach",
+  "keywords": "metal, detector, cleethorpes, beach, detecting, accessories",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-ctx-3030-ring-on-the-beach",
+  "og": {
+   "title": "Minelab Ctx 3030 Ring on the beach",
+   "description": "still a great detector for searching on the beach, here we are detecting cleethorpes beach",
+   "image": "https://www.paulcee.co.uk/blog/files/070118_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-ctx-3030-ring-on-the-beach"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-01-26T19:11:00",
+    "dateModified": "2018-01-26T19:11:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Ctx 3030 Ring on the beach",
+    "description": "Detecting on the beach with Custom Settings for Deep Targets, rewarded with a Ring Find and Coins",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-ctx-3030-ring-on-the-beach",
+    "image": [
+     "https://www.paulcee.co.uk/images/070118.png",
+     "https://www.paulcee.co.uk/blog/files/070118.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201801",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Paul",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cee",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ctx",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "3030",
+      "item": "https://www.paulcee.co.uk/blog/?tag=3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cleethorpes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Cleethorpes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Ctx 3030 Ring on the beach",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-01-26T19:11:00",
+ "dateModified": "2018-01-26T19:11:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "minelab",
+  "Paul",
+  "Cee",
+  "ctx",
+  "3030",
+  "Cleethorpes",
+  "beach"
+ ],
+ "readTime": 1,
+ "summary": "Detecting on the beach with Custom Settings for Deep Targets, rewarded with a Ring Find and Coins",
+ "cover": "blog/files/070118.png",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/070118.png\" alt=\"cleethorpes beach\" title=\"cleethorpes pier\" width=\"291\" height=\"164\">"
+  },
+  {
+   "t": "p",
+   "html": "Beach Metal Detecting Uk with the <a href=\"@ctx3030/\" data-kind=\"internal\">Minelab CTX 3030</a>, a very cabable beach detector, in my opinion the Best detector for beach detecting, today we get plenty of Old Cons and an old ring"
+  },
+  {
+   "t": "video",
+   "id": "eix0VzuC_6o",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/070118.png"
+ ],
+ "videos": [
+  "eix0VzuC_6o"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

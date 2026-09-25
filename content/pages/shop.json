@@ -1,0 +1,94 @@
+{
+ "type": "page",
+ "slug": "shop",
+ "liveUrl": "https://www.paulcee.co.uk/shop.php",
+ "h1": "Metal Detecting accessories",
+ "seo": {
+  "title": "Metal Detecting accessories",
+  "description": "metal detecting accessories, metal detector shops near me, metal detecting stickers, metal detector uk",
+  "keywords": "metal detector uk, metal detecting stickers, metal detecting accessories, ",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/shop.html",
+  "og": {
+   "title": "Metal Detecting accessories",
+   "description": "metal detecting accessories, metal detector shops near me, metal detecting stickers, metal detector uk",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/shop.php"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "ItemList",
+    "numberOfItems": 2,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@type": "Product",
+       "name": "Baseball Cap",
+       "image": "images/i-love-bbcap_r25zf4aa.jpg",
+       "description": "Black baseball cap with \"I Love Metal Detecting\" logo",
+       "offers": {
+        "@type": "Offer",
+        "url": "http://192.168.0.55:8080/shop.html#imProductList_34_01_1",
+        "priceCurrency": "GBP",
+        "price": "18.00",
+        "availability": "https://schema.org/OutOfStock"
+       },
+       "url": "http://192.168.0.55:8080/shop.html#imProductList_34_01_1"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@type": "Product",
+       "name": "PC vinyl Sticker",
+       "image": "images/45-mm-stickerWeb.jpg",
+       "description": "45 mm Vinyl sticker ideal for your metal detector shaft",
+       "offers": {
+        "@type": "Offer",
+        "url": "http://192.168.0.55:8080/shop.html#imProductList_34_01_2",
+        "priceCurrency": "GBP",
+        "price": "1.12",
+        "availability": "https://schema.org/OutOfStock"
+       },
+       "url": "http://192.168.0.55:8080/shop.html#imProductList_34_01_2"
+      },
+      "position": 2
+     }
+    ],
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "html": "Metal detecting Clothing and accessories."
+  },
+  {
+   "t": "p",
+   "html": "Clothing is logo Image and Paul Cee, used by ourselves as this is what we find to be weatherproof and hardwearing."
+  },
+  {
+   "t": "p",
+   "html": "Stickers and Badges With Paul Cee and CMD logos"
+  }
+ ],
+ "images": [],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

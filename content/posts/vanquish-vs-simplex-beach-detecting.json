@@ -1,0 +1,351 @@
+{
+ "type": "post",
+ "slug": "vanquish-vs-simplex-beach-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?vanquish-vs-simplex-beach-detecting",
+ "title": "vanquish vs simplex beach detecting",
+ "seo": {
+  "title": "minelab vanquish vs simplex beach detecting - Blog",
+  "description": "Minelab Vanquish vs Nokta Simplex on black sand beach metal detecting, why the Vanquish Multi iq is better than a single frequency detector",
+  "keywords": "minelab vanquish vs simplex, minelab vanquish beach, nokta simplex, multi iq, crawfords metal detectors, minelab multi iq",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?vanquish-vs-simplex-beach-detecting",
+  "og": {
+   "title": "vanquish vs simplex beach detecting",
+   "description": "Minelab Vanquish vs Nokta Simplex on black sand beach metal detecting, why the Vanquish Multi iq is better than a single frequency detector",
+   "image": "https://www.paulcee.co.uk/blog/files/simplex-wet-sand_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?vanquish-vs-simplex-beach-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-24T13:43:00",
+    "dateModified": "2020-05-24T13:43:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "vanquish vs simplex beach detecting",
+    "description": "minelab vanquish vs simplex metal detecting on the beach",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?vanquish-vs-simplex-beach-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/simplex-wet-sand_1.jpg",
+     "https://www.paulcee.co.uk/blog/files/simplex-wet-sand.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "nokta",
+      "item": "https://www.paulcee.co.uk/blog/?tag=nokta",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "simplex",
+      "item": "https://www.paulcee.co.uk/blog/?tag=simplex",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish vs simplex beach detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-24T13:43:00",
+ "dateModified": "2020-05-24T13:43:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "minelab",
+  "vanquish",
+  "nokta",
+  "simplex",
+  "metal",
+  "detecting",
+  "beach"
+ ],
+ "readTime": 1,
+ "summary": "minelab vanquish vs simplex metal detecting on the beach",
+ "cover": "blog/files/simplex-wet-sand.jpg",
+ "heroVideo": "rP4Rhh0Mujs",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/simplex-wet-sand_1.jpg\" alt=\"Nokta Macro Simplex Beach Metal Detecting\" title=\"Nokta Simplex vs Minelab Vanquish UK metal detecting on the beach\" width=\"624\" height=\"351\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Vanquish vs nokta makro simplex"
+  },
+  {
+   "t": "p",
+   "html": "For beach metal detecting, both were tested on mineralised black sand, with beach setting and ground balancing where required, not a suprise as to which detector managed to be the most stable for detecting this kind of beach.."
+  },
+  {
+   "t": "p",
+   "html": "If you are looking at beginning or learning to metal detect on both land and beaches then make sure you choose the right detector for what you need, With MINELAB Multi IQ built in the <a href=\"@minelab-vanquish-60-settings/\" data-kind=\"internal\">Minelab Vanquish Series</a> and the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Equinox Series</a> of metal detectors you can be assured that it will give you the best performance on whatever type of land or beach you decide is for you"
+  }
+ ],
+ "images": [
+  "images/simplex-wet-sand_1.jpg"
+ ],
+ "videos": [
+  "rP4Rhh0Mujs"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

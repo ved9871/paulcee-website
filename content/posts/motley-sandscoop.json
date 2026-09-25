@@ -1,0 +1,217 @@
+{
+ "type": "post",
+ "slug": "motley-sandscoop",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?motley-sandscoop",
+ "title": "Motley Sandscoop",
+ "seo": {
+  "title": "Motley Sandscoop - Blog",
+  "description": "Motley Sandscoops could be the Best Sandscoops for beach metal detecting",
+  "keywords": "Motley, Sandscoop, sandscoops, motley digging tools, motley sandscoop, beach detecting, Uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?motley-sandscoop",
+  "og": {
+   "title": "Motley Sandscoop",
+   "description": "Motley Sandscoops could be the Best Sandscoops for beach metal detecting",
+   "image": "https://www.paulcee.co.uk/blog/files/WEB_thumb_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?motley-sandscoop"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-04-18T08:57:00",
+    "dateModified": "2021-04-18T08:57:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Motley Sandscoop",
+    "description": "",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?motley-sandscoop",
+    "image": [
+     "https://www.paulcee.co.uk/images/motley_shaft.jpg",
+     "https://www.paulcee.co.uk/images/P1050964_8q74fvqw.jpg",
+     "https://www.paulcee.co.uk/images/motley-3_szlymu7l.jpg",
+     "https://www.paulcee.co.uk/blog/files/WEB_thumb.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202104",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Motley Sandscoop",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Motley Sandscoop",
+      "item": "https://www.paulcee.co.uk/blog/?category=Motley Sandscoop",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Motley Sandscoop",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Motley Sandscoop",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-04-18T08:57:00",
+ "dateModified": "2021-04-18T08:57:00",
+ "author": "Paul Cee",
+ "category": "Motley Sandscoop",
+ "categorySlug": "Motley_Sandscoop",
+ "tags": [],
+ "readTime": 2,
+ "summary": "Motley Sandscoops could be the Best Sandscoops for beach metal detecting",
+ "cover": "blog/files/WEB_thumb.jpg",
+ "heroVideo": "ypB0PuIzo04",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Motley Sandscoops for metal detecting beach and water hunting."
+  },
+  {
+   "t": "p",
+   "html": "The Motley scoops are designed by a Detectorist specifically for beach detecting and water hunting."
+  },
+  {
+   "t": "p",
+   "html": "Made from High Grade INOX Steel, various size hexhagonal holes allow the sand to be sifted through leaving the detected item safely in the scoop."
+  },
+  {
+   "t": "p",
+   "html": "The motley sandscoop unique design shaft with hexhagonal holes"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/motley_shaft.jpg\" alt=\"the Motley sandscoop Hexhagonal holes in the shaft a unique design in sandscoop shafts\" title=\"Motley Sandscoop\" width=\"340\" height=\"191\">"
+  },
+  {
+   "t": "p",
+   "html": "The Motley Shaft is also super strong and virtually indestructable also machined with hexhagonal holes which reduce weight and also allow water to quickly drain away. The Inox steel Shaft Can be bought along with the scoop as a package"
+  },
+  {
+   "t": "p",
+   "html": "A Unique locking system is used to connect the Motley Shaft to the Motley Sand scoop, which does away with a conventional nut and bolt and allows the user to quickly and easily swap shafts"
+  },
+  {
+   "t": "p",
+   "html": "the unique Motley shaft locking system"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1050964_8q74fvqw.jpg\" alt=\"Motley Sandscoop unique shaft locking system\" title=\"Motley Sandscoops Uk\" width=\"332\" height=\"187\">"
+  },
+  {
+   "t": "p",
+   "html": "The Motley scoops are finished in a high grade coating which gives the user the choice of various colour finishes and therfore a sandscoop the is totally unique for the detectorist"
+  },
+  {
+   "t": "p",
+   "html": "Motley sandscoops colour choice of the sand scoops that are available"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/motley-3_szlymu7l.jpg\" alt=\"Motley sandscoops have various colours available to be unique for the detectorist\" title=\"Motley sandscoops colours available\" width=\"338\" height=\"190\">"
+  },
+  {
+   "t": "p",
+   "html": "For More information and to Buy a MOTLEY Sandscoop <a href=\"https://bit.ly/MotleyScoops\" data-kind=\"affiliate\">click here</a>"
+  }
+ ],
+ "images": [
+  "images/motley_shaft.jpg",
+  "images/P1050964_8q74fvqw.jpg",
+  "images/motley-3_szlymu7l.jpg"
+ ],
+ "videos": [
+  "ypB0PuIzo04"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://bit.ly/MotleyScoops"
+ ]
+}

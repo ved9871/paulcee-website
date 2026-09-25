@@ -1,0 +1,376 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-iron-volume",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-iron-volume",
+ "title": "Minelab Vanquish Iron Volume",
+ "seo": {
+  "title": "Minelab Vanquish Iron Volume - Blog",
+  "description": "where to find the Iron volume on a minelab vanquish metal detector, after the latest vanquish update a new feature is available",
+  "keywords": "minelab vanquish iron volume, minelab vanquish settings, how to use a minelab vanquish, minelab vanquish update, minelab update utility",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-iron-volume",
+  "og": {
+   "title": "Minelab Vanquish Iron Volume",
+   "description": "where to find the Iron volume on a minelab vanquish metal detector, after the latest vanquish update a new feature is available",
+   "image": "https://www.paulcee.co.uk/blog/files/iron-volume_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-iron-volume"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-08-07T17:33:00",
+    "dateModified": "2020-08-07T17:33:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish Iron Volume",
+    "description": "iron Volume on the minelab Vanquish How to find and use ",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-iron-volume",
+    "image": [
+     "https://www.paulcee.co.uk/images/iron-volume_web.jpg",
+     "https://www.paulcee.co.uk/blog/files/iron-volume_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202008",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "iron",
+      "item": "https://www.paulcee.co.uk/blog/?tag=iron",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "volume",
+      "item": "https://www.paulcee.co.uk/blog/?tag=volume",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "update",
+      "item": "https://www.paulcee.co.uk/blog/?tag=update",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Iron Volume",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-08-07T17:33:00",
+ "dateModified": "2020-08-07T17:33:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish Settings",
+ "categorySlug": "Minelab_Vanquish_Settings",
+ "tags": [
+  "minelab",
+  "vanquish",
+  "iron",
+  "volume",
+  "update",
+  "uk",
+  "metal",
+  "detector"
+ ],
+ "readTime": 1,
+ "summary": "iron Volume on the minelab Vanquish How to find and use ",
+ "cover": "blog/files/iron-volume_web.jpg",
+ "heroVideo": "HYzZLG3UkPs",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/iron-volume_web.jpg\" alt=\"where to find minelab Vanquish iron volume\" title=\"minelab Vanquish IRON Volume\" width=\"310\" height=\"174\">"
+  },
+  {
+   "t": "h2",
+   "html": "HOW TO SET IRON VOLUME MINELAB VANQUISH"
+  },
+  {
+   "t": "p",
+   "html": "Latest Update for the Minelab Vanquish metal detector you can now have the use of iron volume in the settings, Help is at hand this is how you set the Vanquish Iron Volume Quick and easy"
+  },
+  {
+   "t": "p",
+   "html": "let us know how you get on with the new iron volume on your Minelab vanquish"
+  }
+ ],
+ "images": [
+  "images/iron-volume_web.jpg"
+ ],
+ "videos": [
+  "HYzZLG3UkPs"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

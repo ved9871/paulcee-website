@@ -1,0 +1,229 @@
+{
+ "type": "page",
+ "slug": "ctx3030",
+ "liveUrl": "https://www.paulcee.co.uk/ctx3030.html",
+ "h1": "Minelab CTX 3030 Review | FBS 2 Tech & Manticore Comparison",
+ "seo": {
+  "title": "CTX 3030",
+  "description": "The ultimate guide to the Minelab CTX 3030. Explore FBS 2 technology, XChange 2 programming, available coils, and a detailed comparison vs the Minelab Manticore",
+  "keywords": "Minelab CTX 3030, Minelab Manticore vs CTX 3030, FBS 2 technology, Minelab XChange 2, metal detector reviews, CTX 3030 coils, Coiltek CTX coils, Smartfind 2 discrimination, waterproof metal detector, treasure hunting",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/ctx3030.html",
+  "og": {
+   "title": "Minelab CTX 3030 Review | FBS 2 Tech & Manticore Comparison",
+   "description": "The ultimate guide to the Minelab CTX 3030. Explore FBS 2 technology, XChange 2 programming, available coils, and a detailed comparison vs the Minelab Manticore",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/ctx3030.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/Minelab-CTX3030-Special-pack?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/ctx-3030_WEB.jpg\" alt=\"how does the CTX 3030 shape against the Minelab Manticore\" title=\"Minelab CTX 3030 Vs Manticore\" width=\"230\" height=\"230\"> </a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/Minelab-CTX3030-Special-pack?tracking=fa202437c9\" data-kind=\"affiliate\" class=\"btn\">BUY CTX 3030</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/Minelab-CTX3030-Special-pack?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/CTX3030_web.jpg\" alt=\"how good is the Minelab CTX 3030\" title=\"Is the Minelab CTX 3030 any good\" width=\"230\" height=\"230\"> </a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab CTX 3030",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The Master of Stability &amp; Identification"
+  },
+  {
+   "t": "h2",
+   "html": "FBS 2 Technology",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Full Band Spectrum 2 (FBS 2)</strong> is the engine that drives the CTX 3030. Unlike single-frequency detectors that struggle in mineralized ground or saltwater, FBS 2 combines Minelab's multi-frequency transmission (1.5kHz – 100kHz) with advanced digital coil-to-detector communication."
+  },
+  {
+   "t": "p",
+   "html": "The result is significantly better noise cancellation and signal analysis, allowing you to find deep silver coins even in iron-infested sites where other machines go silent."
+  },
+  {
+   "t": "h2",
+   "html": "The Smart Screen &amp; Target Trace",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The full-color LCD is more than just a display—it's a visual mapping tool."
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Target Trace:</strong> This features allows you to see multiple targets simultaneously. You can visually distinguish a good target (like a coin) sitting right next to a bad target (like a nail) based on their position on the FeCo (Ferrous/Conductive) graph.",
+    "<strong>GPSi Mapping:</strong> The screen integrates GPS data, allowing you to create WayPoints and view \"GeoTrails\" so you can see exactly where you have already detected."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "💻 The XChange 2 Advantage: Easy PC Programming",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "One of the CTX 3030's most distinct features is its full integration with the <strong>Minelab XChange 2 PC application</strong>."
+  },
+  {
+   "t": "p",
+   "html": "Unlike newer machines where all settings must be tapped out on a small screen, the CTX 3030 allows you to:"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Design Custom Profiles on a Large Screen:</strong> Easily drag and drop discrimination patterns and Tone ID profiles using your mouse and keyboard.",
+    "<strong>Manage Your Maps:</strong> View your \"FindPoints\" and \"GeoTrails\" on Google Maps to analyze where you found treasure.",
+    "<strong>Upload/Download:</strong> Instantly transfer your custom settings to your detector via USB."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<em><strong>Note:</strong> This PC-based profile creation facility is <strong>NOT available on the Minelab Manticore</strong>, which relies solely on on-device programming.</em>"
+  },
+  {
+   "t": "h2",
+   "html": "Comparison: CTX 3030 vs. Minelab Manticore",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The Manticore is faster and lighter, but the CTX 3030 remains the choice for stability and advanced PC customization."
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Feature",
+     "Minelab CTX 3030",
+     "Minelab Manticore"
+    ],
+    [
+     "<strong>Core Tech</strong>",
+     "FBS 2 (Simultaneous Multi-Freq)",
+     "Multi-IQ+ (High Power Multi-Freq)"
+    ],
+    [
+     "<strong>PC Programming</strong>",
+     "<strong>YES (XChange 2 Software)</strong><br>Create profiles &amp; maps on PC",
+     "<strong>NO</strong><br>Updates only; must program on device"
+    ],
+    [
+     "<strong>Target ID Style</strong>",
+     "FeCo (1-50 Conductive / 1-35 Ferrous)",
+     "0-99 Conductive Scale"
+    ],
+    [
+     "<strong>Visuals</strong>",
+     "Color LCD with <strong>Target Trace</strong>",
+     "Color LCD with 2D Map"
+    ],
+    [
+     "<strong>GPS</strong>",
+     "<strong>Built-in GPS &amp; PC Mapping</strong>",
+     "No GPS"
+    ]
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "✅ The Pros",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>PC Customization:</strong> Use XChange 2 to build complex programs easily on your computer rather than fiddling with buttons in the field.",
+    "<strong>Best Visual ID:</strong> The Target Trace remains superior for identifying bottle caps versus coins.",
+    "<strong>Stability:</strong> Extremely stable Target IDs at depth; numbers rarely jump on deep silver.",
+    "<strong>GPS:</strong> The only high-end machine that logs your exact find locations."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "⚠️ The Cons",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Weight:</strong> It is heavy. A detecting harness is often required for long sessions.",
+    "<strong>Recovery Speed:</strong> Slower processor speed compared to the lightning-fast Manticore.",
+    "<strong>Legacy Connections:</strong> Uses older proprietary USB cables and battery chargers."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h2",
+   "html": "Available Search Coils",
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "Official Minelab Smart Coils",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<strong>CTX 06 (6-inch Round DD):</strong><br> The \"Sniper\" coil. Essential for heavy iron trash, building foundations, and rocky crevices."
+  },
+  {
+   "t": "p",
+   "html": "<strong>CTX 11 (11-inch Round DD):</strong><br> The stock coil. Provides the perfect balance of depth and separation for general hunting."
+  },
+  {
+   "t": "p",
+   "html": "<strong>CTX 17 (17x13-inch Elliptical DD):</strong><br> The depth monster. Use this for beaches and large open pastures to get maximum depth and ground coverage."
+  },
+  {
+   "t": "h3",
+   "html": "Approved Coiltek Coils",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Coiltek 10x5\" Elliptical:</strong><br> A favorite among users. It cuts through water and trash better than the stock 11\" and separates targets brilliantly."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Coiltek 14x9\" DD:</strong><br> A lighter open-field alternative to the massive Minelab 17\" coil."
+  }
+ ],
+ "images": [
+  "images/ctx-3030_WEB.jpg",
+  "images/CTX3030_web.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/Minelab-CTX3030-Special-pack?tracking=fa202437c9"
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "type": "post",
+ "slug": "minelab-wm09-wireless-adapter",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-wm09-wireless-adapter",
+ "title": "Minelab WM09 Wireless Adapter",
+ "seo": {
+  "title": "Minelab WM09 Wireless Adapter - Blog",
+  "description": "Minelab wireless module for the minelab manticore, minelab equinox and x-terra Pro, allows for freedom of movement when metal detecting",
+  "keywords": "minelab wm09, minelab manticore, minelab wireless, minelab, crawfords metal detectors, paul cee",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-wm09-wireless-adapter",
+  "og": {
+   "title": "Minelab WM09 Wireless Adapter",
+   "description": "Minelab wireless module for the minelab manticore, minelab equinox and x-terra Pro, allows for freedom of movement when metal detecting",
+   "image": "https://www.paulcee.co.uk/blog/files/wm09a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-wm09-wireless-adapter"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2023-12-25T06:18:00",
+    "dateModified": "2023-12-25T06:18:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab WM09 Wireless Adapter",
+    "description": "Minelab WM09 Wireless Module",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-wm09-wireless-adapter",
+    "image": [
+     "https://www.paulcee.co.uk/images/detexpert-logosml_1s5gyj8v.png",
+     "https://www.paulcee.co.uk/images/20231217_112513.jpg",
+     "https://www.paulcee.co.uk/images/wm09a.jpg",
+     "https://www.paulcee.co.uk/images/20231217_112448.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/images/cmd-gift-card-1_hpo2qnk0.jpg",
+     "https://www.paulcee.co.uk/blog/files/wm09a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Dec 2023",
+      "item": "https://www.paulcee.co.uk/blog/?month=202312",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab WM09 Wireless Adapter",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab WM Modules",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab WM Modules",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab WM09 Wireless Adapter",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab WM09 Wireless Adapter",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2023-12-25T06:18:00",
+ "dateModified": "2023-12-25T06:18:00",
+ "author": "Paul Cee",
+ "category": "Minelab WM Modules",
+ "categorySlug": "Minelab_WM_Modules",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab WM09 Wireless Module",
+ "cover": "blog/files/wm09a.jpg",
+ "heroVideo": "olH0eYKabS4",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_1s5gyj8v.png\" alt=\"Minelab WM09 wireless module connect and features\" title=\"paul Cee Minelab WM09 wireless module\" width=\"54\" height=\"80\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/20231217_112513.jpg\" alt=\"using and features of the Minelab wireless module\" title=\"Minelab WM 09 Wireless Module\" width=\"144\" height=\"81\">"
+  },
+  {
+   "t": "h3",
+   "html": "Minelab WM 09 Wireless Module"
+  },
+  {
+   "t": "p",
+   "html": "Hey there! Today, we're going to look at the Minelab WM09 Wireless Adapter. If you're a Minelab Manticore, Minelab Equinox 900|700 or X-terra pro user you know how frustrating it can be to get tangled up in wires while trying to enjoy your treasure hunting adventures. Well, fear no more! The Minelab WM09 Wireless Module is here to save the day. With this nifty little device, you can say goodbye to those pesky wires and hello to a hassle-free detecting experience. It's easy to set up and offers a reliable wireless connection between your metal detector and headphones. So, no more tripping over cords or getting them caught on branches, sweaty ears in summer and not been able to get your hood over your headphones in winter."
+  },
+  {
+   "t": "p",
+   "html": "With the Minelab WM09 Wireless Adapter, you can focus on what really matters: finding those hidden treasures!"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/headphones/minelab-wm09\" data-kind=\"affiliate\">BUY HERE</a>"
+  }
+ ],
+ "images": [
+  "images/detexpert-logosml_1s5gyj8v.png",
+  "images/20231217_112513.jpg"
+ ],
+ "videos": [
+  "olH0eYKabS4"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detecting-accessories/headphones/minelab-wm09"
+ ]
+}

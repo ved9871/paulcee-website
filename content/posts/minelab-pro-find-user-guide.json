@@ -1,0 +1,347 @@
+{
+ "type": "post",
+ "slug": "minelab-pro-find-user-guide",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-pro-find-user-guide",
+ "title": "Minelab Pro Find user guide",
+ "seo": {
+  "title": "Minelab Pro Find user guide - Blog",
+  "description": "How to use a Minelab Pro find, tutorial for setting up and how to reset, minelab Pro find problems resolved",
+  "keywords": "Minelab, tutorial, profind, tutorial, how to, pinpointer, problem, resolved",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-pro-find-user-guide",
+  "og": {
+   "title": "Minelab Pro Find user guide",
+   "description": "How to use a Minelab Pro find, tutorial for setting up and how to reset, minelab Pro find problems resolved",
+   "image": "https://www.paulcee.co.uk/blog/files/pro-find-web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-pro-find-user-guide"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-01-03T09:00:00",
+    "dateModified": "2021-01-03T09:00:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Pro Find user guide",
+    "description": "How to use Minelab Pro Find",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-pro-find-user-guide",
+    "image": [
+     "https://www.paulcee.co.uk/images/pro-find-web_cps5buhj.jpg",
+     "https://www.paulcee.co.uk/blog/files/pro-find-web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202101",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab pro find",
+      "item": "https://www.paulcee.co.uk/blog/?category=minelab pro find",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "profind",
+      "item": "https://www.paulcee.co.uk/blog/?tag=profind",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "profind35",
+      "item": "https://www.paulcee.co.uk/blog/?tag=profind35",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Profind20",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Profind20",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "probe",
+      "item": "https://www.paulcee.co.uk/blog/?tag=probe",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Pro Find user guide",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-01-03T09:00:00",
+ "dateModified": "2021-01-03T09:00:00",
+ "author": "Paul Cee",
+ "category": "minelab pro find",
+ "categorySlug": "minelab_pro_find",
+ "tags": [
+  "Minelab",
+  "profind",
+  "profind35",
+  "Profind20",
+  "probe",
+  "metal",
+  "detector"
+ ],
+ "readTime": 1,
+ "summary": "How to use Minelab Pro Find",
+ "cover": "blog/files/pro-find-web.jpg",
+ "heroVideo": "TgGDcPCVXDQ",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pro-find-web_cps5buhj.jpg\" alt=\"how to use and set up the Minelab Pro find pinpointer\" title=\"minelab pro find tutorial uk\" width=\"623\" height=\"436\">"
+  },
+  {
+   "t": "h2",
+   "html": "MINELAB Pro Find"
+  },
+  {
+   "t": "p",
+   "html": "A tutorial on how to set up the features and tones for metal detector Probe, how to set and use ferrous tones, how to adjust sensitivity, how to turn the volume on and off finds recovery, and maintenance."
+  }
+ ],
+ "images": [
+  "images/pro-find-web_cps5buhj.jpg"
+ ],
+ "videos": [
+  "TgGDcPCVXDQ"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,433 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-settings",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings",
+ "title": "Minelab Equinox Settings",
+ "seo": {
+  "title": "Minelab Equinox Settings - Blog",
+  "description": "how to get the best settings for a minelab metal detectors, from minelab vanquish, minelab manticore, minelab equinox or ctx 3030 we are here to help",
+  "keywords": "minelab equinox settings, minelab manticore settings, minelab vanquish settings, minelab x-terra pro settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings",
+  "og": {
+   "title": "Minelab Equinox Settings",
+   "description": "how to get the best settings for a minelab metal detectors, from minelab vanquish, minelab manticore, minelab equinox or ctx 3030 we are here to help",
+   "image": "https://www.paulcee.co.uk/blog/files/equinox_masterclassWEB_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-05-23T17:42:00",
+    "dateModified": "2019-05-23T17:42:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Minelab Equinox Settings",
+    "description": "what do you learn at a Minelab Equinox masterclass.",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings",
+    "image": [
+     "https://www.paulcee.co.uk/images/equinox_masterclassWEB.jpg",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_cevl2euy.png",
+     "https://www.paulcee.co.uk/images/detexpert-logosml_0uu4x349.png",
+     "https://www.paulcee.co.uk/images/pdc-sticker_sml_t8pcf5r9.jpg",
+     "https://www.paulcee.co.uk/blog/files/equinox_masterclassWEB.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201905",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "set",
+      "item": "https://www.paulcee.co.uk/blog/?tag=set",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "up",
+      "item": "https://www.paulcee.co.uk/blog/?tag=up",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ground",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ground",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "balance",
+      "item": "https://www.paulcee.co.uk/blog/?tag=balance",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "iron",
+      "item": "https://www.paulcee.co.uk/blog/?tag=iron",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "bias",
+      "item": "https://www.paulcee.co.uk/blog/?tag=bias",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-05-23T17:42:00",
+ "dateModified": "2019-05-23T17:42:00",
+ "author": "David Wallace",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [
+  "Minelab",
+  "Equinox",
+  "settings",
+  "set",
+  "up",
+  "ground",
+  "balance",
+  "iron",
+  "bias"
+ ],
+ "readTime": 1,
+ "summary": "what do you learn at a Minelab Equinox masterclass.",
+ "cover": "blog/files/equinox_masterclassWEB.jpg",
+ "heroVideo": "LKpEFy9ZYLI",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/equinox_masterclassWEB.jpg\" alt=\"how to get the best settings for a minelab equinox\" title=\"minelab equinox best settings\" width=\"461\" height=\"259\"></a>"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_cevl2euy.png\" alt=\"minelab equinox crawfords metal detectors\" title=\"minelab equinox settings uk\" width=\"72\" height=\"72\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_0uu4x349.png\" alt=\"minelab metal detector settings\" title=\"paul cee minelab\" width=\"56\" height=\"83\">"
+  },
+  {
+   "t": "h2",
+   "html": "You need to know how to get the best settings on a Minelab metal detectors."
+  },
+  {
+   "t": "p",
+   "html": "On The <a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\">Crawfords Minelab Equinox Masterclass</a> you learn from Minelab Experts on all the basics of setting up your Minelab Equinox from new detectorist right through to experienced levels."
+  },
+  {
+   "t": "p",
+   "html": "we have Derek Mclennan and sharron mclennan and paul cee on the Minelab Test lanes to help you get the best out of your detector"
+  },
+  {
+   "t": "p",
+   "html": "Learn how to properly Set the Ground balance, set the iron bias, adjust tones, the correct sensitivity and a whole lot more on the minelab detecting master class."
+  },
+  {
+   "t": "p",
+   "html": "A Short Video of what happens on the Equinox masterclass"
+  },
+  {
+   "t": "p",
+   "html": "Sign up to the mailing list for Masterclass Dates and locations"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/pdc-sticker_sml_t8pcf5r9.jpg\" alt=\"regtons metal detectors\" title=\"LP metal detecting uk\" width=\"136\" height=\"136\"></a>"
+  }
+ ],
+ "images": [
+  "images/equinox_masterclassWEB.jpg",
+  "images/YT-thumb_2020_cevl2euy.png",
+  "images/detexpert-logosml_0uu4x349.png",
+  "images/pdc-sticker_sml_t8pcf5r9.jpg"
+ ],
+ "videos": [
+  "LKpEFy9ZYLI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

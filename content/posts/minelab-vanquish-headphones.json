@@ -1,0 +1,402 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-headphones",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-headphones",
+ "title": "Minelab Vanquish Headphones",
+ "seo": {
+  "title": "Best Minelab Vanquish Headphones - Blog",
+  "description": "best and loudest heaphones for the minelab Vanquish series range of metal detectors",
+  "keywords": "minelab, Vanquish, Headphones, metal, detector, loud, good, sound",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-headphones",
+  "og": {
+   "title": "Minelab Vanquish Headphones",
+   "description": "best and loudest heaphones for the minelab Vanquish series range of metal detectors",
+   "image": "https://www.paulcee.co.uk/blog/files/superblues_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-headphones"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-07-24T18:09:00",
+    "dateModified": "2020-07-24T18:09:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish Headphones",
+    "description": "Best Minelab Vanquish and Minelab Equinox Headphones",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-headphones",
+    "image": [
+     "https://www.paulcee.co.uk/images/jackplugs.jpg",
+     "https://www.paulcee.co.uk/images/jackplugs1.jpg",
+     "https://www.paulcee.co.uk/images/volume.jpg",
+     "https://www.paulcee.co.uk/images/switch.jpg",
+     "https://www.paulcee.co.uk/images/wm08.jpg",
+     "https://www.paulcee.co.uk/blog/files/superblues.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202007",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "headphones",
+      "item": "https://www.paulcee.co.uk/blog/?tag=headphones",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "best",
+      "item": "https://www.paulcee.co.uk/blog/?tag=best",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "high",
+      "item": "https://www.paulcee.co.uk/blog/?tag=high",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "volume",
+      "item": "https://www.paulcee.co.uk/blog/?tag=volume",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "superblues",
+      "item": "https://www.paulcee.co.uk/blog/?tag=superblues",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "wm08",
+      "item": "https://www.paulcee.co.uk/blog/?tag=wm08",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Headphones",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-07-24T18:09:00",
+ "dateModified": "2020-07-24T18:09:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "Minelab",
+  "Vanquish",
+  "headphones",
+  "best",
+  "high",
+  "volume",
+  "superblues",
+  "wm08"
+ ],
+ "readTime": 2,
+ "summary": "Best Minelab Vanquish and Minelab Equinox Headphones",
+ "cover": "blog/files/superblues.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Headphones for the minelab vanquish minelab equinox and minelab manticore"
+  },
+  {
+   "t": "p",
+   "html": "These SuperBLUE metal detector headphones are very very loud and also cut out so much outside noise you are able to turn down the volume and still hear those very faint signals from the metal detector, which with cheap or poor audio quality metal detector headphones can mean the differance between a good day detecting and targets that are missed and left behind"
+  },
+  {
+   "t": "p",
+   "html": "SuperBLUES are some of the best sounding headphones i use with the Minelab Vanquish, they come complete with a kind of no down time headphone connection lead, one end is the standard 6.5mm jack connection that plugs directly into the SuperBLUE headphones, and the other end is 3.5mm Jack plug which plugs directly in the headphone socket on the <a href=\"@minelab-vanquish-40-series/\" data-kind=\"internal\">minelab Vanquish</a>.<img src=\"@img:images/jackplugs.jpg\" alt=\"minelab equinox headphone connector uk\" title=\"minelab vanquish headphone connector\" width=\"311\" height=\"233\"><img src=\"@img:images/jackplugs1.jpg\" alt=\"metal detecting headphones plug\" title=\"metal detector headphone jack plug\" width=\"310\" height=\"233\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/volume.jpg\" alt=\"headphone volume metal detector Mals Superblues\" title=\"minelab vanquish headphones volume\" width=\"304\" height=\"228\">"
+  },
+  {
+   "t": "p",
+   "html": "On the Side of the SuperBLUE headphones is a Volume control Knob which for sure you will have to turn down as they are LOUD."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/switch.jpg\" alt=\"minelab Vanquish headphone volume\" title=\"Mals SuperBLUES headphones\" width=\"279\" height=\"209\">"
+  },
+  {
+   "t": "p",
+   "html": "And Next to the SuperBLUE Volume control is a switch which allows the Headphones to be used with other metal detectors"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/wm08.jpg\" alt=\"minelab equinox wm08 headphones connection\" title=\"minelab equinox wm08 plug\" width=\"365\" height=\"274\">"
+  },
+  {
+   "t": "p",
+   "html": "As With the SurfFones these can also connect to other detectors with either a 3.5mm jack plug or a 6mm jack plug these work effortlessly with the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox WM08</a> wireless audio Module"
+  }
+ ],
+ "images": [
+  "images/jackplugs.jpg",
+  "images/jackplugs1.jpg",
+  "images/volume.jpg",
+  "images/switch.jpg",
+  "images/wm08.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

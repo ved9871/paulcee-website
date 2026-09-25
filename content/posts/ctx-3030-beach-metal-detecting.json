@@ -1,0 +1,323 @@
+{
+ "type": "post",
+ "slug": "ctx-3030-beach-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?ctx-3030-beach-metal-detecting",
+ "title": "ctx 3030 beach metal detecting",
+ "seo": {
+  "title": "ctx 3030 beach metal detecting uk - Blog",
+  "description": "metal detecting uk, minelab ctx 3030, treasure hunting uk",
+  "keywords": "metal detecting uk, minelab ctx 3030, treasure hunting uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?ctx-3030-beach-metal-detecting",
+  "og": {
+   "title": "ctx 3030 beach metal detecting",
+   "description": "metal detecting uk, minelab ctx 3030, treasure hunting uk",
+   "image": "https://www.paulcee.co.uk/blog/files/profile-pic-2020_final_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?ctx-3030-beach-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-09-17T19:41:00",
+    "dateModified": "2017-09-17T19:41:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "ctx 3030 beach metal detecting",
+    "description": "ring and old coins from the beach",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?ctx-3030-beach-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/031017_zo3ya6jq.jpg",
+     "https://www.paulcee.co.uk/blog/files/profile-pic-2020_final.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201709",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "devon",
+      "item": "https://www.paulcee.co.uk/blog/?tag=devon",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "bournemouth",
+      "item": "https://www.paulcee.co.uk/blog/?tag=bournemouth",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "blackpool",
+      "item": "https://www.paulcee.co.uk/blog/?tag=blackpool",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx 3030 beach metal detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-09-17T19:41:00",
+ "dateModified": "2017-09-17T19:41:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "beach",
+  "metal",
+  "detecting",
+  "devon",
+  "bournemouth",
+  "blackpool"
+ ],
+ "readTime": 1,
+ "summary": "ring and old coins from the beach",
+ "cover": "blog/files/profile-pic-2020_final.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/031017_zo3ya6jq.jpg\" alt=\"beach metal detecting uk with minelab metal detectors\" title=\"metal detecting cleethorpes beach\" width=\"357\" height=\"201\">"
+  },
+  {
+   "t": "p",
+   "html": "North England Metal detecting on the tough beaches that are reluctant to give up the Treasures, but the <a href=\"@ctx3030/\" data-kind=\"internal\">Minelab Ctx3030</a> still manages to winkle out an old toy from around WW2, some coins and the remains of what at one time was somebodys precious belonging"
+  },
+  {
+   "t": "video",
+   "id": "kP7iD6LW3oI",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/031017_zo3ya6jq.jpg"
+ ],
+ "videos": [
+  "kP7iD6LW3oI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

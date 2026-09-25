@@ -1,0 +1,323 @@
+{
+ "type": "post",
+ "slug": "detecting-storm-ciara",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?detecting-storm-ciara",
+ "title": "Detecting Storm Ciara",
+ "seo": {
+  "title": "Detecting Storm Ciara - Blog",
+  "description": "Metal Detecting In STORM CIARA",
+  "keywords": "Metal, Detecting, UK, Crawfords metal detectors, minelab metal detectors, metal detector tutorial, minelab vanquish, minelab manticore, minelab equinox, minelab detexpert",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?detecting-storm-ciara",
+  "og": {
+   "title": "Detecting Storm Ciara",
+   "description": "Metal Detecting In STORM CIARA",
+   "image": "https://www.paulcee.co.uk/blog/files/09022020_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?detecting-storm-ciara"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-02-10T18:48:00",
+    "dateModified": "2020-02-10T18:48:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Detecting Storm Ciara",
+    "description": "Metal Detecting In STORM CIARA",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?detecting-storm-ciara",
+    "image": [
+     "https://www.paulcee.co.uk/images/09022020.jpg",
+     "https://www.paulcee.co.uk/blog/files/09022020.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Feb 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202002",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "storm",
+      "item": "https://www.paulcee.co.uk/blog/?tag=storm",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting Storm Ciara",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-02-10T18:48:00",
+ "dateModified": "2020-02-10T18:48:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox",
+ "categorySlug": "Minelab_Equinox",
+ "tags": [
+  "Metal",
+  "Detecting",
+  "uk",
+  "minelab",
+  "Equinox",
+  "storm"
+ ],
+ "readTime": 1,
+ "summary": "Metal Detecting In STORM CIARA",
+ "cover": "blog/files/09022020.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/09022020.jpg\" alt=\"waterproof metal detector\" title=\"metal detecting in england after a storm\" width=\"262\" height=\"147\">"
+  },
+  {
+   "t": "p",
+   "html": "Possibly only the second worst time to be out metal detecting i have ever faced, rain coming in horiziontally and super strong gale force winds really did make it a struggle to stand up.."
+  },
+  {
+   "t": "video",
+   "id": "uaNhtM_Zuok",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/09022020.jpg"
+ ],
+ "videos": [
+  "uaNhtM_Zuok"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

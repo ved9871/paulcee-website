@@ -1,0 +1,396 @@
+{
+ "type": "post",
+ "slug": "equinox-eqx-15-dd-smart-coil",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-eqx-15-dd-smart-coil",
+ "title": "Equinox EQX 15 DD smart coil",
+ "seo": {
+  "title": "Equinox EQX 15 DD smart coil - Blog",
+  "description": "Minelab Equinox large coil, 15 inch smart DD search coil",
+  "keywords": "Minelab, Equinox, 800, 900 large coil, metal detecting, beach, how to",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-eqx-15-dd-smart-coil",
+  "og": {
+   "title": "Equinox EQX 15 DD smart coil",
+   "description": "Minelab Equinox large coil, 15 inch smart DD search coil",
+   "image": "https://www.paulcee.co.uk/blog/files/111118_silver_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-eqx-15-dd-smart-coil"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-11T17:33:00",
+    "dateModified": "2018-11-11T17:33:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Equinox EQX 15 DD smart coil",
+    "description": "Minelab Equinox 15 inch coil finds silver",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-eqx-15-dd-smart-coil",
+    "image": [
+     "https://www.paulcee.co.uk/images/111118_silver.jpg",
+     "https://www.paulcee.co.uk/images/P1040545_a.jpg",
+     "https://www.paulcee.co.uk/images/P1040549_a.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/111118_silver.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "smart",
+      "item": "https://www.paulcee.co.uk/blog/?tag=smart",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coil",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coil",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "EQX15",
+      "item": "https://www.paulcee.co.uk/blog/?tag=EQX15",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "DD",
+      "item": "https://www.paulcee.co.uk/blog/?tag=DD",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "silver",
+      "item": "https://www.paulcee.co.uk/blog/?tag=silver",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "cleethorpes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=cleethorpes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox EQX 15 DD smart coil",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-11T17:33:00",
+ "dateModified": "2018-11-11T17:33:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Minelab",
+  "equinox",
+  "smart",
+  "coil",
+  "EQX15",
+  "DD",
+  "silver",
+  "cleethorpes"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Equinox 15 inch coil finds silver",
+ "cover": "blog/files/111118_silver.jpg",
+ "heroVideo": "o52tvG7YTYw",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/111118_silver.jpg\" alt=\"metal detecting cleethorpes\" title=\"Minelab EQX 15 DD smart coil\" width=\"616\" height=\"345\">"
+  },
+  {
+   "t": "p",
+   "html": "Minelab Equinox beach detecting with the 15x12 dd smart coil, settings for the equinox and large coil still going under testing but what i am using at the minute are stable and quick in the deep iron and trash on the beach. following the tide out today looking for low spots and other areas that possibly hold the goodies, we pick up some silver pre-decimal coins and a .925 silver ring which is i think quite old.."
+  },
+  {
+   "t": "p",
+   "html": "Predator headphones on the Minelab Equinox"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1040545_a.jpg\" alt=\"predator headphones\" title=\"minelab Equinox headphones\" width=\"620\" height=\"349\">"
+  },
+  {
+   "t": "p",
+   "html": "The minelab Equinox EQX 15 double d smart coil"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1040549_a.jpg\" alt=\"Equinox big coil\" title=\"minelab EQX 15 DD smart coil\" width=\"621\" height=\"349\">"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-equinox-15inch-coil?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Minelab Equinox 15 inch search coil\" title=\"Minelab Equinox 15 inch search coil\" width=\"616\" height=\"616\"></a>"
+  }
+ ],
+ "images": [
+  "images/111118_silver.jpg",
+  "images/P1040545_a.jpg",
+  "images/P1040549_a.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "o52tvG7YTYw"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/minelab-equinox-15inch-coil?tracking=fa202437c9"
+ ]
+}

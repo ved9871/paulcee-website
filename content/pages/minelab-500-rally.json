@@ -1,0 +1,61 @@
+{
+ "type": "page",
+ "slug": "minelab-500-rally",
+ "liveUrl": "https://www.paulcee.co.uk/minelab-500-rally.html",
+ "h1": "Minelab 500 Rally 2026",
+ "seo": {
+  "title": "Minelab 500 Rally 2026",
+  "description": "Minelab 500 Metal Detecting Rally 2026, where and when will this metal detecting weekend be held in the uk",
+  "keywords": "metal, detecting, rally, near, me, CMD, Minelab, weekend, rally dates",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/minelab-500-rally.html",
+  "og": {
+   "title": "Minelab 500 Rally 2026",
+   "description": "Minelab 500 Metal Detecting Rally 2026, where and when will this metal detecting weekend be held in the uk",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/minelab-500-rally.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/minelab-500_2026-WEB.jpg\" alt=\"informantion on where and when the minelab 500 rally will be held in 2026\" title=\"minelab 500 metal detecting rally 2026\" width=\"770\" height=\"770\">"
+  },
+  {
+   "t": "p",
+   "html": "Buy Tickets"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab 500 rally"
+  },
+  {
+   "t": "p",
+   "html": "The Minelab 500 in 2027 will be a premier metal detecting rally held in the UK, designed to be much more than just a treasure hunt — it’s a full-on festival for detectorists."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"where and when will the minelab 500 metal detecting weekend rally be held\" title=\"minelab 500 metal detecting rally \" width=\"770\" height=\"770\">"
+  }
+ ],
+ "images": [
+  "images/minelab-500_2026-WEB.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

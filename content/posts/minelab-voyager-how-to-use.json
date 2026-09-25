@@ -1,0 +1,184 @@
+{
+ "type": "post",
+ "slug": "minelab-voyager-how-to-use",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-voyager-how-to-use",
+ "title": "minelab Voyager how to use",
+ "seo": {
+  "title": "minelab X-Terra Voyager how to use - Blog",
+  "description": "How to set up and use a Minelab X Terra Voyager metal detector, this is a full tutorial and how to guide covering settings and features for the Voyager detector",
+  "keywords": "minelab voyager, x terra voyager, voyager settings, voyager tutorial, voyager guide, voyager how to",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-voyager-how-to-use",
+  "og": {
+   "title": "minelab Voyager how to use",
+   "description": "How to set up and use a Minelab X Terra Voyager metal detector, this is a full tutorial and how to guide covering settings and features for the Voyager detector",
+   "image": "https://www.paulcee.co.uk/blog/files/voyager-tutorial_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-voyager-how-to-use"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-01-09T09:00:00",
+    "dateModified": "2026-01-09T09:00:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "minelab Voyager how to use",
+    "description": "Minelab X-Terra Voyager",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-voyager-how-to-use",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_ijg48a5r.png",
+     "https://www.paulcee.co.uk/images/WEB_AD---Copy_etaapn92.jpg",
+     "https://www.paulcee.co.uk/images/P1010891.jpg",
+     "https://www.paulcee.co.uk/images/P1010894.jpg",
+     "https://www.paulcee.co.uk/images/P1010897.jpg",
+     "https://www.paulcee.co.uk/blog/files/voyager-tutorial.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202601",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Voyager how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab X-Terra Voyager",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab X-Terra Voyager",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Voyager how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab Voyager how to use",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-01-09T09:00:00",
+ "dateModified": "2026-01-09T09:00:00",
+ "author": "Paul Cee",
+ "category": "Minelab X-Terra Voyager",
+ "categorySlug": "Minelab_X-Terra_Voyager",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab X-Terra Voyager",
+ "cover": "blog/files/voyager-tutorial.jpg",
+ "heroVideo": "Ih0P7ZIJZKg",
+ "blocks": [
+  {
+   "t": "p",
+   "html": "Minelab X-Terra Voyager Tutorial"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_ijg48a5r.png\" alt=\"how to use a minelab voyager\" title=\"minelab voyager settings\" width=\"141\" height=\"141\">"
+  },
+  {
+   "t": "p",
+   "html": "In this blog post, we will guide you on how to set up and use the Minelab Voyager metal detector. If you're a beginner or just curious as to what the buttons and features are for we are here to help show you, understanding the features and settings of this Entry Level detector is key to maximising your treasure hunting experience. Let's dive in and get you ready to uncover some hidden gems!"
+  },
+  {
+   "t": "p",
+   "html": "We go through Everything from Assembling for the First time, fitting the search coil, fitting the batteries in the Voyager. Target Id For gold rings, hammered coins and Much More."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD---Copy_etaapn92.jpg\" alt=\"Minelab X Terra Voyager review and tutorial\" title=\"Minelab X Terra Voyager review\" width=\"305\" height=\"305\">"
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_ijg48a5r.png",
+  "images/WEB_AD---Copy_etaapn92.jpg"
+ ],
+ "videos": [
+  "Ih0P7ZIJZKg"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

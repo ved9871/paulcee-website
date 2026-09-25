@@ -1,0 +1,181 @@
+{
+ "type": "post",
+ "slug": "equinox-iron-bias",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-iron-bias",
+ "title": "Equinox Iron Bias",
+ "seo": {
+  "title": "minelab Equinox Iron Bias explained - Blog",
+  "description": "minelab Equinox IRON BIAS Explained by minelab engineers, at how the iron bias works",
+  "keywords": "minelab equinox iron bias, equinox iron bias setting, set up equinox metal detector, minelab equinox settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-iron-bias",
+  "og": {
+   "title": "Equinox Iron Bias",
+   "description": "minelab Equinox IRON BIAS Explained by minelab engineers, at how the iron bias works",
+   "image": "https://www.paulcee.co.uk/blog/files/iron-bias-explained_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-iron-bias"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-01-09T08:31:00",
+    "dateModified": "2026-01-09T08:31:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Equinox Iron Bias",
+    "description": "What is IRON BIAS on the Minelab Equinox\nhere Minelab Equinox developer explains what is iron bias and how to use it",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-iron-bias",
+    "image": [
+     "https://www.paulcee.co.uk/images/iron-bias-explained.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/iron-bias-explained.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202601",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Iron Bias",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Iron Bias",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Iron Bias",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-01-09T08:31:00",
+ "dateModified": "2026-01-09T08:31:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [],
+ "readTime": 1,
+ "summary": "What is IRON BIAS on the Minelab Equinox\nhere Minelab Equinox developer explains what is iron bias and how to use it",
+ "cover": "blog/files/iron-bias-explained.jpg",
+ "heroVideo": "o6n_H_onH3o",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/iron-bias-explained.jpg\" alt=\"minelab iron bias explained by minelab Enginners\" title=\"equinox iron bias explained\" width=\"593\" height=\"333\">"
+  },
+  {
+   "t": "h2",
+   "html": "how do you set Iron Bias on the Minelab Equinox metal detector."
+  },
+  {
+   "t": "p",
+   "html": "what is iron bias on the Equinox? We have a tech talk for Minelab Metal Detecting,"
+  },
+  {
+   "t": "p",
+   "html": "who sent the engineer who brought the Equinox to life to Detectival to do a tech talk on the equinox and how the iron bias works on the equinox metal detector"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Minelab Equinox Iron Bias Explained\" title=\"Minelab Equinox Iron Bias Explained\" width=\"616\" height=\"616\">"
+  }
+ ],
+ "images": [
+  "images/iron-bias-explained.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "o6n_H_onH3o"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

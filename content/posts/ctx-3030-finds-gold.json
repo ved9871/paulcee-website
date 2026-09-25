@@ -1,0 +1,464 @@
+{
+ "type": "post",
+ "slug": "ctx-3030-finds-gold",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?ctx-3030-finds-gold",
+ "title": "CTX 3030 Finds gold",
+ "seo": {
+  "title": "CTX 3030 Finds gold - Blog",
+  "description": "minelab ctx 3030 beach metal detecting on bournemouth beach for gold",
+  "keywords": "minelab, ctx3030, gold, settings, bournemouth, beach, crawfords, metal, detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?ctx-3030-finds-gold",
+  "og": {
+   "title": "CTX 3030 Finds gold",
+   "description": "minelab ctx 3030 beach metal detecting on bournemouth beach for gold",
+   "image": "https://www.paulcee.co.uk/blog/files/GOPR0669_CTX_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?ctx-3030-finds-gold"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-09-02T17:44:00",
+    "dateModified": "2018-09-02T17:44:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "CTX 3030 Finds gold",
+    "description": "Metal detecting uk, super gold ring found Bournemouth beach",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?ctx-3030-finds-gold",
+    "image": [
+     "https://www.paulcee.co.uk/images/GOPR0669_CTX.jpg",
+     "https://www.paulcee.co.uk/blog/files/GOPR0669_CTX.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201809",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX",
+      "item": "https://www.paulcee.co.uk/blog/?tag=CTX",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "3030",
+      "item": "https://www.paulcee.co.uk/blog/?tag=3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bournemouth",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Bournemouth",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "find",
+      "item": "https://www.paulcee.co.uk/blog/?tag=find",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Finds gold",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-09-02T17:44:00",
+ "dateModified": "2018-09-02T17:44:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "CTX",
+  "3030",
+  "Bournemouth",
+  "beach",
+  "metal",
+  "detecting",
+  "find",
+  "gold",
+  "metal",
+  "detecting",
+  "uk"
+ ],
+ "readTime": 1,
+ "summary": "Metal detecting uk, super gold ring found Bournemouth beach",
+ "cover": "blog/files/GOPR0669_CTX.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\"><img src=\"@img:images/GOPR0669_CTX.jpg\" alt=\"bournemouth beach gold\" title=\"ctx 3030 find gold beach metal detecting bournemouth\" width=\"247\" height=\"139\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Metal Detecting Bournemouth beach with the <a href=\"@ctx3030/\" data-kind=\"internal\">Minelab CTX3030</a>, a wet and windy day searching the beach for lost treasures and coins, Found today a superb 22K Gold ring."
+  },
+  {
+   "t": "p",
+   "html": "Searching the wet sand and the slopes."
+  },
+  {
+   "t": "p",
+   "html": "if your learning to metal detect or want some hints and tips for successful beach metal detecting make sure you have subscribed to us on <a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\">YOUTUBE</a>"
+  },
+  {
+   "t": "p",
+   "html": "you can also check out <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">tips for beach metal detecting here</a>"
+  },
+  {
+   "t": "p",
+   "html": "watch the video"
+  },
+  {
+   "t": "video",
+   "id": "FAOkJMOb0RA",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/GOPR0669_CTX.jpg"
+ ],
+ "videos": [
+  "FAOkJMOb0RA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

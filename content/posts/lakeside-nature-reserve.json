@@ -1,0 +1,276 @@
+{
+ "type": "post",
+ "slug": "lakeside-nature-reserve",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?lakeside-nature-reserve",
+ "title": "Lakeside Nature Reserve",
+ "seo": {
+  "title": "Lakeside Nature Reserve - Blog",
+  "description": "a walk around ashby ville ponds in scunthorpe",
+  "keywords": "ashby, scunthorpe, ponds, steelworks, nature",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?lakeside-nature-reserve",
+  "og": {
+   "title": "Lakeside Nature Reserve",
+   "description": "a walk around ashby ville ponds in scunthorpe",
+   "image": "https://www.paulcee.co.uk/blog/files/Lockdown_adventure_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?lakeside-nature-reserve"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-04-06T15:16:00",
+    "dateModified": "2020-04-06T15:16:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Lakeside Nature Reserve",
+    "description": "Lockdown Exercise Walking Around Lakeside Nature Reserve",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?lakeside-nature-reserve",
+    "image": [
+     "https://www.paulcee.co.uk/images/P1050183.JPG",
+     "https://www.paulcee.co.uk/blog/files/Lockdown_adventure.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202004",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Lakeside Nature Reserve",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "lockdown 2020",
+      "item": "https://www.paulcee.co.uk/blog/?category=lockdown 2020",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Lakeside Nature Reserve",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Lakeside Nature Reserve",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "lakeside",
+      "item": "https://www.paulcee.co.uk/blog/?tag=lakeside",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Lakeside Nature Reserve",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "nature",
+      "item": "https://www.paulcee.co.uk/blog/?tag=nature",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Lakeside Nature Reserve",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "reserve",
+      "item": "https://www.paulcee.co.uk/blog/?tag=reserve",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Lakeside Nature Reserve",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "wildlife",
+      "item": "https://www.paulcee.co.uk/blog/?tag=wildlife",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Lakeside Nature Reserve",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-04-06T15:16:00",
+ "dateModified": "2020-04-06T15:16:00",
+ "author": "Paul Cee",
+ "category": "lockdown 2020",
+ "categorySlug": "lockdown_2020",
+ "tags": [
+  "lakeside",
+  "nature",
+  "reserve",
+  "wildlife"
+ ],
+ "readTime": 1,
+ "summary": "Lockdown Exercise Walking Around Lakeside Nature Reserve",
+ "cover": "blog/files/Lockdown_adventure.jpg",
+ "heroVideo": "HHF4hBooTiE",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1050183.JPG\" alt=\"Ashby Ville Ponds walk around\" title=\"Ashby Ville Ponds\" width=\"307\" height=\"173\">"
+  },
+  {
+   "t": "p",
+   "html": "A Walk During The Corona Virus Lockdown to Lakeside Nature Reserve Scunthorpe North Lincolnshire."
+  },
+  {
+   "t": "p",
+   "html": "Lots of stunning sights and wild animals and so close to the town centre for this nature reserve that was formaly"
+  },
+  {
+   "t": "p",
+   "html": "a Scunthorpe Steel Works Village"
+  }
+ ],
+ "images": [
+  "images/P1050183.JPG"
+ ],
+ "videos": [
+  "HHF4hBooTiE"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

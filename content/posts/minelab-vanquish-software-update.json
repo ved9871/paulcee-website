@@ -1,0 +1,382 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-software-update",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-software-update",
+ "title": "Minelab Vanquish software update",
+ "seo": {
+  "title": "Minelab Vanquish software update - Blog",
+  "description": "How to update software on Minelab Vanquish to the latest version with minelab Update utility",
+  "keywords": "minelab Vanquish update, how, minelab vanquish software update, latest vanquish software version",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-software-update",
+  "og": {
+   "title": "Minelab Vanquish software update",
+   "description": "How to update software on Minelab Vanquish to the latest version with minelab Update utility",
+   "image": "https://www.paulcee.co.uk/blog/files/vanquish-update_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-software-update"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-08-03T20:27:00",
+    "dateModified": "2020-08-03T20:27:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish software update",
+    "description": "Vanquish software update latest",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-software-update",
+    "image": [
+     "https://www.paulcee.co.uk/images/vanquish-update.jpg",
+     "https://www.paulcee.co.uk/blog/files/vanquish-update.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202008",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "update",
+      "item": "https://www.paulcee.co.uk/blog/?tag=update",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "software",
+      "item": "https://www.paulcee.co.uk/blog/?tag=software",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "pro",
+      "item": "https://www.paulcee.co.uk/blog/?tag=pro",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "pack",
+      "item": "https://www.paulcee.co.uk/blog/?tag=pack",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish software update",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-08-03T20:27:00",
+ "dateModified": "2020-08-03T20:27:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish Settings",
+ "categorySlug": "Minelab_Vanquish_Settings",
+ "tags": [
+  "Minelab",
+  "vanquish",
+  "update",
+  "software",
+  "pro",
+  "pack"
+ ],
+ "readTime": 2,
+ "summary": "Vanquish software update latest",
+ "cover": "blog/files/vanquish-update.jpg",
+ "heroVideo": "03cvE-6ng0c",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/mnlbVnqush\" data-kind=\"affiliate\"><img src=\"@img:images/vanquish-update.jpg\" alt=\"how to update minelab vanquish software\" title=\"minelab vanquish latest software update how to install\" width=\"307\" height=\"173\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab VANQUISH SOFTWARE UPDATE"
+  },
+  {
+   "t": "h3",
+   "html": "GET MORE FEATURES FROM YOUR Minelab VANQUISH",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "At Minelab, we understand your passion. Your need to hunt in all terrains and our pursuit of perfection, means VANQUISH is now better than ever."
+  },
+  {
+   "t": "h3",
+   "html": "WHAT'S NEW In The Vanquish update?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "VANQUISH just became more powerful. For the serious detectorist, new Iron Volume Control in the VANQUISH 540 puts you in charge of how much iron you want to hear, making trashy and mineralised soils easier to conquer. For greater control and a simply better detecting experience, hit the download button on the new update now."
+  },
+  {
+   "t": "h3",
+   "html": "VANQUISH 540 Iron Volume Control",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Detecting in heavy iron trash is enhanced with the new Iron Volume Control feature. 10-step adjustments let you decrease the volume of iron all the way down to a whisper, while leaving desirable targets (non-ferrous) loud and clear. To engage Iron Volume Control, simply hold down the All Metal button, while simultaneously using the Volume buttons to adjust to your liking."
+  },
+  {
+   "t": "h3",
+   "html": "General Improvements for All VANQUISH Models",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The upgrade also includes improved battery handling capability for all models, as well as a new low battery alert"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.minelab.com/__files/d/436006/Minelab%20Update%20Utility%20-%20Vanquish%20Upgrade%201.1%20(Windows).exe\" data-kind=\"affiliate\">Download the Vanquish Update</a>"
+  },
+  {
+   "t": "h3",
+   "html": "Note",
+   "inferred": true
+  },
+  {
+   "t": "ul",
+   "items": [
+    "Batteries must be in place, and charged, to perform the update.",
+    "Your VANQUISH coil must be connected to perform the update.",
+    "Many Micro-USB cables that are supplied with electronics (including those supplied with the battery charger and headphones in the VANQUISH 540 Pro Pack) are \"power only\". To update your VANQUISH, you will need to ensure your Micro-USB cable supports data as well.",
+    "Only one VANQUISH can be connected to your computer during the update operation.",
+    "VANQUISH will turn on automatically when plugged into your computer.",
+    "Any custom detector settings will be preserved while performing the update.",
+    "An Internet connection is required to download the Minelab Update Utility to the computer, however, an Internet connection is not required to update VANQUISH and this can be done offline."
+   ]
+  },
+  {
+   "t": "p",
+   "html": "<strong>Important:</strong> Do not turn off or disconnect the detector during the update process."
+  }
+ ],
+ "images": [
+  "images/vanquish-update.jpg"
+ ],
+ "videos": [
+  "03cvE-6ng0c"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/mnlbVnqush",
+  "https://www.minelab.com/__files/d/436006/Minelab%20Update%20Utility%20-%20Vanquish%20Upgrade%201.1%20(Windows).exe"
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "type": "post",
+ "slug": "rare-find-again",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?rare-find-again",
+ "title": "Rare Find again",
+ "seo": {
+  "title": "cleethorpes beach detecting - Blog",
+  "description": "metal detecting rivers uk, minelab ctx3030, metal detecting uk beach",
+  "keywords": "minelab ctx 3030 uk, metal detecting uk rivers, beach metal detecting uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?rare-find-again",
+  "og": {
+   "title": "Rare Find again",
+   "description": "metal detecting rivers uk, minelab ctx3030, metal detecting uk beach",
+   "image": "https://www.paulcee.co.uk/blog/files/051117a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?rare-find-again"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-11-09T19:35:00",
+    "dateModified": "2017-11-09T19:35:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Rare Find again",
+    "description": "Minelab ctx 3030 and 17 inch coil treasure hunting in the River, another rare find for me",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?rare-find-again",
+    "image": [
+     "https://www.paulcee.co.uk/images/051117a.jpg",
+     "https://www.paulcee.co.uk/blog/files/051117a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201711",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX",
+      "item": "https://www.paulcee.co.uk/blog/?tag=CTX",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "3030",
+      "item": "https://www.paulcee.co.uk/blog/?tag=3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rare Find again",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-11-09T19:35:00",
+ "dateModified": "2017-11-09T19:35:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "CTX",
+  "3030",
+  "settings",
+  "Beach",
+  "metal",
+  "detecting"
+ ],
+ "readTime": 1,
+ "summary": "Minelab ctx 3030 and 17 inch coil treasure hunting in the River, another rare find for me",
+ "cover": "blog/files/051117a.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/051117a.jpg\" alt=\"cleethorpes beach\" title=\"metal detecting cleethorpes beach\" width=\"344\" height=\"193\">"
+  },
+  {
+   "t": "p",
+   "html": "first frost of the winter and detecting with the <a href=\"@ctx3030/\" data-kind=\"internal\">Minelab CTX 3030</a> <a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\">17\" and stock coils</a>, Beach metal detecting in the river today, some old finds including my first harmonica thats almost complete, plus some old coins, the conditions on the beach are changing so much just lately sand getting pushed from offshore onto the beach and longshore drift also causing sanding in issues, so the choice to change to the larger CTX coil to try and get some extra depth and penetrate into the black sand, nice day but it were right cold. plenty of detectorists on the beach today all digging signals so hopefully they had more luck finding hidden treasure,than i did.."
+  },
+  {
+   "t": "video",
+   "id": "dvjzcvP891U",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/051117a.jpg"
+ ],
+ "videos": [
+  "dvjzcvP891U"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,300 @@
+{
+ "type": "post",
+ "slug": "mobile-phone-from-the-beach-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?mobile-phone-from-the-beach-metal-detecting",
+ "title": "Mobile phone found beach metal detecting",
+ "seo": {
+  "title": "Mobile phone found beach metal detecting - Blog",
+  "description": "found metal detecting uk minelab ctx 3030 and garrett seahunter mk2",
+  "keywords": "metal detecting uk beach, where to go metal detecting",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?mobile-phone-from-the-beach-metal-detecting",
+  "og": {
+   "title": "Mobile phone found beach metal detecting",
+   "description": "found metal detecting uk minelab ctx 3030 and garrett seahunter mk2",
+   "image": "https://www.paulcee.co.uk/blog/files/first-mobile_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?mobile-phone-from-the-beach-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2016-05-22T12:24:00",
+    "dateModified": "2016-05-22T12:24:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Mobile phone found beach metal detecting",
+    "description": "CTX 3030 and garrett seahunter Beach metal detecting uk",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?mobile-phone-from-the-beach-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/first-mobile-lrg.png",
+     "https://www.paulcee.co.uk/blog/files/first-mobile.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2016",
+      "item": "https://www.paulcee.co.uk/blog/?month=201605",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mobile phone found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mobile phone found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mobile phone found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mobile phone found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mobile phone found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mobile phone found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "finding",
+      "item": "https://www.paulcee.co.uk/blog/?tag=finding",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mobile phone found beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Phone",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Phone",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mobile phone found beach metal detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2016-05-22T12:24:00",
+ "dateModified": "2016-05-22T12:24:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "beach",
+  "metal",
+  "detecting",
+  "finding",
+  "Phone"
+ ],
+ "readTime": 1,
+ "summary": "CTX 3030 and garrett seahunter Beach metal detecting uk",
+ "cover": "blog/files/first-mobile.png",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/first-mobile-lrg.png\" alt=\"beach metal detecting uk\" title=\"metal detecting cleethorpes beach\" width=\"312\" height=\"209\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "More metal detecting on the beach today i find a mobile phone with the <a href=\"@ctx3030/\" data-kind=\"internal\">minelab ctx 3030</a> and and Garrett SEAHUNTER MK2 using the <a href=\"@sand-scoops-for-metal-detecting/\" data-kind=\"internal\">evolution sandscoop</a>"
+  },
+  {
+   "t": "video",
+   "id": "67XcxLME1H8",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/first-mobile-lrg.png"
+ ],
+ "videos": [
+  "67XcxLME1H8"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

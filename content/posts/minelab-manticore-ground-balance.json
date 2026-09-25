@@ -1,0 +1,438 @@
+{
+ "type": "post",
+ "slug": "minelab-manticore-ground-balance",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-manticore-ground-balance",
+ "title": "Minelab Manticore Ground Balance",
+ "seo": {
+  "title": "Minelab Manticore Ground Balance - Blog",
+  "description": "Ground balancing a Minelab Manticore helps the detector differentiate between the minerals in the ground and the metal objects you're trying to detect",
+  "keywords": "Minelab manticore ground balance, ground balance, minelab manticore settings, how to ground balance, minelab, manticore, settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-manticore-ground-balance",
+  "og": {
+   "title": "Minelab Manticore Ground Balance",
+   "description": "Ground balancing a Minelab Manticore helps the detector differentiate between the minerals in the ground and the metal objects you're trying to detect",
+   "image": "https://www.paulcee.co.uk/blog/files/manticore_ground-balance_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-manticore-ground-balance"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2024-01-02T06:36:00",
+    "dateModified": "2024-01-02T06:36:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Manticore Ground Balance",
+    "description": "Minelab Manticore Ground Balance",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-manticore-ground-balance",
+    "image": [
+     "https://www.paulcee.co.uk/images/manticore_ground-balance.jpg",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_oc3x3ydz.png",
+     "https://www.paulcee.co.uk/images/detexpert-logosml_bncw3e13.png",
+     "https://www.paulcee.co.uk/images/manticore_web.jpg",
+     "https://www.paulcee.co.uk/images/manticore_ground-balance---Copy.jpg",
+     "https://www.paulcee.co.uk/images/wm09a.jpg",
+     "https://www.paulcee.co.uk/images/manticore-audio.jpg",
+     "https://www.paulcee.co.uk/images/manticore_emi.jpg",
+     "https://www.paulcee.co.uk/images/manticore-recovery-speed_bp6g9yfg.jpg",
+     "https://www.paulcee.co.uk/images/custom-ferrous-limits.jpg",
+     "https://www.paulcee.co.uk/images/pro-find-40-guide--WEB-.jpg",
+     "https://www.paulcee.co.uk/images/ferrous-limits-web_3kit2gei.jpg",
+     "https://www.paulcee.co.uk/blog/files/manticore_ground-balance.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2024",
+      "item": "https://www.paulcee.co.uk/blog/?month=202401",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=minelab manticore settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "manticore",
+      "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ground",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ground",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "balance",
+      "item": "https://www.paulcee.co.uk/blog/?tag=balance",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "multi",
+      "item": "https://www.paulcee.co.uk/blog/?tag=multi",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "iq",
+      "item": "https://www.paulcee.co.uk/blog/?tag=iq",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Ground Balance",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2024-01-02T06:36:00",
+ "dateModified": "2024-01-02T06:36:00",
+ "author": "Paul Cee",
+ "category": "minelab manticore settings",
+ "categorySlug": "minelab_manticore_settings",
+ "tags": [
+  "minelab",
+  "manticore",
+  "settings",
+  "ground",
+  "balance",
+  "multi",
+  "iq"
+ ],
+ "readTime": 4,
+ "summary": "Minelab Manticore Ground Balance",
+ "cover": "blog/files/manticore_ground-balance.jpg",
+ "heroVideo": "-s9PpNW1uy8",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore_ground-balance.jpg\" alt=\"when and how to ground balance a minelab manticore\" title=\"Minelab Manticore Ground balance\" width=\"215\" height=\"121\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_oc3x3ydz.png\" alt=\"how to set up a minelab manticore ground balance\" title=\"minelab manticore uk settings\" width=\"119\" height=\"119\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_bncw3e13.png\" alt=\"minelab manticore settings ground balance\" title=\"Crawfords metal detectors\" width=\"79\" height=\"117\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Manticore Ground Balance"
+  },
+  {
+   "t": "p",
+   "html": "Ground balancing a metal detector in the UK (or anywhere else, for that matter) is crucial for optimal performance. It helps the detector differentiate between the minerals in the ground and the metal objects you're trying to detect, causing false signal."
+  },
+  {
+   "t": "p",
+   "html": "The ground in different areas contains varying mineralisation levels, which can interfere with a metal detector's ability to accurately detect metal objects. By ground balancing the detector, you're essentially adjusting it to the specific mineral content of the soil. This adjustment helps eliminate false signals caused by mineralisation, allowing the detector to focus on detecting actual metal objects."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore_web.jpg\" alt=\"Minelab Manticore Ground balance settings\" title=\"Minelab Manticore Settings\" width=\"540\" height=\"540\">"
+  },
+  {
+   "t": "p",
+   "html": "In the UK, where there's a lot of historical land and varied soil compositions due to different geological formations, ground balancing becomes particularly important. It ensures the metal detector is fine tuned to the specific ground conditions, increasing its accuracy and efficiency in detecting targets while reducing false readings caused by mineral content."
+  },
+  {
+   "t": "p",
+   "html": "Multi IQ and Multi IQ+ are generally great at working out what is ground content and what is a target."
+  },
+  {
+   "t": "h3",
+   "html": "What does the Multi IQ do"
+  },
+  {
+   "t": "p",
+   "html": "Multi IQ (in easy Terms) basically uses a frequency to look at the ground and compares that to other received signals and compares them so it knows what is ground and what is the signal. Sometimes it is not perfect and you can get more ground noise and falsing, so this could be where you need to ground balance."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Improved Target Identification:</strong> It enhances the detector's ability to distinguish between different types of metals and provides more accurate target identification."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Enhanced Depth and Sensitivity:</strong> Multi-IQ+ technology can offer better depth and sensitivity, allowing detectors to find targets deeper underground while maintaining sensitivity to smaller objects."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Versatility:</strong> It performs well across different terrains and soil types because it can adapt to varying mineralisation levels. This adaptability makes it popular among detectorists exploring diverse locations."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Reduced Interference:</strong> Multi-IQ+ can help reduce signal interference from ground minerals, leading to fewer false readings."
+  },
+  {
+   "t": "h4",
+   "html": "When to Ground Balance."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore_ground-balance---Copy.jpg\" alt=\"when and how to ground balance a minelab manticore\" title=\"Minelab Manticore Ground balance\" width=\"540\" height=\"540\">"
+  },
+  {
+   "t": "p",
+   "html": "When i first get to a new area of detecting, i do an initial ground balance (make sure there are NO TARGETS UNDER THE COIL) and if it comes up with a low number (MAX 20) i leave the detectors Multi IQ+ to do all the work and most of the time it is fine."
+  },
+  {
+   "t": "p",
+   "html": "If it comes back with a higher reading then i will do a manual ground balance and then check again frequently and adjust as necessary, then detect a small area at a time and keep adjusting, if it has changed again then you could use tracking ground balance and let the detector adjust automatically, with tracking ground balance be careful of putting your detector down over a target in the ground, either a ferrous or non ferrous target, the detector will adjust to the target under the coil, so mess up the ground balance."
+  },
+  {
+   "t": "p",
+   "html": "On a beach the Manticore has improved ground balancing from the last update for dry sand, if detecting on the tide line or in the water then ground tracking works better as conditions change all the time. this area may also need a lower sensitivity setting to reduce false signals."
+  },
+  {
+   "t": "p",
+   "html": "Ground balancing will need to be done for each search mode should you change."
+  },
+  {
+   "t": "p",
+   "html": "This video shows where to find the Manticore Ground balance feature and how to set it."
+  }
+ ],
+ "images": [
+  "images/manticore_ground-balance.jpg",
+  "images/YT-thumb_2020_oc3x3ydz.png",
+  "images/detexpert-logosml_bncw3e13.png",
+  "images/manticore_web.jpg",
+  "images/manticore_ground-balance---Copy.jpg"
+ ],
+ "videos": [
+  "-s9PpNW1uy8"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

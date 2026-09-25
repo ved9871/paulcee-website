@@ -1,0 +1,187 @@
+{
+ "type": "post",
+ "slug": "metal-detecting-pow-camp",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-pow-camp",
+ "title": "metal detecting pow camp",
+ "seo": {
+  "title": "metal detecting pow camp - Blog",
+  "description": "metal detecting with the minelab manticore, around a ww2 pow camp. looking for evidence of who was living and working at the camp",
+  "keywords": "minelab manticore, metal detecting uk, metal detecting relics, minelab manticore search coils",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-pow-camp",
+  "og": {
+   "title": "metal detecting pow camp",
+   "description": "metal detecting with the minelab manticore, around a ww2 pow camp. looking for evidence of who was living and working at the camp",
+   "image": "https://www.paulcee.co.uk/blog/files/121123_donna-nook_manticore_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detecting-pow-camp"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2023-11-15T20:05:00",
+    "dateModified": "2023-11-15T20:05:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "metal detecting pow camp",
+    "description": "",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-pow-camp",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_0s3t4hli.png",
+     "https://www.paulcee.co.uk/blog/files/121123_donna-nook_manticore.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2023",
+      "item": "https://www.paulcee.co.uk/blog/?month=202311",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting pow camp",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Manticore",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting pow camp",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting pow camp",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2023-11-15T20:05:00",
+ "dateModified": "2023-11-15T20:05:00",
+ "author": "Paul Cee",
+ "category": "Minelab Manticore",
+ "categorySlug": "Minelab_Manticore",
+ "tags": [],
+ "readTime": 2,
+ "summary": "metal detecting with the minelab manticore, around a ww2 pow camp. looking for evidence of who was living and working at the camp",
+ "cover": "blog/files/121123_donna-nook_manticore.jpg",
+ "heroVideo": "iJ4nPqB1oA4",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_0s3t4hli.png\" alt=\"paul cee minelab manticore settings\" title=\"paul cee minelab manticore\" width=\"107\" height=\"107\">"
+  },
+  {
+   "t": "h2",
+   "html": "Metal Detecting a ww2 POW CAMP"
+  },
+  {
+   "t": "p",
+   "html": "where to detect? this time we went on an organised dig to a former military camp that during ww2 housed pow's from europe, this site wasnt massive but needed to be detected to find out where activity took place away from the camp buildings,"
+  },
+  {
+   "t": "p",
+   "html": "based on the east coast of the uk, this area was heavily fortified to prevent invasion from germany and other enemies during the war."
+  },
+  {
+   "t": "p",
+   "html": "what was found was really intresting and proved that prisoners from europe were located here."
+  },
+  {
+   "t": "p",
+   "html": "About these POW Camps."
+  },
+  {
+   "t": "p",
+   "html": "During World War II, English POW camps played a crucial role in housing captured enemy soldiers. These camps were not only a means of detaining prisoners but also served as important intelligence-gathering centers. Many of these camps were strategically located near military installations, allowing authorities to extract valuable information from the captives. Additionally, POW camps were utilized for propaganda purposes, showcasing the humane treatment of prisoners to counter the negative image of enemy forces. However, it's not just historical records that shed light on these camps; metal detecting enthusiasts have also unearthed fascinating artifacts, providing glimpses into the daily lives of both captives and captors alike."
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_0s3t4hli.png"
+ ],
+ "videos": [
+  "iJ4nPqB1oA4"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

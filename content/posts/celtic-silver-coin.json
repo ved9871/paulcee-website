@@ -1,0 +1,415 @@
+{
+ "type": "post",
+ "slug": "celtic-silver-coin",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?celtic-silver-coin",
+ "title": "Celtic Silver coin",
+ "seo": {
+  "title": "Celtic silver unit coin - Blog",
+  "description": "Minelab Equinox 800 Celtic silver unit coin and hammered coins settings that got results metal detecting in Norfolk uk",
+  "keywords": "equinox 800, settings for hammered, coins uk, equinox 800 settings uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?celtic-silver-coin",
+  "og": {
+   "title": "Celtic Silver coin",
+   "description": "Minelab Equinox 800 Celtic silver unit coin and hammered coins settings that got results metal detecting in Norfolk uk",
+   "image": "https://www.paulcee.co.uk/blog/files/P9020296_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?celtic-silver-coin"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-09-02T15:34:00",
+    "dateModified": "2019-09-02T15:34:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Celtic Silver coin",
+    "description": " Iceni Bury diadenum unit (gallo belgic) 65 bc - 1ad First coin like this for me ",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?celtic-silver-coin",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_okx3i7ir.png",
+     "https://www.paulcee.co.uk/images/detexpert-logosml_12ylb7bo.png",
+     "https://www.paulcee.co.uk/images/P9020296_web.jpg",
+     "https://www.paulcee.co.uk/images/P9020297_a.jpg",
+     "https://www.paulcee.co.uk/images/P9020284_a.jpg",
+     "https://www.paulcee.co.uk/images/P9020275_a.jpg",
+     "https://www.paulcee.co.uk/images/P9020276_a.jpg",
+     "https://www.paulcee.co.uk/blog/files/P9020296_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201909",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "celtic",
+      "item": "https://www.paulcee.co.uk/blog/?tag=celtic",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "800",
+      "item": "https://www.paulcee.co.uk/blog/?tag=800",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Celtic Silver coin",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-09-02T15:34:00",
+ "dateModified": "2019-09-02T15:34:00",
+ "author": "David Wallace",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [
+  "celtic",
+  "800",
+  "minelab",
+  "equinox",
+  "metal",
+  "detector",
+  "uk"
+ ],
+ "readTime": 2,
+ "summary": " Iceni Bury diadenum unit (gallo belgic) 65 bc - 1ad First coin like this for me ",
+ "cover": "blog/files/P9020296_web.jpg",
+ "heroVideo": "r-JqKu-ilLI",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_okx3i7ir.png\" alt=\"paul cee minelab uk\" title=\"minelab manticore settings\" width=\"85\" height=\"85\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_12ylb7bo.png\" alt=\"paul cee minelab detexpert\" title=\"crawfords metal detectors\" width=\"58\" height=\"86\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox ancient silver coins"
+  },
+  {
+   "t": "p",
+   "html": "The Iceni, centered on Norfolk but also occupying neighbouring parts of Suffolk and Cambridgeshire, are well attested in the post conquest period as the tribe under Queen Boudicca revolted against Roman rule."
+  },
+  {
+   "t": "p",
+   "html": "Their earliest coins are likely to have been British J Staters, Norfolk Wolf Type, replaced around the Mid 1st Century B.C. by the Snettisham, Freekenham and Irstead type GOLD Staters and Quarter Staters."
+  },
+  {
+   "t": "p",
+   "html": "Contemporary with these are SILVER Boar/Horse and Face/Horse units and fractions."
+  },
+  {
+   "t": "p",
+   "html": "The introduction of legends around the beginning of the Millennia led to the adoption a new obverse design of back to back cresents. The continuation of the coinage after the Roman invasion is attested by the coins of KING PRASUTAGUS. Some of the FACE/HORSE UNITS have been attributed to QUEEN BOUDICA"
+  },
+  {
+   "t": "p",
+   "html": "Iceni Bury diadenum unit (gallo belgic) 65 bc - 1ad .......SPINK 432"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P9020296_web.jpg\" alt=\"bury head coin\" title=\"iceni coin\" width=\"228\" height=\"171\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P9020297_a.jpg\" alt=\"bury head coin silver unitcoin\" title=\"iceni silver unit coin\" width=\"228\" height=\"171\">"
+  },
+  {
+   "t": "p",
+   "html": "Metal Detecting at a Rally in the Midlands of England with the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox 800</a>."
+  },
+  {
+   "t": "p",
+   "html": "Set up the Equinox in FIELD 1 and manual Ground Balanced as the soil was quite minearalized."
+  },
+  {
+   "t": "p",
+   "html": "started out detecting in the 1st field and found buttons and very small pieces of lead and then the same tones on the Equinox i thought another piece of lead and out came this very damaged CUT 1/4 hammered coin."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P9020284_a.jpg\" alt=\"cut quarter hammerd coin\" title=\"minelab equinox hammered coin uk\" width=\"239\" height=\"179\">"
+  },
+  {
+   "t": "p",
+   "html": "Later on in the day field 2 came available and this had an old ROMAN ROAD running through it, still the same settings on the Equinox i Set off walking as what was plotted on GPS the route of the Roman Road, gridding out a small area at a time.. signals at the time were mainly small lead and a few artifacts like POT LEGS and buttons. then a Signal came in at 15 on the target id.. out came a copper nose Hammered coin."
+  },
+  {
+   "t": "p",
+   "html": ".<img src=\"@img:images/P9020275_a.jpg\" alt=\"henry hammered coin\" title=\"copper nose coin\" width=\"198\" height=\"149\"><img src=\"@img:images/P9020276_a.jpg\" alt=\"long cross hammerd coinage\" title=\"long cross coin uk\" width=\"193\" height=\"145\">"
+  },
+  {
+   "t": "p",
+   "html": "Still Tracking the route of the road then came a signal of 19 a very loud and clear tone only showing very shallow on the Target Id.. it was an ICENI Silver Celtic Unit..A First for me i was shocked and stunned that a coin in this condition and age would be so shallow in the ground.."
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_okx3i7ir.png",
+  "images/detexpert-logosml_12ylb7bo.png",
+  "images/P9020296_web.jpg",
+  "images/P9020297_a.jpg",
+  "images/P9020284_a.jpg",
+  "images/P9020275_a.jpg",
+  "images/P9020276_a.jpg"
+ ],
+ "videos": [
+  "r-JqKu-ilLI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

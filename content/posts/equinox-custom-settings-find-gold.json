@@ -1,0 +1,326 @@
+{
+ "type": "post",
+ "slug": "equinox-custom-settings-find-gold",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-custom-settings-find-gold",
+ "title": "Equinox custom settings find gold",
+ "seo": {
+  "title": "minelab Equinox best settings find gold - Blog",
+  "description": "set up for detecting the dry and wet sand with the minelab equinox metal detecting on bournemouth beach, with great results",
+  "keywords": "mionelab equinox settings, best equinox 800 settings, beach to land settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-custom-settings-find-gold",
+  "og": {
+   "title": "Equinox custom settings find gold",
+   "description": "set up for detecting the dry and wet sand with the minelab equinox metal detecting on bournemouth beach, with great results",
+   "image": "https://www.paulcee.co.uk/blog/files/240818_gold_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-custom-settings-find-gold"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-07T17:29:00",
+    "dateModified": "2018-11-07T17:29:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Equinox custom settings find gold",
+    "description": "Double gold and silver found with the minelab equinox",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-custom-settings-find-gold",
+    "image": [
+     "https://www.paulcee.co.uk/images/240818_gold.jpg",
+     "https://www.paulcee.co.uk/blog/files/240818_gold.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "program",
+      "item": "https://www.paulcee.co.uk/blog/?tag=program",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bournemouth",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Bournemouth",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox custom settings find gold",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-07T17:29:00",
+ "dateModified": "2018-11-07T17:29:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Equinox",
+  "settings",
+  "program",
+  "beach",
+  "detecting",
+  "Bournemouth"
+ ],
+ "readTime": 1,
+ "summary": "Double gold and silver found with the minelab equinox",
+ "cover": "blog/files/240818_gold.jpg",
+ "heroVideo": "2r8JzqbMI4I",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/240818_gold.jpg\" alt=\"minelab Equinox best beach settings\" title=\"minelab equinox best program for gold\" width=\"271\" height=\"153\">"
+  },
+  {
+   "t": "h2",
+   "html": "Custom settings on the Minelab Equinox"
+  },
+  {
+   "t": "p",
+   "html": "setting for the beach today i found 2 stunning gold rings and 1 silver,"
+  },
+  {
+   "t": "p",
+   "html": "metal detecting the dry sand and the slope while metal detecting bournemouth beach"
+  }
+ ],
+ "images": [
+  "images/240818_gold.jpg"
+ ],
+ "videos": [
+  "2r8JzqbMI4I"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

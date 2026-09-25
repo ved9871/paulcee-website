@@ -1,0 +1,953 @@
+{
+ "type": "post",
+ "slug": "why-metal-detectorists-love-finding-medieval-hammered-coins",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?why-metal-detectorists-love-finding-medieval-hammered-coins",
+ "title": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+ "seo": {
+  "title": "Why Metal Detectorists Love Finding Medieval Hammered Coins - Blog",
+  "description": "Discover why medieval hammered silver coins (hammies) are the ultimate prize for metal detectorists—from sterling silver preservation to historical mystery.",
+  "keywords": "metal detecting hammered coins, medieval silver coin finds, finding hammies metal detecting, medieval hammered penny identification, metal detecting UK history",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?why-metal-detectorists-love-finding-medieval-hammered-coins",
+  "og": {
+   "title": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+   "description": "Discover why medieval hammered silver coins (hammies) are the ultimate prize for metal detectorists—from sterling silver preservation to historical mystery.",
+   "image": "https://www.paulcee.co.uk/blog/files/hammered-coin-blog_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?why-metal-detectorists-love-finding-medieval-hammered-coins"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-08-31T14:24:00",
+    "dateModified": "2026-08-31T14:24:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+    "description": "Discover why medieval hammered silver coins (hammies) are the ultimate prize for metal detectorists—from sterling silver preservation to historical mystery.",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?why-metal-detectorists-love-finding-medieval-hammered-coins",
+    "image": [
+     "https://www.paulcee.co.uk/images/hammie--id.jpg",
+     "https://www.paulcee.co.uk/images/mint-marks.jpg",
+     "https://www.paulcee.co.uk/images/short-cross.jpg",
+     "https://www.paulcee.co.uk/images/short-cross-id.jpg",
+     "https://www.paulcee.co.uk/images/squirter_mw1xznko.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026.jpg",
+     "https://www.paulcee.co.uk/blog/files/hammered-coin-blog.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202608",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting finds",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "hammered",
+      "item": "https://www.paulcee.co.uk/blog/?tag=hammered",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "silver",
+      "item": "https://www.paulcee.co.uk/blog/?tag=silver",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Edward",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Edward",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "I",
+      "item": "https://www.paulcee.co.uk/blog/?tag=I",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "penny",
+      "item": "https://www.paulcee.co.uk/blog/?tag=penny",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "cut",
+      "item": "https://www.paulcee.co.uk/blog/?tag=cut",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "halfpenny",
+      "item": "https://www.paulcee.co.uk/blog/?tag=halfpenny",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "finds",
+      "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "hammered",
+      "item": "https://www.paulcee.co.uk/blog/?tag=hammered",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coin",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coin",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ID",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ID",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "PAS",
+      "item": "https://www.paulcee.co.uk/blog/?tag=PAS",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "scheme",
+      "item": "https://www.paulcee.co.uk/blog/?tag=scheme",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "permissions",
+      "item": "https://www.paulcee.co.uk/blog/?tag=permissions",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-08-31T14:24:00",
+ "dateModified": "2026-08-31T14:24:00",
+ "author": "Paul Cee",
+ "category": "metal detecting finds",
+ "categorySlug": "metal_detecting_finds",
+ "tags": [
+  "hammered",
+  "silver",
+  "Edward",
+  "I",
+  "penny",
+  "cut",
+  "halfpenny",
+  "metal",
+  "detecting",
+  "finds",
+  "hammered",
+  "coin",
+  "ID",
+  "PAS",
+  "scheme",
+  "detecting",
+  "permissions"
+ ],
+ "readTime": 9,
+ "summary": "Discover why medieval hammered silver coins (hammies) are the ultimate prize for metal detectorists—from sterling silver preservation to historical mystery.",
+ "cover": "blog/files/hammered-coin-blog.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "The Holy Grail in the Clod:"
+  },
+  {
+   "t": "h2",
+   "html": "Why Metal Detectorists Love Finding Medieval Hammered Coins"
+  },
+  {
+   "t": "p",
+   "html": "Ask any detectorist what they hope to see peeking out of a muddy clod on a freezing winter morning, and nine times out of ten the answer is instant: <strong><em>a hammered silver coin.</em></strong>"
+  },
+  {
+   "t": "p",
+   "html": "Affectionately nicknamed \"hammies\", these wafer-thin discs of high-grade silver represent the pinnacle of field finds. While Roman bronze and Victorian coppers each carry their own charm, nothing sets hearts racing quite like that clear, high-tone audio signal indicating medieval silver in the ground."
+  },
+  {
+   "t": "h3",
+   "html": "Here is why detectorists remain completely captivated by these historic treasures."
+  },
+  {
+   "t": "h3",
+   "html": "1. Silver That Defies the Elements",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Unlike copper, bronze, or pot metal, which corrode into brittle green crusts or rust away in damp, fertilized agricultural soil, medieval hammered coins were struck from high-grade silver (typically sterling standard, 92.5% purity)."
+  },
+  {
+   "t": "p",
+   "html": "When a <em><strong>detectorist uncovers one</strong></em>, the coin often emerges gleaming and sometimes sharply defined, looking remarkably fresh despite sitting underground for six or seven centuries, but sometimes they have very little detail to work with"
+  },
+  {
+   "t": "h3",
+   "html": "2. <em>Handcrafted, Not Factory-Made</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Modern and milled coinage is uniform, stamped out by heavy industrial machinery by the million. Hammered coins, in contrast, were produced individually by hand:"
+  },
+  {
+   "t": "p",
+   "html": "A blank silver disc (the flan) was placed between an anvil die and a hand-held punch die."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>A moneyer</em></strong> struck the upper die with a heavy mallet."
+  },
+  {
+   "t": "p",
+   "html": "The physical strike transferred the king’s portrait onto the obverse and a protective cross onto the reverse."
+  },
+  {
+   "t": "p",
+   "html": "Because of this manual process, no two hammered coins are identical. Every coin carries the personal touch of the person who struck it—a slightly offset portrait, double-struck Latin letters, or subtle die flaws that capture a specific moment in medieval workshop history."
+  },
+  {
+   "t": "p",
+   "html": "3. The Ultimate Technical Detecting Challenge"
+  },
+  {
+   "t": "p",
+   "html": "Finding a hammered coin is rarely straightforward; it is a true test of a detectorist’s equipment and ear:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Wafer-Thin Targets:</strong> Most medieval pennies are less than 1 mm thick. If a coin sits vertically on edge (\"coin on edge\"), its surface area facing the search coil is tiny, producing a subtle, fleeting signal."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Cut Fractions:</em></strong> Before smaller denominations like halfpennies and farthings were minted in large quantities, people literally cut pennies into halves and quarters with shears to give exact change. Snagging a cut half or cut quarter weighing under 0.3 grams amidst dense iron trash and mineralized soil requires sharp machine settings and serious patience."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Read more below...</em></strong>"
+  },
+  {
+   "t": "p",
+   "html": "4. A Direct Connection to Everyday Medieval Lives"
+  },
+  {
+   "t": "p",
+   "html": "High-status <strong><em>gold coins</em></strong> reflect extreme wealth, but an ordinary silver penny tells a deeply human story."
+  },
+  {
+   "t": "p",
+   "html": "In the 13th and 14th centuries, a single silver penny represented a <strong><em>full day's hard wage</em></strong> for an agricultural labourer. Losing that coin was not a minor mistake; it was a devastating financial blow for a working family. Holding a <strong><em>recovered penny connects</em></strong> the finder directly to the exact moment an ordinary worker dropped their wages along an ancient cart track, market green, or furrowed field."
+  },
+  {
+   "t": "h3",
+   "html": "5. <em>The Thrill of the ID Puzzle</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Recovering the coin from the ground is only the first step; identifying it is half the adventure. Because multiple English kings shared the same name (such as the long succession of Edward I, II, and III), dating a coin requires numismatic detective work:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Legend:</strong> Reading abbreviated medieval Latin inscriptions (such as EDWAR R ANGL DNS HYB)."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Mint City:</strong> Translating reverse inscriptions like CIVITAS LONDON (London) or VILLA SCIEDMVNDI (Bury St Edmunds)."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Crown and Drapery:</strong> Examining fine details in the king's portrait—such as crown jewels, hair curls, and letter fonts—to narrow the coin down to its specific issue and class."
+  },
+  {
+   "t": "p",
+   "html": "For detectorists, a hammered coin is never just a reading on a screen or a piece of scrap precious metal. It is a tangible handshake with an ordinary person across seven centuries of history."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Quick Field Guide:</em></strong> How to Tell Edward I, II, and III Pennies Apart"
+  },
+  {
+   "t": "p",
+   "html": "Finding an Edwardian long-cross penny is a milestone for any detectorist, but identifying which King Edward struck it (1272–1377) can feel like a maze. Because all three kings used versions of the name EDWARD, detectorists rely on specific clues in the lettering, crown style, and mint names."
+  },
+  {
+   "t": "p",
+   "html": "Use this quick-reference guide to narrow down your find in the field."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/hammie--id.jpg\" alt=\"how to identify a hammered coin\" title=\"Hammered coin ID\" width=\"616\" height=\"347\">"
+  },
+  {
+   "t": "p",
+   "html": "1. The Obverse Inscription (The King’s Title)"
+  },
+  {
+   "t": "p",
+   "html": "The Latin legend running around the portrait on the front (obverse) is your first major clue:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Edward I (1272–1307):</strong> Usually reads + EDW R' ANGL' DNS hYB (abbreviating Edwardus Rex Angliae Dominus Hiberniae — Edward, King of England, Lord of Ireland)."
+  },
+  {
+   "t": "p",
+   "html": "Early classes (Class 1–2) may spell it + EDWAR or + EDWARD."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Edward II (1307–1327):</strong> Almost always reads + EDWAR R' or + EDWARD R', <strong><em>frequently paired</em></strong> with distinct crown variations (Class 11 to 15)."
+  },
+  {
+   "t": "p",
+   "html": "Edward III (1327–1377):"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Early / Pre-Treaty Period:</strong> Often shortens the name drastically to + EDWARDVS REX or features titles including France (FRANC or FRA) on later issues after 1340."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Florin / 3rd Coinage (1344–1351):</strong> Look for + EDWAR' R' ANGL' DNS hYB, but with much lighter, thinner coins (around 18 grains / 1.15 g)."
+  },
+  {
+   "t": "h3",
+   "html": "3. <em>The Reverse: Identifying the Mint</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The reverse of an Edwardian penny features a long cross with three pellets (dots) in each angle. The legend names the city or ecclesiastical mint where it was struck:"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/mint-marks.jpg\" alt=\"how to identify mint marks on a hammered coin\" title=\"hammered coin mint marks\" width=\"616\" height=\"347\">"
+  },
+  {
+   "t": "p",
+   "html": "CIVITAS LONDON — City of London (the most common mint)"
+  },
+  {
+   "t": "p",
+   "html": "CIVITAS CANTOR — Canterbury (royal and archbishop mints)"
+  },
+  {
+   "t": "h3",
+   "html": "CIVITAS EBORACI — York (royal and archbishop mints)",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "CIVITAS DVREME / DVNELM — Durham (Bishop of Durham; often features distinct personal marks like a cross moline or crozier in the legend)"
+  },
+  {
+   "t": "p",
+   "html": "VILLA SCIEDMVNDI — Bury St Edmunds (Abbey mint)"
+  },
+  {
+   "t": "p",
+   "html": "VILLA BRISTOLLIE — Bristol"
+  },
+  {
+   "t": "h3",
+   "html": "VILLA NOVICASTRI — Newcastle-upon-Tyne",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>A Short Cross penny</em></strong> is one of the most famous medieval English silver hammered coins, struck between 1180 and 1247."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/short-cross.jpg\" alt=\"how to identify a short cross and long cross hammered coin\" title=\"short cross and long cross hammered coin\" width=\"616\" height=\"347\">"
+  },
+  {
+   "t": "p",
+   "html": "Introduced by King Henry II during his major recoinage to replace the heavily clipped and degraded \"Tealby\" coinage, the design was so trusted and widely accepted across Europe that it was kept virtually unchanged through the reigns of four successive kings:"
+  },
+  {
+   "t": "p",
+   "html": "Henry II (1180–1189)"
+  },
+  {
+   "t": "p",
+   "html": "Richard I \"The Lionheart\" (1189–1199)"
+  },
+  {
+   "t": "p",
+   "html": "King John (1199–1216)"
+  },
+  {
+   "t": "p",
+   "html": "Henry III (1216–1247)"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/short-cross-id.jpg\" alt=\"how were cut half and quarter hammered coins used\" title=\"cut half and quarter hammered coins\" width=\"616\" height=\"347\">"
+  },
+  {
+   "t": "h3",
+   "html": "<em>Key Visual Characteristics</em>",
+   "inferred": true
+  },
+  {
+   "t": "h3",
+   "html": "1. The Reverse (Back): The Short Cross",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Cross:</strong> A central voided (double-lined) cross that stops inside the inner beaded circle—hence the name \"<strong>Short Cross</strong>\" (unlike the later Edwardian \"<strong>Long Cross</strong>,\" which extends through the lettering all the way to the rim to <strong><em>discourage clipping</em></strong>)."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Pellets:</strong> Four small pellets (dots) arranged in a cross shape in each of the four angles of the main cross."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Moneyer Legend:</strong> The outer ring names the <strong><em>specific moneyer and mint town</em></strong> (e.g., + WILLELM · ON · LVN for William of London)."
+  },
+  {
+   "t": "h3",
+   "html": "2. The Obverse (Front): The King's Portrait",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Name:</strong> Almost every Short Cross coin reads HENRICVS REX (King Henry) on the obverse, even those struck by Richard I and King John. Because of this, you cannot date the coin by the king’s name alone."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Portrait:</strong> A facing bust of the king holding a royal sceptre in his right hand."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Beard and Hair:</strong> The king's hair is rendered as tight curls made of pellets, framing a beard also made of tiny stamped dots."
+  },
+  {
+   "t": "h3",
+   "html": "CUT Quarters and halves."
+  },
+  {
+   "t": "p",
+   "html": "Coins were cut into halves and quarters primarily to solve a critical economic problem: a severe lack of small change."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Here is why and how it happened:</em></strong>"
+  },
+  {
+   "t": "p",
+   "html": "1. The Penny Was the <strong><em>Only Coin Minted</em></strong> For most of the early and high Middle Ages (roughly 800 to 1279 AD in England), the royal mints produced almost exclusively a single denomination: the silver penny."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Smaller denominations</em></strong>—like official round halfpennies and farthings (quarter-pennies)—were either not minted at all or produced in numbers far too tiny to meet public demand."
+  },
+  {
+   "t": "p",
+   "html": "2. <strong><em>A Single Penny</em></strong> Was Worth Too Much for Everyday Goods In medieval daily life, a single silver penny carried immense purchasing power: It was roughly equivalent to a full day's wage for an agricultural labourer or manual worker."
+  },
+  {
+   "t": "p",
+   "html": "Buying basic everyday necessities—a loaf of bread, a pot of ale, a candle, or a handful of eggs—often cost only a fraction of a penny (typically a halfpenny or a farthing).Without lower-denomination coins, ordinary people could not make daily transactions or receive change for standard purchases."
+  },
+  {
+   "t": "p",
+   "html": "3. <strong><em>The Reverse Cross</em></strong> Acted as a \"Cut Guide\" To create their own small change, merchants, tradespeople, and the general public physically <strong><em>cut full silver pennies using shears or a chisel</em></strong>: Cut Half: A penny sliced in two along the central crossline to create a halfpenny (worth $1/2$ penny)."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Cut Quarter</em></strong>: A cut half sliced in two again to create a farthing (derived from the Old English farthing, meaning \"fourth part\" or quarter-penny).The prominent cross stamped on the reverse of the coin (especially the double-lined \"voided\" cross on Short Cross and <strong><em>Voided Long Cross pennies)</em></strong> served as a built-in guide to ensure the coin was cut into equal, fair fractions by weight."
+  },
+  {
+   "t": "p",
+   "html": "4. <strong><em>Why the Practice Eventually Ended.</em></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Cutting coins had a major drawback:</strong> it made \"clipping\" (fraudulently trimming silver off the edges before passing the coin along) very easy to disguise. In 1279, King Edward I launched a massive recoinage that introduced officially minted round halfpennies and round farthings, as well as the larger four-pence groat. This made cutting coins unnecessary and eventually brought the practice of creating cut fractions to an end."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/squirter_mw1xznko.jpg\" alt=\"how to clean and preserve hammered coins\" title=\"hammered coin cleaning\" width=\"370\" height=\"370\">"
+  },
+  {
+   "t": "h3",
+   "html": "4.<em> Pro Field Tip: Don't Over-Clean!</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The tiny details that separate an Edward I (Class 10cf) from an Edward II (Class 11a)—such as the shape of the crown pearls or a tiny nick in the letter S—can easily be damaged."
+  },
+  {
+   "t": "p",
+   "html": "Use clean water and a <strong><em>soft-bristled brush</em></strong> (like a cut-down makeup brush)."
+  },
+  {
+   "t": "p",
+   "html": "Avoid harsh chemical cleaners, lemon juice, or abrasive scrubbing, which strip the protective patina and ruin the coin's historical and numismatic value."
+  },
+  {
+   "t": "p",
+   "html": "find out more about cleaning and coin care <a href=\"https://crawfordsmd.com/cleaning-accessories\" data-kind=\"affiliate\">here</a>"
+  },
+  {
+   "t": "p",
+   "html": "If you enjoyed the read and have got this far,"
+  },
+  {
+   "t": "p",
+   "html": "you can enjoy <strong><em>some money off using the voucher code below</em></strong>"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026.jpg\" alt=\"all about hammered coins in the uk\" title=\"hammered coins in the uk\" width=\"471\" height=\"471\">"
+  }
+ ],
+ "images": [
+  "images/hammie--id.jpg",
+  "images/mint-marks.jpg",
+  "images/short-cross.jpg",
+  "images/short-cross-id.jpg",
+  "images/squirter_mw1xznko.jpg",
+  "images/WEB_AD2026.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/cleaning-accessories"
+ ]
+}

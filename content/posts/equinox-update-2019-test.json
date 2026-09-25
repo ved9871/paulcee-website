@@ -1,0 +1,396 @@
+{
+ "type": "post",
+ "slug": "equinox-update-2019-test",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test",
+ "title": "Equinox Update 2019 test",
+ "seo": {
+  "title": "latest Equinox Update - Blog",
+  "description": "the latest update for the minelab equinox, where to find it and how to use it",
+  "keywords": "minelab, equinox, update, iron bias, settings, nox 800",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test",
+  "og": {
+   "title": "Equinox Update 2019 test",
+   "description": "the latest update for the minelab equinox, where to find it and how to use it",
+   "image": "https://www.paulcee.co.uk/blog/files/norfolk_AWEB_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-09-30T18:38:00",
+    "dateModified": "2019-09-30T18:38:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Equinox Update 2019 test",
+    "description": "Minelab Equinox Update V2.0 TEST\nBeach and land",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test",
+    "image": [
+     "https://www.paulcee.co.uk/images/norfolk_AWEB.jpg",
+     "https://www.paulcee.co.uk/blog/files/norfolk_AWEB.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201909",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "update",
+      "item": "https://www.paulcee.co.uk/blog/?tag=update",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "v2",
+      "item": "https://www.paulcee.co.uk/blog/?tag=v2",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "800",
+      "item": "https://www.paulcee.co.uk/blog/?tag=800",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "600",
+      "item": "https://www.paulcee.co.uk/blog/?tag=600",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "test",
+      "item": "https://www.paulcee.co.uk/blog/?tag=test",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox Update 2019 test",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-09-30T18:38:00",
+ "dateModified": "2019-09-30T18:38:00",
+ "author": "David Wallace",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Equinox",
+  "update",
+  "v2",
+  "minelab",
+  "800",
+  "600",
+  "test"
+ ],
+ "readTime": 2,
+ "summary": "Minelab Equinox Update V2.0 TEST\nBeach and land",
+ "cover": "blog/files/norfolk_AWEB.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/norfolk_AWEB.jpg\" alt=\"Minelab equinox update and what features does it have, looking at the new equinox update\" title=\"what is latest minelab equinox update\" width=\"457\" height=\"257\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "The latest Minelab Equinox firmware Update"
+  },
+  {
+   "t": "p",
+   "html": "is released by Minelab For the Equinox 800 and 600 series metal detectors"
+  },
+  {
+   "t": "h3",
+   "html": "Whats new in this update?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Better target I.D on bottlecaps, Rusty nails and other targets giving a positive false target id."
+  },
+  {
+   "t": "p",
+   "html": "The IRON BIAS has been updated with an extra set of iron bias settings F2.. which has the ability to identify a wider range of difficult iron targets which include BOTTLE Caps."
+  },
+  {
+   "t": "p",
+   "html": "Also The Equinox 600 has a much needed improvement to the BACKLIGHT Function which allows a lower setting for low light conditions.."
+  },
+  {
+   "t": "p",
+   "html": "We have started to test out the new UPDATE to find the most useable settings without affecting performance, it may happen quickly or it may take a few weeks testing and changing setting to get optimal performance."
+  },
+  {
+   "t": "h3",
+   "html": "We note that some people have already found the best settings?? Really??",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Some people are having difficulty working out what settings to use and saying they are finding more iron than before the update."
+  },
+  {
+   "t": "p",
+   "html": "Instead of using Mr Billy Bobs Find it all settings with regard to where you are detecting.. just have a play in the garden with some buried targets and change settings to see what happen to the responce.."
+  },
+  {
+   "t": "p",
+   "html": "Here is a video of the 1st day of trials on BEACH and LAND, the beach has a lot of buried iron so this location is a great place for testing although Paul Has the 15\" coil fitted.."
+  },
+  {
+   "t": "p",
+   "html": "watch the vidoe"
+  },
+  {
+   "t": "video",
+   "id": "zMEnKwjsUvU",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/norfolk_AWEB.jpg"
+ ],
+ "videos": [
+  "zMEnKwjsUvU"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

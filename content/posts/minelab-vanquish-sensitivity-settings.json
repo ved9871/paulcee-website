@@ -1,0 +1,199 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-sensitivity-settings",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-sensitivity-settings",
+ "title": "Minelab Vanquish Sensitivity Settings",
+ "seo": {
+  "title": "Minelab Vanquish Sensitivity Settings - Blog",
+  "description": "how to setup and use the sensitivity on a minelab vanquish, get the sensitivity right with our helpful tutorials on the Minelab Vanquish",
+  "keywords": "minelab vanquish sensitivity, minelab tutorial, how to, helpful tips",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-sensitivity-settings",
+  "og": {
+   "title": "Minelab Vanquish Sensitivity Settings",
+   "description": "how to setup and use the sensitivity on a minelab vanquish, get the sensitivity right with our helpful tutorials on the Minelab Vanquish",
+   "image": "https://www.paulcee.co.uk/blog/files/vanq_tutorials_sensitivity_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-sensitivity-settings"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-09T15:38:00",
+    "dateModified": "2020-05-09T15:38:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish Sensitivity Settings",
+    "description": "Minelab Vanquish 340 Settings. Sensitivity",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-sensitivity-settings",
+    "image": [
+     "https://www.paulcee.co.uk/images/P1050232a.jpg",
+     "https://www.paulcee.co.uk/images/P1050229a.jpg",
+     "https://www.paulcee.co.uk/blog/files/vanq_tutorials_sensitivity_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Sensitivity Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Sensitivity Settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Sensitivity Settings",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-09T15:38:00",
+ "dateModified": "2020-05-09T15:38:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish Settings",
+ "categorySlug": "Minelab_Vanquish_Settings",
+ "tags": [],
+ "readTime": 2,
+ "summary": "Minelab Vanquish 340 Settings. Sensitivity",
+ "cover": "blog/files/vanq_tutorials_sensitivity_web.jpg",
+ "heroVideo": "qklvWf76-nc",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "How to set up Sensitivity correct on a Minelab Vanquish 340."
+  },
+  {
+   "t": "h3",
+   "html": "With the popularity of the minelab Vanquish and First time users",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "not knowing or struggling at making the metal detector run and detect quietly, we came up with a bite size edition of setting the sensivity up correctly."
+  },
+  {
+   "t": "p",
+   "html": "Having the Minelab Vanquish sensitivity to high will result in lots of FALSE SIGNALS and gives the user loss of being able to find small targets as the become hidden in the mass of noise that is coming from the detector that has the sensitivity set at a too high level."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1050232a.jpg\" alt=\"minelab vanquish 340 sensitivity\" title=\"minelab vanquish 340 sensitivity\" width=\"621\" height=\"348\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1050229a.jpg\" alt=\"minelab vanquish 340 sensitivity\" title=\"minelab vanquish 340 sensitivity\" width=\"620\" height=\"349\">"
+  },
+  {
+   "t": "h3",
+   "html": "To Adjust the SENSITIVITY",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Swing the coil slowly over the ground and reduce the level until it becomes stable, then adjust level upwards until it sharts to chirp again, once this level is found reduce slightly to regain the quiet performance, if the detector becomes unstable in use re-adjust the sensitivity."
+  },
+  {
+   "t": "p",
+   "html": "If you are detecting near an ELECTRIC FENCE, POWER LINES or in the vicinity of electrical interferance you may have to move away, also in the home is also a great source of electrical interferance."
+  }
+ ],
+ "images": [
+  "images/P1050232a.jpg",
+  "images/P1050229a.jpg"
+ ],
+ "videos": [
+  "qklvWf76-nc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

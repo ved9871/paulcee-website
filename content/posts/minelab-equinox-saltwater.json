@@ -1,0 +1,171 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-saltwater",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-saltwater",
+ "title": "Minelab Equinox Saltwater",
+ "seo": {
+  "title": "Minelab Equinox Saltwater - Blog",
+  "description": "minelab Equinox underwater metal detecting",
+  "keywords": "Equinox, 800, 600, water, Leaks, problem, help",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-saltwater",
+  "og": {
+   "title": "Minelab Equinox Saltwater",
+   "description": "minelab Equinox underwater metal detecting",
+   "image": "https://www.paulcee.co.uk/blog/files/now_water_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-saltwater"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-07T17:15:00",
+    "dateModified": "2018-11-07T17:15:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Equinox Saltwater",
+    "description": "Minelab Equinox Underwater Detecting, no leak issues",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-saltwater",
+    "image": [
+     "https://www.paulcee.co.uk/images/waterhunt-01.jpg",
+     "https://www.paulcee.co.uk/blog/files/now_water.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Saltwater",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Saltwater",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Saltwater",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-07T17:15:00",
+ "dateModified": "2018-11-07T17:15:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab Equinox Underwater Detecting, no leak issues",
+ "cover": "blog/files/now_water.jpg",
+ "heroVideo": "h6oH5wxp-Lc",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/waterhunt-01.jpg\" alt=\"minelab equinox salt water detecting\" title=\"minelab equinox salt water detecting\" width=\"620\" height=\"349\">"
+  },
+  {
+   "t": "h2",
+   "html": "Metal Detecting in the water on Bournemouth beach"
+  },
+  {
+   "t": "p",
+   "html": "Reports of the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox</a> getting water in the control box on some occasions, happy to say it doesnt leak, used with the Minelab Koss Underwater Headphones"
+  }
+ ],
+ "images": [
+  "images/waterhunt-01.jpg"
+ ],
+ "videos": [
+  "h6oH5wxp-Lc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

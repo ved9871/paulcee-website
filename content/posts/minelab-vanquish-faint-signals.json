@@ -1,0 +1,407 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-faint-signals",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-faint-signals",
+ "title": "Minelab Vanquish Faint Signals",
+ "seo": {
+  "title": "Minelab Vanquish Faint Signals - Blog",
+  "description": "Minelab Vanquish, how to find deep targets when metal detecting and what to listen for.",
+  "keywords": "minelab vanquish settings, minelab vanquish uk, settings, tutorials, how to",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-faint-signals",
+  "og": {
+   "title": "Minelab Vanquish Faint Signals",
+   "description": "Minelab Vanquish, how to find deep targets when metal detecting and what to listen for.",
+   "image": "https://www.paulcee.co.uk/blog/files/P1050308_WEB_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-faint-signals"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-07-16T18:18:00",
+    "dateModified": "2020-07-16T18:18:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish Faint Signals",
+    "description": "How to Be sure its not a false signal",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-faint-signals",
+    "image": [
+     "https://www.paulcee.co.uk/images/P1050312.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/P1050308_WEB.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202007",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "540",
+      "item": "https://www.paulcee.co.uk/blog/?tag=540",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "faint",
+      "item": "https://www.paulcee.co.uk/blog/?tag=faint",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "tones",
+      "item": "https://www.paulcee.co.uk/blog/?tag=tones",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "false",
+      "item": "https://www.paulcee.co.uk/blog/?tag=false",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "signal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=signal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Faint Signals",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-07-16T18:18:00",
+ "dateModified": "2020-07-16T18:18:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "Minelab",
+  "Vanquish",
+  "540",
+  "faint",
+  "tones",
+  "false",
+  "signal",
+  "metal",
+  "detecting"
+ ],
+ "readTime": 1,
+ "summary": "How to Be sure its not a false signal",
+ "cover": "blog/files/P1050308_WEB.jpg",
+ "heroVideo": "VFs17MM2dzQ",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1050312.jpg\" alt=\"metal detecting silver\" title=\"minelab vanquish 540 uk\" width=\"623\" height=\"351\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Vanquish beach metal detecting"
+  },
+  {
+   "t": "p",
+   "html": "Listening for very faint signals which can mean small items buried at depth, these are the best tones to listen for when metal detecting wet sand, You have to make sure you have the <a href=\"@minelab-vanquish-60-settings/\" data-kind=\"internal\">SENSITIVITY Set CORRECTLY on the Minelab Vanquish</a>, so you can actually hear the quiet tones and not falsing as you swing the coil over the beach, do you have the sensitivity set to high on your detector?."
+  },
+  {
+   "t": "p",
+   "html": "With the <a href=\"@minelab-vanquish-60-settings/\" data-kind=\"internal\">Minelab Vanquish</a> having only 5 tones you have to listen to the tones much more carefully as they can be scratchy and jump signals, have a liten to the signal from the Ring, if your metal detector is falsing alot you could easily miss this this target at depth. This was using a <a href=\"@minelab-vanquish-60-settings/\" data-kind=\"internal\">faster recovery speed on the Vanquish 540</a>"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"minelab vanquish settings for depth, what to listen for when using a minelab vanquish for deeper targets\" title=\"minelab vanquish settings for depth\" width=\"616\" height=\"616\">"
+  }
+ ],
+ "images": [
+  "images/P1050312.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "VFs17MM2dzQ"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

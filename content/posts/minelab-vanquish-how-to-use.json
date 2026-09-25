@@ -1,0 +1,900 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-how-to-use",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-how-to-use",
+ "title": "Minelab Vanquish how to use",
+ "seo": {
+  "title": "Minelab Vanquish how to use - Blog",
+  "description": "How to use a minelab vanquish, from beginner to pro, with all the settings you will need",
+  "keywords": "minelab, vanquish, metal, detector, tips, guide, how, to, use",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-how-to-use",
+  "og": {
+   "title": "Minelab Vanquish how to use",
+   "description": "How to use a minelab vanquish, from beginner to pro, with all the settings you will need",
+   "image": "https://www.paulcee.co.uk/blog/files/learn-Vanquish_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-how-to-use"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2025-06-08T19:02:00",
+    "dateModified": "2025-06-08T19:02:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish how to use",
+    "description": "Learn how to use a minelab vanquish metal detector",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-how-to-use",
+    "image": [
+     "https://www.paulcee.co.uk/images/vanquish-small.png",
+     "https://www.paulcee.co.uk/images/detexpert-logosml_l9aop9jz.png",
+     "https://www.paulcee.co.uk/images/CRAWFORDS-2024-White.png",
+     "https://www.paulcee.co.uk/images/VANQUISH-340-User-Interface-Gallery.jpg",
+     "https://www.paulcee.co.uk/images/vanquish-mutli-iq.jpg",
+     "https://www.paulcee.co.uk/images/340-sens.jpg",
+     "https://www.paulcee.co.uk/images/340-discrim.jpg",
+     "https://www.paulcee.co.uk/images/vanquish-discrim.jpg",
+     "https://www.paulcee.co.uk/images/vanquish-coinshoot.jpg",
+     "https://www.paulcee.co.uk/images/V8-01.jpg",
+     "https://www.paulcee.co.uk/images/GOPR0131.jpg",
+     "https://www.paulcee.co.uk/images/P1040957_a_rwwyufix.jpg",
+     "https://www.paulcee.co.uk/images/pro-find-40-image-web_49bjvii4.jpg",
+     "https://www.paulcee.co.uk/images/cmd-spades.jpg",
+     "https://www.paulcee.co.uk/images/finds-bag.jpg",
+     "https://www.paulcee.co.uk/images/cleaning-kit.jpg",
+     "https://www.paulcee.co.uk/images/finds-box.jpg",
+     "https://www.paulcee.co.uk/images/RNB-weight.png",
+     "https://www.paulcee.co.uk/images/vanq_simplex_vhqpcfgl.jpg",
+     "https://www.paulcee.co.uk/images/buster_gold.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD---Copy_9i98cpn7.jpg",
+     "https://www.paulcee.co.uk/images/cmd-gift-card-1_k4f7dsq4.jpg",
+     "https://www.paulcee.co.uk/images/ultimate-guide_web_sspgbtj7.jpg",
+     "https://www.paulcee.co.uk/images/vanquish-short_web_25ej7zi7.jpg",
+     "https://www.paulcee.co.uk/images/540-BT-headphones_web_v5rssx96.jpg",
+     "https://www.paulcee.co.uk/images/vanq_tutorials_sensitivity_web_07l82a27.jpg",
+     "https://www.paulcee.co.uk/images/vanq_tutorials_discrim_web.jpg",
+     "https://www.paulcee.co.uk/images/vanq_tutorials_pinpont_web.jpg",
+     "https://www.paulcee.co.uk/images/vanquish-battery_web_08yhipzx.jpg",
+     "https://www.paulcee.co.uk/blog/files/learn-Vanquish.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jun 2025",
+      "item": "https://www.paulcee.co.uk/blog/?month=202506",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "tutorial",
+      "item": "https://www.paulcee.co.uk/blog/?tag=tutorial",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "help",
+      "item": "https://www.paulcee.co.uk/blog/?tag=help",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish how to use",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish how to use",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2025-06-08T19:02:00",
+ "dateModified": "2025-06-08T19:02:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish Settings",
+ "categorySlug": "Minelab_Vanquish_Settings",
+ "tags": [
+  "minelab",
+  "vanquish",
+  "tutorial",
+  "help",
+  "settings"
+ ],
+ "readTime": 14,
+ "summary": "Learn how to use a minelab vanquish metal detector",
+ "cover": "blog/files/learn-Vanquish.jpg",
+ "heroVideo": "CJFqjjiVxdc",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/vanquish-small.png\" alt=\"minelab vanquish user guide, on how to metal detect\" title=\"minelab vanquish how to use uk\" width=\"350\" height=\"44\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_l9aop9jz.png\" alt=\"how to use a minelab vanquish metal detector\" title=\"minelab vanquish settings uk\" width=\"27\" height=\"40\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/CRAWFORDS-2024-White.png\" alt=\"minelab vanquish how to use\" title=\"minelab vanquish how to use\" width=\"106\" height=\"43\">"
+  },
+  {
+   "t": "h2",
+   "html": "HOW to Use A Minelab Vanquish"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Introduction:</strong> Welcome to the Minelab Vanquish."
+  },
+  {
+   "t": "p",
+   "html": "Congratulations on choosing the Minelab Vanquish! Whether you're just starting your metal detecting journey or you're a seasoned enthusiast looking for a powerful yet easy-to-use machine, the Vanquish series is designed to exceed your expectations. Renowned as a fantastic beginner metal detector, its advanced capabilities also make it a favourite among experienced detectorists as a backup detector."
+  },
+  {
+   "t": "p",
+   "html": "At the heart of the Vanquish's exceptional performance lies Minelab's ground breaking multi-IQ technology. This isn't just another buzzword; it's the revolutionary ability to operate on multiple frequencies simultaneously, giving you superior detection depth, accuracy, and versatility across all target types and ground conditions and is the heart of its big brother the Minelab Equinox and X-Terra Elite, so it already has a top pedigree. Get ready to discover treasures you never thought possible!"
+  },
+  {
+   "t": "h3",
+   "html": "Getting Started – Your Minelab Vanquish Basics."
+  },
+  {
+   "t": "p",
+   "html": "Before you head out to find your first coin or relic, let's get your Minelab Vanquish set up and familiarise you with its core functions."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Unboxing and Assembly:</strong> Your Vanquish is designed for quick and easy assembly. Simply connect the shaft sections, attach the coil, and secure the control box. Ensure all connections are secure. It's built to be lightweight and compact for comfortable use and transport."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Understanding Your Vanquish Model:</strong> The Vanquish series comes in three main models: the Vanquish 340, 440, and 540. While they all share the incredible multi-IQ engine, they offer incremental features:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Vanquish 340:</strong> The perfect entry point, simple and effective."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Vanquish 440:</strong> Adds more settings and included wired headphones."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Vanquish 540:</strong> The top of the range, offering more customisation, backlight, red LED backlight, and wireless headphone connection. Knowing your model will help you utilise all its specific features."
+  },
+  {
+   "t": "p",
+   "html": "Powering On and First Use:"
+  },
+  {
+   "t": "p",
+   "html": "To switch on your Vanquish, press and hold the power button. The detector will perform a quick start-up sequence including a noise cancel. You'll likely start in a default Search Mode, often \"Coin\" or \"All Metal.\""
+  },
+  {
+   "t": "p",
+   "html": "<strong> This guide will help you understand all the available options</strong>."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/VANQUISH-340-User-Interface-Gallery.jpg\" alt=\"minelab vanquish settings\" title=\"minelab vanquish settings\" width=\"283\" height=\"143\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Basic Controls and Interface:</strong> Familiarise yourself with the buttons on your control box:"
+  },
+  {
+   "t": "p",
+   "html": "• Power Button: On/Off."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Mode Button:</strong> Cycles through Search Modes (Coins, Jewellery, Relic, All Metal, Custom)."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Sensitivity Button</strong>: Adjusts Sensitivity. (On the 340 it works on a one-way system so press the button and it will cycle through the setting)"
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Discrimination Buttons:</strong> Adjusts Discrimination segments."
+  },
+  {
+   "t": "p",
+   "html": "•<strong> Volume Button</strong>: Controls audio output. (Again, works on a one-way system)"
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Pinpoint Button:</strong> Helps accurately locate targets. Not available on the 340)"
+  },
+  {
+   "t": "p",
+   "html": "(Watch the video on pinpointing methods)"
+  },
+  {
+   "t": "p",
+   "html": "•<strong> Backlight Button</strong> (Vanquish 540): Activates display backlight."
+  },
+  {
+   "t": "p",
+   "html": "For detailed instructions and specific button layouts, always refer to your official Minelab Vanquish Manual/Guide. This user guide focuses on practical application and maximising your finds. Along with the minelab vanquish videos we have created."
+  },
+  {
+   "t": "h4",
+   "html": "Master Your Settings – Unlocking Minelab Vanquish Power"
+  },
+  {
+   "t": "p",
+   "html": "This is where the magic happens! Understanding and adjusting your settings to suit the ground and your target desires is key to successful detecting."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/vanquish-mutli-iq.jpg\" alt=\"minelab vanquish freqency how multi frequency works on a metal detector\" title=\"minelab vanquish freqency\" width=\"263\" height=\"263\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>The Magic of Multi-IQ Technology:</strong> Let's talk about Multi-IQ technology."
+  },
+  {
+   "t": "p",
+   "html": "Unlike single-frequency detectors that operate on one frequency at a time, Multi-IQ transmits and receives <strong>multiple frequencies simultaneously.</strong>"
+  },
+  {
+   "t": "p",
+   "html": "• What it means for you:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Superior Depth:</strong> Detects targets deeper than single-frequency detectors."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Improved Target Separation</strong>: Better at identifying good targets nestled amongst trash."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Versatility:</strong> Excellent performance on all target types and in challenging environments like mineralized ground and wet sand at the beach."
+  },
+  {
+   "t": "p",
+   "html": "<strong>You don't need to choose a frequency; the detector does the hard work for you</strong>!"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Exploring Search Modes:</strong> Your Vanquish offers pre-set Search Modes optimised for different types of detecting. Cycle through them using the Mode button:"
+  },
+  {
+   "t": "p",
+   "html": "•<strong> Coins:</strong> Generally, prioritises higher conductivity targets. Great for parks and fields where modern coins are likely."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Jewellery:</strong> Often set with slightly lower discrimination to pick up smaller, lower conductivity gold items. Ideal for parks, beaches, and playgrounds."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Relic</strong>: Designed to find older, often iron-rich artefacts. Excellent for historical sites or permissions."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>All Metal:</strong> This mode detects everything – good targets and IRON. It offers maximum depth and sensitivity but requires careful interpretation of signals. Use it when you don't want to miss anything, or to confirm iffy signals. (On the Vanquish 340 this is selected in the search mode, on the vanquish 540 this is selected with the horseshoe button)"
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Custom Mode:</strong> On the Vanquish 440 and 540, you can create and save your own preferred settings for Sensitivity, Discrimination. This is invaluable once you understand your preferred setup for different hunting grounds."
+  },
+  {
+   "t": "h4",
+   "html": "Minelab Vanquish Key Settings Explained:"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/340-sens.jpg\" alt=\"minelab vanquish sensitivity settings\" title=\"minelab vanquish sensitivity settings\" width=\"176\" height=\"176\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Sensitivity:</strong> This controls how responsive your detector is to targets."
+  },
+  {
+   "t": "p",
+   "html": "<strong>High Sensitivity:</strong> Increases depth and responsiveness to very small or deep targets. However, it can lead to more false signals (\"chatter\") in noisy environments (e.g., highly mineralised ground, areas with electromagnetic interference like power lines)."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Low Sensitivity:</strong> Reduces chatter and makes the detector more stable, but you might miss deeper or smaller targets."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Tip:</strong> Always run your Sensitivity as high as possible without getting too much false chatter. If your detector is noisy, reduce sensitivity first."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/340-discrim.jpg\" alt=\"how to use discrimination on a minelab vanquish\" title=\"Minelab Vanquish discrimination\" width=\"175\" height=\"175\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong> Discrimination/Target ID:</strong> This is your tool for ignoring unwanted metallic trash."
+  },
+  {
+   "t": "p",
+   "html": "The Vanquish display shows VDI numbers (Visual Display Indicator) for targets, typically ranging from -9 to 40."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Negative numbers (-9 to 0):</strong> Generally, indicate ferrous (iron) targets."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Positive numbers (1 to 40):</strong> Generally, indicate non-ferrous targets. Higher numbers typically mean more conductive targets (e.g., large copper coins, silver). Lower positive numbers can indicate smaller non-ferrous items or those with lower conductivity (e.g., thin gold rings, lead, very small non-ferrous)."
+  },
+  {
+   "t": "p",
+   "html": "You can use the discrimination segments to block out specific VDI ranges. For example, blocking -9 to 0 will ignore iron."
+  },
+  {
+   "t": "p",
+   "html": "The Vanquish 540 has more sections of discrimination and can be set up as a custom setting along with a favoured search mode."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Crucial Note on Small Gold and Thin Hammered Coins:</em></strong> Be aware that small gold items (like thin gold rings or small gold earrings) and thin hammered coins (such as ancient or medieval silver hammered coinage from the UK) will often give a similar Target ID to foil and ring pulls. This is because they have similar electrical conductivity properties and surface area. If you indiscriminately block out the foil and ring pull range, you will miss small gold and thin hammered silver."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Recommendation:</strong> If hunting for jewellery or relics that might include thin hammered coins, it's often best to run with minimal discrimination, or at least be very cautious about blocking low to mid-range positive VDI numbers (typically 5-15, but this can vary). You'll dig more trash, but you'll also find more treasure!"
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Ground Balance:</strong> This setting helps your detector ignore the mineralisation in the ground, which can cause false signals. The Minelab Vanquish <em>automatically ground balances</em> when you power it on and constantly adapts as you detect thanks to Multi-IQ."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Volume and Tone Settings:</strong> Adjust your audio volume to your preference. Different tones can help differentiate between target types, even before looking at the VDI."
+  },
+  {
+   "t": "p",
+   "html": "•<strong> Noise Cancel:</strong> When you first turn on the Vanquish it does an automatic noise cancel, If you experience erratic behaviour or excessive chatter, especially near power lines, fences, or other detectors, you may find that turning off and back on again the Vanquish scans for and selects the quietest operating channel, significantly improving stability, your settings will not be affected."
+  },
+  {
+   "t": "h4",
+   "html": "Minelab Vanquish Best Settings:"
+  },
+  {
+   "t": "p",
+   "html": "While optimal settings vary by location, here are some starting points, as there is really NO IDEAL BEST SETTINGS."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Park Coin Hunting:</strong> Start with Coins mode, Sensitivity as high as stable, and iron discriminated out."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Beach Detecting (Wet Sand)</strong>: Use Jewellery mode, Sensitivity slightly reduced if noisy. Embrace digging some trash due to the challenge of wet sand and the potential for small gold items."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Relic Hunting (Old Field):</strong> Try Relic or All Metal mode for maximum depth. Be prepared to dig iron! Run Sensitivity as high as ground allows."
+  },
+  {
+   "t": "h3",
+   "html": "Detecting Techniques &amp; Tips",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Having the right settings is only half the battle. Your technique can significantly impact your success."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/vanquish-discrim.jpg\" alt=\"how to use a minelab vanquish\" title=\"how to use a minelab vanquish\" width=\"189\" height=\"106\">"
+  },
+  {
+   "t": "p",
+   "html": "Proper Coil Control:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Overlap:</strong> Ensure each sweep of your coil overlaps the previous one by about half the coil's width. This prevents missed spots."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Height:</strong> Keep the coil as close to the ground as possible without touching it, this can sometimes cause false signals. This maximises depth as the coil is close to the surface and not 2inch above the ground as then you have already lost the depth."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Swing Speed</strong>: Sweep at a steady, moderate pace. Going too fast can cause you to miss faint signals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Pinpointing:</strong> Once you get a solid signal, use the Pinpoint function if available, or use the methods in the pinpointing video. Press the Pinpoint button and slowly move the coil over the target area. The signal will get strongest directly over the target, often indicated by a central bar on the display and a consistent tone."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Target Recovery:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Digging a Plug:</strong> For delicate areas like parks, learn to cut a neat, shallow plug of turf."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Soil Inspection:</strong> After removing the plug, use your pin pointer within the hole and the removed plug to locate the target quickly and precisely."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Backfill:</strong> Always backfill your holes neatly, leaving no trace. This respects the land and ensures future access."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Understanding Signals:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong><br></strong>"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/vanquish-coinshoot.jpg\" alt=\"minelab vanquish target ID\" title=\"minelab vanquish target ID\" width=\"201\" height=\"113\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Solid, Repeatable Signal:</strong> This is what you want! A strong, consistent tone and a stable VDI number (e.g., a solid 28 for a coin) usually indicates a good target."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Broken or Fading Signal:</strong> Can be a deep target, a target partially masked by iron, or a piece of trash. Try sweeping from different directions, and really investigate the signal"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• \"Zip\" or \"Fizzy\" Sound:</strong> Often indicates iron. Some iron falsing may occur with a jumpy target id between 18-24."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Minelab Vanquish Depth: </strong>"
+  },
+  {
+   "t": "p",
+   "html": "The depth your Vanquish can achieve depends on many factors: target size, orientation, ground mineralisation, coil size, and your chosen settings. Small, deep targets will always be harder to detect than large, shallow ones. The Vanquish, thanks to Multi-IQ, offers excellent depth for its class."
+  },
+  {
+   "t": "h4",
+   "html": "Minelab Vanquish Tips and Tricks:"
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Listen to the Ground</strong>: Learn the subtle sounds your detector makes in different conditions."
+  },
+  {
+   "t": "p",
+   "html": "• <strong>Go Slow Over Good Spots:</strong> If you get a faint signal or detect a productive area, slow down and sweep meticulously from multiple angles."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Practise Digging Trash:</strong> To truly understand how different targets sound and register on the VDI, dig some of the common trash items (foil, can slaw, bottle caps). This will sharpen your Discrimination skills."
+  },
+  {
+   "t": "p",
+   "html": "•<strong> Vary Your Search Coils:</strong> While your stock coil is versatile, consider purchasing different Minelab Vanquish accessories like larger coils for more depth and coverage in open fields, or smaller coils for trashy sites and pinpointing."
+  },
+  {
+   "t": "h3",
+   "html": "Enhancing Your Vanquish Experience",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Beyond the core functions, there are ways to optimise your setup and maintain your detector."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Minelab Vanquish Accessories:</strong> Investing in quality accessories can significantly improve your detecting experience:"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/v8-coil?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/V8-01.jpg\" alt=\"what search coils can be used on a minelab vanquish\" title=\"minelab vanquish search coil choices\" width=\"203\" height=\"203\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Search Coils:</strong> Different sizes offer different benefits. A larger coil (e.g., V12) provides more depth and ground coverage for open areas, while a smaller coil (e.g., V8) is excellent for trashy sites or tight spaces, offering better target separation."
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"https://crawfordsmd.com/v8-coil?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/GOPR0131.jpg\" alt=\"minelab vanquish headphones, that are cheap and good\" title=\"Cheap minelab vanquish headphones\" width=\"166\" height=\"166\"></a>"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/P1040957_a_rwwyufix.jpg\" alt=\"minelab vanquish headphone socket 3.5mm jack\" title=\"minelab vanquish headphone socket 3.5mm jack\" width=\"215\" height=\"161\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Headphones:</strong> Essential for hearing faint signals and blocking out environmental noise. The Vanquish 340 has 3.5mm audio socket for connecting wired headphones or even a Bluetooth audio transmitter."
+  },
+  {
+   "t": "p",
+   "html": "The Vanquish 440 comes with wired headphones, and the 540 with wireless."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-pro-find-40?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/pro-find-40-image-web_49bjvii4.jpg\" alt=\"minelab profind 40 pinpointer uk\" title=\"minelab profind 40 pinpointer uk\" width=\"204\" height=\"204\"></a>• Pinpointers: A high-quality pinpointer (like the Minelab Pro-Find series) is an absolute must-have. It dramatically speeds up target recovery, saving you time and preventing damage to targets."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-pro-spade?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/cmd-spades.jpg\" alt=\"crawfords metal detectors has a range of cheap and good digging tools for metal detecting\" title=\"cheap digging tools for metal detecting\" width=\"239\" height=\"134\"></a>• Digging Tools: A sturdy digging trowel or spade suitable for the ground you detect in."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/cmd-pro-pouch?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/finds-bag.jpg\" alt=\"cheap finds pouch for metal detecting\" title=\"cheap finds pouch for metal detecting\" width=\"239\" height=\"239\"></a>• Pouch: For storing finds and trash."
+  },
+  {
+   "t": "p",
+   "html": "Coin and Artifact cleaning kit"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/cleaning-kit.jpg\" alt=\"a cheap coin cleaning kit for metal detecting, with a squirt bottle and soft brush for finds cleaning\" title=\"Cheap coin cleaning kit\" width=\"216\" height=\"122\">"
+  },
+  {
+   "t": "p",
+   "html": "For gentle cleaning of coins and your artifacts"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/cmd-finds-box-medium?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/finds-box.jpg\" alt=\"small metal detecting finds box\" title=\"small metal detecting finds box\" width=\"213\" height=\"213\"></a>Finds storage box"
+  },
+  {
+   "t": "p",
+   "html": "Ideal for keeping those worked hard for finds safe."
+  },
+  {
+   "t": "p",
+   "html": "Maintenance and Care:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Clean Your Detector:</strong> After each outing, wipe down your Vanquish with a damp cloth. Keep the coil free of mud and debris."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Inspect Cables:</strong> Check coil cable for damage and ensure its securely wrapped."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Store Properly:</strong> Store your detector in a dry, safe place away from extreme temperatures."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Waterproof Coil:</strong> While the coils are waterproof, the control box is not submergible. Be careful when detecting in shallow water or near puddles."
+  },
+  {
+   "t": "p",
+   "html": "Troubleshooting Common Issues:"
+  },
+  {
+   "t": "p",
+   "html": "• Excessive Chatter/Noise:"
+  },
+  {
+   "t": "p",
+   "html": "o Reduce Sensitivity."
+  },
+  {
+   "t": "p",
+   "html": "o Perform Noise Cancel."
+  },
+  {
+   "t": "p",
+   "html": "o Check for electromagnetic interference (power lines, mobile phones, other detectors)."
+  },
+  {
+   "t": "p",
+   "html": "o Ensure your coil cable is tightly wound around the shaft."
+  },
+  {
+   "t": "p",
+   "html": "• No Power:"
+  },
+  {
+   "t": "p",
+   "html": "o Check battery charge."
+  },
+  {
+   "t": "p",
+   "html": "o Ensure batteries are inserted correctly."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Minelab Vanquish Error Codes:</strong> Refer to your manual if specific error codes appear on your display. They usually indicate a specific issue with the coil or internal system. A Usual error code could be CD which means the search coil is not connected correctly."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/RNB-weight.png\" alt=\"minelab vanquish battery life\" title=\"minelab vanquish battery life\" width=\"202\" height=\"114\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Battery Life:</strong> Monitor your battery indicator. To maximise battery life, turn off the backlight (Vanquish 540) when not needed. Consider carrying spare batteries or a Minelab Vanquish RNB power bank for longer outings."
+  },
+  {
+   "t": "p",
+   "html": "Comparisons &amp; Next Steps"
+  },
+  {
+   "t": "h3",
+   "html": "You're now well on your way to becoming a proficient Vanquish user!",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>Minelab Vanquish Review/Reviews:</strong> There's a vibrant metal detecting community online. Search for Minelab Vanquish review videos (PAUL CEE) and forum discussions to see how others are using their machines and what they're finding. Sharing your own reviews helps the community grow."
+  },
+  {
+   "t": "p",
+   "html": "Minelab Vanquish Price/Where to Buy:"
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Vanquish price varies by model. <strong><em>Always purchase from authorised dealers</em></strong> (Crawfords Metal Detectors) in the U.K. to ensure you receive a genuine product and valid warranty. ALL reputable detecting shops, both online and physical, stock the Vanquish."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/vanq_simplex_vhqpcfgl.jpg\" alt=\"minelab vanquish vs simplex\" title=\"minelab vanquish vs simplex\" width=\"156\" height=\"88\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Minelab Vanquish vs. [Other Detectors]:</strong> You might see discussions comparing the Minelab Vanquish vs. other detectors like the Nokta Legend or even Minelab's own Equinox series. The Vanquish stands out for its simplicity, Multi-IQ performance, and excellent value for money. It's often seen as the stepping stone into advanced detecting without the complexity or higher price tag of professional machines. If you love the Vanquish, you might consider an Equinox or X-Terra Elite down the line for even more advanced features, but the Vanquish will serve you exceptionally well for years to come."
+  },
+  {
+   "t": "p",
+   "html": "Conclusion: Get Out and Detect!"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/buster_gold.jpg\" alt=\"Minelab vanquish small gold\" title=\"Minelab vanquish small gold\" width=\"181\" height=\"102\">"
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Vanquish is a formidable tool in the right hands. By understanding its features, mastering your settings, and applying effective techniques, you'll be consistently unearthing history and treasures. Remember the nuances of small gold items and thin hammered coins sharing IDs with common trash and adjust your discrimination accordingly if those are your targets."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD---Copy_9i98cpn7.jpg\" alt=\"discount code for crawfords metal detectors that works\" title=\"crawfords metal detectors discount code\" width=\"616\" height=\"616\">"
+  },
+  {
+   "t": "p",
+   "html": "Grab a Gift card and give to the metal detectorist in your life, they will appreciate it."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/cmd-gift-voucher?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/cmd-gift-card-1_k4f7dsq4.jpg\" alt=\"crawfords metal detectors gift card\" title=\"crawfords metal detectors gift card\" width=\"616\" height=\"616\"></a>"
+  }
+ ],
+ "images": [
+  "images/vanquish-small.png",
+  "images/detexpert-logosml_l9aop9jz.png",
+  "images/CRAWFORDS-2024-White.png",
+  "images/VANQUISH-340-User-Interface-Gallery.jpg",
+  "images/vanquish-mutli-iq.jpg",
+  "images/340-sens.jpg",
+  "images/340-discrim.jpg",
+  "images/vanquish-discrim.jpg",
+  "images/vanquish-coinshoot.jpg",
+  "images/V8-01.jpg",
+  "images/GOPR0131.jpg",
+  "images/P1040957_a_rwwyufix.jpg",
+  "images/pro-find-40-image-web_49bjvii4.jpg",
+  "images/cmd-spades.jpg",
+  "images/finds-bag.jpg",
+  "images/cleaning-kit.jpg",
+  "images/finds-box.jpg",
+  "images/RNB-weight.png",
+  "images/vanq_simplex_vhqpcfgl.jpg",
+  "images/buster_gold.jpg",
+  "images/WEB_AD---Copy_9i98cpn7.jpg",
+  "images/cmd-gift-card-1_k4f7dsq4.jpg"
+ ],
+ "videos": [
+  "CJFqjjiVxdc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/v8-coil?tracking=fa202437c9",
+  "https://crawfordsmd.com/minelab-pro-find-40?tracking=fa202437c9",
+  "https://crawfordsmd.com/minelab-pro-spade?tracking=fa202437c9",
+  "https://crawfordsmd.com/cmd-pro-pouch?tracking=fa202437c9",
+  "https://crawfordsmd.com/cmd-finds-box-medium?tracking=fa202437c9",
+  "https://crawfordsmd.com/cmd-gift-voucher?tracking=fa202437c9"
+ ]
+}

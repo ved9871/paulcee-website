@@ -1,0 +1,334 @@
+{
+ "type": "post",
+ "slug": "vanquish-340-vs-simplex",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?vanquish-340-vs-simplex",
+ "title": "Vanquish 340 Vs Simplex",
+ "seo": {
+  "title": "Vanquish 340 Vs Simplex - Blog",
+  "description": "Minelab Vanquish vs Nokta Simplex, which is better on mineralized ground and black sand",
+  "keywords": "Minelab Vanquish, Nokta simplex, vs, best, beginner, detector",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?vanquish-340-vs-simplex",
+  "og": {
+   "title": "Vanquish 340 Vs Simplex",
+   "description": "Minelab Vanquish vs Nokta Simplex, which is better on mineralized ground and black sand",
+   "image": "https://www.paulcee.co.uk/blog/files/vanq_simplex_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?vanquish-340-vs-simplex"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-01-09T08:48:00",
+    "dateModified": "2026-01-09T08:48:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Vanquish 340 Vs Simplex",
+    "description": "Minelab Vanquish 340 vs Nokta/Makro simplex + over mineralised soil and small hammered coin",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?vanquish-340-vs-simplex",
+    "image": [
+     "https://www.paulcee.co.uk/images/vanq_simplex.jpg",
+     "https://www.paulcee.co.uk/blog/files/vanq_simplex.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202601",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "nokta",
+      "item": "https://www.paulcee.co.uk/blog/?tag=nokta",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "makro",
+      "item": "https://www.paulcee.co.uk/blog/?tag=makro",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "simplex",
+      "item": "https://www.paulcee.co.uk/blog/?tag=simplex",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "test",
+      "item": "https://www.paulcee.co.uk/blog/?tag=test",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish 340 Vs Simplex",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-01-09T08:48:00",
+ "dateModified": "2026-01-09T08:48:00",
+ "author": "David Wallace",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "minelab",
+  "vanquish",
+  "nokta",
+  "makro",
+  "simplex",
+  "test"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Vanquish 340 vs Nokta/Makro simplex + over mineralised soil and small hammered coin",
+ "cover": "blog/files/vanq_simplex.jpg",
+ "heroVideo": "uNVQcrNjyfY",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/vanq_simplex.jpg\" alt=\"nokta makro simplex or minelab vanquish\" title=\"minelab Vanquish vs NOKTA simplex\" width=\"216\" height=\"121\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab vanquish vs nokta simplex"
+  },
+  {
+   "t": "p",
+   "html": "OVER Very Mineralised soil with the Multi IQ Minelab Vanquish 340 and Nokta Makro Simplex + Test using a small silver hammered coin shows even a basic Minelab Vanquish 340 Multi IQ detects ground that single frequency detectors cant handle. a simplex metal detecting test you can try yourself.."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/CMDvanquish\" data-kind=\"affiliate\">Where to Buy Minelab Vanquish 340</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/mnlbVnqush\" data-kind=\"affiliate\">Minelab Vanquish Metal Detecting uk</a>"
+  }
+ ],
+ "images": [
+  "images/vanq_simplex.jpg"
+ ],
+ "videos": [
+  "uNVQcrNjyfY"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q",
+  "http://bit.ly/CMDvanquish",
+  "http://bit.ly/mnlbVnqush"
+ ]
+}

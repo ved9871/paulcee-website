@@ -1,0 +1,791 @@
+{
+ "type": "post",
+ "slug": "gold-panning-in-the-uk-complete-guide",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?gold-panning-in-the-uk-complete-guide",
+ "title": "Gold Panning in the UK Complete Guide",
+ "seo": {
+  "title": "Gold Panning in the UK Complete Guide - Blog",
+  "description": "Planning to pan for gold in the UK? Discover the essential laws, permits for Scotland and Wales, equipment checklists, and step-by-step techniques.",
+  "keywords": "gold panning uk, gold panning scotland, gold panning wales, how to start gold panning, gold panning equipment, where to find gold in england, gold panning guide",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?gold-panning-in-the-uk-complete-guide",
+  "og": {
+   "title": "Gold Panning in the UK Complete Guide",
+   "description": "Planning to pan for gold in the UK? Discover the essential laws, permits for Scotland and Wales, equipment checklists, and step-by-step techniques.",
+   "image": "https://www.paulcee.co.uk/blog/files/gold-panning_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?gold-panning-in-the-uk-complete-guide"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-08-22T15:04:00",
+    "dateModified": "2026-08-22T15:04:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Gold Panning in the UK Complete Guide",
+    "description": "Gold Panning in the UK A Complete Guide",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?gold-panning-in-the-uk-complete-guide",
+    "image": [
+     "https://www.paulcee.co.uk/images/gold-panning-web.jpg",
+     "https://www.paulcee.co.uk/images/pan-kit.jpg",
+     "https://www.paulcee.co.uk/images/find-gold.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026.jpg",
+     "https://www.paulcee.co.uk/images/find-gold_6uel6blw.jpg",
+     "https://www.paulcee.co.uk/images/gold-panning-technique.jpg",
+     "https://www.paulcee.co.uk/images/gold-panning.jpg",
+     "https://www.paulcee.co.uk/blog/files/gold-panning.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202608",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold panning",
+      "item": "https://www.paulcee.co.uk/blog/?category=gold panning",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "panning",
+      "item": "https://www.paulcee.co.uk/blog/?tag=panning",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "panning",
+      "item": "https://www.paulcee.co.uk/blog/?tag=panning",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beginner",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beginner",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "panning",
+      "item": "https://www.paulcee.co.uk/blog/?tag=panning",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equipment",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equipment",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Gold Panning in the UK Complete Guide",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-08-22T15:04:00",
+ "dateModified": "2026-08-22T15:04:00",
+ "author": "Paul Cee",
+ "category": "gold panning",
+ "categorySlug": "gold_panning",
+ "tags": [
+  "gold",
+  "panning",
+  "uk",
+  "gold",
+  "panning",
+  "beginner",
+  "gold",
+  "panning",
+  "equipment"
+ ],
+ "readTime": 10,
+ "summary": "Gold Panning in the UK A Complete Guide",
+ "cover": "blog/files/gold-panning.jpg",
+ "heroVideo": "-hQe0rzZIk8",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Striking Gold in the UK: The Complete Guide to Gold Panning in Scotland &amp; Wales"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/gold-panning-web.jpg\" alt=\"gold panning with Minelab riffled pans by a scenic river in the Scottish Highlands\" title=\"guide to gold panning in the uk\" width=\"586\" height=\"330\">"
+  },
+  {
+   "t": "p",
+   "html": "Few outdoor activities combine natural beauty, geological history, and the thrill of discovery quite like gold panning in the UK."
+  },
+  {
+   "t": "p",
+   "html": "While Britain may not boast the colossal gold fields of the Yukon or California, the mountain streams of Scotland and the ancient valleys of Wales hold rich deposits of natural alluvial gold."
+  },
+  {
+   "t": "p",
+   "html": "Whether you are planning an adventurous family day out in the Scottish Highlands or following the trail of 19th-century Welsh miners, knowing the law, securing proper permissions, and carrying the right gear is essential before stepping foot in any river."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>In this complete beginner’s guide</em></strong>, we cover:"
+  },
+  {
+   "t": "h3",
+   "html": "The Legal Framework: Who owns river gold in the UK?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>Where to Pan:</strong> Designated permit locations in Scotland vs. access laws in Wales."
+  },
+  {
+   "t": "p",
+   "html": "<strong><br></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Essential Equipment Checklist</strong>: What kit you need (and what tools are illegal)."
+  },
+  {
+   "t": "p",
+   "html": "<strong><br></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Step-by-Step Panning Technique</strong>: How to separate heavy gold flakes from river gravel."
+  },
+  {
+   "t": "p",
+   "html": "<strong>The UK Prospector’s Code of Conduct</strong>: Protecting rivers and wildlife."
+  },
+  {
+   "t": "p",
+   "html": "<strong><br></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Video showing how to pan for Gold</strong>:"
+  },
+  {
+   "t": "h3",
+   "html": "UK Gold Panning Laws: Who Owns the Gold?"
+  },
+  {
+   "t": "p",
+   "html": "Before dipping a pan into river water, it is vital to understand British mineral and property law. Gold prospecting in the UK is governed by centuries-old legislation known as the Mines Royal."
+  },
+  {
+   "t": "h3",
+   "html": "<em>The Royal Mines Act &amp; The Crown Estate</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Mines Royal:</em></strong> Under historic UK law, all naturally occurring gold and silver in England, Wales, and Northern Ireland belongs to The Crown (administered by The Crown Estate). In Scotland, it is managed by Crown Estate Scotland."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Extraction Rights:</em></strong> The Crown technically owns all raw, unextracted precious metals. While commercial extraction requires formal commercial leases, recreational hand-panning is tolerated in specific designated zones with local permits."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>The Treasure Act 1996:</em></strong> This act does not apply to raw, naturally occurring alluvial gold dust or flakes because they are natural geological deposits, not man-made historical artefacts. However, if you discover worked metal, coins, or historic jewellery, you are legally required to report it to a local Finds Liaison Officer (FLO)."
+  },
+  {
+   "t": "h4",
+   "html": "Where Can You Pan for Gold in the UK? (Scotland vs. Wales)"
+  },
+  {
+   "t": "p",
+   "html": "Access rights and local regulations vary significantly across Britain’s devolved nations. While Scotland offers well-managed, open permit zones, Wales relies almost entirely on private landowner permissions and strict environmental safeguards."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Gold Panning in Scotland:</em> The Clearer Route",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Scotland is by far the most popular destination for recreational prospectors due to clear access legislation and established local permit schemes."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Right to Roam vs. Mineral Rights:</em></strong> The Land Reform (Scotland) Act 2003 allows responsible public access to land and inland water for open-air recreation. However, this statutory right covers access only and does not grant the right to extract or remove minerals, gravel, or gold."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Designated Panning Locations:</em></strong> The most reliable way to pan legally in Scotland is by using established estate permit schemes:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Kildonan Burn (Baile an Ór, Sutherland):</strong> Famous for the 1869 Scottish Gold Rush. Recreational panning is permitted on the Suisgill Estate under published local rules. The burn is closed to panning during the salmon spawning season (typically October to mid-April)."
+  },
+  {
+   "t": "p",
+   "html": "Wanlockhead &amp; Mennock Water (Dumfries &amp; Galloway): Scotland's highest village, historically nicknamed \"God's Treasure House.\" Day and annual recreational permits are available locally through the Museum of Lead Mining."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Tyndrum (Strathfillan):</strong> Managed permit stretches along the River Fillan and Allt Chreachainn, administered online by the Strathfillan Community Development Trust."
+  },
+  {
+   "t": "h4",
+   "html": "Gold Panning in Wales: The Historic Dolgellau Gold Belt"
+  },
+  {
+   "t": "p",
+   "html": "Welsh gold is world-famous for its high purity and historic association with royal wedding rings. Most deposits are concentrated along the Dolgellau Gold Belt in Eryri (Snowdonia) and the rivers of Carmarthenshire."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>No General Right to Dig:</em></strong> Under the Countryside and Rights of Way Act 2000 (CRoWA), the public has the right to walk across designated open-access land, but the act explicitly forbids digging, extracting riverbed materials, or prospecting."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Riparian Landowner Permission:</em></strong> Anyone wishing to pan in Welsh rivers must secure explicit, written permission from the riparian owner (the individual or estate that owns the riverbank and riverbed)."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Natural Resources Wales (NRW) Restrictions:</em></strong> NRW manages vast tracts of Welsh public woodland, mountains, and river corridors. NRW does not allow recreational panning or the disturbance of river gravels on its land without express written consent."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>SSSI Protections: </em></strong>A large proportion of rivers in the Dolgellau area are designated Sites of Special Scientific Interest (SSSIs). Disturbing gravel bars or riverbeds within an SSSI without official assent from Natural Resources Wales is a serious environmental offence carrying unlimited fines."
+  },
+  {
+   "t": "h4",
+   "html": "Essential Gold Panning Equipment"
+  },
+  {
+   "t": "p",
+   "html": "Recreational gold prospecting in the UK is strictly limited to non-mechanised hand tools. Motorised dredges, high-bankers, and mechanical sluices are banned on almost all UK waterways."
+  },
+  {
+   "t": "h3",
+   "html": "<em>The Basic Starter Kit</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-pro-gold?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/pan-kit.jpg\" alt=\"find gold in the uk, a starter kit from Minelab and crawfords metal detectors\" title=\"gold panning kit for finding gold in the uk\" width=\"257\" height=\"257\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Plastic Gold Pan (10\" to 14\"):</strong> Modern lightweight plastic pans with moulded riffles (ridges) trap heavy gold while washing away lighter sand. Green, blue, or black pans provide the best visual contrast against yellow gold."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Classifier / Sieve </em></strong>(1/4\" or 1/2\" mesh): Sits over your pan to remove large stones before washing fine gravel."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em><br></em></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Hand Trowel / Crevice Tool</em></strong>: A small hand spade and narrow pry tool to extract heavy gravel from natural bedrock cracks."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Snuffer Bottle:</em></strong> A flexible squeeze bottle with a suction tube used to vacuum tiny gold specks out of the bottom of the pan."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Glass or Plastic Vials:</em></strong> Filled with water to safely store and display your flakes."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em><br></em></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Hand Loupe (Magnifier):</em></strong> To inspect and verify tiny specks of real gold."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Recommended Clothing &amp; Safety Gear</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>Neoprene Gloves:</strong> Highland and Welsh mountain burns stay icy cold even in mid-summer."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Wellington Boots or Chest Waders</em></strong>: Ensure soles have deep tread to prevent slipping on slimy river boulders."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Waterproof Kneeling Mat</em></strong>: Keeps your knees dry and comfortable when working low in shallow streams."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/find-gold.jpg\" alt=\"how gold gets trapped and settles in certain places in the flow of a river or stream in the uk\" title=\"where to find gold in the uk\" width=\"616\" height=\"347\">"
+  },
+  {
+   "t": "h3",
+   "html": "<em>Step-by-Step Gold Panning Technique</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Gold has a very high specific gravity (~19.3), making it roughly 6 to 7 times heavier than ordinary river quartz and gravel. Panning relies on using water and gravity to sink the gold to the bottom while flushing light gravel away."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Step 1: Classify Your Material</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Place your 1/4-inch classifier screen over the pan and scoop in riverbed gravel from behind large boulders or bedrock cracks. Submerge the screen in shallow water and shake it vigorously. Inspect the screen for any large nuggets, then discard the oversized stones."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Step 2: Submerge and Stratify</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Lower the pan completely underwater. Vigorously shake the pan from side to side in a quick, vibrating motion. This fluidises the gravel mixture, allowing heavy gold flakes, magnetite, and black iron sand to settle to the very bottom layer while lighter quartz floats to the surface."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em><br></em></strong>"
+  },
+  {
+   "t": "h3",
+   "html": "<em>Step 3: Wash Away the Top Layer</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Tilt the pan slightly forward (away from your body) with the built-in riffles pointing downstream. Lift the rim just breaking the river surface so the moving water carries away the top layer of barren silt and pebbles. Alternate between 5 seconds of shaking and 2 gentle washing dips."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em><br></em></strong>"
+  },
+  {
+   "t": "h3",
+   "html": "<em>Step 4: Isolate the Concentrates</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Repeat the stratify-and-wash process until only 1–2 tablespoons of heavy, dark material remain in the bottom corner—primarily black iron sand and potential gold."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Step 5: Swirl and Reveal</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Lift the pan out of the river, leaving about half an inch of clean water. Tilt the pan back and gently swirl the water in a circular motion. The lighter black sand will spread across the base of the pan, leaving the bright yellow gold flakes trailing behind at the high point."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Step 6: Snuff and Store</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Submerge the nozzle of your snuffer bottle near each gold flake, squeeze, and release to vacuum the speck inside. Transfer your finds into a glass vial at the end of the day."
+  },
+  {
+   "t": "h3",
+   "html": "<em>5. Identifying Real Gold vs. \"Fool's Gold\"</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Don't be fooled by common river minerals:"
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Mica:</em></strong> Very common in granite streams. Flaky and thin; shines brightly in direct sunlight but turns dull gray in the shade. Floats easily when swirled in water."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Iron Pyrite (\"Fool's Gold\")</em></strong>: Forms hard, brassy, cubic crystals. It will shatter or crumble if pressed firmly against a hard surface with a steel knife or coin edge."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Natural Gold:</em></strong> Soft and malleable (dents rather than breaks). It retains its rich, butter-yellow lustre in full shadow and stays pinned to the bottom of the pan even under vigorous water movement."
+  },
+  {
+   "t": "h3",
+   "html": "<em>6. The UK River Code of Conduct for Prospectors</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "To ensure access remains open for recreational panners in the future, always follow the countryside gold prospector's code:"
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Never Undermine Riverbanks</em></strong>: Digging into banks causes severe soil erosion, collapses footpaths, and clouds the water. Only work within active, wet gravel bars."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Backfill All Excavations</em></strong>: Always push gravel back into any holes you create before leaving. Unfilled trenches are dangerous to livestock, walkers, and fish."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Respect Fish Spawning Windows</em></strong>: Do not disturb river gravel during migratory trout and salmon spawning seasons (typically late autumn through early spring)."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Protect Endangered Wildlife</em></strong>: In Scotland, disturbing riverbeds containing Freshwater Pearl Mussels is a severe wildlife crime with strict legal penalties."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>Leave No Trace: Take all litter home and respect local residents and angling clubs.</em></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong><em><br></em></strong>"
+  },
+  {
+   "t": "h3",
+   "html": "<em>Frequently Asked Questions (FAQ)</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<em><strong><br></strong></em>"
+  },
+  {
+   "t": "h3",
+   "html": "<em>Can I sell gold I find in the UK</em>?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Under the Royal Mines Act, gold naturally belongs to The Crown. While recreational permits allow finding and keeping small souvenir specks for personal collections, commercial mining or selling unprocessed UK river gold without a Crown lease is strictly restricted."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Can I use a sluice box or metal detector in UK rivers?</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Most designated panning zones (such as Kildonan and Wanlockhead) strictly prohibit sluice boxes, high-bankers, and motorized pumps. Metal detectors are generally unsuited for alluvial flour gold (as the specks are too small) but the <a href=\"https://crawfordsmd.com/minelab-gold-monster-2000?tracking=fa202437c9\" data-kind=\"affiliate\">Minelab GOLD MONSTER 2000 </a>is ideal. BUT are prohibited on many protected riverbanks without specific Crown / landowner assent."
+  },
+  {
+   "t": "h3",
+   "html": "<em>What time of year is best for gold panning in Britain?</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Late spring to late summer (May to September) offers lower river water levels, milder temperatures, and avoids the seasonal autumn/winter closures designed to protect spawning salmon."
+  },
+  {
+   "t": "p",
+   "html": "Ready to plan your next outdoor excursion? Bookmark this guide, check local estate permitting rules before you travel, and happy prospecting!"
+  },
+  {
+   "t": "p",
+   "html": "Get some money off your gold panning equipment from Crawfords Metal Detectors, using the the code below. Put the code paulcee10 at checkout"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-pro-gold?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/WEB_AD2026.jpg\" alt=\"where to buy gold panning equipment in the uk, and where can you look for gold in england\" title=\"gold panning in the uk where to buy\" width=\"371\" height=\"371\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "I hope you enjoyed the read, and good luck on your gold panning adventure."
+  }
+ ],
+ "images": [
+  "images/gold-panning-web.jpg",
+  "images/pan-kit.jpg",
+  "images/find-gold.jpg",
+  "images/WEB_AD2026.jpg"
+ ],
+ "videos": [
+  "-hQe0rzZIk8"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/minelab-pro-gold?tracking=fa202437c9",
+  "https://crawfordsmd.com/minelab-gold-monster-2000?tracking=fa202437c9"
+ ]
+}

@@ -1,0 +1,838 @@
+{
+ "type": "post",
+ "slug": "the-ultimate-beginner-metal-detector-guide",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?the-ultimate-beginner-metal-detector-guide",
+ "title": "The Ultimate Beginner Metal Detector Guide",
+ "seo": {
+  "title": "Beginner Metal Detector Guide - Blog",
+  "description": "Discover how to choose the best beginner metal detector. Compare VLF vs multi-frequency technology, essential accessories, and UK detecting rules.",
+  "keywords": "beginner metal detector, metal detecting guide, best metal detector uk, coin shooting, vlf vs multi frequency",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?the-ultimate-beginner-metal-detector-guide",
+  "og": {
+   "title": "The Ultimate Beginner Metal Detector Guide",
+   "description": "Discover how to choose the best beginner metal detector. Compare VLF vs multi-frequency technology, essential accessories, and UK detecting rules.",
+   "image": "https://www.paulcee.co.uk/blog/files/voyager-screen_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?the-ultimate-beginner-metal-detector-guide"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2026-08-31T11:11:00",
+    "dateModified": "2026-08-31T11:11:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "The Ultimate Beginner Metal Detector Guide",
+    "description": "Discover how to choose the best beginner metal detector",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?the-ultimate-beginner-metal-detector-guide",
+    "image": [
+     "https://www.paulcee.co.uk/images/multi-iq-Simplified-Curves.jpg",
+     "https://www.paulcee.co.uk/images/560-vol_c8fhftm8.jpg",
+     "https://www.paulcee.co.uk/images/900-ground-balance_v7wbufjq.jpg",
+     "https://www.paulcee.co.uk/images/XTE-intro_WEB.jpg",
+     "https://www.paulcee.co.uk/images/voyager-pack_w1lg3wcq.jpg",
+     "https://www.paulcee.co.uk/images/60-field_kb6gk9vb.jpg",
+     "https://www.paulcee.co.uk/images/XTE-intro.jpg",
+     "https://www.paulcee.co.uk/images/nox-900a_30mpj44c.jpg",
+     "https://www.paulcee.co.uk/images/manticore_webpage_w87pkd3e.jpg",
+     "https://www.paulcee.co.uk/images/pro-find-40-image-web_9zwmcxnf.jpg",
+     "https://www.paulcee.co.uk/images/20230422_064036.jpg",
+     "https://www.paulcee.co.uk/images/cmd-pouch_vpw4m5nl.jpg",
+     "https://www.paulcee.co.uk/blog/files/voyager-screen.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2026",
+      "item": "https://www.paulcee.co.uk/blog/?month=202608",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beginners metal detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=beginners metal detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beginner",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beginner",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "guide",
+      "item": "https://www.paulcee.co.uk/blog/?tag=guide",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "best",
+      "item": "https://www.paulcee.co.uk/blog/?tag=best",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coin",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coin",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "shooting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=shooting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vlf",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vlf",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vs",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vs",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "multi",
+      "item": "https://www.paulcee.co.uk/blog/?tag=multi",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "frequency",
+      "item": "https://www.paulcee.co.uk/blog/?tag=frequency",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "The Ultimate Beginner Metal Detector Guide",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2026-08-31T11:11:00",
+ "dateModified": "2026-08-31T11:11:00",
+ "author": "Paul Cee",
+ "category": "beginners metal detecting",
+ "categorySlug": "beginners_metal_detecting",
+ "tags": [
+  "beginner",
+  "metal",
+  "detector",
+  "metal",
+  "detecting",
+  "guide",
+  "best",
+  "metal",
+  "detector",
+  "uk",
+  "coin",
+  "shooting",
+  "vlf",
+  "vs",
+  "multi",
+  "frequency"
+ ],
+ "readTime": 5,
+ "summary": "Discover how to choose the best beginner metal detector",
+ "cover": "blog/files/voyager-screen.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "The Ultimate Beginner’s Guide to Metal Detecting"
+  },
+  {
+   "t": "p",
+   "html": "Starting out in metal detecting is exciting, but choosing the right equipment can quickly feel overwhelming. Between operating frequencies, ground balance settings, and discrimination patterns, it is easy to get lost before you have even dug your first target."
+  },
+  {
+   "t": "p",
+   "html": "Whether your goal is uncovering hammered silver coins on farmland, scanning beaches for lost rings, or finding historical artefacts in local fields, having the right setup makes all the difference."
+  },
+  {
+   "t": "h3",
+   "html": "1. How Metal Detectors Work: Core Technologies",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Metal detectors transmit an electromagnetic field into the ground via the search coil. When this field passes over a conductive metal target, it excites a secondary electromagnetic field within the item. The coil's receiver picks up this return signal and translates it into audio tones and numerical Target IDs (TID)."
+  },
+  {
+   "t": "p",
+   "html": "How the Signal Cycle Works:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>1. Transmit Coil (TX):</strong> Sends a pulse or continuous wave into the earth."
+  },
+  {
+   "t": "p",
+   "html": "<strong>2. Target Response:</strong> Conductive metal creates an electromagnetic echo."
+  },
+  {
+   "t": "p",
+   "html": "<strong>3. Receive Coil (RX):</strong> Captures the return signal and sends data to the control unit."
+  },
+  {
+   "t": "p",
+   "html": "<strong>4. Audio &amp; Target ID:</strong> The processor produces a distinct tone and numerical readout on your display."
+  },
+  {
+   "t": "p",
+   "html": "Choosing the Right Technology:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• VLF (Very Low Frequency):</strong> Best for farmland, parks, and general coin hunting. Offers high discrimination accuracy, budget-friendly pricing, and long battery life, but struggles in wet, mineralised saltwater sand."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Simultaneous Multi-Frequency (SMF):</strong> Best for all-terrain, wet beaches, and mixed targets. Delivers great depth, ignores saltwater mineralisation, and offers top target separation."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Pulse Induction (PI):</strong> Best for deep sea diving and extreme gold prospecting. Delivers the deepest penetration in heavily mineralised soils, but provides minimal iron discrimination (you will dig more junk)."
+  },
+  {
+   "t": "p",
+   "html": "2. Key Features to Look For"
+  },
+  {
+   "t": "p",
+   "html": "Operating Frequency:"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/multi-iq-Simplified-Curves.jpg\" alt=\"Beginners guide to how a metal detector work, looking at frequncies\" title=\"how a metal detector works\" width=\"616\" height=\"195\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Low Frequency (3–10 kHz):</strong> Long wavelengths penetrate deep into clean soil, making them ideal for larger copper/silver coins and deep relics."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• High Frequency (30+ kHz):</strong> Short wavelengths pick up tiny, low-conductivity targets such as thin hammered coins, small gold jewellery, and fine chains."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Multi-Frequency:</strong> Broadcasts multiple frequencies simultaneously, capturing both small shallow targets and large deep items in a single sweep."
+  },
+  {
+   "t": "p",
+   "html": "Discrimination &amp; Target ID (TID):"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/560-vol_c8fhftm8.jpg\" alt=\"minelab vanquish 60 target id numbers\" title=\"Minelab vanquish target id numbers\" width=\"616\" height=\"616\">"
+  },
+  {
+   "t": "p",
+   "html": "Discrimination allows your detector to ignore unwanted trash like rusty nails, foil, and modern pull-tabs. The screen displays a numerical reference to identify what lies beneath the coil:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Low IDs (-19–0):</strong> Ferrous metals (iron, steel nails, wire)."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Mid IDs (0–30):</strong> Low-conductive metals (foil, nickel, small gold, pull tabs)."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• High IDs (31–99):</strong> High-conductive metals (copper, bronze, silver coins)."
+  },
+  {
+   "t": "p",
+   "html": "Ground Balancing &amp; Recovery Speed:"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/900-ground-balance_v7wbufjq.jpg\" alt=\"why and how should you ground balance a metal detector\" title=\"ground balance a metal detector\" width=\"616\" height=\"347\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Ground Balance:</strong> Natural ground contains trace minerals that cause false signals. Automatic Ground Balance continuously monitors and tunes out soil chatter on the fly—making it ideal for beginners."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/XTE-intro_WEB.jpg\" alt=\"what does recovery speed do on a metal detector\" title=\"metal detector recovery speed\" width=\"616\" height=\"347\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Recovery Speed:</strong> This measures how fast your machine resets between targets. A fast recovery speed lets you detect a silver coin lying just inches away from an iron nail without masking the good signal."
+  },
+  {
+   "t": "p",
+   "html": "To browse beginner machines and starter kits, visit Crawfords Metal Detectors:"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/metal-detectors/beginners-childrens-detectors\" data-kind=\"affiliate\">https://crawfordsmd.com/metal-detectors/beginners-childrens-detectors</a>"
+  },
+  {
+   "t": "h3",
+   "html": "3. How Much Should You Spend?",
+   "inferred": true
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/voyager-pack_w1lg3wcq.jpg\" alt=\"minelab voyager is a good metal detector for beginners\" title=\"metal detector for beginners\" width=\"503\" height=\"503\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Entry-Level (£120 – £350):</strong> Includes pre-set search modes, lightweight frames, single frequency, and basic iron discrimination. Best for first-time hobbyists wanting an intuitive, plug-and-play machine."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/60-field_kb6gk9vb.jpg\" alt=\"the minelab vanquish 60 is a great metal detector for beginners\" title=\"minelab vanquish 60 for beginners\" width=\"297\" height=\"297\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/XTE-intro.jpg\" alt=\"minelab x terra elite is a good metal detector for beginners \" title=\"minelab x terra elite for beginners\" width=\"324\" height=\"182\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Mid-Range (£400 – £850):</strong> Includes simultaneous multi-frequency, waterproof housings, fast recovery speeds, and custom audio. Best for dedicated beginners and intermediate users seeking all-terrain versatility."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/nox-900a_30mpj44c.jpg\" alt=\"minelab equinox for beginners at an entry level price\" title=\"minelab equinox for beginners\" width=\"295\" height=\"295\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore_webpage_w87pkd3e.jpg\" alt=\"minelab manticore for beginners, above an entry level pice but you wont need to upgrade for a long time\" title=\"minelab manticore for beginners\" width=\"329\" height=\"185\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• High-End (£900+):</strong> Delivers maximum detection depth, low-latency wireless audio, and advanced ground filtering. Best for experienced detectorists hunting difficult or worked-out historical sites."
+  },
+  {
+   "t": "h3",
+   "html": "4. Essential Accessories for Every Hunt"
+  },
+  {
+   "t": "p",
+   "html": "A detector alone is only half the kit. Equipping yourself with the right gear ensures smoother digs and protects your finds:"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pro-find-40-image-web_9zwmcxnf.jpg\" alt=\"the minelab pro-find 40 is a great pinpointer for a beginner\" title=\"minelab pinpointer for a beginner\" width=\"402\" height=\"402\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Handheld Pinpointer:</strong> A compact probe that pinpoints targets inside the dug plug, cutting recovery time in half and protecting delicate coins from trowel scratches."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/20230422_064036.jpg\" alt=\"a handheld digging tool for metal detecting\" title=\"digging tool for metal detecting\" width=\"406\" height=\"229\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Specialist Digging Tool / Spade:</strong> A serrated hand trowel for clean cuts in turf, or a dedicated long-handled spade for ploughed pasture."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/cmd-pouch_vpw4m5nl.jpg\" alt=\"a finds pouch for putting metal detecting good finds and junk in, with a pinpointer holder\" title=\"metal detecting finds pouch\" width=\"400\" height=\"400\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Finds Pouch:</strong> Dual-pocket carry bags keep valuable artefacts safe while keeping dug iron rubbish separated for disposal."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Over-Ear Headphones:</strong> Blocks wind noise, increases machine battery life, and ensures you hear faint, deep audio whispers."
+  },
+  {
+   "t": "p",
+   "html": "Browse digging tools, pin pointers, and accessories at Crawfords Metal Detectors:"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/metal-detecting-accessories\" data-kind=\"affiliate\">https://crawfordsmd.com/metal-detecting-accessories</a>"
+  },
+  {
+   "t": "h3",
+   "html": "5. Field Technique: Best Practices for Better Finds",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>1. Keep Your Coil Flat &amp; Low:</strong> Keep the search coil flat to the earth (1 inch / 2–3 cm) throughout your entire sweep. Avoid raising the coil at the ends of your swing."
+  },
+  {
+   "t": "p",
+   "html": "<strong>2. Overlap Your Sweeps:</strong> Advance forward by only 30–50% of your coil's width per swing to ensure complete ground coverage."
+  },
+  {
+   "t": "p",
+   "html": "<strong>3. Dig Repeatable Signals:</strong> Dig targets that produce a consistent tone and stable Target ID from at least two perpendicular directions (a 90-degree check)."
+  },
+  {
+   "t": "p",
+   "html": "<strong>4. Leave No Trace:</strong> Cut neat, three-sided plugs in grassy areas, fold the flap back, recover the item, and firmly replace the turf so the site looks untouched."
+  },
+  {
+   "t": "h3",
+   "html": "6. UK Metal Detecting Laws and Code of Conduct"
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Landowner Permission:</strong> Always obtain clear permission from the private landowner before stepping onto any land. Detecting without permission constitutes trespass and theft."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Crown Estate Foreshore:</strong> Detecting between mean high water and mean low water on public beaches generally requires a free Crown Estate permit."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• Scheduled Monuments:</strong> Detecting on Scheduled Monuments, Ministry of Defence land, or Sites of Special Scientific Interest (SSSIs) is strictly illegal."
+  },
+  {
+   "t": "p",
+   "html": "<strong>• The Treasure Act 1996:</strong> Any potential treasure finds (gold or silver objects over 300 years old, or coin hoards) must be reported to your local Finds Liaison Officer (FLO) within 14 days of when you are aware of it being treasure, under the Portable Antiquities Scheme (PAS)."
+  }
+ ],
+ "images": [
+  "images/multi-iq-Simplified-Curves.jpg",
+  "images/560-vol_c8fhftm8.jpg",
+  "images/900-ground-balance_v7wbufjq.jpg",
+  "images/XTE-intro_WEB.jpg",
+  "images/voyager-pack_w1lg3wcq.jpg",
+  "images/60-field_kb6gk9vb.jpg",
+  "images/XTE-intro.jpg",
+  "images/nox-900a_30mpj44c.jpg",
+  "images/manticore_webpage_w87pkd3e.jpg",
+  "images/pro-find-40-image-web_9zwmcxnf.jpg",
+  "images/20230422_064036.jpg",
+  "images/cmd-pouch_vpw4m5nl.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/metal-detectors/beginners-childrens-detectors",
+  "https://crawfordsmd.com/metal-detecting-accessories"
+ ]
+}

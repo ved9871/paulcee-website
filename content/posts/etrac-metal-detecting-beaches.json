@@ -1,0 +1,173 @@
+{
+ "type": "post",
+ "slug": "etrac-metal-detecting-beaches",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?etrac-metal-detecting-beaches",
+ "title": "Etrac metal detecting Beaches",
+ "seo": {
+  "title": "Etrac metal detecting Beaches - Blog",
+  "description": "minelab etrac, metal detecting uk beach, minelab etrac metal detecting, where to metal detect",
+  "keywords": "where to metal detect, minelab etrac, metal detecting uk, minelab metal detector",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?etrac-metal-detecting-beaches",
+  "og": {
+   "title": "Etrac metal detecting Beaches",
+   "description": "minelab etrac, metal detecting uk beach, minelab etrac metal detecting, where to metal detect",
+   "image": "https://www.paulcee.co.uk/blog/files/etrac1a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?etrac-metal-detecting-beaches"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-10-18T17:38:00",
+    "dateModified": "2017-10-18T17:38:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Etrac metal detecting Beaches",
+    "description": "Minelab Etrac beach Detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?etrac-metal-detecting-beaches",
+    "image": [
+     "https://www.paulcee.co.uk/images/etrac1a_3mqq5ka6.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/etrac1a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201710",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Etrac metal detecting Beaches",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab etrac",
+      "item": "https://www.paulcee.co.uk/blog/?category=minelab etrac",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Etrac metal detecting Beaches",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Etrac metal detecting Beaches",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-10-18T17:38:00",
+ "dateModified": "2017-10-18T17:38:00",
+ "author": "Paul Cee",
+ "category": "minelab etrac",
+ "categorySlug": "minelab_etrac",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab Etrac beach Detecting",
+ "cover": "blog/files/etrac1a.jpg",
+ "heroVideo": "U5-fqV1hrSk",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/etrac1a_3mqq5ka6.jpg\" alt=\"all about the minelab etrac metal detecting on beaches\" title=\"Minelab Etrac beach setting\" width=\"620\" height=\"348\">"
+  },
+  {
+   "t": "p",
+   "html": "The UK in places was battered by hurricane Ophelia, what would this hold in store for the east coast of the UK, high winds battering the coastline, well unfortunately on the east coast the wind was blowing offshore so not really much sand blown or washed off of the beach. Decided to take the <a href=\"@minelab-manticore/\" data-kind=\"internal\">Minelab Etrac</a> for a few hours detecting on the dry sand and the wet sand, managed to recover some pretty decent older coins but not really what i was expecting"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"is the minelab Etrac good for metal detecting on a beach\" title=\"Minelab Etrac Beach Metal Detecting\" width=\"616\" height=\"616\">"
+  }
+ ],
+ "images": [
+  "images/etrac1a_3mqq5ka6.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "U5-fqV1hrSk"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

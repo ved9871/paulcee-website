@@ -1,0 +1,183 @@
+{
+ "type": "post",
+ "slug": "minelab-waterproof-headphones-review",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-waterproof-headphones-review",
+ "title": "Minelab Waterproof headphones review",
+ "seo": {
+  "title": "Minelab Waterproof headphones review - Blog",
+  "description": "review of minelab waterproof headphones on a minelab equinox, Minelab Manticore and Xterra metal detectors",
+  "keywords": "minelab, headphones, uk, review, metal, detecting",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-waterproof-headphones-review",
+  "og": {
+   "title": "Minelab Waterproof headphones review",
+   "description": "review of minelab waterproof headphones on a minelab equinox, Minelab Manticore and Xterra metal detectors",
+   "image": "https://www.paulcee.co.uk/blog/files/200518_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-waterproof-headphones-review"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-07T17:41:00",
+    "dateModified": "2018-11-07T17:41:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Waterproof headphones review",
+    "description": "Koss Waterproof minelab Headphones Tested",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-waterproof-headphones-review",
+    "image": [
+     "https://www.paulcee.co.uk/images/200518.png",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/200518.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Waterproof headphones review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Waterproof headphones review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Waterproof headphones review",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-07T17:41:00",
+ "dateModified": "2018-11-07T17:41:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Koss Waterproof minelab Headphones Tested",
+ "cover": "blog/files/200518.jpg",
+ "heroVideo": "ZWo_GKE7w5M",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"https://crawfordsmd.com/equinox-waterproof-headphones?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/200518.png\" alt=\"Equinox waterproof buds\" title=\"Minelab Waterproof headphones uk\" width=\"621\" height=\"349\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Koss Waterproof headphones"
+  },
+  {
+   "t": "p",
+   "html": "fitted to the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Equinox</a> for testing and review. But will also work with the New <a href=\"@minelab-manticore/\" data-kind=\"internal\">Manticore</a>, Xterra series and the Vanquish 60 series"
+  },
+  {
+   "t": "p",
+   "html": "Rewarded today with Gold and silver finds beach metal detecting"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/equinox-waterproof-headphones?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Minelab Waterproof headphones\" title=\"Minelab Waterproof headphones\" width=\"616\" height=\"616\"></a>"
+  }
+ ],
+ "images": [
+  "images/200518.png",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "ZWo_GKE7w5M"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/equinox-waterproof-headphones?tracking=fa202437c9"
+ ]
+}

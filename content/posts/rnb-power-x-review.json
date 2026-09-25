@@ -1,0 +1,499 @@
+{
+ "type": "post",
+ "slug": "rnb-power-x-review",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?rnb-power-x-review",
+ "title": "RNB Power X Review",
+ "seo": {
+  "title": "RNB Power X Review - Blog",
+  "description": "RNB Power X battery pack is the best battery to suit Minelab manticore, will increase the power range of you metal detector allowing you to detect longer.",
+  "keywords": "rnb power x, review, minelab manticore battery, best battery pack for a metal detector, best manticore battery, accessories, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?rnb-power-x-review",
+  "og": {
+   "title": "RNB Power X Review",
+   "description": "RNB Power X battery pack is the best battery to suit Minelab manticore, will increase the power range of you metal detector allowing you to detect longer.",
+   "image": "https://www.paulcee.co.uk/blog/files/rnb-Power-x_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?rnb-power-x-review"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2025-01-12T12:52:00",
+    "dateModified": "2025-01-12T12:52:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "RNB Power X Review",
+    "description": "RNB Power X review",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?rnb-power-x-review",
+    "image": [
+     "https://www.paulcee.co.uk/images/powerx_review1.jpg",
+     "https://www.paulcee.co.uk/images/rnb-Power-x1.jpg",
+     "https://www.paulcee.co.uk/images/rnb-manticore-battery_tewujcks.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD---Copy_lrv66acy.jpg",
+     "https://www.paulcee.co.uk/images/P1050571.jpg",
+     "https://www.paulcee.co.uk/images/P1050566.jpg",
+     "https://www.paulcee.co.uk/blog/files/rnb-Power-x.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2025",
+      "item": "https://www.paulcee.co.uk/blog/?month=202501",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "rnb power x",
+      "item": "https://www.paulcee.co.uk/blog/?category=rnb power x",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "rnb",
+      "item": "https://www.paulcee.co.uk/blog/?tag=rnb",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "battery",
+      "item": "https://www.paulcee.co.uk/blog/?tag=battery",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "manticore",
+      "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "xterra",
+      "item": "https://www.paulcee.co.uk/blog/?tag=xterra",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "elite",
+      "item": "https://www.paulcee.co.uk/blog/?tag=elite",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "review",
+      "item": "https://www.paulcee.co.uk/blog/?tag=review",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "RNB Power X Review",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2025-01-12T12:52:00",
+ "dateModified": "2025-01-12T12:52:00",
+ "author": "Paul Cee",
+ "category": "rnb power x",
+ "categorySlug": "rnb_power_x",
+ "tags": [
+  "rnb",
+  "battery",
+  "minelab",
+  "manticore",
+  "xterra",
+  "elite",
+  "review"
+ ],
+ "readTime": 4,
+ "summary": "RNB Power X review",
+ "cover": "blog/files/rnb-Power-x.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "RNB Power X Review"
+  },
+  {
+   "t": "p",
+   "html": "<strong>RNB Power X Battery Pack Review:</strong> A Versatile Powerhouse"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/powerx_review1.jpg\" alt=\"minelab manticore with the rnb power x has a better detecting time than just the standard battery in low frequency detecting modes\" title=\"Minelab Manticore Power X Battery Review\" width=\"239\" height=\"134\">"
+  },
+  {
+   "t": "p",
+   "html": "The <em>RNB Power X battery pack</em> is quickly become a favourite among metal detectorists, and for good reason. Its impressive capacity and lightweight design make it an ideal companion for long detecting sessions, especially when paired with power-hungry machines like the Minelab Manticore. Allowing in the <strong><em>high power</em></strong> detecting modes of the Minelab Manticore around 24 hours of use before a re-charge, and much much longer with the Equinox and X-Terra detectors."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Excellent Performance</em> with the Minelab Manticore &amp; Other Detectors",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>Extended Detecting Sessions:</strong> The Power X's 10,000 mAh capacity provides ample power to keep the Manticore and other USB-charged detectors running for hours on end. This translates to <em>longer hunting trips</em> without the worry of running out of battery."
+  },
+  {
+   "t": "p",
+   "html": "<em>No Performance Drop-Off</em>: Even with the Manticore's demanding power requirements, the Power X maintains a consistent output, ensuring no noticeable drop in detector performance throughout the day. The Detector will use the POWER X Battery before using its own power."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Lightweight and Convenient:</strong> Weighing only 234 grams, the Power X adds minimal weight to your setup, making it comfortable to carry even during extended hunts. Its compact size and easy-to-use mounting system make it a breeze to attach and detach from your detector."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/rnb-Power-x1.jpg\" alt=\"when and how to use a POWER X Battery on a metal detector\" title=\"rnb power x battery uk Review\" width=\"235\" height=\"132\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>High-Power Output Modes:</strong> The Power X is particularly beneficial when using the Manticore in its high-power output low-frequency modes. It ensures you can utilise these powerful modes for extended periods without worrying about running out of battery, maximising your chances of finding valuable targets."
+  },
+  {
+   "t": "p",
+   "html": "<em>Improved Balance</em>: The Power X also acts as a small counterweight, helping to balance out the weight of the search coil and improve overall handling and comfort."
+  },
+  {
+   "t": "p",
+   "html": "<em>Versatility</em>: The Power X is NOT only suited to the Minelab Manticore but also compatible with other metal detectors that charge via USB."
+  },
+  {
+   "t": "h3",
+   "html": "Additional Features",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<em>Custom Fit</em>: The included rubber spacers allow you to customise the fit of the Power X on your detector, ensuring a secure and comfortable connection."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Fast Charging:</strong> The battery charges relatively quickly, ensuring you're back in action in no time."
+  },
+  {
+   "t": "p",
+   "html": "<em>Durable Construction</em>: The Power X is built to withstand the rigours of regular use, ensuring long-lasting performance. Although <em>NOT waterproof</em> the Power X is shower proof and has rubber bungs to close in the electrical connections."
+  },
+  {
+   "t": "p",
+   "html": "RNB Power X vs. Other Battery Packs for the Minelab Manticore &amp; Other Detectors:"
+  },
+  {
+   "t": "p",
+   "html": "Power X Rechargeable Battery:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Pros:</strong> Ideal for metal detecting rallies and longer periods before charging."
+  },
+  {
+   "t": "p",
+   "html": "Great addition to the Minelab Manticore, to fully utilise the POWER of the low frequency detecting modes."
+  },
+  {
+   "t": "p",
+   "html": "Will also work with the <em>Minelab Equinox</em> series and the <em>Minelab X-Terra Elite</em> and <em>X-Terra Pro</em>."
+  },
+  {
+   "t": "p",
+   "html": "And Any other <em>suitable metal detectors.</em>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Cons:</strong> Not Fully Waterproof."
+  },
+  {
+   "t": "p",
+   "html": "Generic USB Power Banks:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Pros:</strong> Wide availability and often more affordable."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Cons:</strong> Capacity can vary greatly, may not be as durable or weather-resistant, compatibility may not be guaranteed, and some can cause the Manticore to display a fault or malfunction."
+  },
+  {
+   "t": "p",
+   "html": "Important Considerations:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Detecting Style:</strong> If you're a casual detectorist with shorter hunting sessions, the built in battery might suffice. However, for serious hunters and those who prefer all-day hunts, the RNB Power X's extended capacity is a significant advantage."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Budget:</strong> The RNB Power X is a premium product without a price to match. If budget is a concern, generic USB power banks without the <em>HASSLE </em>of fitting to your detector."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Portability:</strong> The RNB Power X is designed for portability, weighing only <em>234 grams</em>."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/rnb-manticore-battery_tewujcks.jpg\" alt=\"minelab manticore best power pack uk\" title=\"minelab manticore best power pack uk\" width=\"169\" height=\"169\">"
+  },
+  {
+   "t": "p",
+   "html": "Compatibility:<em> Not all generic USB power banks</em> are compatible with the Minelab Manticore or other detectors."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Conclusion</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The RNB Power X battery pack is a highly recommended accessory for Minelab Manticore users and owners of other USB-charged metal detectors. Its ability to power your detector for extended periods, improve balance, enhance overall performance, and its versatility make it a valuable investment for serious hunters. While the price may be a bit higher than some alternatives, the extended battery life and overall performance make it a worthwhile purchase."
+  },
+  {
+   "t": "p",
+   "html": "You Can <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/power-accessories/rnb-power-x\" data-kind=\"affiliate\">Buy the RNB POWER X HERE</a>. use the Code \"paulcee10\" for some money off."
+  },
+  {
+   "t": "p",
+   "html": "Also you can buy on <a href=\"https://amzn.to/3Px9lhW\" data-kind=\"affiliate\">AMAZON</a>"
+  },
+  {
+   "t": "p",
+   "html": "The RNB Power X is also available to buy in Europe, Australia and the USA with more international outlets coming"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD---Copy_lrv66acy.jpg\" alt=\"Manticore Power X Best price in the UK\" title=\"Manticore Power X Best price in the UK\" width=\"288\" height=\"288\">"
+  }
+ ],
+ "images": [
+  "images/powerx_review1.jpg",
+  "images/rnb-Power-x1.jpg",
+  "images/rnb-manticore-battery_tewujcks.jpg",
+  "images/WEB_AD---Copy_lrv66acy.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detecting-accessories/power-accessories/rnb-power-x",
+  "https://amzn.to/3Px9lhW"
+ ]
+}

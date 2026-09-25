@@ -1,0 +1,385 @@
+{
+ "type": "post",
+ "slug": "hambledon-hoard",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?hambledon-hoard",
+ "title": "Hambledon hoard",
+ "seo": {
+  "title": "Hambledon hoard amazing gold coins found - Blog",
+  "description": "the amazing moments from when a huge hoard of gold and silver coins were found metal detecting in the uk",
+  "keywords": "gold, coins, hoard, metal, detecting, amazings, finds, detectival, paul cee",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?hambledon-hoard",
+  "og": {
+   "title": "Hambledon hoard",
+   "description": "the amazing moments from when a huge hoard of gold and silver coins were found metal detecting in the uk",
+   "image": "https://www.paulcee.co.uk/blog/files/hoard_4_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?hambledon-hoard"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-04-12T16:55:00",
+    "dateModified": "2019-04-12T16:55:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Hambledon hoard",
+    "description": "Finding and recovery of the Hambledon Hoard Henley on Thames",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?hambledon-hoard",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_45fzpja4.png",
+     "https://www.paulcee.co.uk/images/hoard_4.jpg",
+     "https://www.paulcee.co.uk/images/hoard1.jpg",
+     "https://www.paulcee.co.uk/images/hoard_3.jpg",
+     "https://www.paulcee.co.uk/images/hoard_2.jpg",
+     "https://www.paulcee.co.uk/blog/files/hoard_4.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201904",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting news",
+      "item": "https://www.paulcee.co.uk/blog/?category=Detecting news",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detectival",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detectival",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "hambledon",
+      "item": "https://www.paulcee.co.uk/blog/?tag=hambledon",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "hoard",
+      "item": "https://www.paulcee.co.uk/blog/?tag=hoard",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "finds",
+      "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "treasure",
+      "item": "https://www.paulcee.co.uk/blog/?tag=treasure",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hambledon hoard",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-04-12T16:55:00",
+ "dateModified": "2019-04-12T16:55:00",
+ "author": "Paul Cee",
+ "category": "Detecting news",
+ "categorySlug": "Detecting_news",
+ "tags": [
+  "detectival",
+  "hambledon",
+  "hoard",
+  "metal",
+  "detecting",
+  "finds",
+  "treasure"
+ ],
+ "readTime": 1,
+ "summary": "Finding and recovery of the Hambledon Hoard Henley on Thames",
+ "cover": "blog/files/hoard_4.jpg",
+ "heroVideo": "49lbEIUvU3c",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_45fzpja4.png\" alt=\"gold coins metal detecting\" title=\"hoard found metal detecting\" width=\"66\" height=\"66\">"
+  },
+  {
+   "t": "h2",
+   "html": "Hambledon Hoard DETECTIVAL"
+  },
+  {
+   "t": "p",
+   "html": "This metal detecting rally was held near Henley on Thames and there was around 900 detectorists from the Uk and Europe."
+  },
+  {
+   "t": "p",
+   "html": "What started out as a good weekend of meeting friends and generally having a good time turned at the beep of a metal detector into an outstanding weekend of metal detecting finds."
+  },
+  {
+   "t": "p",
+   "html": "Initially one gold coin was found and then silver hammered coins and then more gold and more silver, totalling thus far 12 GOLD NOBLE coins and in the region of 600 silver hammered coins from around the midd 1200's."
+  },
+  {
+   "t": "p",
+   "html": "How they got there and why they were left is still going to be found out, but this has sure turned into an epic weekend of metal detecting.. Roll on the Summer Detectival.."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/hoard_4.jpg\" alt=\"gold hoard coins found metal detecting\" title=\"hambledon hoard gold\" width=\"315\" height=\"177\"></a><a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/hoard1.jpg\" alt=\"when a hoard is found metal detecting\" title=\"recovery of hoard metal detecting\" width=\"315\" height=\"177\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/hoard_3.jpg\" alt=\"silver coin from hamblendon hoard uk\" title=\"silver coin from a hoard\" width=\"316\" height=\"178\"></a><a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/hoard_2.jpg\" alt=\"hoard of gold found metal detecting\" title=\"silver coin of a hoard in the uk found metal detecting\" width=\"317\" height=\"178\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "This was a live feed from when the coins were first discovered at Spring Detectival"
+  },
+  {
+   "t": "p",
+   "html": "This was Filmed during the recovery and has the reactions of the finders as they find 2 GOLD NOBLES"
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_45fzpja4.png",
+  "images/hoard_4.jpg",
+  "images/hoard1.jpg",
+  "images/hoard_3.jpg",
+  "images/hoard_2.jpg"
+ ],
+ "videos": [
+  "49lbEIUvU3c"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

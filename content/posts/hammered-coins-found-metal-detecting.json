@@ -1,0 +1,171 @@
+{
+ "type": "post",
+ "slug": "hammered-coins-found-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?hammered-coins-found-metal-detecting",
+ "title": "Hammered coins found metal detecting",
+ "seo": {
+  "title": "Hammered coins found metal detecting - Blog",
+  "description": "find hammered coins with a metal detector, what could you find when you go metal detecting",
+  "keywords": "silver, hammered, coins, how, to, find, detector, detecting",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?hammered-coins-found-metal-detecting",
+  "og": {
+   "title": "Hammered coins found metal detecting",
+   "description": "find hammered coins with a metal detector, what could you find when you go metal detecting",
+   "image": "https://www.paulcee.co.uk/blog/files/hammered_heaven2_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?hammered-coins-found-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-10T15:53:00",
+    "dateModified": "2020-05-10T15:53:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Hammered coins found metal detecting",
+    "description": "just look at all these hammered coins i found metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?hammered-coins-found-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/hammered_heaven1.jpg",
+     "https://www.paulcee.co.uk/blog/files/hammered_heaven2.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hammered coins found metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting uk",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hammered coins found metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Hammered coins found metal detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-10T15:53:00",
+ "dateModified": "2020-05-10T15:53:00",
+ "author": "Paul Cee",
+ "category": "metal detecting uk",
+ "categorySlug": "metal_detecting_uk",
+ "tags": [],
+ "readTime": 1,
+ "summary": "just look at all these hammered coins i found metal detecting",
+ "cover": "blog/files/hammered_heaven2.jpg",
+ "heroVideo": "AOvYl5rq5mM",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/hammered_heaven1.jpg\" alt=\"treasure finds uk hammered coins found\" title=\"metal detecting hammered coins\" width=\"619\" height=\"349\">"
+  },
+  {
+   "t": "p",
+   "html": "When you go out treasure hunting looking for hammered coins, with a modern metal detector, these are the types of hammered coins that can be expected to be found."
+  },
+  {
+   "t": "p",
+   "html": "These coins found with Minelab Etrac, CTX 3030, Equinox 800 and Minelab Vanquish"
+  }
+ ],
+ "images": [
+  "images/hammered_heaven1.jpg"
+ ],
+ "videos": [
+  "AOvYl5rq5mM"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,372 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-540",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540",
+ "title": "Minelab Vanquish 540",
+ "seo": {
+  "title": "Minelab Vanquish 540 Roman - Blog",
+  "description": "roman finds today with the vanquish 540, metal detecting on fields, a great 1sr metal detector available from crawfords metal detectorss",
+  "keywords": "minelab vanquish 540 uk, crawfords metal detectors, minelab vanquish settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540",
+  "og": {
+   "title": "Minelab Vanquish 540",
+   "description": "roman finds today with the vanquish 540, metal detecting on fields, a great 1sr metal detector available from crawfords metal detectorss",
+   "image": "https://www.paulcee.co.uk/blog/files/Vanquish_roman_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-02-06T18:56:00",
+    "dateModified": "2020-02-06T18:56:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish 540",
+    "description": "Minelab Vanquish 540 Metal Detector UK\nFirst roman Brooch Find",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540",
+    "image": [
+     "https://www.paulcee.co.uk/images/Vanquish_roman.jpg",
+     "https://www.paulcee.co.uk/blog/files/Vanquish_roman.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Feb 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202002",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "540",
+      "item": "https://www.paulcee.co.uk/blog/?tag=540",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish 540",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-02-06T18:56:00",
+ "dateModified": "2020-02-06T18:56:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "Minelab",
+  "Vanquish",
+  "metal",
+  "detector",
+  "540",
+  "detecting",
+  "uk"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Vanquish 540 Metal Detector UK\nFirst roman Brooch Find",
+ "cover": "blog/files/Vanquish_roman.jpg",
+ "heroVideo": "r5B5UuQ74bA",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/Vanquish_roman.jpg\" alt=\"minelab vanquish roman brooch and settings\" title=\"Minelab Vanquish uk\" width=\"329\" height=\"185\">"
+  },
+  {
+   "t": "h2",
+   "html": "MINELAB VANQUISH METAL DETECTING"
+  },
+  {
+   "t": "p",
+   "html": "Metal detecting on fields is very rewarding if you mange to find a good place to detect"
+  },
+  {
+   "t": "p",
+   "html": "UK ROMAN FINDS The Minelab Vanquish 540 Pro metal detecting on fields Super small Roman find and deep on 2 other finds, lots of tiny targets and set up a custom profile on the Vanquish 540"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/mnlbVnqush\" data-kind=\"affiliate\">MINELAB VANQUISH Metal Detecting</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/CMDvanquish\" data-kind=\"affiliate\">WHERE TO BUY MINELAB VANQUISH METAL DETECTOR IN UK</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2FsdkJD\" data-kind=\"affiliate\">MINELAB IN DEPTH</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\">SUBSCRIBE ON YOUTUBE</a>"
+  }
+ ],
+ "images": [
+  "images/Vanquish_roman.jpg"
+ ],
+ "videos": [
+  "r5B5UuQ74bA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/mnlbVnqush",
+  "http://bit.ly/CMDvanquish",
+  "http://bit.ly/2FsdkJD",
+  "http://bit.ly/2VcUX0q"
+ ]
+}

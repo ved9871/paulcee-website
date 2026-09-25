@@ -1,0 +1,411 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-update-latest",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-update-latest",
+ "title": "Minelab Equinox update latest",
+ "seo": {
+  "title": "Minelab Equinox update latest - Blog",
+  "description": "minelab Equinox update latest version review and beach test, is it worth doing the equinox update, what features are in the minelab equinox update is stable",
+  "keywords": "minelab, equinox update, latest update, minelab equinox update, how good is the equinox update, equinox update, how to update minelab equinox, review minelab equinox update, minelab equinox software",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-update-latest",
+  "og": {
+   "title": "Minelab Equinox update latest",
+   "description": "minelab Equinox update latest version review and beach test, is it worth doing the equinox update, what features are in the minelab equinox update is stable",
+   "image": "https://www.paulcee.co.uk/blog/files/update_v3web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-update-latest"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-07-27T17:14:00",
+    "dateModified": "2020-07-27T17:14:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Equinox update latest",
+    "description": "minelab Equinox update latest Version and beach test",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-update-latest",
+    "image": [
+     "https://www.paulcee.co.uk/images/update_v3web.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/update_v3web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202007",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "update",
+      "item": "https://www.paulcee.co.uk/blog/?tag=update",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "review",
+      "item": "https://www.paulcee.co.uk/blog/?tag=review",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox update latest",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-07-27T17:14:00",
+ "dateModified": "2020-07-27T17:14:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [
+  "minelab",
+  "equinox",
+  "update",
+  "review",
+  "metal",
+  "detector",
+  "uk",
+  "beach"
+ ],
+ "readTime": 2,
+ "summary": "minelab Equinox update latest Version and beach test",
+ "cover": "blog/files/update_v3web.jpg",
+ "heroVideo": "iDtx0hcI56Y",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/update_v3web.jpg\" alt=\"minelab equinox review of update the latest version\" title=\"minelab equinox update latest\" width=\"605\" height=\"455\">"
+  },
+  {
+   "t": "h2",
+   "html": "Latest release of minelab equinox update."
+  },
+  {
+   "t": "p",
+   "html": "The final version of the Equinox software update review and beach test."
+  },
+  {
+   "t": "p",
+   "html": "what people ask is...."
+  },
+  {
+   "t": "h3",
+   "html": "Is it more stable than the previous equinox update?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "how does stand alone the 4KHz function work, we wont test this on the beach as we know a single frequency is not as stable."
+  },
+  {
+   "t": "p",
+   "html": "we are looking at depth of target stability, and if any increase in sensitivity can be achieved from what it was previously able to reach."
+  },
+  {
+   "t": "p",
+   "html": "This Equinox <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox</a> 800 is updated to the V3 so took it to the beach for some serious testing on the Mineralised wet black sand."
+  },
+  {
+   "t": "p",
+   "html": "Setup using BEACH 2 preset, auto GB, 50 tones, tones 1 level set to 3, all other tones set at 25, threshold level 2 (just audiabe this is where GOOD HEADPHONES come in..see other posts), detect mode ALL METAL, IRON BIAS set at 4 and recovery speed we go for high as the amount of deep junk, on a clean beach this can be lowered to 2 or 3 i what i use"
+  },
+  {
+   "t": "p",
+   "html": "So the verdict is if you havent Updated to the new minelab Equinox V3 software is do it, the detector is more stable able to achieve a higher sensitivity level, target id tones are more pronounced and stable, although at depth the can still be off on target id number but as with the ctx 3030 target at depth do give off differant numbers but the TONES are still there.."
+  },
+  {
+   "t": "p",
+   "html": "HAVE YOU UPDATED?? let us know and how are you getting on with V3"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Minelab Equinox Update\" title=\"Minelab Equinox Update\" width=\"616\" height=\"616\">"
+  }
+ ],
+ "images": [
+  "images/update_v3web.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "iDtx0hcI56Y"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

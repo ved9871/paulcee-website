@@ -1,0 +1,177 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-custom-cover",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-custom-cover",
+ "title": "Minelab equinox custom cover",
+ "seo": {
+  "title": "Minelab equinox custom cover - Blog",
+  "description": "Minelab Equinox screen protector and dust cover, keep the screen a button clean and free from dirt, also for the manticore and xterra detectors",
+  "keywords": "Equinox, cover, screen, cover, dust, protector, crawfords metal detectors, manticore, xterra",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-custom-cover",
+  "og": {
+   "title": "Minelab equinox custom cover",
+   "description": "Minelab Equinox screen protector and dust cover, keep the screen a button clean and free from dirt, also for the manticore and xterra detectors",
+   "image": "https://www.paulcee.co.uk/blog/files/110318_sony-15_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-custom-cover"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-09T19:11:00",
+    "dateModified": "2018-11-09T19:11:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Minelab equinox custom cover",
+    "description": "Custom cover and screen protector for the Minelab Equinox",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-custom-cover",
+    "image": [
+     "https://www.paulcee.co.uk/images/110318_sony-15.png",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_qh38la42.png",
+     "https://www.paulcee.co.uk/blog/files/110318_sony-15.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox custom cover",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox custom cover",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab equinox custom cover",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-09T19:11:00",
+ "dateModified": "2018-11-09T19:11:00",
+ "author": "David Wallace",
+ "category": "Minelab Equinox",
+ "categorySlug": "Minelab_Equinox",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Custom cover and screen protector for the Minelab Equinox",
+ "cover": "blog/files/110318_sony-15.png",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"https://crawfordsmd.com/equinox-screen-protector-5pack?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/110318_sony-15.png\" alt=\"minelab Equinox screen cover\" title=\"Minelab equinox protective cover\" width=\"539\" height=\"301\"></a>"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@minelab-equinox/\" data-kind=\"internal\"><img src=\"@img:images/YT-thumb_2020_qh38la42.png\" alt=\"minelab equinox settings for the uk\" title=\"minelab equinox settings for the uk\" width=\"84\" height=\"84\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Custom screen protector cover for the Minelab Equinox Metal Detector"
+  },
+  {
+   "t": "p",
+   "html": "the screen protector for the <a href=\"@minelab-equinox/\" data-kind=\"internal\">minelab equinox</a>, <a href=\"@minelab-manticore/\" data-kind=\"internal\">minelab manticore</a> and <a href=\"@minelab-x-terra/\" data-kind=\"internal\">x terra range</a> of metal detectors is available from <a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\">Crawfords metal detectors</a>"
+  }
+ ],
+ "images": [
+  "images/110318_sony-15.png",
+  "images/YT-thumb_2020_qh38la42.png"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/equinox-screen-protector-5pack?tracking=fa202437c9"
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "type": "post",
+ "slug": "find-more-gold",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?find-more-gold",
+ "title": "find more gold",
+ "seo": {
+  "title": "find more gold metal detecting - Blog",
+  "description": "find more gold with a minelab equinox when metal detecting on the beach, we show you how",
+  "keywords": "equinox, 800, crawfords, metal, detectors, regton, detectors, best",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?find-more-gold",
+  "og": {
+   "title": "find more gold",
+   "description": "find more gold with a minelab equinox when metal detecting on the beach, we show you how",
+   "image": "https://www.paulcee.co.uk/blog/files/2908gold_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?find-more-gold"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-10-14T19:33:00",
+    "dateModified": "2018-10-14T19:33:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "find more gold",
+    "description": "find more gold with the Minelab Equinox beach metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?find-more-gold",
+    "image": [
+     "https://www.paulcee.co.uk/images/2908gold.jpg",
+     "https://www.paulcee.co.uk/blog/files/2908gold.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201810",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "find more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "find more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "find more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab_Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab_Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "find more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Beach_metal_Detecting_uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Beach_metal_Detecting_uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "find more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "find",
+      "item": "https://www.paulcee.co.uk/blog/?tag=find",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "find more gold",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "find more gold",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-10-14T19:33:00",
+ "dateModified": "2018-10-14T19:33:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Minelab_Equinox",
+  "Beach_metal_Detecting_uk",
+  "find",
+  "gold"
+ ],
+ "readTime": 1,
+ "summary": "find more gold with the Minelab Equinox beach metal detecting",
+ "cover": "blog/files/2908gold.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/2908gold.jpg\" alt=\"Beach detecting uk\" title=\"Equinox gold\" width=\"256\" height=\"144\">"
+  },
+  {
+   "t": "p",
+   "html": "More beach <a href=\"@minelab-equinox/\" data-kind=\"internal\">metal detecting with the Minelab Equinox</a>, using the factory beach 2 program and change the sensitivity, Detecting the slopes of the beach and detecting a small area at a time, so many times i see people walking and covering a large area of beach and then saying they havent found much, you dont hear the quiet low tones if your swinging the detector fast... slow down"
+  },
+  {
+   "t": "p",
+   "html": "watch the video"
+  },
+  {
+   "t": "video",
+   "id": "83aoC71wWPI",
+   "title": ""
+  },
+  {
+   "t": "p",
+   "html": "For more beach metal detecting videos make sure you <a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\">check us out on youtube</a>"
+  },
+  {
+   "t": "p",
+   "html": "Looking for a new metal detector check out <a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\">CRAWFORDS METAL DETECTORS</a>"
+  }
+ ],
+ "images": [
+  "images/2908gold.jpg"
+ ],
+ "videos": [
+  "83aoC71wWPI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

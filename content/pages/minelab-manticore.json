@@ -1,0 +1,238 @@
+{
+ "type": "page",
+ "slug": "minelab-manticore",
+ "liveUrl": "https://www.paulcee.co.uk/minelab-manticore.html",
+ "h1": "Minelab Manticore",
+ "seo": {
+  "title": "Minelab Manticore User guides and specifications",
+  "description": "Explore the Minelab Manticore and unlock its full potential with our comprehensive user guides and in-depth specifications.",
+  "keywords": "Paul Cee, Metal Detecting, Minelab, Manticore, User Guides, Specifications",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/minelab-manticore.html",
+  "og": {
+   "title": "Minelab Manticore",
+   "description": "Explore the Minelab Manticore and unlock its full potential with our comprehensive user guides and in-depth specifications.",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/minelab-manticore.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore beach settings",
+    "description": "Minelab Manticore is the best metal detector for beach detecting in water and wet and dry sand",
+    "uploadDate": "2025-12-24T10:59:36+00:00",
+    "thumbnailUrl": "images/manticore-beach-settings.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=bSgPk84mtcE",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab manticore ferrous limits",
+    "description": "Minelab manticore ferrous limits and 2D screen how to setup and use them for the best results",
+    "uploadDate": "2023-11-11T19:02:51+00:00",
+    "thumbnailUrl": "images/210523_manticore.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=5ddRBp33QIU",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"settings and user guide for the minelab manticore metal detector, specifications and how and where to use it\" title=\"Minelab Manticore user guide and settings\" width=\"188\" height=\"188\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Manticore uk user guide"
+  },
+  {
+   "t": "h3",
+   "html": "Unleash The Beast: The Minelab Manticore Metal Detector"
+  },
+  {
+   "t": "h3",
+   "html": "Introduction",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Experience the next evolution in treasure hunting with the Minelab Manticore. Dubbed \"The Beast,\" this high-performance machine redefines what is possible in metal detecting. Whether you are a seasoned relic hunter, a beach combing pro, or searching for gold nuggets, the Manticore delivers 50% more power than the legendary Equinox series."
+  },
+  {
+   "t": "p",
+   "html": "Driven by Minelab's revolutionary Multi-IQ+ technology, the Manticore is the deepest metal detector in its class, offering faster recovery speeds and elite target separation. Don't just detect—identify targets with precision before you dig."
+  },
+  {
+   "t": "h3",
+   "html": "Why Choose the Minelab Manticore?",
+   "inferred": true
+  },
+  {
+   "t": "h3",
+   "html": "1. Revolutionary Multi-IQ+ Technology",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The Manticore is built on the most powerful simultaneous multi-frequency engine ever created: Multi-IQ+. This allows the detector to push deeper into the ground and provide more accurate IDs, even in the most challenging mineralized soils. It’s like having multiple detectors in one, scanning all frequencies at once to ensure you never miss a target."
+  },
+  {
+   "t": "h3",
+   "html": "2. See What Lies Beneath with 2D Target ID",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Stop guessing and start finding. The Manticore features an exclusive 2D Target ID Map (Target Trace). Unlike traditional detectors that only show a single ID number, the Manticore displays both conductivity and ferrous properties visually. You can instantly distinguish between trash (like bottle caps and nails) and treasure (like silver coins and gold rings)."
+  },
+  {
+   "t": "h3",
+   "html": "3. Fast Recovery Speed &amp; Separation",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Trashy sites are no match for the Manticore. With its adjustable recovery speed, you can separate closely spaced targets with surgical precision. Hear the faint whisper of a silver dime hiding right next to an iron nail."
+  },
+  {
+   "t": "h3",
+   "html": "4. Fully Waterproof &amp; Rugged Design",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Take your hunt anywhere. The Manticore is a fully waterproof metal detector submersible up to 16 feet (5 meters) (IP68 rating). Whether you are diving in the surf or caught in a rainstorm, the robust carbon-fibre shaft keeps the machine lightweight (only 1.3 kg / 2.9 lbs) and durable for all-day swinging."
+  },
+  {
+   "t": "p",
+   "html": "Key Features at a Glance"
+  },
+  {
+   "t": "p",
+   "html": "<strong>10 Customizable Search Modes:</strong> Optimized presets for All-Terrain, Beach, and Goldfield hunting."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Enhanced Audio Control:</strong> Customize your listening experience with rich, adjustable audio tones to hear targets your way."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Extreme Depth:</strong> Detects targets other machines miss, from tiny gold jewellery to deep hammered coins."
+  },
+  {
+   "t": "p",
+   "html": "<strong>EMI Immunity:</strong> Superior noise cancellation allows you to work near power lines and in high-interference areas."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Lightweight &amp; Ergonomic:</strong> Features a collapsible carbon-fibre shaft system and a Scorpion armrest for maximum comfort."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore-update_wpao2wwa.jpg\" alt=\"Settings, updates and specifications for the minelab manticore\" title=\"Minelab Manticore settings and specification\" width=\"356\" height=\"200\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore_emi_qp4voxcu.jpg\" alt=\"how the minelab manticore deals with EMI\" title=\"minelab manticore and EMI\" width=\"353\" height=\"199\">"
+  },
+  {
+   "t": "h3",
+   "html": "Technical Specifications"
+  },
+  {
+   "t": "p",
+   "html": "Technology Multi-IQ+ (Simultaneous Multi-Frequency)"
+  },
+  {
+   "t": "p",
+   "html": "Display. Colour LCD with 2D Target Trace"
+  },
+  {
+   "t": "p",
+   "html": "Waterproof Rating. Waterproof to 16 ft (5 m) IP68"
+  },
+  {
+   "t": "p",
+   "html": "Search Modes10 (All-Terrain, Beach, Goldfield)"
+  },
+  {
+   "t": "p",
+   "html": "Coil IncludedM11 (11\" Round Double-D)"
+  },
+  {
+   "t": "p",
+   "html": "Weight2.9 lbs (1.3 kg)"
+  },
+  {
+   "t": "p",
+   "html": "Battery Life. Approx. 10 Hours (Li-Ion Rechargeable)"
+  },
+  {
+   "t": "p",
+   "html": "Audio Built-in Speaker, 3.5mm Headphone, Wireless (Low Latency)"
+  },
+  {
+   "t": "h4",
+   "html": "Who Is the Minelab Manticore For?"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Relic Hunters:</strong> Punch through iron-infested sites to find Old coins, Gold and ancient artifacts."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Beach Detectors:</strong> Dominate wet sand and saltwater with stability that rivals dedicated pulse induction machines."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Gold Prospectors:</strong> Sensitive enough to pick up small gold nuggets in mineralized ground."
+  },
+  {
+   "t": "h4",
+   "html": "Ready to Upgrade?"
+  },
+  {
+   "t": "p",
+   "html": "Don't let the best finds stay buried. Upgrade to the Minelab Manticore today and experience the most advanced detector Minelab has ever built."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-manticore?tracking=fa202437c9\" data-kind=\"affiliate\">Buy Minelab Manticore Now</a>"
+  },
+  {
+   "t": "video",
+   "id": "bSgPk84mtcE",
+   "title": "How to set up the minelab manticore for succesful beach detecting"
+  },
+  {
+   "t": "video",
+   "id": "5ddRBp33QIU",
+   "title": "How to use and setup the ferrous limits on the minelab manticore"
+  }
+ ],
+ "images": [
+  "images/WEB_AD2026a.jpg",
+  "images/manticore-update_wpao2wwa.jpg",
+  "images/manticore_emi_qp4voxcu.jpg"
+ ],
+ "videos": [
+  "bSgPk84mtcE",
+  "5ddRBp33QIU"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/minelab-manticore?tracking=fa202437c9"
+ ]
+}

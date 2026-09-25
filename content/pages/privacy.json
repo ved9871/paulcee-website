@@ -1,0 +1,47 @@
+{
+ "type": "page",
+ "slug": "privacy",
+ "liveUrl": "https://www.paulcee.co.uk/privacy.html",
+ "h1": "privacy",
+ "seo": {
+  "title": "privacy",
+  "description": "Welcome to Paul Cee Metal Detecting, we take privacy seriously. Explore our privacy policy to learn how we handle and protect your personal information.",
+  "keywords": "privacy policy",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/privacy.html",
+  "og": {
+   "title": "privacy",
+   "description": "Welcome to Paul Cee Metal Detecting, we take privacy seriously. Explore our privacy policy to learn how we handle and protect your personal information.",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/privacy.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "h3",
+   "html": "Privacy Policy: Compliant GDPR Guidelines for Paul Cee Metal Detecting",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "At Paul Cee Metal Detecting, we understand the importance of privacy and are committed to protecting the personal information of our website visitors. We have implemented a GDPR Policy solely because it is necessary to comply with the legal requirements set forth by the European Union. Rest assured that any personal data collected through our website will be handled with the utmost care and in accordance with the principles outlined in the General Data Protection Regulation. We value your trust and strive to maintain a transparent and secure environment for all users."
+  }
+ ],
+ "images": [],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

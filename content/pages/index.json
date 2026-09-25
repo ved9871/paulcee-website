@@ -1,0 +1,275 @@
+{
+ "type": "page",
+ "slug": "index",
+ "liveUrl": "https://www.paulcee.co.uk/index.php",
+ "h1": "",
+ "seo": {
+  "title": "Paul Cee Metal Detecting",
+  "description": "The UK's home for expert Minelab advice. Tutorials, detector settings, and reviews from Paul Cee, Minelab Detexpert and Crawfords Product Specialist.",
+  "keywords": "Paul Cee Metal Detecting, Minelab Detexpert, Crawfords Metal Detectors, Product Specialist, Minelab Manticore Settings, Minelab Equinox 900, Minelab Vanquish, Metal Detecting UK, Beach Detecting Settings, Metal Detecting Tutorials ",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/index.html",
+  "og": {
+   "title": "Paul Cee Metal Detecting",
+   "description": "The UK's home for expert Minelab advice. Tutorials, detector settings, and reviews from Paul Cee, Minelab Detexpert and Crawfords Product Specialist.",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/index.php"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "WebSite",
+    "url": "http://192.168.0.55:8080/",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://192.168.0.55:8080/imsearch.html?search={search_term_string}",
+     "query-input": "required name=search_term_string"
+    },
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "LocalBusiness",
+    "@id": "https://www.paulcee.co.uk",
+    "url": "https://www.paulcee.co.uk",
+    "name": "Paul Cee",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "http://192.168.0.55:8080/images/2026-thumb.jpg",
+     "width": 320,
+     "height": 320
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Unit 11 Weaver Court. Sawcliffe Industrial Estate",
+     "addressLocality": "Scunthorpe",
+     "addressRegion": "Nth Lincs",
+     "addressCountry": "United Kindom",
+     "postalCode": "DN15 8RN"
+    },
+    "telephone": "01724 845608",
+    "email": "webcontact@paulcee.co.uk",
+    "image": [
+     "http://192.168.0.55:8080/images/2026-thumb.jpg",
+     "http://192.168.0.55:8080/images/YT-thumb_2020.png"
+    ],
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Vanquish 560",
+    "description": "Minelab Vanquish 560, Specificatons when is the Vanquish 560 available to buy in the uk",
+    "uploadDate": "2025-09-19T19:53:06+01:00",
+    "thumbnailUrl": "images/v560-spec.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=nrMw2oEBDyQ",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab vanquish 560 metal detector",
+    "description": "Whats new with the Minelab Vanquish 60 series, the 560, 460 and 360 metal detectors",
+    "uploadDate": "2025-09-19T19:55:23+01:00",
+    "thumbnailUrl": "images/v560-launch.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=2blmefyIcgo",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "upzhlSe-Da4bcEtuFMVBRt9Lfc0wO7fW_5ZhN8Z9iFE",
+   "bing": "B367851D41D331F139BAE7E4702E1EDD",
+   "norton": "bak1ao0llztwmmp6plur212ieholtqwudcjtnwggixjcztaafzzxh0fpytom6q7v10th7agi2lkkmrh0pzzkul-epjnyirsvsldqr6sag1m6quai3a1nyoi0ocoo7hmh"
+  }
+ },
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Master Your Minelab Metal Detector.<br>Expert settings, reviews, and field tests from an official Minelab Detexpert."
+  },
+  {
+   "t": "h3",
+   "html": "Explore for <a href=\"@detecting-rallies-2026/\" data-kind=\"internal\">metal detecting rallies and weekends</a> or day detecting events, this list is updated every week and includes the popular detecting digs and weekends."
+  },
+  {
+   "t": "h4",
+   "html": "If your a beginner and looking for <a href=\"@minelab-vanquish-60-settings/\" data-kind=\"internal\">metal detecting advise</a> or settings we got you covered."
+  },
+  {
+   "t": "h4",
+   "html": "<br>A comparison of the latest<a href=\"@top-5-beginners-metal-detectors/\" data-kind=\"internal\"> Top 5 Minelab Metal detectors </a>with features and functions."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"@manticore-m8-vs-m9-coil/\" data-kind=\"internal\">Search Coil comparisons</a> from the huge Coiltek MythTek to the ting minelab Nox 6 inch coil"
+  },
+  {
+   "t": "h4",
+   "html": "And of course <a href=\"@swagier-scoop/\" data-kind=\"internal\">Sand scoops for metal detecting </a>on the beach what scoops i use"
+  },
+  {
+   "t": "p",
+   "html": "And if you like <a href=\"@old-maps-for-metal-detecting/\" data-kind=\"internal\">researching sites for metal detecting</a> we have a section on that also."
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@blog/minelab-manticore-uk-beach-settings/\" data-kind=\"internal\"><img src=\"@img:images/MANTICORE-VIDEO_as2ycfdz.jpg\" alt=\"Get the Minelab Manticore settings that will elevate your metal detecting to the next level\" title=\"Minelab Manticore Settings uk\" width=\"152\" height=\"86\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Manticore User Guide and settings"
+  },
+  {
+   "t": "p",
+   "html": "Unleash the Beast, get the most out of your Minelab Manticore, setting up for beach detecting and Fields"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/eqx-900-beach_ybg5c3oj.jpg\" alt=\"how to set up and use a minelab equinox metal detector\" title=\"Minelab Equinox Settings\" width=\"152\" height=\"87\">"
+  },
+  {
+   "t": "h2",
+   "html": "<a href=\"@minelab-equinox/\" data-kind=\"internal\">@minelab-equinox/</a>Minelab Equinox User Guide And Settings"
+  },
+  {
+   "t": "p",
+   "html": "Beginner Guides and settings for the Minelab Equinox"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@blog/ultimate-x-terra-elite-guide/\" data-kind=\"internal\"><img src=\"@img:images/XTE-intro_WEB.jpg\" alt=\"Minelab X Terra Elite settings and user guide\" title=\"Minelab XTerra Elite settings\" width=\"152\" height=\"86\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab X-Terra Elite Settings"
+  },
+  {
+   "t": "p",
+   "html": "User guide and settings for the minelab Xterra Elite, for beach detecting and fields"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@blog/minelab-vanquish-560/\" data-kind=\"internal\"><img src=\"@img:images/560-web1_cr16wx23.jpg\" alt=\"Settings and user guide for the Minelab Vanquish 560 from the 60 Series vanquish\" title=\"Minelab Vanquish 560 user guide\" width=\"105\" height=\"105\"></a>"
+  },
+  {
+   "t": "h3",
+   "html": "Minelab Vanquish 560 Settings"
+  },
+  {
+   "t": "p",
+   "html": "User Guide and Settings for the Minelab Vanquish 560 (60 Series) for metal detecting on beaches and fields"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@blog/minelab-vanquish-how-to-use/\" data-kind=\"internal\"><img src=\"@img:images/vanquish-settings1.jpg\" alt=\"how to set up and use the minelab vanquish metal detector\" title=\"Minelab Vanquish User Guide\" width=\"152\" height=\"86\"></a>"
+  },
+  {
+   "t": "h4",
+   "html": "Minelab Vanquish User Guide"
+  },
+  {
+   "t": "p",
+   "html": "User Guide and settings for the Minelab Vanquish 340, 440 and 540 for metal detecting on beaches and fields"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@blog/minelab-x-terra-pro/\" data-kind=\"internal\"><img src=\"@img:images/xterra-pro-features.jpg\" alt=\"Minelab Xterra Pro User Guide, settings and Help\" title=\"Minelab Xterra Pro User Guide\" width=\"140\" height=\"140\"></a>"
+  },
+  {
+   "t": "h3",
+   "html": "Minelab X-Terra PRO Settings"
+  },
+  {
+   "t": "p",
+   "html": "User Guide And Settings for the Minelab XTerra Pro, for metal detecting on beaches and fields"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@blog/minelab-voyager-how-to-use/\" data-kind=\"internal\"><img src=\"@img:images/voyager-tutorial_uymn4p4k.jpg\" alt=\"Minelab Voyager user guide\" title=\"Minelab Voyager user guide\" width=\"199\" height=\"112\"></a>"
+  },
+  {
+   "t": "h4",
+   "html": "Minelab Voyager User Guide"
+  },
+  {
+   "t": "p",
+   "html": "User Guide and Settings for the minelab Voyager"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"@detecting-accessories/\" data-kind=\"internal\"><img src=\"@img:images/pwr_x_n529ai0y.jpg\" alt=\"Best Metal Detecting Accessories, for beginners, these are the essentials to get the most out of your day Detecting\" title=\"Best Metal Detecting Accessories\" width=\"82\" height=\"82\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Metal Detecting Accessories"
+  },
+  {
+   "t": "p",
+   "html": "Shop the Essential Detecting accessories that will get you and your detecting adventure off to a flying start, we have selected some of the most common items that newcomers buy."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/metal-detectors/minelab\" data-kind=\"affiliate\"> 🛒 Check Current Prices at Crawfords MD </a>"
+  },
+  {
+   "t": "p",
+   "html": "Authorized Minelab Dealer • UK Stock • Free Delivery over £50"
+  },
+  {
+   "t": "h3",
+   "html": "🔥 Save MONEY on Accessories",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Buying a new coil, bag, or digging tool? Use my code at <strong>Crawfords MD</strong> for an exclusive discount!"
+  },
+  {
+   "t": "p",
+   "html": "PaulCee10"
+  },
+  {
+   "t": "p",
+   "html": "<em>Valid Online, In-Store &amp; by Phone.<br> (Applies to accessories only. Excludes metal detectors.)</em>"
+  },
+  {
+   "t": "h4",
+   "html": "Minelab Vanquish 560"
+  },
+  {
+   "t": "p",
+   "html": "Have a look at the 60 series (560) minelab vanquish, what is new and how it performs detecting on the beach and in fields"
+  },
+  {
+   "t": "video",
+   "id": "nrMw2oEBDyQ",
+   "title": "Minelab Vanquish 560, what is it like, what features does it have, when is it available to buy"
+  },
+  {
+   "t": "video",
+   "id": "2blmefyIcgo",
+   "title": "minelab equinox 900 metal detecting on the beach"
+  }
+ ],
+ "images": [
+  "images/MANTICORE-VIDEO_as2ycfdz.jpg",
+  "images/eqx-900-beach_ybg5c3oj.jpg",
+  "images/XTE-intro_WEB.jpg",
+  "images/560-web1_cr16wx23.jpg",
+  "images/vanquish-settings1.jpg",
+  "images/xterra-pro-features.jpg",
+  "images/voyager-tutorial_uymn4p4k.jpg",
+  "images/pwr_x_n529ai0y.jpg"
+ ],
+ "videos": [
+  "nrMw2oEBDyQ",
+  "2blmefyIcgo"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/metal-detectors/minelab"
+ ]
+}

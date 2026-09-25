@@ -1,0 +1,87 @@
+{
+ "type": "page",
+ "slug": "emite-r-sand-scoops",
+ "liveUrl": "https://www.paulcee.co.uk/emite-r-sand-scoops.html",
+ "h1": "Emite R Sand Scoops",
+ "seo": {
+  "title": "Emite R Sand Scoops",
+  "description": "Emite R sand scoops for beach metal detecting, cheap sand scoops for beach metal detecting in the UK",
+  "keywords": "Emiter scoops, Beach sand scoop, emiteR beach sand scoop, cheap sand scoop uk, sand scoops for metal detecting, sand sifter for metal detecting",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/emite-r-sand-scoops.html",
+  "og": {
+   "title": "Emite R Sand Scoops",
+   "description": "Emite R sand scoops for beach metal detecting, cheap sand scoops for beach metal detecting in the UK",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/emite-r-sand-scoops.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "EmiteR sand scoops from Crawfords metal detectors",
+    "description": "Budget sand scoops from EmiteR and Crawfords metal detectors based in lincolnshire and Dorset",
+    "uploadDate": "2023-11-11T19:26:21+00:00",
+    "thumbnailUrl": "images/emite-r-scoops_vxqh8k6w.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=5-17EpIFG0M",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/emite-r-scoops.jpg\" alt=\"Cheap Beach Sand Scoop Review Emite R made in Poland\" title=\"Emite R Beach Sand scoops Uk\" width=\"265\" height=\"186\">"
+  },
+  {
+   "t": "h2",
+   "html": "EmiteR sand scoops"
+  },
+  {
+   "t": "p",
+   "html": "Based in Poland, emiteR produce a complete, affordable range of Sand scoops and digging tools for beach metal detecting, and digging in fields. Sand scoops manufactured in stainless steel, they have a selection of hole sizes for dry metal detecting and water treasure hunting."
+  },
+  {
+   "t": "p",
+   "html": "These Scoops start at a low budget cost and range through to better sand scoops for serious treasure hunting in water."
+  },
+  {
+   "t": "p",
+   "html": "For the Full range of Emite-R Scoops and Digging tools"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/emiter-tools\" data-kind=\"affiliate\">Click Here</a>"
+  },
+  {
+   "t": "p",
+   "html": "The Video Below Reviews the Dry Sand Scoop and also a scoop for dry sand and water hunting."
+  },
+  {
+   "t": "video",
+   "id": "5-17EpIFG0M",
+   "title": "Sand scoops from EmiteR and Crawfords metal detectors"
+  }
+ ],
+ "images": [
+  "images/emite-r-scoops.jpg"
+ ],
+ "videos": [
+  "5-17EpIFG0M"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/emiter-tools"
+ ]
+}

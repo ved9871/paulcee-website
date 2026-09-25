@@ -1,0 +1,167 @@
+{
+ "type": "post",
+ "slug": "how-to-pair-minelab-headphones",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?how-to-pair-minelab-headphones",
+ "title": "How to pair minelab Headphones",
+ "seo": {
+  "title": "How to pair minelab Headphones - Blog",
+  "description": "How to pair minelab Vanquish 540 headphones, a step by step easy guide on bluetooth connection",
+  "keywords": "Vanquish uk, minelab vanquish, minelab bluetooth, how, to, connect",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?how-to-pair-minelab-headphones",
+  "og": {
+   "title": "How to pair minelab Headphones",
+   "description": "How to pair minelab Vanquish 540 headphones, a step by step easy guide on bluetooth connection",
+   "image": "https://www.paulcee.co.uk/blog/files/540-BT-headphones_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?how-to-pair-minelab-headphones"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-07-11T16:07:00",
+    "dateModified": "2021-07-11T16:07:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "How to pair minelab Headphones",
+    "description": "How to pair minelab ML 80 Headphones",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?how-to-pair-minelab-headphones",
+    "image": [
+     "https://www.paulcee.co.uk/images/540-BT-headphones_web.jpg",
+     "https://www.paulcee.co.uk/blog/files/540-BT-headphones_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202107",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "How to pair minelab Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "How to pair minelab Headphones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "How to pair minelab Headphones",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-07-11T16:07:00",
+ "dateModified": "2021-07-11T16:07:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish Settings",
+ "categorySlug": "Minelab_Vanquish_Settings",
+ "tags": [],
+ "readTime": 1,
+ "summary": "How to pair minelab ML 80 Headphones",
+ "cover": "blog/files/540-BT-headphones_web.jpg",
+ "heroVideo": "VEBEUnaj5DE",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/540-BT-headphones_web.jpg\" alt=\"How to pair Minelab Vanquish 540 headphones\" title=\"Minelab Vanquish Headphones how to pair\" width=\"268\" height=\"151\">"
+  },
+  {
+   "t": "h2",
+   "html": "How to pair Minelab Headphones, a step by step guide to pairing, Minelab ML 80 Bluetooth headphones on the Minelab Vanquish 540"
+  }
+ ],
+ "images": [
+  "images/540-BT-headphones_web.jpg"
+ ],
+ "videos": [
+  "VEBEUnaj5DE"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

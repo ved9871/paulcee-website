@@ -1,0 +1,187 @@
+{
+ "type": "post",
+ "slug": "best-places-to-metal-detect",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?best-places-to-metal-detect",
+ "title": "best places to metal detect",
+ "seo": {
+  "title": "best places to metal detect - Blog",
+  "description": "where to find the best beaches around the Uk for metal detecting, using maps, Old Pictures, social media shrip wreck maps and admiralty maps",
+  "keywords": "research, beach, metal, detecting, maps, online, ship, wrecks, admiralty",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?best-places-to-metal-detect",
+  "og": {
+   "title": "best places to metal detect",
+   "description": "where to find the best beaches around the Uk for metal detecting, using maps, Old Pictures, social media shrip wreck maps and admiralty maps",
+   "image": "https://www.paulcee.co.uk/blog/files/beach_research_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?best-places-to-metal-detect"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-04-23T17:53:00",
+    "dateModified": "2021-04-23T17:53:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "best places to metal detect",
+    "description": "Find the Best places to beach metal Detect in the uk",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?best-places-to-metal-detect",
+    "image": [
+     "https://www.paulcee.co.uk/images/beach-research-maps.jpg",
+     "https://www.paulcee.co.uk/blog/files/beach_research.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202104",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "best places to metal detect",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach metal detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=beach metal detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "best places to metal detect",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "best places to metal detect",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-04-23T17:53:00",
+ "dateModified": "2021-04-23T17:53:00",
+ "author": "Paul Cee",
+ "category": "beach metal detecting",
+ "categorySlug": "beach_metal_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Find the Best places to beach metal Detect in the uk",
+ "cover": "blog/files/beach_research.jpg",
+ "heroVideo": "CmfBGqfUUps",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/beach-research-maps.jpg\" alt=\"find the best places to metal detect beaches in the uk\" title=\"best places to detect in the uk\" width=\"619\" height=\"347\">"
+  },
+  {
+   "t": "h2",
+   "html": "Find the Best places to metal on beaches around the U.K."
+  },
+  {
+   "t": "p",
+   "html": "A great guide on how to find where to metal detect on a beach,"
+  },
+  {
+   "t": "p",
+   "html": "Find Beach Webcams, which social media to use to find a busy beach."
+  },
+  {
+   "t": "p",
+   "html": "Find out the history of local beaches and how busy a beach was in the olden days,"
+  },
+  {
+   "t": "p",
+   "html": "Find Admiralty Maps of the Uk coastline,"
+  },
+  {
+   "t": "p",
+   "html": "Find old ship wrecks around the coast of England that could potentially reveal hidden treasures."
+  }
+ ],
+ "images": [
+  "images/beach-research-maps.jpg"
+ ],
+ "videos": [
+  "CmfBGqfUUps"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

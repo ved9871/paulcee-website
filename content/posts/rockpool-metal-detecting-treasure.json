@@ -1,0 +1,171 @@
+{
+ "type": "post",
+ "slug": "rockpool-metal-detecting-treasure",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?rockpool-metal-detecting-treasure",
+ "title": "Rockpool metal detecting treasure",
+ "seo": {
+  "title": "Rockpool metal detecting for treasure - Blog",
+  "description": "metal detect in rockpools that will hold treasure, when you are searching on the shoreline",
+  "keywords": "metal, detecting, beaches, uk, treasure, hunt",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?rockpool-metal-detecting-treasure",
+  "og": {
+   "title": "Rockpool metal detecting treasure",
+   "description": "metal detect in rockpools that will hold treasure, when you are searching on the shoreline",
+   "image": "https://www.paulcee.co.uk/blog/files/101217b_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?rockpool-metal-detecting-treasure"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-01-15T18:18:00",
+    "dateModified": "2018-01-15T18:18:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Rockpool metal detecting treasure",
+    "description": "Were to look for coins on the beach metal detecting uk",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?rockpool-metal-detecting-treasure",
+    "image": [
+     "https://www.paulcee.co.uk/images/101217b.png",
+     "https://www.paulcee.co.uk/blog/files/101217b.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201801",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rockpool metal detecting treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rockpool metal detecting treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Rockpool metal detecting treasure",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-01-15T18:18:00",
+ "dateModified": "2018-01-15T18:18:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Were to look for coins on the beach metal detecting uk",
+ "cover": "blog/files/101217b.png",
+ "heroVideo": "yQUWrvthlvI",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/101217b.png\" alt=\"cleethorpes beach metal detecting\" title=\"ctx 3030 beach detecting uk\" width=\"624\" height=\"349\">"
+  },
+  {
+   "t": "p",
+   "html": "In this video we head away from the dry sand where everyone metal detects and into the rockpools and puddles, the best place to look with a <a href=\"@ctx3030/\" data-kind=\"internal\">waterproof metal detector</a> and sandscoop as not too many people look in these places and they do hold rewards if your patient and dig alot"
+  },
+  {
+   "t": "p",
+   "html": "watch the video"
+  }
+ ],
+ "images": [
+  "images/101217b.png"
+ ],
+ "videos": [
+  "yQUWrvthlvI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

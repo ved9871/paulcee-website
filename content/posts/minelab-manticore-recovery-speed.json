@@ -1,0 +1,414 @@
+{
+ "type": "post",
+ "slug": "minelab-manticore-recovery-speed",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-manticore-recovery-speed",
+ "title": "minelab manticore recovery speed",
+ "seo": {
+  "title": "minelab manticore recovery speed - Blog",
+  "description": "Recovery speed on the Minelab manticore. Manticore settings for the best recovery speed and coil choice will improve your finds & give you the best experience ",
+  "keywords": "minelab manticore, manticore recovery speed, manticore best settings, manticore coils, best recovery speed, recovery speed help",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-manticore-recovery-speed",
+  "og": {
+   "title": "minelab manticore recovery speed",
+   "description": "Recovery speed on the Minelab manticore. Manticore settings for the best recovery speed and coil choice will improve your finds & give you the best experience ",
+   "image": "https://www.paulcee.co.uk/blog/files/manticore-recovery-speed_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-manticore-recovery-speed"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2023-12-30T08:41:00",
+    "dateModified": "2023-12-30T08:41:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "minelab manticore recovery speed",
+    "description": "Manticore recovery speed",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-manticore-recovery-speed",
+    "image": [
+     "https://www.paulcee.co.uk/images/manticore-recovery-speed.jpg",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_shqkcn25.png",
+     "https://www.paulcee.co.uk/images/detexpert-logosml_h2bvi8tr.png",
+     "https://www.paulcee.co.uk/images/0-recover.jpg",
+     "https://www.paulcee.co.uk/images/manticore-high-cond.jpg",
+     "https://www.paulcee.co.uk/images/manticore-high-cond.jpg",
+     "https://www.paulcee.co.uk/images/8-recover.jpg",
+     "https://www.paulcee.co.uk/images/manticore-low-cond.jpg",
+     "https://www.paulcee.co.uk/images/5-recover.jpg",
+     "https://www.paulcee.co.uk/images/AT-Fast.jpg",
+     "https://www.paulcee.co.uk/images/AT-trash.jpg",
+     "https://www.paulcee.co.uk/images/0-recover_f4zmx4g6.jpg",
+     "https://www.paulcee.co.uk/images/manticore-high-cond_ogmbzpdb.jpg",
+     "https://www.paulcee.co.uk/images/5-recover_xup10e2h.jpg",
+     "https://www.paulcee.co.uk/images/manticore-low-cond_iqt98dpm.jpg",
+     "https://www.paulcee.co.uk/images/8-recover_kgo6cpt5.jpg",
+     "https://www.paulcee.co.uk/images/AT-Fast_a7u56wbr.jpg",
+     "https://www.paulcee.co.uk/images/AT-trash_pzxnisq0.jpg",
+     "https://www.paulcee.co.uk/blog/files/manticore-recovery-speed.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Dec 2023",
+      "item": "https://www.paulcee.co.uk/blog/?month=202312",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore recovery speed",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=minelab manticore settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore recovery speed",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore recovery speed",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "manticore",
+      "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore recovery speed",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "recovery",
+      "item": "https://www.paulcee.co.uk/blog/?tag=recovery",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore recovery speed",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "speed",
+      "item": "https://www.paulcee.co.uk/blog/?tag=speed",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore recovery speed",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2023-12-30T08:41:00",
+ "dateModified": "2023-12-30T08:41:00",
+ "author": "Paul Cee",
+ "category": "minelab manticore settings",
+ "categorySlug": "minelab_manticore_settings",
+ "tags": [
+  "manticore",
+  "recovery",
+  "speed"
+ ],
+ "readTime": 6,
+ "summary": "Manticore recovery speed",
+ "cover": "blog/files/manticore-recovery-speed.jpg",
+ "heroVideo": "nP16m-fupVE",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore-recovery-speed.jpg\" alt=\"what is the best recovery speed on a minelab manticore\" title=\"best manticore recovery speed\" width=\"220\" height=\"124\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_shqkcn25.png\" alt=\"what are the best settings for the minelab manticore\" title=\"best minelab manticore settings\" width=\"111\" height=\"111\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_h2bvi8tr.png\" alt=\"what are the best settings for a minelab manticore\" title=\"minelab manticore settings\" width=\"76\" height=\"113\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Manticore Recovery Speed"
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Manticore recovery speed refers to the detector's ability to quickly respond to multiple targets in close proximity. It determines how fast the metal detector can recover or respond after detecting one object before it's ready to detect another."
+  },
+  {
+   "t": "p",
+   "html": "A high recovery speed means the detector can handle closely spaced targets with less chance of masking signals or missing items."
+  },
+  {
+   "t": "p",
+   "html": "This feature is particularly useful in areas with high trash concentration or where multiple targets might be closely situated, allowing for efficient and accurate detection without much delay between identifying different objects."
+  },
+  {
+   "t": "h3",
+   "html": "Why use a low recovery speed"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/0-recover.jpg\" alt=\"when do you use a slow recovery speed on a minelab manticore\" title=\"minelab manticore slow recovery speed\" width=\"128\" height=\"128\">"
+  },
+  {
+   "t": "p",
+   "html": "A slow recovery speed on the Minelab Manticore can be useful in certain situations where precision and thoroughness are more important than speed. Here are a few scenarios where a slow recovery speed might be preferred:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Deep and Sparse Areas:</strong> In locations where targets are deeply buried and spread apart, a slow recovery speed allows the Manticore to punch deeper especially when using the M15 search coil and a deep setting."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore-high-cond.jpg\" alt=\"which is the best recovery speed on a minelab manticore\" title=\"Minelab Manticore recovery speed\" width=\"128\" height=\"128\">"
+  },
+  {
+   "t": "p",
+   "html": "(all terrain high conductors) or a single low frequency 4Khz again the trade off with using a single frequency is that you will loose all the benefits of the Manticore Multi IQ+, to thoroughly analyze each target without skipping over any potential finds. This method ensures that even faint or deeply buried objects are detected. But the Compromise is you have to use a VERY VERY slow swing speed as the target tone will not be sharp and crisp, it will sound very long."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Target Discrimination:</strong> When trying to detect metals and relics in an area cluttered with various items, a slower recovery speed cannot really help in distinguishing between different targets. It allows for a LESS meticulous analysis, which is NOT beneficial in discriminating between valuable items and unwanted debris. Although with a small search coil (Manticore M8) a slower recovery speed will still aid target separation and possibly gain some depth. (Again a trade off for coil size and depth)"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Conserving Battery:</strong> Using a slower recovery speed might consume less power in some detectors, extending the battery life for longer use in the field,"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore-high-cond.jpg\" alt=\"when to use the minelab manticore high conductor setting\" title=\"Minelab Manticore high conductor preset\" width=\"128\" height=\"128\">"
+  },
+  {
+   "t": "p",
+   "html": "( But if you choose to use the High Conductor settings this will suck the power out of your battery life, so an additional power pack like the PWR-NOX will help somewhat)"
+  },
+  {
+   "t": "p",
+   "html": "In essence, a slow recovery speed can be advantageous in specific detection scenarios where a meticulous and detailed approach to target identification is required, even if it sacrifices some speed."
+  },
+  {
+   "t": "h4",
+   "html": "Why use a fast recovery speed"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/8-recover.jpg\" alt=\"when to use the fastest recovery speed on the minelab manticore\" title=\"minelab manticore fastest recovery speed\" width=\"128\" height=\"128\">"
+  },
+  {
+   "t": "p",
+   "html": "A fast recovery speed on the Minelab Manticore can be incredibly beneficial in various scenarios, especially when efficiency and speed in target detection are essential. Here's why you might prefer a fast recovery speed:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>High Trash Density Areas:</strong> In locations with lots of debris or where targets are closely spaced, a fast recovery speed helps the detector quickly respond to and separate multiple signals. This allows for swift target identification without getting bogged down by nearby objects. When used with the Manticore M8 search coils this setting is lighning fast possibly for most detecting too fast, but it is a tool in the box to help you."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Time Efficiency:</strong> Speedy recovery between targets means covering more ground in less time. This is particularly advantageous in situations where time is limited or when searching large areas. The target tones will be sharp and crisp."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Metal detecting rally or Group Hunts:</strong> In scenarios where multiple people are detecting in the same area, a fast recovery speed ensures that you can quickly locate and retrieve targets, giving you an edge in competitions or a rally."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/manticore-low-cond.jpg\" alt=\"when to use minelab manticore high conductor preset\" title=\"Minelab Manticore high conductor preset\" width=\"128\" height=\"128\">"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Handling High-Frequency Signals:</strong> Some metal detectors, especially those designed for gold prospecting or in mineralized soil, use higher frequencies. A fast recovery speed helps these detectors handle rapid signal responses characteristic of these environments."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Quick Response to Small or Shallow Targets:</strong> For smaller or shallow targets, a fast recovery speed ensures that the detector swiftly identifies and responds, reducing the chance of missing potentially valuable finds."
+  },
+  {
+   "t": "p",
+   "html": "Overall, a fast recovery speed is advantageous in scenarios where rapid and efficient target identification is crucial, allowing users to cover more ground, find targets quickly in cluttered areas, and respond promptly to multiple signals. The trade off for a very fast recovery speed is going to be loss of depth."
+  },
+  {
+   "t": "h4",
+   "html": "Best Revovery Speed"
+  },
+  {
+   "t": "p",
+   "html": "The best recovery speed is really down to where and how you metal detect. there is NO perfect setting, the factory presets are what are the best out of the box, <img src=\"@img:images/5-recover.jpg\" alt=\"Minelab manticore best recovery speed\" title=\"manticore best recovery speed\" width=\"128\" height=\"128\">"
+  },
+  {
+   "t": "p",
+   "html": "Generally a setting of 4,5 or 6 will keep the tones sharp and sweet, your coil choice like trying to use the M15 search coil in a place where there are many targets or the M8 coil trying to get maximum depth on a clean site (although the M8 coil still does punch deep)."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/AT-Fast.jpg\" alt=\"minelab manticore all terrain preset fast\" title=\"minelab manticore all terrain fast\" width=\"128\" height=\"128\">"
+  },
+  {
+   "t": "h3",
+   "html": "The Manticore Preset. All Terrain Fast",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Will give you a preset that has a faster recovery speed without having to play about with multiple settings and of course is fully customisable, once you have gained confidence in the Manticore and what each of the settings change."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/AT-trash.jpg\" alt=\"minelab manticore preset all terrain trash reject\" title=\"minelab manticore trash reject\" width=\"128\" height=\"128\">"
+  },
+  {
+   "t": "p",
+   "html": "Manticore Preset. All Terrain Trash Reject."
+  },
+  {
+   "t": "p",
+   "html": "This search profile uses preset Ferrous Limits along with recovery speed to eliminate most trash, again very useful beginning you Minelab Manticore journey. this profile again id fully customisable."
+  },
+  {
+   "t": "p",
+   "html": "check out this video on where to find the recovery speed on the manticore and how a low setting and a high setting will change how the target tone sounds."
+  }
+ ],
+ "images": [
+  "images/manticore-recovery-speed.jpg",
+  "images/YT-thumb_2020_shqkcn25.png",
+  "images/detexpert-logosml_h2bvi8tr.png",
+  "images/0-recover.jpg",
+  "images/manticore-high-cond.jpg",
+  "images/8-recover.jpg",
+  "images/manticore-low-cond.jpg",
+  "images/5-recover.jpg",
+  "images/AT-Fast.jpg",
+  "images/AT-trash.jpg"
+ ],
+ "videos": [
+  "nP16m-fupVE"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

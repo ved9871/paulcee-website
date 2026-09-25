@@ -1,0 +1,307 @@
+{
+ "type": "post",
+ "slug": "equinox-update",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-update",
+ "title": "Equinox update",
+ "seo": {
+  "title": "Equinox update - Blog",
+  "description": "minelab equinox update what is missing, how to install and where to find it",
+  "keywords": "minelab equinox update, metal detector, equinox update latest, minelab settings, nox, 800, update",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-update",
+  "og": {
+   "title": "Equinox update",
+   "description": "minelab equinox update what is missing, how to install and where to find it",
+   "image": "https://www.paulcee.co.uk/blog/files/single_freq_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-update"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-10-16T20:37:00",
+    "dateModified": "2018-10-16T20:37:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Equinox update",
+    "description": "Single Frequency missing in beach mode on equinox 800 has it been removed",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-update",
+    "image": [
+     "https://www.paulcee.co.uk/images/single_freq.jpg",
+     "https://www.paulcee.co.uk/images/pdc-sticker_sml_5yivp6k8.jpg",
+     "https://www.paulcee.co.uk/blog/files/single_freq.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201810",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "update",
+      "item": "https://www.paulcee.co.uk/blog/?tag=update",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "missing",
+      "item": "https://www.paulcee.co.uk/blog/?tag=missing",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox update",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "feature",
+      "item": "https://www.paulcee.co.uk/blog/?tag=feature",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox update",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-10-16T20:37:00",
+ "dateModified": "2018-10-16T20:37:00",
+ "author": "David Wallace",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "Minelab",
+  "Equinox",
+  "update",
+  "missing",
+  "feature"
+ ],
+ "readTime": 1,
+ "summary": "Single Frequency missing in beach mode on equinox 800 has it been removed",
+ "cover": "blog/files/single_freq.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/single_freq.jpg\" alt=\"Minelab Equinox update\" title=\"Equinox latest update\" width=\"330\" height=\"185\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox uk Settings"
+  },
+  {
+   "t": "p",
+   "html": "i use 99% of the time both of the beach program on the minelab <a href=\"@minelab-equinox/\" data-kind=\"internal\">equinox 800</a>, before the update the ability to switch to a single frequency in beach mode was available."
+  },
+  {
+   "t": "p",
+   "html": "Since the update the function seems to have gone..has anybody else noticed this or do i adjust to many settings while trying to metal detect. i like to see what works and what doesnt when <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">metal detecting beaches</a>.."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/pdc-sticker_sml_5yivp6k8.jpg\" alt=\"minelab equinox update\" title=\"crawfords metal detectors codes\" width=\"140\" height=\"140\"></a>"
+  }
+ ],
+ "images": [
+  "images/single_freq.jpg",
+  "images/pdc-sticker_sml_5yivp6k8.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

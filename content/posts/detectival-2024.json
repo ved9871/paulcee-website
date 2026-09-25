@@ -1,0 +1,181 @@
+{
+ "type": "post",
+ "slug": "detectival-2024",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?detectival-2024",
+ "title": "Detectival 2024",
+ "seo": {
+  "title": "Detectival 2024 - Blog",
+  "description": "detectival 2024, location and booking details",
+  "keywords": "detectival 2024, metal, detecting, rally, 2024, minelab, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?detectival-2024",
+  "og": {
+   "title": "Detectival 2024",
+   "description": "detectival 2024, location and booking details",
+   "image": "https://www.paulcee.co.uk/blog/files/detectival-2024_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?detectival-2024"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2024-03-15T17:53:00",
+    "dateModified": "2024-03-15T17:53:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Detectival 2024",
+    "description": "Date for Detectival 2024 ",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?detectival-2024",
+    "image": [
+     "https://www.paulcee.co.uk/images/detectival-2024.jpg",
+     "https://www.paulcee.co.uk/blog/files/detectival-2024.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mar 2024",
+      "item": "https://www.paulcee.co.uk/blog/?month=202403",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detectival 2024",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting rally",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting rally",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detectival 2024",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detectival 2024",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2024-03-15T17:53:00",
+ "dateModified": "2024-03-15T17:53:00",
+ "author": "Paul Cee",
+ "category": "metal detecting rally",
+ "categorySlug": "metal_detecting_rally",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Date for Detectival 2024 ",
+ "cover": "blog/files/detectival-2024.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detectival-2024.jpg\" alt=\"\" width=\"178\" height=\"316\">"
+  },
+  {
+   "t": "h4",
+   "html": "Dates for Detectival 2024 And Where to Buy Tickets."
+  },
+  {
+   "t": "p",
+   "html": "Good News, the dates for Detectival 2024 have finally been released to the public, although later than normal and do conflict with another metal detecting rally, the tickets can be ordered/reserved at <a href=\"http://www.detectival.com\" data-kind=\"external\">DETECTIVAL.COM</a>"
+  },
+  {
+   "t": "p",
+   "html": "Looking like it will be in north hertfordshire of the uk, with 1000 acres of land to detect."
+  },
+  {
+   "t": "p",
+   "html": "As always this will attract detectorists and manufacturers from around the globe."
+  },
+  {
+   "t": "p",
+   "html": "See you There"
+  }
+ ],
+ "images": [
+  "images/detectival-2024.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

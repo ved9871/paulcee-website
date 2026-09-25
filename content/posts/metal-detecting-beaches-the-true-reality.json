@@ -1,0 +1,293 @@
+{
+ "type": "post",
+ "slug": "metal-detecting-beaches-the-true-reality",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-beaches-the-true-reality",
+ "title": "metal detecting beaches the true reality",
+ "seo": {
+  "title": "metal detecting beaches the true reality - Blog",
+  "description": "the true reality of beach metal detecting, is it really all gold and lots of money",
+  "keywords": "beach detecting, paul cee, minelab, metal, detector",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-beaches-the-true-reality",
+  "og": {
+   "title": "metal detecting beaches the true reality",
+   "description": "the true reality of beach metal detecting, is it really all gold and lots of money",
+   "image": "https://www.paulcee.co.uk/blog/files/WEB_AD2026a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detecting-beaches-the-true-reality"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-01-21T19:30:00",
+    "dateModified": "2017-01-21T19:30:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "metal detecting beaches the true reality",
+    "description": "is beach detecting as good as people make out",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-beaches-the-true-reality",
+    "image": [
+     "https://www.paulcee.co.uk/images/yt220117.jpg",
+     "https://www.paulcee.co.uk/blog/files/WEB_AD2026a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201701",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beaches the true reality",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting news",
+      "item": "https://www.paulcee.co.uk/blog/?category=Detecting news",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beaches the true reality",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beaches the true reality",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beaches the true reality",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beaches the true reality",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "treasure",
+      "item": "https://www.paulcee.co.uk/blog/?tag=treasure",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beaches the true reality",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "bournemouth",
+      "item": "https://www.paulcee.co.uk/blog/?tag=bournemouth",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beaches the true reality",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "devon",
+      "item": "https://www.paulcee.co.uk/blog/?tag=devon",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting beaches the true reality",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-01-21T19:30:00",
+ "dateModified": "2017-01-21T19:30:00",
+ "author": "Paul Cee",
+ "category": "Detecting news",
+ "categorySlug": "Detecting_news",
+ "tags": [
+  "detecting",
+  "beach",
+  "treasure",
+  "bournemouth",
+  "devon"
+ ],
+ "readTime": 1,
+ "summary": "is beach detecting as good as people make out",
+ "cover": "blog/files/WEB_AD2026a.jpg",
+ "heroVideo": "FbX1Yw33dFE",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"@social-sites/\" data-kind=\"internal\"><img src=\"@img:images/yt220117.jpg\" alt=\"beach detecting\" title=\"uk beach detecting\" width=\"586\" height=\"330\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Not all days provide the finds, no matter <a href=\"@\" data-kind=\"internal\">what type of detector you use</a>, today was bleak, a full day and nothing really much, well that's an over statement.. 3 modern coins didn't even pay for pack of gum... oh well maybe next time..."
+  }
+ ],
+ "images": [
+  "images/yt220117.jpg"
+ ],
+ "videos": [
+  "FbX1Yw33dFE"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

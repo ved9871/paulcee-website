@@ -1,0 +1,296 @@
+{
+ "type": "page",
+ "slug": "minelab-equinox",
+ "liveUrl": "https://www.paulcee.co.uk/minelab-equinox.html",
+ "h1": "Minelab Equinox Series Review | 600, 700, 800 & 900 Comparison",
+ "seo": {
+  "title": "Minelab Equinox Uk",
+  "description": "The complete guide to the Minelab Equinox. Compare the 600, 700, 800 and 900 models. Discover Multi-IQ technology and the best search coils for your detector",
+  "keywords": "Minelab Equinox 800, Equinox 900 vs 800, Multi-IQ technology, Equinox 700 review, Coiltek NOX coils, beach metal detector, Equinox waterproof, Minelab Equinox coils",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/minelab-equinox.html",
+  "og": {
+   "title": "Minelab Equinox Series Review | 600, 700, 800 & 900 Comparison",
+   "description": "The complete guide to the Minelab Equinox. Compare the 600, 700, 800 and 900 models. Discover Multi-IQ technology and the best search coils for your detector",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/minelab-equinox.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "minelab equinox 900 Beach Metal Detecting",
+    "description": "how to set up and use the minelab equinox 900",
+    "uploadDate": "2025-12-30T18:31:22+00:00",
+    "thumbnailUrl": "images/eqx-900-beach_jpq52ehf.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=wmwskgU3xIs",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "minelab equinox iron bias explained",
+    "description": "minelab equinox iron bias explained with Minelab engineers",
+    "uploadDate": "2025-12-31T15:00:02+00:00",
+    "thumbnailUrl": "images/iron-bias-explained_2rp2xcqh.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=o6n_H_onH3o",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/nox-compare.jpg\" alt=\"Minelab Equinox comparisons, between the Equinox 600, 700, 800 and 900\" title=\"Minelab Equinox comparisons\" width=\"230\" height=\"230\"> </a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/nox-900_web.jpg\" alt=\"how good is the Minelab Equinox 900 on the beach\" title=\"Minelab Equinox 900 Beach Detecting\" width=\"500\" height=\"500\"> </a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9\" data-kind=\"affiliate\" class=\"btn\">Buy Equinox</a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox Series",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<strong>From the 600 to the 900:</strong> Multi-IQ Technology for Every Detectorist"
+  },
+  {
+   "t": "h2",
+   "html": "The Multi-IQ Revolution",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The Equinox series changed the game with <strong>Multi-IQ Technology</strong>. Before this, you had to choose between a VLF machine (good for coins) or a Pulse Induction machine (good for salt)."
+  },
+  {
+   "t": "p",
+   "html": "Multi-IQ transmits multiple frequencies simultaneously (e.g., 5, 10, 15, 20, 40 kHz). This allows the detector to see large silver coins deep down <em>and</em> tiny gold nuggets near the surface at the exact same time."
+  },
+  {
+   "t": "h2",
+   "html": "Speed &amp; Versatility",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The Equinox is defined by its <strong>Recovery Speed</strong>. It is incredibly fast, allowing it to pick out a good target masked by iron trash."
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Waterproof:</strong> Fully submersible (3m for 600/800; 5m for 700/900).",
+    "<strong>All-Terrain:</strong> Pre-set modes for Park, Field, Beach, and Gold (800/900 only) make it \"turn on and go.\"",
+    "<strong>Lightweight:</strong> Modern carbon-fiber shafts (on the newer 700/900 models) make swinging effortless."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h2",
+   "html": "Comparing the Range",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "Minelab currently offers the older generation (600/800) and the upgraded generation (700/900)."
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Feature",
+     "Equinox 600",
+     "Equinox 800",
+     "Equinox 700 (New)",
+     "Equinox 900 (New)"
+    ],
+    [
+     "<strong>Target ID Scale</strong>",
+     "-9 to 40",
+     "-9 to 40",
+     "-19 to 99 (High Res)",
+     "-19 to 99 (High Res)"
+    ],
+    [
+     "<strong>Search Modes</strong>",
+     "Park, Field, Beach",
+     "Park, Field, Beach, <strong>Gold</strong>",
+     "Park, Field, Beach",
+     "Park, Field, Beach, <strong>Gold</strong>"
+    ],
+    [
+     "<strong>Waterproof</strong>",
+     "3m (10ft)",
+     "3m (10ft)",
+     "<strong>5m (16ft)</strong>",
+     "<strong>5m (16ft)</strong>"
+    ],
+    [
+     "<strong>Shaft System</strong>",
+     "Standard Aluminum",
+     "Standard Aluminum",
+     "Collapsible Carbon Fiber",
+     "Collapsible Carbon Fiber"
+    ],
+    [
+     "<strong>Included Coils</strong>",
+     "11\" only",
+     "11\" only",
+     "11\" only",
+     "<strong>11\" AND 6\"</strong>"
+    ]
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "💡 Key Difference: 600/800 vs 700/900",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "The newer <strong>700 and 900</strong> models feature a greatly expanded Target ID range (0-99 vs the old 0-40). This \"High Resolution\" ID spreads out the conductive targets, making it much easier to distinguish a silver dime from a penny or a screw cap."
+  },
+  {
+   "t": "h3",
+   "html": "✅ The Pros",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Value for Money:</strong> The Equinox 600/700 offers flagship performance at a mid-range price.",
+    "<strong>Weight:</strong> Much lighter than the CTX 3030, making it easier for all-day hunting.",
+    "<strong>Beach Performance:</strong> The Multi-IQ tech dominates on wet saltwater sand where single-frequency machines fail.",
+    "<strong>Future Proof:</strong> Software updatable via Minelab Update Utility (MUU)."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h3",
+   "html": "⚠️ The Cons",
+   "from": "html"
+  },
+  {
+   "t": "ul",
+   "items": [
+    "<strong>Build Quality (Older Models):</strong> The older 600/800 had issues with coil ear breakage (fixed in 700/900).",
+    "<strong>Target Compression:</strong> The older 600/800 compresses IDs (0-40), making some trash signal similar to coins.",
+    "<strong>No Visual Trace:</strong> Lacks the visual \"Target Trace\" screen found on the CTX 3030 and Manticore."
+   ],
+   "from": "html"
+  },
+  {
+   "t": "h2",
+   "html": "Available Search Coils",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<em>Note: EQX coils fit both the older (600/800) and newer (700/900) models.</em>"
+  },
+  {
+   "t": "h3",
+   "html": "Official Minelab Coils",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<strong>EQX 06 (6-inch Round DD):</strong><br> The \"Sniper.\" Absolute necessity for iron-infested home sites or trashy parks. Laser-like separation."
+  },
+  {
+   "t": "p",
+   "html": "<strong>EQX 11 (11-inch Round DD):</strong><br> The Standard. Included with all machines. The best balance of weight, depth, and coverage."
+  },
+  {
+   "t": "p",
+   "html": "<strong>EQX 15 (15x12-inch Elliptical DD):</strong><br> The depth beast. Covers massive ground on beaches and pastures. Digs deeper than the 11\"."
+  },
+  {
+   "t": "h3",
+   "html": "Approved Coiltek Coils (NOX Series)",
+   "from": "html"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Coiltek 10x5\" NOX:</strong><br> Widely considered the \"best coil ever made\" for the Equinox. It separates like the 6\" but covers ground like a 10\"."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Coiltek 14x9\" NOX:</strong><br> A lightweight alternative to the Minelab 15\". Excellent for water hunting as it has less drag."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Coiltek 15\" Round NOX:</strong><br> A large round coil offering significant depth and punch. Great for open fields where depth is king."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Coiltek 18\" NOX:</strong><br> The largest coil available. Strictly for deep hoard hunting or clean beaches."
+  },
+  {
+   "t": "video",
+   "id": "wmwskgU3xIs",
+   "title": "Set up and using the minelab equinox 900 for successful beach met detecting"
+  },
+  {
+   "t": "video",
+   "id": "o6n_H_onH3o",
+   "title": "minelab equinox iron bias explained by Minelab enginners"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"https://youtu.be/gK9kbAqI62w\" data-kind=\"external\"><img src=\"@img:images/900-programs_4vpc3sw8.jpg\" alt=\"Equinox 900/700 Getting Started\" title=\"Equinox 900/700 Getting Started\" width=\"738\" height=\"416\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "For setting up your Equinox we look at the pre-set search modes on the equinox 900, the settings and what you can change, this one is about field and park modes."
+  },
+  {
+   "t": "h4",
+   "html": "Minelab Equinox offer price"
+  },
+  {
+   "t": "p",
+   "html": "Shop at Crawfords Metal detectors for The Minelab Equinox"
+  },
+  {
+   "t": "h3",
+   "html": "Use this discount code for your accessories",
+   "inferred": true
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"minelab equinox settings for the uk\" title=\"minelab equinox settings for the uk\" width=\"230\" height=\"230\">"
+  }
+ ],
+ "images": [
+  "images/nox-compare.jpg",
+  "images/nox-900_web.jpg",
+  "images/900-programs_4vpc3sw8.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "wmwskgU3xIs",
+  "o6n_H_onH3o"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9"
+ ]
+}

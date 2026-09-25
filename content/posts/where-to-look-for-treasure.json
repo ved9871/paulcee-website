@@ -1,0 +1,330 @@
+{
+ "type": "post",
+ "slug": "where-to-look-for-treasure",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?where-to-look-for-treasure",
+ "title": "Where to look for treasure",
+ "seo": {
+  "title": "find treasure metal detecting - Blog",
+  "description": "where and how find treasure metal detecting on the beach",
+  "keywords": "beach, minelab, ctx 3030, treasure, hunt, uk, beach, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?where-to-look-for-treasure",
+  "og": {
+   "title": "Where to look for treasure",
+   "description": "where and how find treasure metal detecting on the beach",
+   "image": "https://www.paulcee.co.uk/blog/files/191117b_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?where-to-look-for-treasure"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-12-06T19:12:00",
+    "dateModified": "2017-12-06T19:12:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Where to look for treasure",
+    "description": "Looking for treaure on the beach, metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?where-to-look-for-treasure",
+    "image": [
+     "https://www.paulcee.co.uk/images/191117b.png",
+     "https://www.paulcee.co.uk/blog/files/191117b.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Dec 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201712",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Crawfords",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Crawfords",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Where to look for treasure",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-12-06T19:12:00",
+ "dateModified": "2017-12-06T19:12:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "uk",
+  "beach",
+  "Metal",
+  "detecting",
+  "minelab",
+  "Crawfords"
+ ],
+ "readTime": 1,
+ "summary": "Looking for treaure on the beach, metal detecting",
+ "cover": "blog/files/191117b.png",
+ "heroVideo": "AERf7YZMazA",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/191117b.png\" alt=\"metal detecting cleethorpes beach\" title=\"metal detecting cleethorpes beach\" width=\"622\" height=\"349\">"
+  },
+  {
+   "t": "p",
+   "html": "Another Chilly early morning start, <a href=\"@\" data-kind=\"internal\">metal detecting on the beaches of the UK</a>, this time we go to a quieter"
+  },
+  {
+   "t": "p",
+   "html": "part of the old beach, slightly sanded in but the CTX3030 still manages to find the Old Silver and Coins."
+  },
+  {
+   "t": "p",
+   "html": "if you havent yet entered the Free Draw for a Minelab jacket, have a look here.. Closes Xmas Eve Uk time"
+  },
+  {
+   "t": "p",
+   "html": "watch the video"
+  }
+ ],
+ "images": [
+  "images/191117b.png"
+ ],
+ "videos": [
+  "AERf7YZMazA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

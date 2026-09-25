@@ -1,0 +1,138 @@
+{
+ "type": "page",
+ "slug": "beginners-guide-to-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/beginners-guide-to-metal-detecting.html",
+ "h1": "beginners guide to metal detecting",
+ "seo": {
+  "title": "beginners guide to metal detecting",
+  "description": "Metal detecting for beginners, best metal detector for beginners, tips for beginners to metal detecting, beginner metal detecting, how to metal detect properly",
+  "keywords": "how to metal detect, metal detector settings, set up metal detector, where to metal detect, minelab equinox settings, target id, beach detecting help, metal detector tones, metal detecting tips",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/beginners-guide-to-metal-detecting.html",
+  "og": {
+   "title": "beginners guide to metal detecting",
+   "description": "Metal detecting for beginners, best metal detector for beginners, tips for beginners to metal detecting, beginner metal detecting, how to metal detect properly",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/beginners-guide-to-metal-detecting.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "guide to starting metal detecting",
+    "description": "all you need to know about starting metal detecting and learning how to metal detect with a minelab metal detectors and CMD, and find your 1st treasures",
+    "uploadDate": "2023-11-11T20:15:16+00:00",
+    "thumbnailUrl": "images/DSC00062-copy_03dvvclc.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=3U-rQCywjOg",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/IMG_20220611_152449.jpg\" alt=\"how to start metal detecting, where to go metal detecting and how to use a metal detector\" title=\"metal detecting for a beginner\" width=\"393\" height=\"221\"> </a>"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/2026-thumb_fwz7ag9m.jpg\" alt=\"learn how to use a metal detector, from 1st use with settings upto expert level and advanced settings\" title=\"metal detecting for beginners\" width=\"320\" height=\"320\">"
+  },
+  {
+   "t": "h2",
+   "html": "Metal detecting for beginners."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\">http://bit.ly/2VcUX0q</a>"
+  },
+  {
+   "t": "p",
+   "html": "1st thing Get some insurance from the <a href=\"@links/\" data-kind=\"internal\">NCMD (National Council For Metal Detecting)</a>"
+  },
+  {
+   "t": "p",
+   "html": "2. If you planning on metal detecting beaches in the UK, check out the <a href=\"@links/\" data-kind=\"internal\">Crown Foreshore Permit</a>, as some beach areas in England are out of bounds for metal detecting, and you may also need a Local Council Beach Metal Detecting Permit."
+  },
+  {
+   "t": "p",
+   "html": "If you haven't decided on which metal detector is best for you we at <a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\">CRAWFORDS Metal Detecting</a> have a wide range available and also some pre-owned metal detectors for all price ranges, from beginner to expert and serious gold prospecting and treasure hunting"
+  },
+  {
+   "t": "p",
+   "html": "When you get your first metal detector things will seem very frustrating, what is a good target what if a good signal is rubbish (junk)"
+  },
+  {
+   "t": "p",
+   "html": "why does the numbers say ring and i find a ring pull."
+  },
+  {
+   "t": "h3",
+   "html": "why am i digging lots of iron ?",
+   "inferred": true
+  },
+  {
+   "t": "h3",
+   "html": "why cant i find coins ?",
+   "inferred": true
+  },
+  {
+   "t": "h4",
+   "html": "Setting up your metal detector for relic and treasure hunting"
+  },
+  {
+   "t": "p",
+   "html": "mainly on beaches."
+  },
+  {
+   "t": "p",
+   "html": "We find the targets and you hear the metal detector tones."
+  },
+  {
+   "t": "p",
+   "html": "we use the <a href=\"@minelab-manticore/\" data-kind=\"internal\">Minelab Manticore</a>, <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox</a>, <a href=\"@ctx3030/\" data-kind=\"internal\">Minelab CTX3030</a>, <a href=\"@minelab-vanquish-60-settings/\" data-kind=\"internal\">Minelab Vanquish</a>"
+  },
+  {
+   "t": "p",
+   "html": "and see the target id numbers from the metal detector."
+  },
+  {
+   "t": "p",
+   "html": "you decide would you dig or leave the target behind, some of the targets will be good i.e Gold,silver, rings, jewellery and coins"
+  },
+  {
+   "t": "p",
+   "html": "Some will be bottletops, ring pull can slaw and the usual rubbish found beach metal detecting."
+  },
+  {
+   "t": "p",
+   "html": "Of course if your a seasoned metal detectorist you can join in for fun"
+  },
+  {
+   "t": "video",
+   "id": "3U-rQCywjOg",
+   "title": "beginners guide to metal detecting, all you need to know about starting the hobby with Minelab Detexpert Paul Cee"
+  }
+ ],
+ "images": [
+  "images/IMG_20220611_152449.jpg",
+  "images/2026-thumb_fwz7ag9m.jpg"
+ ],
+ "videos": [
+  "3U-rQCywjOg"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

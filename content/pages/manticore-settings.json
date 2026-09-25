@@ -1,0 +1,246 @@
+{
+ "type": "page",
+ "slug": "manticore-settings",
+ "liveUrl": "https://www.paulcee.co.uk/manticore-settings.html",
+ "h1": "Minelab Manticore | The Ultimate Metal Detector Guide & Settings",
+ "seo": {
+  "title": "Minelab Manticore | The Ultimate Metal Detector Guide & Settings",
+  "description": "Complete guide to the Minelab Manticore.  Advanced ferrous limits settings, recovery speed tutorials for relic and beach hunting, 2D Screen, with vidoes",
+  "keywords": "Minelab Manticore, Manticore settings, Multi-IQ plus, 2D ID Map, Manticore depth settings, relic hunting, beach metal detecting, Minelab Manticore coils, recovery speed, manticore gold mode",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/manticore-settings.html",
+  "og": {
+   "title": "Minelab Manticore | The Ultimate Metal Detector Guide & Settings",
+   "description": "Complete guide to the Minelab Manticore.  Advanced ferrous limits settings, recovery speed tutorials for relic and beach hunting, 2D Screen, with vidoes",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/manticore-settings.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore Getting Started",
+    "description": "Minelab Manticore Getting Started",
+    "uploadDate": "2026-01-01T11:06:13+00:00",
+    "thumbnailUrl": "images/manticore-tutorials-menu.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=HbdnRKHElJk",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore Custom Search Profile",
+    "description": "Minelab Manticore Custom Search Profile, how to make and use",
+    "uploadDate": "2026-01-01T11:08:50+00:00",
+    "thumbnailUrl": "images/manticore-search-modes1_sjx9oxbf.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=vnaRlFVrQi4",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore sensitivity and recovery speed",
+    "description": "Minelab Manticore sensitivity and recovery speed, how and when to use,\nBy Minelab and Minelab Detexperts",
+    "uploadDate": "2026-01-01T11:12:47+00:00",
+    "thumbnailUrl": "images/Recovery-speed-stabilizer.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=xXBFeg-Jdzc",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore Audio settings",
+    "description": "Minelab Manticore Audio settings",
+    "uploadDate": "2026-01-01T11:19:17+00:00",
+    "thumbnailUrl": "images/manticore-audio_zskqqzqu.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=eMlcJ6mqE_g",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore Discrimination",
+    "description": "how to use Discrimination on the Minelab Manticore",
+    "uploadDate": "2026-01-01T11:21:41+00:00",
+    "thumbnailUrl": "images/manticore-discrim_hot-keys.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=HnHdXpvIaAM",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore, the best settings",
+    "description": "Minelab Manticore, the best settings",
+    "uploadDate": "2026-01-01T11:27:27+00:00",
+    "thumbnailUrl": "images/MANTICORE-VIDEO_yi9f7866.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=m6kc6wczJ9U",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore headphone connection and problems",
+    "description": "Minelab Manticore headphone connection and problems and how to solve them",
+    "uploadDate": "2026-01-01T11:32:07+00:00",
+    "thumbnailUrl": "images/headphones-ep4.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=VimSTbHMGi4",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Manticore, emi and false signal",
+    "description": "Minelab Manticore, emi and false signals, how to make the minelab manticore quiet and smooth near power lines and electric sources",
+    "uploadDate": "2026-01-01T11:37:11+00:00",
+    "thumbnailUrl": "images/manticore_emi_xi9bt5w7.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=FKQsXUGtfuc",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"https://youtu.be/euB3aMoG_N0\" data-kind=\"external\"><img src=\"@img:images/headphones1_xdmsr7n5.jpg\" alt=\"Minelab Manticore Headphones, how to connect and pair Manticore wireless headphones and WM09 Module\" title=\"Minelab Manticore Headphones\" width=\"332\" height=\"187\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Pairing ML-105 Headphones"
+  },
+  {
+   "t": "p",
+   "html": "(The standard wireless headphones included with your Manticore)"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Step 1:</strong> Set Headphones to Pair Ensure the headphones are OFF. Press and hold the Multi-Function Button (Power) on the side of the headphones for 2 seconds."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Look for:</strong> The Status LED will flash Red and Blue rapidly."
+  },
+  {
+   "t": "p",
+   "html": "Set Manticore to Pair On your detector screen, press and hold the Wireless Button (top right of the control pod) for 2 seconds."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Look for:</strong> The Wireless icon on the top of the LCD screen will flash rapidly."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Success:</strong> The headphones will beep, and the Manticore wireless icon will stop flashing and stay solid. The Headphone LED will flash blue once every 3 seconds."
+  },
+  {
+   "t": "p",
+   "html": "<strong>💡 Troubleshooting:</strong> If they won't pair, perform a Factory Reset: With headphones OFF, hold the Power button for 10 seconds until you hear 2 beeps and the LED flashes pink. Then try again."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Best for:</strong> Parks, Fields, Ruins, and Forests."
+  },
+  {
+   "t": "p",
+   "html": "Note. All Terrain Fast, All Terrain Trash Reject are the same functioning as All Terrain General, with slightly different settings, you can customise to have 3 similar search profiles saved as CUSTOM modes for where you detect."
+  },
+  {
+   "t": "p",
+   "html": "<strong>All-Terrain General:</strong> The best \"turn-on-and-go\" mode. It provides excellent all-around separation and depth. Start here if you are new to the site."
+  },
+  {
+   "t": "p",
+   "html": "<strong>All-Terrain Fast:</strong> Optimized for trashy parks or \"iron carpets.\" It uses a faster recovery speed to separate good targets (coins) from bad targets (nails) that are touching."
+  },
+  {
+   "t": "p",
+   "html": "<strong>All-Terrain Low Conductors:</strong> Boosts sensitivity to small, thin targets like hammered silver coins, small jewellery, or fine gold chains."
+  },
+  {
+   "t": "p",
+   "html": "<strong>All-Terrain High Conductors:</strong> Optimized for large silver coins and copper relics. It suppresses \"foil\" signals and hits hard on high-conductive metals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>All-Terrain Trash Reject:</strong> A specialized mode with high discrimination to silence aluminium foil and pull-tabs (use with caution, as you may miss gold rings!)"
+  },
+  {
+   "t": "p",
+   "html": "💡 <strong>Manticore Pro Tip:</strong> Don't be afraid to switch modes mid-hunt! If you are in a field and the iron trash suddenly gets thick, switch from All-Terrain General to All-Terrain Fast. You will instantly hear the separation improve"
+  },
+  {
+   "t": "p",
+   "html": "Check out some of the Manticore videos, Minelab and CMD created to help with your Manticore."
+  },
+  {
+   "t": "h3",
+   "html": "Click the images to view the Videos",
+   "inferred": true
+  },
+  {
+   "t": "video",
+   "id": "HbdnRKHElJk",
+   "title": "Minelab Manticore getting started guide"
+  },
+  {
+   "t": "video",
+   "id": "vnaRlFVrQi4",
+   "title": "Minelab Manticore Search Modes Explained"
+  },
+  {
+   "t": "video",
+   "id": "eMlcJ6mqE_g",
+   "title": "Minelab Manticore Audio settings"
+  },
+  {
+   "t": "video",
+   "id": "xXBFeg-Jdzc",
+   "title": "Minelab Manticore Recovery speed and stabilzer explained, by Minelab and Detexperts"
+  },
+  {
+   "t": "video",
+   "id": "FKQsXUGtfuc",
+   "title": "Minelab Manticore false signals and EMI"
+  },
+  {
+   "t": "video",
+   "id": "HnHdXpvIaAM",
+   "title": "Minelab Manticore Discrimination Explained, By Minelab Detexperts"
+  },
+  {
+   "t": "video",
+   "id": "m6kc6wczJ9U",
+   "title": "Minelab Manticore Best Settings"
+  },
+  {
+   "t": "video",
+   "id": "VimSTbHMGi4",
+   "title": "How to pair Manticore Headphones, what problems and how to solve them"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://bit.ly/CMDMDUK\" data-kind=\"affiliate\"><img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Minelab Manticore Settings, help and tutorials for the minelab manticore\" title=\"Minelab Manticore Settings\" width=\"364\" height=\"364\"> </a>"
+  }
+ ],
+ "images": [
+  "images/headphones1_xdmsr7n5.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "HbdnRKHElJk",
+  "vnaRlFVrQi4",
+  "eMlcJ6mqE_g",
+  "xXBFeg-Jdzc",
+  "FKQsXUGtfuc",
+  "HnHdXpvIaAM",
+  "m6kc6wczJ9U",
+  "VimSTbHMGi4"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://bit.ly/CMDMDUK"
+ ]
+}

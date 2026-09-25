@@ -1,0 +1,129 @@
+{
+ "type": "page",
+ "slug": "old-maps-for-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/old-maps-for-metal-detecting.html",
+ "h1": "Best Metal Detecting Research Maps | Paul Cee",
+ "seo": {
+  "title": "Old Maps for Metal Detecting",
+  "description": "The ultimate guide to metal detecting research maps. Explore old English maps, LiDAR overlays, and footpath data, locate historic hoards and ancient settlements",
+  "keywords": "old maps for metal detecting, LiDAR maps, treasure hunting research, historic maps UK, finding hoards, side by side maps, ancient settlements, What3Words metal detecting, old English maps, detecting research guide",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/old-maps-for-metal-detecting.html",
+  "og": {
+   "title": "Best Metal Detecting Research Maps | Paul Cee",
+   "description": "The ultimate guide to metal detecting research maps. Explore old English maps, LiDAR overlays, and footpath data, locate historic hoards and ancient settlements",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/old-maps-for-metal-detecting.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "Best Metal Detecting Research Maps",
+    "description": "Discover the best old maps and LiDAR tools for metal detecting. Learn to research lost villages, use side-by-side overlays, and find new treasure hunting spots today.",
+    "uploadDate": "2025-12-31T10:12:27+00:00",
+    "thumbnailUrl": "images/research_web_5cis2rim.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=-v_ye2cnzOc",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "The Best Metal Detecting Research Maps"
+  },
+  {
+   "t": "p",
+   "html": "On this page, we are diving deep into the fascinating world of old maps for metal detecting. If you are wondering about the best tools to use for your treasure hunting adventures, look no further. Whether you are a beginner looking for a step-by-step guide or a serious detectorist hunting for a hoard of treasure, successful research starts here."
+  },
+  {
+   "t": "p",
+   "html": "From detailed <strong>historical maps of old towns</strong> to modern digital tools, we cover everything you need to locate your next big find."
+  },
+  {
+   "t": "h3",
+   "html": "Why Use LiDAR Maps for Metal Detecting?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "We specifically explore the game-changing concept of LiDAR maps and how they can revolutionize your metal detecting research. LiDAR (Light Detection and Ranging) strips away vegetation to reveal the ground beneath, helping you uncover hidden gems that standard maps miss."
+  },
+  {
+   "t": "p",
+   "html": "By using modern LiDAR maps overlaid on current terrain, you can identify:"
+  },
+  {
+   "t": "p",
+   "html": "Lost roads and ancient footpaths."
+  },
+  {
+   "t": "p",
+   "html": "The footprints of lost towns and villages."
+  },
+  {
+   "t": "p",
+   "html": "Hidden earthworks and ancient settlements."
+  },
+  {
+   "t": "h3",
+   "html": "Step-by-Step Guide: Finding the Best Places to Metal Detect"
+  },
+  {
+   "t": "p",
+   "html": "Whether you are field walking looking for pottery scatters or using the best metal detector to scan for artifacts, preparation is key. We guide you through using paid and free maps to plan your quest effectively."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Our research strategy includes:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Side-by-Side Map Comparisons:</strong> View old English maps next to modern satellite imagery to spot changes in the landscape."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Historic Find Spots: </strong>Locate recorded areas where ancient settlements and historic find spots have been documented."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Footpath &amp; Road Analysis:</strong> Use old footpath maps to trace routes that have been used for centuries—prime spots for dropped coins and relics."
+  },
+  {
+   "t": "h3",
+   "html": "Planning Your Metal Detecting Adventure",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Once you have identified a potential site, precision is vital. We explain how to use tools like <strong>What3Words</strong> to pinpoint exact locations, plan your entry points, and log your find spots for future reference."
+  },
+  {
+   "t": "p",
+   "html": "Stop guessing and start discovering. Use our resources to master metal detecting research and turn a simple walk into a journey through history."
+  },
+  {
+   "t": "video",
+   "id": "-v_ye2cnzOc",
+   "title": "Discover the best old maps and LiDAR tools for metal detecting. Learn to research lost villages, use side-by-side overlays, and find new treasure hunting spots today."
+  }
+ ],
+ "images": [],
+ "videos": [
+  "-v_ye2cnzOc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

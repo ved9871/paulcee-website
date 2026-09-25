@@ -1,0 +1,347 @@
+{
+ "type": "post",
+ "slug": "metal-detecting-uk-beach",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-uk-beach",
+ "title": "Metal detecting uk beach",
+ "seo": {
+  "title": "Beach detecting ban - Blog",
+  "description": "no more metal detecting at cleethorpes for a while on the beaches the ban means its over for a while",
+  "keywords": "cleethorpes, metal detecting permit, ban on metal detecting, where to metal detect",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-uk-beach",
+  "og": {
+   "title": "Metal detecting uk beach",
+   "description": "no more metal detecting at cleethorpes for a while on the beaches the ban means its over for a while",
+   "image": "https://www.paulcee.co.uk/blog/files/140320a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?metal-detecting-uk-beach"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-04-11T06:40:00",
+    "dateModified": "2020-04-11T06:40:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Metal detecting uk beach",
+    "description": "Minelab Vanquish and Minelab Equinox Beach Metal Detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-uk-beach",
+    "image": [
+     "https://www.paulcee.co.uk/images/140320a.jpg",
+     "https://www.paulcee.co.uk/blog/files/140320a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202004",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "440",
+      "item": "https://www.paulcee.co.uk/blog/?tag=440",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal detecting uk beach",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-04-11T06:40:00",
+ "dateModified": "2020-04-11T06:40:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "Minelab",
+  "Vanquish",
+  "Equinox",
+  "Beach",
+  "metal",
+  "detecting",
+  "440"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Vanquish and Minelab Equinox Beach Metal Detecting",
+ "cover": "blog/files/140320a.jpg",
+ "heroVideo": "B6xeyyl-Kz4",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/140320a.jpg\" alt=\"metal detecting on the beach is now out its banned\" title=\"metal detecting beach banned in the uk\" width=\"626\" height=\"353\">"
+  },
+  {
+   "t": "h2",
+   "html": "Cant detect on the beach no more"
+  },
+  {
+   "t": "p",
+   "html": "Our last Cleethorpes beach metal detecting outing with the V<a href=\"@minelab-vanquish-40-series/\" data-kind=\"internal\">anquish 540</a> and Equinox 800 its now banned"
+  }
+ ],
+ "images": [
+  "images/140320a.jpg"
+ ],
+ "videos": [
+  "B6xeyyl-Kz4"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,331 @@
+{
+ "type": "post",
+ "slug": "looking-for-gold-on-the-beach-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?looking-for-gold-on-the-beach-metal-detecting",
+ "title": "looking for gold on the beach metal detecting",
+ "seo": {
+  "title": "looking for gold on the beach metal detecting - Blog",
+  "description": "beach metal detecting, looking for gold, minelab ctx 3030 metal detector",
+  "keywords": "metal detecting uk, minelab ctx 3030, beach metal detecting uk",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?looking-for-gold-on-the-beach-metal-detecting",
+  "og": {
+   "title": "looking for gold on the beach metal detecting",
+   "description": "beach metal detecting, looking for gold, minelab ctx 3030 metal detector",
+   "image": "https://www.paulcee.co.uk/blog/files/150117_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?looking-for-gold-on-the-beach-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-07-01T18:33:00",
+    "dateModified": "2019-07-01T18:33:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "looking for gold on the beach metal detecting",
+    "description": "Where to find gold beach metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?looking-for-gold-on-the-beach-metal-detecting",
+    "image": "https://www.paulcee.co.uk/images/150117.jpg",
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201907",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "gold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "where",
+      "item": "https://www.paulcee.co.uk/blog/?tag=where",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "to",
+      "item": "https://www.paulcee.co.uk/blog/?tag=to",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "fnd",
+      "item": "https://www.paulcee.co.uk/blog/?tag=fnd",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "cornwall",
+      "item": "https://www.paulcee.co.uk/blog/?tag=cornwall",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking for gold on the beach metal detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-07-01T18:33:00",
+ "dateModified": "2019-07-01T18:33:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "gold",
+  "beach",
+  "where",
+  "to",
+  "fnd",
+  "cornwall"
+ ],
+ "readTime": 1,
+ "summary": "Where to find gold beach metal detecting",
+ "cover": "blog/files/150117.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/150117.jpg\" alt=\"beach metal detecting uk\" title=\"metal detecting uk\" width=\"346\" height=\"194\">"
+  },
+  {
+   "t": "h3",
+   "html": "Looking for gold on the beach",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "More sand movement but really tough going still managed to pull out plenty of coins and a ring with the CTX3030 along with the <a href=\"http://andersondetectorshafts.com\" data-kind=\"affiliate\">Anderson Neptune carbon shaft</a> and T-Rex Scoop.."
+  },
+  {
+   "t": "p",
+   "html": "detecting multiple targets in one hole and getting the right results"
+  },
+  {
+   "t": "video",
+   "id": "LPfIUzWpDn0",
+   "title": ""
+  }
+ ],
+ "images": [
+  "images/150117.jpg"
+ ],
+ "videos": [
+  "LPfIUzWpDn0"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://andersondetectorshafts.com"
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "type": "post",
+ "slug": "equinox-power-bank",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-power-bank",
+ "title": "Equinox power bank",
+ "seo": {
+  "title": "Equinox power bank - Blog",
+  "description": "A usb high power battery for the Minelab Equinox range, will also suit other metal detectors which can be charged with USB",
+  "keywords": "RNB, minelab equinox battery, recharge , power bank for minelab detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-power-bank",
+  "og": {
+   "title": "Equinox power bank",
+   "description": "A usb high power battery for the Minelab Equinox range, will also suit other metal detectors which can be charged with USB",
+   "image": "https://www.paulcee.co.uk/blog/files/pwr-nox005a_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-power-bank"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-09-10T20:24:00",
+    "dateModified": "2019-09-10T20:24:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Equinox power bank",
+    "description": "Pwr-Nox Power Pack for Minelab Equinox Detectors",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-power-bank",
+    "image": [
+     "https://www.paulcee.co.uk/images/pwr-nox004a_6fnsf0ay.jpg",
+     "https://www.paulcee.co.uk/images/pwr-nox002a_ig2l0m52.jpg",
+     "https://www.paulcee.co.uk/images/pwr-nox003a.jpg",
+     "https://www.paulcee.co.uk/images/pwr-nox006a.jpg",
+     "https://www.paulcee.co.uk/blog/files/pwr-nox005a.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201909",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "power",
+      "item": "https://www.paulcee.co.uk/blog/?tag=power",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "nox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=nox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "battery",
+      "item": "https://www.paulcee.co.uk/blog/?tag=battery",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "pack",
+      "item": "https://www.paulcee.co.uk/blog/?tag=pack",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "power",
+      "item": "https://www.paulcee.co.uk/blog/?tag=power",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "bank",
+      "item": "https://www.paulcee.co.uk/blog/?tag=bank",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox power bank",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-09-10T20:24:00",
+ "dateModified": "2019-09-10T20:24:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "power",
+  "nox",
+  "equinox",
+  "battery",
+  "pack",
+  "power",
+  "bank"
+ ],
+ "readTime": 1,
+ "summary": "Pwr-Nox Power Pack for Minelab Equinox Detectors",
+ "cover": "blog/files/pwr-nox005a.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pwr-nox004a_6fnsf0ay.jpg\" alt=\"minelab equinox power nox battery\" title=\"minelab equinox power bank\" width=\"214\" height=\"134\">"
+  },
+  {
+   "t": "h2",
+   "html": "Pwr-Nox Power Pack for Minelab Equinox Detectors"
+  },
+  {
+   "t": "p",
+   "html": "Double the battery life and detecting time of your Minelab Equinox with the Pwr-Nox Power Pack."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pwr-nox002a_ig2l0m52.jpg\" alt=\"power nox minelab equinox battery pack\" title=\"minelab equinox battery\" width=\"214\" height=\"214\">"
+  },
+  {
+   "t": "p",
+   "html": "This lightweight, compact unit fits neatly to the upper stem via the arm cup screw and its front clip. Connect to the control Equinox box using the standard Equinox USB charge cable."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pwr-nox003a.jpg\" alt=\"usb battery for minelab equinox\" title=\"minelab equinox usb battery\" width=\"213\" height=\"213\">"
+  },
+  {
+   "t": "p",
+   "html": "The fully charged power pack has the same capacity as the standard Equinox rechargeable battery, effectively doubling your time detecting without needing to charge."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pwr-nox006a.jpg\" alt=\"extend battery life minelab equinox\" title=\"equinox 800 battery\" width=\"213\" height=\"213\">"
+  },
+  {
+   "t": "p",
+   "html": "The unit can be recharged with the included USB to Micro-USB charge lead, taking power from a mains adaptor, vehicle output or almost any USB enabled power source."
+  }
+ ],
+ "images": [
+  "images/pwr-nox004a_6fnsf0ay.jpg",
+  "images/pwr-nox002a_ig2l0m52.jpg",
+  "images/pwr-nox003a.jpg",
+  "images/pwr-nox006a.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,175 @@
+{
+ "type": "post",
+ "slug": "garrett-seahunter-mkii-beach-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?garrett-seahunter-mkii-beach-metal-detecting",
+ "title": "Garrett Seahunter MKII beach metal detecting",
+ "seo": {
+  "title": "Garrett Seahunter MKII beach metal detecting - Blog",
+  "description": "Garrett Seahunter Mk2 beach metal detecting in the uk",
+  "keywords": "garrett seahunter mk2, beach, detecting, pulse, induction",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?garrett-seahunter-mkii-beach-metal-detecting",
+  "og": {
+   "title": "Garrett Seahunter MKII beach metal detecting",
+   "description": "Garrett Seahunter Mk2 beach metal detecting in the uk",
+   "image": "https://www.paulcee.co.uk/blog/files/png-logo-2025_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?garrett-seahunter-mkii-beach-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-05-07T15:21:00",
+    "dateModified": "2017-05-07T15:21:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Garrett Seahunter MKII beach metal detecting",
+    "description": "Garrett Seahunter beach metal detecting uk beaches",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?garrett-seahunter-mkii-beach-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/070517.jpg",
+     "https://www.paulcee.co.uk/blog/files/png-logo-2025.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201705",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Garrett Seahunter MKII beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "garrett seahunter",
+      "item": "https://www.paulcee.co.uk/blog/?category=garrett seahunter",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Garrett Seahunter MKII beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Garrett Seahunter MKII beach metal detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-05-07T15:21:00",
+ "dateModified": "2017-05-07T15:21:00",
+ "author": "Paul Cee",
+ "category": "garrett seahunter",
+ "categorySlug": "garrett_seahunter",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Garrett Seahunter beach metal detecting uk beaches",
+ "cover": "blog/files/png-logo-2025.png",
+ "heroVideo": "OvQ1MF8Jk6s",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/070517.jpg\" alt=\"garrett seahunter mk2\" title=\"garrett seahunter mk 2 uk beach detecting\" width=\"623\" height=\"350\">"
+  },
+  {
+   "t": "h2",
+   "html": "Beach metal detecting"
+  },
+  {
+   "t": "p",
+   "html": "Pulse induction metal detector, the garrett seahunter Mk2 looking for absolutely anything.... with it being a PI metal detector this will find thing from fish hook and booby pins to pieces of ships and bullets, if its metal it will find it, thats is how im detecting today, and folks said i havent posted enough videos of the SEAHUNTER."
+  },
+  {
+   "t": "p",
+   "html": "for details on the <a href=\"@anderson-carbon-fibre-shafts/\" data-kind=\"internal\">ANDERSON Neptune</a> and also the anderson shaft on the seahunter visit"
+  }
+ ],
+ "images": [
+  "images/070517.jpg"
+ ],
+ "videos": [
+  "OvQ1MF8Jk6s"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

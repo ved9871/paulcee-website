@@ -1,0 +1,350 @@
+{
+ "type": "post",
+ "slug": "equinox-15-inch-coil",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-15-inch-coil",
+ "title": "Equinox 15 inch coil",
+ "seo": {
+  "title": "Minelab Equinox 15 inch coil - Blog",
+  "description": "15 inch search coil for the minelab equinox and x-terra Pro metal detectors, improve depth a still have fast recovery speed with this elliptical coil",
+  "keywords": "minelab equinox, minelab X-Terra Pro, elliptical, search, coil, crawfords metal detectors, paul cee minelab",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-15-inch-coil",
+  "og": {
+   "title": "Equinox 15 inch coil",
+   "description": "15 inch search coil for the minelab equinox and x-terra Pro metal detectors, improve depth a still have fast recovery speed with this elliptical coil",
+   "image": "https://www.paulcee.co.uk/blog/files/equinox-15x12-coil-500x500_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-15-inch-coil"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-10-10T20:18:00",
+    "dateModified": "2018-10-10T20:18:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Equinox 15 inch coil",
+    "description": "Minelab Equinox 15 inch double D search coil available to order\nReview",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-15-inch-coil",
+    "image": [
+     "https://www.paulcee.co.uk/images/equinox-15x12-coil-500x500.png",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_w49tsz7n.png",
+     "https://www.paulcee.co.uk/images/cmd-white-alpha_8s9uj88j.png",
+     "https://www.paulcee.co.uk/blog/files/equinox-15x12-coil-500x500.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201810",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "EQUINOX",
+      "item": "https://www.paulcee.co.uk/blog/?tag=EQUINOX",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "15",
+      "item": "https://www.paulcee.co.uk/blog/?tag=15",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "INCH",
+      "item": "https://www.paulcee.co.uk/blog/?tag=INCH",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "SEARCH",
+      "item": "https://www.paulcee.co.uk/blog/?tag=SEARCH",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "COIL",
+      "item": "https://www.paulcee.co.uk/blog/?tag=COIL",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 15 inch coil",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-10-10T20:18:00",
+ "dateModified": "2018-10-10T20:18:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [
+  "EQUINOX",
+  "15",
+  "INCH",
+  "SEARCH",
+  "COIL",
+  "Minelab"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Equinox 15 inch double D search coil available to order\nReview",
+ "cover": "blog/files/equinox-15x12-coil-500x500.png",
+ "heroVideo": "BeJEug1wOng",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/equinox-15x12-coil-500x500.png\" alt=\"minelab big coil\" title=\"equinox 15 inch coil\" width=\"82\" height=\"82\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_w49tsz7n.png\" alt=\"minelab coils from crawfords metal detectors in the uk\" title=\"Minelab Equinox and x-terra pro coils\" width=\"75\" height=\"75\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/cmd-white-alpha_8s9uj88j.png\" alt=\"minelab coils for the minelab Equinox, minelab manticore\" title=\"paul cee minelab detexpert\" width=\"176\" height=\"69\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox 15\" Search Coil"
+  },
+  {
+   "t": "p",
+   "html": "The 15x12\" eliptical Double-D accessory coil for the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox Series</a> offers you the maximum depth and is ideal for a wider ground coverage in open areas."
+  },
+  {
+   "t": "p",
+   "html": "will also fit and work with the minelab x terra elite and x terra pro"
+  },
+  {
+   "t": "p",
+   "html": "Includes a coil cover as standard."
+  },
+  {
+   "t": "p",
+   "html": "SUITABLE FOR:"
+  },
+  {
+   "t": "p",
+   "html": "All Minelab Equinox models and the Minelab X-Terra Pro and x terra elite"
+  }
+ ],
+ "images": [
+  "images/equinox-15x12-coil-500x500.png",
+  "images/YT-thumb_2020_w49tsz7n.png",
+  "images/cmd-white-alpha_8s9uj88j.png"
+ ],
+ "videos": [
+  "BeJEug1wOng"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,185 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-pin-pointing-method",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-pin-pointing-method",
+ "title": "Minelab Vanquish Pin pointing method",
+ "seo": {
+  "title": "Minelab Vanquish Pin pointing method - Blog",
+  "description": "how to pinpoint with a minelab vanquish metal detector, diffeant methods of finding the target that is under the search coil",
+  "keywords": "minelab vanquish settings, minelab vanquish pinpoint, how to, metal detecto settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-pin-pointing-method",
+  "og": {
+   "title": "Minelab Vanquish Pin pointing method",
+   "description": "how to pinpoint with a minelab vanquish metal detector, diffeant methods of finding the target that is under the search coil",
+   "image": "https://www.paulcee.co.uk/blog/files/vanq_tutorials_pinpont_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-pin-pointing-method"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-24T11:09:00",
+    "dateModified": "2020-05-24T11:09:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish Pin pointing method",
+    "description": "How to Pin Point with a Minelab Vanquish 340 Metal Detector",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-pin-pointing-method",
+    "image": [
+     "https://www.paulcee.co.uk/images/pinpoint.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/vanq_tutorials_pinpont_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Pin pointing method",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Pin pointing method",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Pin pointing method",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-24T11:09:00",
+ "dateModified": "2020-05-24T11:09:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish Settings",
+ "categorySlug": "Minelab_Vanquish_Settings",
+ "tags": [],
+ "readTime": 1,
+ "summary": "How to Pin Point with a Minelab Vanquish 340 Metal Detector",
+ "cover": "blog/files/vanq_tutorials_pinpont_web.jpg",
+ "heroVideo": "CcqNhVVZutA",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pinpoint.jpg\" alt=\"How to pinpoint minelab Vanquish 340\" title=\"Minelab Vanquish Pinpointing how to tutorial\" width=\"621\" height=\"349\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Vanquish 340 settings and help"
+  },
+  {
+   "t": "p",
+   "html": "How to Get Pin pointing right Minelab Vanquish Metal Detecting."
+  },
+  {
+   "t": "p",
+   "html": "Easy ways to pin point with a Minelab Vanquish metal detector, can be used metal detecting in water and on land, also suitable for any metal detector."
+  },
+  {
+   "t": "p",
+   "html": "2 Easy ways to find the location of the targets"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"@detecting-accessories/\" data-kind=\"internal\"><img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"minelab vanquish help tutorials\" title=\"minelab vanquish help tutorials\" width=\"616\" height=\"616\"></a>"
+  }
+ ],
+ "images": [
+  "images/pinpoint.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "CcqNhVVZutA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

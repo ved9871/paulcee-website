@@ -1,0 +1,231 @@
+{
+ "type": "post",
+ "slug": "evo-6000-review",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?evo-6000-review",
+ "title": "Evo 6000 Review",
+ "seo": {
+  "title": "Evo 6000 Review - Blog",
+  "description": "C Scope EVO 6000 Review Coming Soon, A New Metal detector from C-Scope the EVO 6000",
+  "keywords": "EVO_6000, C-Scope, CScope, metal, detector, review",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?evo-6000-review",
+  "og": {
+   "title": "Evo 6000 Review",
+   "description": "C Scope EVO 6000 Review Coming Soon, A New Metal detector from C-Scope the EVO 6000",
+   "image": "https://www.paulcee.co.uk/blog/files/evo6000_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?evo-6000-review"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-04-19T18:13:00",
+    "dateModified": "2021-04-19T18:13:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Evo 6000 Review",
+    "description": "C Scope Evo 6000 Review",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?evo-6000-review",
+    "image": [
+     "https://www.paulcee.co.uk/images/evo6000.jpg",
+     "https://www.paulcee.co.uk/blog/files/evo6000.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202104",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Evo 6000 Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "C-Scope Evo 6000",
+      "item": "https://www.paulcee.co.uk/blog/?category=C-Scope Evo 6000",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Evo 6000 Review",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Evo 6000 Review",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-04-19T18:13:00",
+ "dateModified": "2021-04-19T18:13:00",
+ "author": "David Wallace",
+ "category": "C-Scope Evo 6000",
+ "categorySlug": "C-Scope_Evo_6000",
+ "tags": [],
+ "readTime": 1,
+ "summary": "C Scope Evo 6000 Review",
+ "cover": "blog/files/evo6000.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/evo6000.jpg\" alt=\"Review of the new metal detector C Scope Evo 6000 Uk\" title=\"C Scope EVO 6000 Review UK\" width=\"293\" height=\"246\">"
+  },
+  {
+   "t": "p",
+   "html": "Coming Soon Keep Checking Back as the Full C-Scope EVO 6000 Review will be available only here."
+  },
+  {
+   "t": "p",
+   "html": "Features include waterproof, Bluetooth wireless conectivity, Usb Charge port"
+  },
+  {
+   "t": "p",
+   "html": "Easy to use Menu,"
+  },
+  {
+   "t": "p",
+   "html": "You Can Buy the C Scope Evo 6000 From <a href=\"http://bit.ly/CMDMDUK\" data-kind=\"affiliate\">Crawfords Metal Detectors</a> in the UK"
+  },
+  {
+   "t": "p",
+   "html": "1. It is Waterproof"
+  },
+  {
+   "t": "p",
+   "html": "2. Easy to Navigate Menu."
+  },
+  {
+   "t": "p",
+   "html": "3. Land settings"
+  },
+  {
+   "t": "p",
+   "html": "4. Beach Settings"
+  },
+  {
+   "t": "p",
+   "html": "5. All Metal"
+  },
+  {
+   "t": "p",
+   "html": "6. Custom"
+  },
+  {
+   "t": "p",
+   "html": "7. Manaul, auto and ground tracking"
+  },
+  {
+   "t": "p",
+   "html": "8. Sensitivity adjust"
+  },
+  {
+   "t": "p",
+   "html": "9. Volume adjust"
+  },
+  {
+   "t": "p",
+   "html": "10. Bluetooth Conectivity"
+  },
+  {
+   "t": "p",
+   "html": "11. Wired headphone connection available"
+  },
+  {
+   "t": "p",
+   "html": "12. Ergonomic handle and is ideal for people with larger hands"
+  },
+  {
+   "t": "p",
+   "html": "13. HUGE easy to read screen"
+  }
+ ],
+ "images": [
+  "images/evo6000.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/CMDMDUK"
+ ]
+}

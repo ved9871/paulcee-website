@@ -1,0 +1,177 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-discrimination",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-discrimination",
+ "title": "Minelab Equinox Discrimination",
+ "seo": {
+  "title": "Minelab Equinox Discrimination - Blog",
+  "description": "Restore Missing segments on a minelab Equinox Discrimination screen, easy to follow and quick fix",
+  "keywords": "minelab equinox, discrimination settings, equinox settings, restore settings, messed up settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-discrimination",
+  "og": {
+   "title": "Minelab Equinox Discrimination",
+   "description": "Restore Missing segments on a minelab Equinox Discrimination screen, easy to follow and quick fix",
+   "image": "https://www.paulcee.co.uk/blog/files/missing-segments_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-discrimination"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-02-23T19:23:00",
+    "dateModified": "2021-02-23T19:23:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Equinox Discrimination",
+    "description": "Minelab Equinox Discrimination settings",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-discrimination",
+    "image": [
+     "https://www.paulcee.co.uk/images/missing-segments_web.jpg",
+     "https://www.paulcee.co.uk/blog/files/missing-segments_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Feb 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202102",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Discrimination",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Discrimination",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Discrimination",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-02-23T19:23:00",
+ "dateModified": "2021-02-23T19:23:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab Equinox Discrimination settings",
+ "cover": "blog/files/missing-segments_web.jpg",
+ "heroVideo": "44kWHDVk55I",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/missing-segments_web.jpg\" alt=\"how to restore missing minelab equinox discrimination settings\" title=\"Minelab Equinox Discrimination settings\" width=\"618\" height=\"464\">"
+  },
+  {
+   "t": "p",
+   "html": "you have missing discrimination segments on your minelab equinox screen, quick and easy way to restore them, easy walk through tutorial"
+  },
+  {
+   "t": "p",
+   "html": "Let us know Below if you found this tip useful.."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/CMDMDUK\" data-kind=\"affiliate\"> Crawfords Metal Detectors Discount</a> Use CODE \"PaulCee10\" in one of the Crawfords Metal Detectors Showrooms over the phone, or online to grab some money off your purchase (some items not included)."
+  }
+ ],
+ "images": [
+  "images/missing-segments_web.jpg"
+ ],
+ "videos": [
+  "44kWHDVk55I"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/CMDMDUK"
+ ]
+}

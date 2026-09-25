@@ -1,0 +1,434 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-800-4-tone-set-up",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-4-tone-set-up",
+ "title": "Minelab Equinox 800 4 tone set up",
+ "seo": {
+  "title": "Minelab Equinox 800 4 tone set up - Blog",
+  "description": "how to set up Minelab Equinox 800 to 4 tones, minelab equinox settings to change to make for better metal detecting can be used on beach or land",
+  "keywords": "minelab, equinox 800, tones, settings, beach to land settings, crawfords metal detectors, paul cee minelab",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-4-tone-set-up",
+  "og": {
+   "title": "Minelab Equinox 800 4 tone set up",
+   "description": "how to set up Minelab Equinox 800 to 4 tones, minelab equinox settings to change to make for better metal detecting can be used on beach or land",
+   "image": "https://www.paulcee.co.uk/blog/files/4-tones_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-4-tone-set-up"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-12-03T17:43:00",
+    "dateModified": "2018-12-03T17:43:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Minelab Equinox 800 4 tone set up",
+    "description": "How to Set 4 Tones Minelab Equinox 800",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-4-tone-set-up",
+    "image": [
+     "https://www.paulcee.co.uk/images/detexpert-logosml_aok62ui8.png",
+     "https://www.paulcee.co.uk/images/4-tones.jpg",
+     "https://www.paulcee.co.uk/blog/files/4-tones.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Dec 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201812",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "800",
+      "item": "https://www.paulcee.co.uk/blog/?tag=800",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "tone",
+      "item": "https://www.paulcee.co.uk/blog/?tag=tone",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "4",
+      "item": "https://www.paulcee.co.uk/blog/?tag=4",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "pitch",
+      "item": "https://www.paulcee.co.uk/blog/?tag=pitch",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "setup",
+      "item": "https://www.paulcee.co.uk/blog/?tag=setup",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "how",
+      "item": "https://www.paulcee.co.uk/blog/?tag=how",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "to",
+      "item": "https://www.paulcee.co.uk/blog/?tag=to",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 4 tone set up",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-12-03T17:43:00",
+ "dateModified": "2018-12-03T17:43:00",
+ "author": "David Wallace",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [
+  "Equinox",
+  "800",
+  "tone",
+  "4",
+  "pitch",
+  "setup",
+  "settings",
+  "how",
+  "to"
+ ],
+ "readTime": 1,
+ "summary": "How to Set 4 Tones Minelab Equinox 800",
+ "cover": "blog/files/4-tones.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_aok62ui8.png\" alt=\"crawfords metal detectors\" title=\"paul cee minelab\" width=\"245\" height=\"360\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox 4 tone settings"
+  },
+  {
+   "t": "p",
+   "html": "After reading a comment on Pauls Youtube channel, he mentioned to somebody about"
+  },
+  {
+   "t": "p",
+   "html": "Setting up a 4 Tone Detecting method.. A Reply came about that the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Equinox 800</a> has only 2 tones, 3 tones, 5 tones and 50 tones."
+  },
+  {
+   "t": "p",
+   "html": "<em> So where does the 4 tones come from? The Answer is very simple.</em>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"@crawfords-metal-detectors/\" data-kind=\"internal\"><img src=\"@img:images/4-tones.jpg\" alt=\"equinox tone settings\" title=\"Equinox 800 settings 4 tones\" width=\"223\" height=\"396\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Its all to do with how you set the Tones in the Equinox settings."
+  },
+  {
+   "t": "h3",
+   "html": "Each Tones break has a selectable tone right?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "So if you have a 5 tone setting and have the TONE BREAKS set as to where you require them if you have adjusted them as a previous post"
+  },
+  {
+   "t": "p",
+   "html": "all you then have to do is adjust one of the TONE PITCHES to the same Value as a Tone pitch next to it and hey presto you have the 4 TONES."
+  },
+  {
+   "t": "p",
+   "html": "Hope this has cleared up any confusion, if you have found it useful please leave a comment below"
+  },
+  {
+   "t": "p",
+   "html": "Thanks DW.."
+  }
+ ],
+ "images": [
+  "images/detexpert-logosml_aok62ui8.png",
+  "images/4-tones.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

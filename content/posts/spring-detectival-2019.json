@@ -1,0 +1,183 @@
+{
+ "type": "post",
+ "slug": "spring-detectival-2019",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?spring-detectival-2019",
+ "title": "Spring Detectival 2019",
+ "seo": {
+  "title": "Spring Detectival - Blog",
+  "description": "this is the rally where the Hambledon hoard is found, crawfords and minelab were in attendance with test lanes and actually did some metal detecting",
+  "keywords": "detectival, hambledon hoard, minelab equinox, metal, detector, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?spring-detectival-2019",
+  "og": {
+   "title": "Spring Detectival 2019",
+   "description": "this is the rally where the Hambledon hoard is found, crawfords and minelab were in attendance with test lanes and actually did some metal detecting",
+   "image": "https://www.paulcee.co.uk/blog/files/detectival_hammered_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?spring-detectival-2019"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-04-12T17:10:00",
+    "dateModified": "2019-04-12T17:10:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Spring Detectival 2019",
+    "description": "Metal Detecting Spring Detectival ",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?spring-detectival-2019",
+    "image": [
+     "https://www.paulcee.co.uk/images/detectival_hammered.jpg",
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_1k90lcjn.png",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/detectival_hammered.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201904",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Spring Detectival 2019",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Spring Detectival 2019",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Spring Detectival 2019",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-04-12T17:10:00",
+ "dateModified": "2019-04-12T17:10:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Metal Detecting Spring Detectival ",
+ "cover": "blog/files/detectival_hammered.jpg",
+ "heroVideo": "48yqxdN2hi8",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detectival_hammered.jpg\" alt=\"metal detecting at detectival Rally in the uk\" title=\"Metal Detecting Rally\" width=\"519\" height=\"291\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_1k90lcjn.png\" alt=\"metal detecting rally in the uk\" title=\"Metal Detecting Rally\" width=\"102\" height=\"102\">"
+  },
+  {
+   "t": "h2",
+   "html": "Spring Detectival in the UK."
+  },
+  {
+   "t": "p",
+   "html": "Already a hoard of Gold and silver coins has been found on the metal detecting rally but what will team Crawfords find with the Minelab Equinox"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"metal detecting rally\" title=\"Metal Detecting Rally\" width=\"616\" height=\"616\">"
+  }
+ ],
+ "images": [
+  "images/detectival_hammered.jpg",
+  "images/YT-thumb_2020_1k90lcjn.png",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "48yqxdN2hi8"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

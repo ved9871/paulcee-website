@@ -1,0 +1,298 @@
+{
+ "type": "post",
+ "slug": "looking-after-a-metal-detector",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?looking-after-a-metal-detector",
+ "title": "looking after a metal detector",
+ "seo": {
+  "title": "looking after a metal detector - Blog",
+  "description": "how to help stop your minelab equinox coil lugs breaking how to look after your metal detector, basic maintenance not to overlook ",
+  "keywords": "minelab equinox lugs break, metal detector maintenance, minelab coil washers, care, repair, minelab equinox coil lugs",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?looking-after-a-metal-detector",
+  "og": {
+   "title": "looking after a metal detector",
+   "description": "how to help stop your minelab equinox coil lugs breaking how to look after your metal detector, basic maintenance not to overlook ",
+   "image": "https://www.paulcee.co.uk/blog/files/coil-spacers_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?looking-after-a-metal-detector"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2022-06-25T04:52:00",
+    "dateModified": "2022-06-25T04:52:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "looking after a metal detector",
+    "description": "\"Keep your metal detector in top shape with these easy tips! Learn how to clean, store and maintain your detector to ensure it lasts for years of treasure hunting in the UK.\"",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?looking-after-a-metal-detector",
+    "image": "https://www.paulcee.co.uk/blog/files/coil-spacers_web.jpg",
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jun 2022",
+      "item": "https://www.paulcee.co.uk/blog/?month=202206",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking after a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detector maintenance",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detector maintenance",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking after a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking after a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking after a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking after a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "maintenance",
+      "item": "https://www.paulcee.co.uk/blog/?tag=maintenance",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking after a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "coil",
+      "item": "https://www.paulcee.co.uk/blog/?tag=coil",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking after a metal detector",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "washers",
+      "item": "https://www.paulcee.co.uk/blog/?tag=washers",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "looking after a metal detector",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2022-06-25T04:52:00",
+ "dateModified": "2022-06-25T04:52:00",
+ "author": "Paul Cee",
+ "category": "metal detector maintenance",
+ "categorySlug": "metal_detector_maintenance",
+ "tags": [
+  "metal",
+  "detector",
+  "maintenance",
+  "coil",
+  "washers"
+ ],
+ "readTime": 1,
+ "summary": "\"Keep your metal detector in top shape with these easy tips! Learn how to clean, store and maintain your detector to ensure it lasts for years of treasure hunting in the UK.\"",
+ "cover": "blog/files/coil-spacers_web.jpg",
+ "heroVideo": "ZaJimpj9WwI",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Basic maintenance of a metal detector"
+  },
+  {
+   "t": "p",
+   "html": "can be overlooked, but in the long run could end up costing quite alot of money just for the sake of a few minutes and a couple of pounds."
+  },
+  {
+   "t": "p",
+   "html": "One of the least things to check on a metal detector after a session is the \"<a href=\"https://bit.ly/buywashers\" data-kind=\"affiliate\">Coil Lug Washers</a>\". these small rubber washers which fit between the lower shaft and the coil lugs are easily checked and replaced."
+  },
+  {
+   "t": "p",
+   "html": "<strong>\"Metal Detector Maintenance Made Easy:</strong> Keep Your Detector in Top Shape for Treasure Hunting in the UK\""
+  }
+ ],
+ "images": [],
+ "videos": [
+  "ZaJimpj9WwI"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://bit.ly/buywashers"
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "type": "page",
+ "slug": "about-us",
+ "liveUrl": "https://www.paulcee.co.uk/about-us.html",
+ "h1": "About Us",
+ "seo": {
+  "title": "About Us",
+  "description": "Paul cee metal detecting about us",
+  "keywords": "metal detecting, minelab detexpert, crawfords metal detectors, minelab electronics, minelab metal detectors, minelab manticore",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/about-us.html",
+  "og": {
+   "title": "About Us",
+   "description": "Paul cee metal detecting about us",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/about-us.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_4m9sb6tk.png\" alt=\"paul cee minelab\" title=\"paul cee minelab\" width=\"51\" height=\"76\">"
+  },
+  {
+   "t": "h2",
+   "html": "About Paul Cee metal Detecting"
+  },
+  {
+   "t": "p",
+   "html": "Paul Cee is a metal detecting Ambassador for Crawfords Metal Detectors."
+  },
+  {
+   "t": "p",
+   "html": "A Minelab Metal Detectors brand ambassador and a Minelab Detexpert and a field tester."
+  },
+  {
+   "t": "p",
+   "html": "Paul is a popular figure in the metal detecting community in the uk and Europe."
+  },
+  {
+   "t": "p",
+   "html": "He is known for sharing his metal detecting adventures on social media platforms like instagram and youtube, amassing views of over 3.5 million."
+  },
+  {
+   "t": "p",
+   "html": "Paul Creates weekly videos for youtube about metal detecting adventures and also settings for most of the Minelab range of metal detectors including the <a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox</a>, <a href=\"@minelab-x-terra/\" data-kind=\"internal\">The minelab X-terra</a>, <a href=\"@minelab-vanquish-60-series/\" data-kind=\"internal\">minelab Vanquish</a>, the <a href=\"@minelab-manticore/\" data-kind=\"internal\">Minelab Manticore</a> and minelab Excalibur, and also the gold prospecting detectors, the gpx 5000, gpx 6000 and the gpz 7000."
+  },
+  {
+   "t": "p",
+   "html": "explaining <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">detecting techniques for beginners</a>, why coil choice is important for you detecting searches, you will also see Paul at the <a href=\"@detecting-rallies-2026/\" data-kind=\"internal\">metal detecting rallies</a> held through out the uk and some of Europe during the rally season, creating test lanes for you to try out your detector to get the optimal settings, or try out one of the range of <a href=\"@manticore-settings/\" data-kind=\"internal\">minelab metal detectors</a> available, basically free tutorials, along with Minelab and Crawfords metal detectors."
+  },
+  {
+   "t": "p",
+   "html": "Paul Does actually prefer metal detecting on the beaches, although the finds are not as old as field detecting, the challenge is still the same to find the deep older coins which is the challenge and he says they are in much better condition than what you find on fields."
+  },
+  {
+   "t": "p",
+   "html": "If you are interested in following Pauls adventures, then you can follow along on his social media and channels for the most up to date adventures."
+  }
+ ],
+ "images": [
+  "images/detexpert-logosml_4m9sb6tk.png"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

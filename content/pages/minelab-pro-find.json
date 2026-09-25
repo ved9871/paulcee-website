@@ -1,0 +1,146 @@
+{
+ "type": "page",
+ "slug": "minelab-pro-find",
+ "liveUrl": "https://www.paulcee.co.uk/minelab-pro-find.html",
+ "h1": "Minelab Pro find user guide",
+ "seo": {
+  "title": "Minelab Pro find help",
+  "description": "Minelab Pro Find, waterproof pinpointer, how to set ferrous tone on the pro find, how to factory reset a pinpointer, the best minelab pinpointer",
+  "keywords": "minelab Pro find, Minelab profind help, Minelab pro find waterproof pinpointer, metal detecting probe, set up, settings, problems, manual,  instructions",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/minelab-pro-find.html",
+  "og": {
+   "title": "Minelab Pro find user guide",
+   "description": "Minelab Pro Find, waterproof pinpointer, how to set ferrous tone on the pro find, how to factory reset a pinpointer, the best minelab pinpointer",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/minelab-pro-find.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Pro Find user guide",
+    "description": "how to set up and use a Minelab Pro find pinpointer",
+    "uploadDate": "2023-11-11T19:06:19+00:00",
+    "thumbnailUrl": "images/pro-find-web_jk74e7ij.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=TgGDcPCVXDQ",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "Minelab Pro Find 40 user guide",
+    "description": "Minelab Pro Find 40 probe, user guide and settings",
+    "uploadDate": "2025-12-29T09:14:18+00:00",
+    "thumbnailUrl": "images/pro-find-40-image-web_c5c9oig0.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=fFCVaYQ1-uE",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pro-find-web.jpg\" alt=\"how to use all the features on a minelab Go find 35 probe\" title=\"Minelab Pro find 35 user guide\" width=\"759\" height=\"532\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/pro-find-40-guide--WEB-_c4zg82n2.jpg\" alt=\"how to use, set up and fault finding on a minelab 40 pro find\" title=\"Minelab pro find 40 user guide\" width=\"760\" height=\"428\">"
+  },
+  {
+   "t": "h2",
+   "html": "The Minelab Pro Find Probe"
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Pro Find Probe Range is packed with advanced and innovative features. This tough, waterproof pinpoint probe is possibly the best on the market for metal detecting probes, with user guide,"
+  },
+  {
+   "t": "h3",
+   "html": "Pro find Features:"
+  },
+  {
+   "t": "p",
+   "html": "Waterproof to 3 m (10-ft) - Rugged waterproof design ideal for beach and river pinpointing. The perfect companion for a waterproof detector."
+  },
+  {
+   "t": "p",
+   "html": "Audio &amp; vibration indication - Audio tones and vibration intensify as the probe approaches the target making target recovery easier, The Pro Find 40 also has a Ferrous Alert to tell you there is iron nearby."
+  },
+  {
+   "t": "p",
+   "html": "Adjustable sensitivity - Five sensitivity levels allow you to precisely adjust for maximum depth and minimum noise in all ground conditions. Easily adjustable with separate +/– buttons"
+  },
+  {
+   "t": "p",
+   "html": "The Pro Find 40 has a quick retune feature to eliminate false signals."
+  },
+  {
+   "t": "p",
+   "html": "High visibility – with lost-alarm - The PRO-FIND’s bright coloured handgrip is clearly visible for easy location, so you won’t leave it behind after you dig. Quickly locate your forgotten pinpointer with the handy lost-alarm."
+  },
+  {
+   "t": "p",
+   "html": "Holster &amp; lanyard included - A lanyard and a tough, semi-rigid holster that attaches to any belt will keep your PRO-FIND at the ready"
+  },
+  {
+   "t": "p",
+   "html": "PRO-FIND range Includes:"
+  },
+  {
+   "t": "p",
+   "html": "PRO-FIND pinpointer"
+  },
+  {
+   "t": "p",
+   "html": "Holster"
+  },
+  {
+   "t": "p",
+   "html": "Lanyard"
+  },
+  {
+   "t": "p",
+   "html": "9V PP3 battery"
+  },
+  {
+   "t": "p",
+   "html": "For help setting up and using your Minelab PRO-FIND check out the videos..."
+  },
+  {
+   "t": "video",
+   "id": "TgGDcPCVXDQ",
+   "title": "minelab pro find settings, features and functions"
+  },
+  {
+   "t": "video",
+   "id": "fFCVaYQ1-uE",
+   "title": "how to use a minelab profind 40. settings an fault finding"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"minelab pro find User Guide\" title=\"minelab pro find User Guide\" width=\"770\" height=\"770\">"
+  }
+ ],
+ "images": [
+  "images/pro-find-web.jpg",
+  "images/pro-find-40-guide--WEB-_c4zg82n2.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "TgGDcPCVXDQ",
+  "fFCVaYQ1-uE"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

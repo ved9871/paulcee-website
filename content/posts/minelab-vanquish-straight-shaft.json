@@ -1,0 +1,328 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-straight-shaft",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-straight-shaft",
+ "title": "Minelab Vanquish Straight Shaft",
+ "seo": {
+  "title": "Minelab Vanquish Straight Shaft - Blog",
+  "description": "Minelab Vanquish Free straight shaft conversion, step by step tutorial",
+  "keywords": "minelab vanquish straight shaft, vanquish shaft conversion, minelab vanquish tutorial",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-straight-shaft",
+  "og": {
+   "title": "Minelab Vanquish Straight Shaft",
+   "description": "Minelab Vanquish Free straight shaft conversion, step by step tutorial",
+   "image": "https://www.paulcee.co.uk/blog/files/vanquish-shaft_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-straight-shaft"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-07-03T14:29:00",
+    "dateModified": "2021-07-03T14:29:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish Straight Shaft",
+    "description": "Minelab Vanquish STRAIGHT shaft FREE",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-straight-shaft",
+    "image": [
+     "https://www.paulcee.co.uk/images/vanquish-shaft1.jpg",
+     "https://www.paulcee.co.uk/blog/files/vanquish-shaft_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202107",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Straight",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Straight",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Shaft",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Shaft",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "How",
+      "item": "https://www.paulcee.co.uk/blog/?tag=How",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "To",
+      "item": "https://www.paulcee.co.uk/blog/?tag=To",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish Straight Shaft",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-07-03T14:29:00",
+ "dateModified": "2021-07-03T14:29:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "Minelab",
+  "Vanquish",
+  "Straight",
+  "Shaft",
+  "How",
+  "To"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Vanquish STRAIGHT shaft FREE",
+ "cover": "blog/files/vanquish-shaft_web.jpg",
+ "heroVideo": "C-amjYLUwQg",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/vanquish-shaft1.jpg\" alt=\"how to convert minelab vanquish to a straight shaft\" title=\"Minelab vanquish straight shaft free conversion\" width=\"314\" height=\"177\">"
+  },
+  {
+   "t": "h2",
+   "html": "How to convert a minelab Vanquish to a straight shaft"
+  },
+  {
+   "t": "p",
+   "html": "from the standard shaft, this method is free and is a step by step tutorial only using 2 allen keys and takes only a few minutes to complete."
+  },
+  {
+   "t": "p",
+   "html": "If you would like a complete carbon straight minelab vanquish shaft and conversion kit, FIND OUT MORE <a href=\"https://bit.ly/VanquishShaft\" data-kind=\"affiliate\">HERE</a>"
+  }
+ ],
+ "images": [
+  "images/vanquish-shaft1.jpg"
+ ],
+ "videos": [
+  "C-amjYLUwQg"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://bit.ly/VanquishShaft"
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "type": "post",
+ "slug": "minelab-vanquish-beginners-learning",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-beginners-learning",
+ "title": "Minelab Vanquish beginners learning",
+ "seo": {
+  "title": "Minelab Vanquish beginners learning - Blog",
+  "description": "learning to metal detect with a minelab vanquish metal detector",
+  "keywords": "minelab, vanquish, metal detector, beginner, 540, 560, how to",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-beginners-learning",
+  "og": {
+   "title": "Minelab Vanquish beginners learning",
+   "description": "learning to metal detect with a minelab vanquish metal detector",
+   "image": "https://www.paulcee.co.uk/blog/files/340-440_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-beginners-learning"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-06-08T16:29:00",
+    "dateModified": "2020-06-08T16:29:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Vanquish beginners learning",
+    "description": "Minelab Vanquish beginners go at it alone",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-beginners-learning",
+    "image": [
+     "https://www.paulcee.co.uk/images/340-440.jpg",
+     "https://www.paulcee.co.uk/blog/files/340-440.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jun 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202006",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish beginners learning",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish beginners learning",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish beginners learning",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish beginners learning",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "vanquish",
+      "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish beginners learning",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish beginners learning",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Vanquish beginners learning",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-06-08T16:29:00",
+ "dateModified": "2020-06-08T16:29:00",
+ "author": "Paul Cee",
+ "category": "Minelab Vanquish",
+ "categorySlug": "Minelab_Vanquish",
+ "tags": [
+  "minelab",
+  "vanquish",
+  "metal",
+  "detector"
+ ],
+ "readTime": 1,
+ "summary": "Minelab Vanquish beginners go at it alone",
+ "cover": "blog/files/340-440.jpg",
+ "heroVideo": "vYJAOOJPZtM",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/mnlbVnqush\" data-kind=\"affiliate\"><img src=\"@img:images/340-440.jpg\" alt=\"vanquish 440 metal detector uk\" title=\"vanquish metal detector on the beach\" width=\"619\" height=\"349\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Pete bought the <a href=\"@minelab-vanquish-40-series/\" data-kind=\"internal\">Minelab Vanquish 440</a> and as Buster had the Vanquish 540 i decided to put them up against each other metal detecting on the beach, lets see if either can go it alone with no input from me, the have to <a href=\"@minelab-vanquish-60-settings/\" data-kind=\"internal\">set up the Vanquish detectors</a> themselves and then we'll have a look at what they find when we all finish detecting"
+  }
+ ],
+ "images": [
+  "images/340-440.jpg"
+ ],
+ "videos": [
+  "vYJAOOJPZtM"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/mnlbVnqush"
+ ]
+}

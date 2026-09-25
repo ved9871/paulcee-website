@@ -1,0 +1,179 @@
+{
+ "type": "post",
+ "slug": "x-terra-305-beach-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?x-terra-305-beach-detecting",
+ "title": "X-Terra 305 beach detecting",
+ "seo": {
+  "title": "minelab X Terra beach detecting - Blog",
+  "description": "minelab xterra metal detector, learn to metal detect, metal detector for beginners, how to metal detect, metal detector review",
+  "keywords": "how to metal detect, metal detector for a beginner, minelab xterra, xterra metal detector, xterra 305, x terra metal detector",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?x-terra-305-beach-detecting",
+  "og": {
+   "title": "X-Terra 305 beach detecting",
+   "description": "minelab xterra metal detector, learn to metal detect, metal detector for beginners, how to metal detect, metal detector review",
+   "image": "https://www.paulcee.co.uk/blog/files/xterra1_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?x-terra-305-beach-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-10-08T17:40:00",
+    "dateModified": "2017-10-08T17:40:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "X-Terra 305 beach detecting",
+    "description": "Minelab Xterra 305, Beach Detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?x-terra-305-beach-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/xterra1_94oc4mbc.jpg",
+     "https://www.paulcee.co.uk/blog/files/xterra1.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Oct 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201710",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "X-Terra 305 beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "xterra 305 metal detector",
+      "item": "https://www.paulcee.co.uk/blog/?category=xterra 305 metal detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "X-Terra 305 beach detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "X-Terra 305 beach detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-10-08T17:40:00",
+ "dateModified": "2017-10-08T17:40:00",
+ "author": "Paul Cee",
+ "category": "xterra 305 metal detector",
+ "categorySlug": "xterra_305_metal_detector",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab Xterra 305, Beach Detecting",
+ "cover": "blog/files/xterra1.jpg",
+ "heroVideo": "jHDV-SjzJ9M",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/xterra1_94oc4mbc.jpg\" alt=\"minelab x terra beach metal detecing\" title=\"minelab x terra beach metal detecing\" width=\"626\" height=\"352\">"
+  },
+  {
+   "t": "p",
+   "html": "We Have the<a href=\"@minelab-x-terra/\" data-kind=\"internal\"> Minelab Xterra 305</a>, initial set up Review and Field test, metal detecting on the beach plenty of silver coins one a really nice find and a ring and earing, a very capable <a href=\"@minelab-vanquish-60-series/\" data-kind=\"internal\">metal detector for beginners</a>, light weight easy to set up, mainly just switch on and go, but on the dry sand and slightly wet sand it really does perform well."
+  },
+  {
+   "t": "p",
+   "html": "If you have just got into the metal detecting hobby and looking for <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">hints and tips for metal detecting</a>"
+  },
+  {
+   "t": "p",
+   "html": "we have some videos to help you on your quest to find gold"
+  },
+  {
+   "t": "p",
+   "html": "Comment Share and Subscribe for more, <a href=\"@social-sites/\" data-kind=\"internal\">follow us on social media</a>.."
+  }
+ ],
+ "images": [
+  "images/xterra1_94oc4mbc.jpg"
+ ],
+ "videos": [
+  "jHDV-SjzJ9M"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

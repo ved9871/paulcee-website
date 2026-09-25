@@ -1,0 +1,454 @@
+{
+ "type": "post",
+ "slug": "manticore-audio-themes",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?manticore-audio-themes",
+ "title": "Minelab Manticore Audio themes",
+ "seo": {
+  "title": "Minelab Manticore Audio themes - Blog",
+  "description": "Minelab Manticore Audio themes are a feature to customise the manticore audio and are fully adjustable to suit where you are metal detecting",
+  "keywords": "Minelab manticore, manticore audio, audio themes, manticore settings, manticore tones.",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?manticore-audio-themes",
+  "og": {
+   "title": "Minelab Manticore Audio themes",
+   "description": "Minelab Manticore Audio themes are a feature to customise the manticore audio and are fully adjustable to suit where you are metal detecting",
+   "image": "https://www.paulcee.co.uk/blog/files/manticore-audio_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?manticore-audio-themes"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2023-12-31T11:33:00",
+    "dateModified": "2023-12-31T11:33:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Manticore Audio themes",
+    "description": "Minelab Manticore Audio themes Explained",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?manticore-audio-themes",
+    "image": [
+     "https://www.paulcee.co.uk/images/YT-thumb_2020_uz68mhvn.png",
+     "https://www.paulcee.co.uk/images/detexpert-logosml_l5w8vdd6.png",
+     "https://www.paulcee.co.uk/images/audio-mormal_gqt0mugx.jpg",
+     "https://www.paulcee.co.uk/images/audio-enhanced_y6knf6sx.jpg",
+     "https://www.paulcee.co.uk/images/audio-depth_nbx9sajt.jpg",
+     "https://www.paulcee.co.uk/images/audio-prospecting_prwmyzba.jpg",
+     "https://www.paulcee.co.uk/images/audio-mormal.jpg",
+     "https://www.paulcee.co.uk/images/audio-enhanced.jpg",
+     "https://www.paulcee.co.uk/images/audio-depth.jpg",
+     "https://www.paulcee.co.uk/images/audio-prospecting.jpg",
+     "https://www.paulcee.co.uk/blog/files/manticore-audio.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Dec 2023",
+      "item": "https://www.paulcee.co.uk/blog/?month=202312",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Audio themes",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab manticore settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=minelab manticore settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Audio themes",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore Audio themes",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2023-12-31T11:33:00",
+ "dateModified": "2023-12-31T11:33:00",
+ "author": "Paul Cee",
+ "category": "minelab manticore settings",
+ "categorySlug": "minelab_manticore_settings",
+ "tags": [],
+ "readTime": 6,
+ "summary": "Minelab Manticore Audio themes Explained",
+ "cover": "blog/files/manticore-audio.jpg",
+ "heroVideo": "LCpycVN4Edg",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/YT-thumb_2020_uz68mhvn.png\" alt=\"Explain audio themes on the minelab manticore\" title=\"minelab manticore audio themes\" width=\"140\" height=\"140\">"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detexpert-logosml_l5w8vdd6.png\" alt=\"how to set up and choose the audio themes for minelab manticore\" title=\"paul cee minelab manticore settings\" width=\"96\" height=\"143\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Manticore audio themes and threshold settings explained"
+  },
+  {
+   "t": "p",
+   "html": "Looking at what are the choices of settings for Normal audio, enhanced audio, depth audio , threshold levels including a reference threshold, True threshold tones and more."
+  },
+  {
+   "t": "p",
+   "html": "to help you set up your minelab manticore."
+  },
+  {
+   "t": "h3",
+   "html": "The Normal Audio Theme"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/audio-mormal_gqt0mugx.jpg\" alt=\"which audio themes are used on the minelab manticore\" title=\"minelab manticore audio theme normal\" width=\"184\" height=\"184\">"
+  },
+  {
+   "t": "p",
+   "html": "Is a good choice for everyday detecting. It gives full sounding audio responses that vary in both pitch and volume."
+  },
+  {
+   "t": "p",
+   "html": "The pitch of audio responses is determined by the Target ID as defined by the Target Tones setting"
+  },
+  {
+   "t": "p",
+   "html": "The volume of audio responses is modulated according to the signal strength/depth of the target."
+  },
+  {
+   "t": "p",
+   "html": "With strong/shallow targets giving a louder response than a smaller or deeper target."
+  },
+  {
+   "t": "h4",
+   "html": "Enhanced Audio Theme"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/audio-enhanced_y6knf6sx.jpg\" alt=\"setting for enhanced audio on a minelab manticore\" title=\"minelab manticore enhanced audio\" width=\"183\" height=\"183\">"
+  },
+  {
+   "t": "p",
+   "html": "Is similar to Normal, but is optimised for detecting in high EMI scenarios."
+  },
+  {
+   "t": "p",
+   "html": "Weak detection like EMI chatter will remain audible,"
+  },
+  {
+   "t": "p",
+   "html": "but will have a modulated audio sound that will sound more"
+  },
+  {
+   "t": "p",
+   "html": "'thin' or 'tinny' than stronger detections (similar to using the filter in the stabiliser feature)"
+  },
+  {
+   "t": "p",
+   "html": "This has the effect of suppressing EMI chatter, making it easier to listen"
+  },
+  {
+   "t": "p",
+   "html": "through, to hear non random signals that consistently repeat with each swing."
+  },
+  {
+   "t": "p",
+   "html": "Larger signals from strong/shallow targets will sound more prompt, similar to the Normal Audio Theme."
+  },
+  {
+   "t": "p",
+   "html": "This Audio Theme can also allow users to increase Sensitivity (in EMI-limited locations) higher than would be possible using the Normal Audio Theme (should you not want to use the Stabiliser Feature)"
+  },
+  {
+   "t": "p",
+   "html": "The pitch of audio responses is determined by the Target ID"
+  },
+  {
+   "t": "p",
+   "html": "as defined by the Target Tones setting."
+  },
+  {
+   "t": "p",
+   "html": "Choose the amount of frequency modulation by changing"
+  },
+  {
+   "t": "p",
+   "html": "the Profile."
+  },
+  {
+   "t": "p",
+   "html": "This Theme uses a Reference threshold tone that blanks for rejected targets when used with FERROUS LIMITS and DISCRIMINATION."
+  },
+  {
+   "t": "p",
+   "html": "The Depth Audio Theme."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/audio-depth_nbx9sajt.jpg\" alt=\"minelab manticore audio theme depth setting\" title=\"minelab manticore depth setting\" width=\"175\" height=\"175\">"
+  },
+  {
+   "t": "p",
+   "html": "Is useful for improved target separation at land sites that contain high amounts of ferrous content."
+  },
+  {
+   "t": "p",
+   "html": "The Target Tones setting is disabled when using"
+  },
+  {
+   "t": "p",
+   "html": "the Depth Audio Theme. This is the 1 region all tones 2 regions all tones and also the normal tone settings."
+  },
+  {
+   "t": "p",
+   "html": "To enable Target Tones, change the Audio Theme to Normal or Enhanced."
+  },
+  {
+   "t": "p",
+   "html": "If used with a low conductor mode and higher recovery speed this is a superb tone profiles for detecting very small targets, but will not suit everybodys detecting style."
+  },
+  {
+   "t": "p",
+   "html": "The pitch of non‑ferrous targets varies continuously according to the signal strength or depth of the target. (I like to use a Min pitch of 25 and Max of 64)"
+  },
+  {
+   "t": "p",
+   "html": "Weaker non‑ferrous signals will have a lower pitch and stronger signals will have a higher pitch. Ferrous targets will have a low pitch response."
+  },
+  {
+   "t": "p",
+   "html": "The Ferrous Pitch Minimum Pitch (non‑ferrous) and Maximum Pitch (non‑ferrous) are adjustable. The amount of volume modulation can be modified using the"
+  },
+  {
+   "t": "p",
+   "html": "Profile setting."
+  },
+  {
+   "t": "p",
+   "html": "This theme uses a Reference threshold tone that blanks for rejected targets."
+  },
+  {
+   "t": "p",
+   "html": "You can adjust the Threshold Level and Threshold Pitch."
+  },
+  {
+   "t": "h3",
+   "html": "The Depth Theme Pitch Settings",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "The Depth theme has additional unique settings that allow you to control the pitch of ferrous tones, and to set the minimum and maximum pitch of conductive tones."
+  },
+  {
+   "t": "p",
+   "html": "The Depth pitch settings have a range from 1 to 64."
+  },
+  {
+   "t": "p",
+   "html": "The Ferrous Pitch cannot be set higher than the Min Pitch."
+  },
+  {
+   "t": "p",
+   "html": "If you cannot adjust the Ferrous Pitch (the arrows are greyed out and there is an invalid button press tone)"
+  },
+  {
+   "t": "p",
+   "html": "Inside the audio theme settings are also some more audio settings."
+  },
+  {
+   "t": "p",
+   "html": "The Profile setting for an Audio Theme controls how much"
+  },
+  {
+   "t": "p",
+   "html": "the audio signal is modulated for signal strength (or target depth)."
+  },
+  {
+   "t": "p",
+   "html": "In Normal and Depth Audio Themes, the volume of the audio is modulated (weaker targets have lower volume)."
+  },
+  {
+   "t": "p",
+   "html": "In Enhanced Audio Theme, the frequency content of the audio is modulated (weaker targets sound tinnier)."
+  },
+  {
+   "t": "p",
+   "html": "Simple."
+  },
+  {
+   "t": "p",
+   "html": "When the Profile is set to Simple, there is minimal modulation of weak/deep targets."
+  },
+  {
+   "t": "p",
+   "html": "All but the weakest ordeepest targets will sound similar to shallow/strong targets."
+  },
+  {
+   "t": "p",
+   "html": "Medium."
+  },
+  {
+   "t": "p",
+   "html": "When the Profile is set to Medium, there is a moderate amount of modulation applied."
+  },
+  {
+   "t": "p",
+   "html": "Medium depth to weakest and deepest targets will sound different to very shallow and loud targets."
+  },
+  {
+   "t": "p",
+   "html": "Rich."
+  },
+  {
+   "t": "p",
+   "html": "When the Profile is set to Rich, there is a large amount of modulation applied. Weakest and deepest targets will sound different to medium depth targets and both of these will also sound different to very shallow and strong targets."
+  },
+  {
+   "t": "p",
+   "html": "These Audio themes are NOT AVAILABLE in the prosecting mode."
+  },
+  {
+   "t": "h4",
+   "html": "<br>Prospecting Theme"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/audio-prospecting_prwmyzba.jpg\" alt=\"using the prospecting theme on a minelab manticore\" title=\"minelab prospecting audio minelab manticore\" width=\"166\" height=\"166\">"
+  },
+  {
+   "t": "p",
+   "html": "Is useful when maximum sensitivity to weak targets is beneficial, such as for gold prospecting or hunting for fine jewellery at the beach."
+  },
+  {
+   "t": "p",
+   "html": "This theme is best used at low trash sites. as it is quite suseptible to detecting coke."
+  },
+  {
+   "t": "p",
+   "html": "The Target Tones setting (as Mentioned Above) is disabled when using the Prospecting Audio Theme."
+  },
+  {
+   "t": "p",
+   "html": "To enable Target Tones change the Audio Theme to Normal or Enhanced."
+  },
+  {
+   "t": "p",
+   "html": "The pitch of audio responses varies continuously according to the signal strength (or depth) of the target, and whether it is ferrous."
+  },
+  {
+   "t": "p",
+   "html": "The Ferrous Tone setting allows the ferrous tones to be turned Off. This means that when detecting in All Metal, ferrous targets will not give a ferrous tone, and instead will give a regular detection tone. This is a useful feature when searching for gold, because very weak gold targets can be pulled into the ferrous region by nearby ferrous targets or by the ground signal from highly mineralised ground. By"
+  },
+  {
+   "t": "p",
+   "html": "turning Ferrous Tones Off, the gold signals will be more clearly audible."
+  },
+  {
+   "t": "p",
+   "html": "This theme uses a True Threshold Tone that provides maximum sensitivity to weak targets. You can adjust the threshold level and pitch to suit you."
+  },
+  {
+   "t": "p",
+   "html": "As always when you 1st start you journey with the minelab manticore, it is best to start out with the PRESET modes, and as you gain experience the start to change settings to suit you."
+  },
+  {
+   "t": "p",
+   "html": "Check out the video on where to find all these settings and how to change them."
+  }
+ ],
+ "images": [
+  "images/YT-thumb_2020_uz68mhvn.png",
+  "images/detexpert-logosml_l5w8vdd6.png",
+  "images/audio-mormal_gqt0mugx.jpg",
+  "images/audio-enhanced_y6knf6sx.jpg",
+  "images/audio-depth_nbx9sajt.jpg",
+  "images/audio-prospecting_prwmyzba.jpg"
+ ],
+ "videos": [
+  "LCpycVN4Edg"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

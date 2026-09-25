@@ -1,0 +1,388 @@
+{
+ "type": "post",
+ "slug": "equinox-800-5-hammered-coins",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-800-5-hammered-coins",
+ "title": "Equinox 800 5 hammered coins",
+ "seo": {
+  "title": "Equinox 800 5 hammered coins - Blog",
+  "description": "settings for the minelab equinox and hammered coins, today we found 5 hammered coins with the minelab equinox",
+  "keywords": "equinox hammered coins, minelab equinox hammered coin settings, paul cee minelab equinox, crawfords metal detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-800-5-hammered-coins",
+  "og": {
+   "title": "Equinox 800 5 hammered coins",
+   "description": "settings for the minelab equinox and hammered coins, today we found 5 hammered coins with the minelab equinox",
+   "image": "https://www.paulcee.co.uk/blog/files/5_hammeredweb_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-800-5-hammered-coins"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-08-28T19:52:00",
+    "dateModified": "2019-08-28T19:52:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "Equinox 800 5 hammered coins",
+    "description": "5 hammered coins found metal detecting uk",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-800-5-hammered-coins",
+    "image": [
+     "https://www.paulcee.co.uk/images/5_hammeredweb.jpg",
+     "https://www.paulcee.co.uk/images/small-logo.jpg",
+     "https://www.paulcee.co.uk/blog/files/5_hammeredweb.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201908",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "800",
+      "item": "https://www.paulcee.co.uk/blog/?tag=800",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "600",
+      "item": "https://www.paulcee.co.uk/blog/?tag=600",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox 800 5 hammered coins",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-08-28T19:52:00",
+ "dateModified": "2019-08-28T19:52:00",
+ "author": "David Wallace",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [
+  "minelab",
+  "equinox",
+  "uk",
+  "800",
+  "600",
+  "uk",
+  "metal",
+  "detecting"
+ ],
+ "readTime": 1,
+ "summary": "5 hammered coins found metal detecting uk",
+ "cover": "blog/files/5_hammeredweb.jpg",
+ "heroVideo": "UAkXo4GL8sQ",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"@minelab-equinox/\" data-kind=\"internal\"><img src=\"@img:images/5_hammeredweb.jpg\" alt=\"how to find hammered coins metal detecting\" title=\"how to find hammered coins metal detecting\" width=\"321\" height=\"181\"></a>"
+  },
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/small-logo.jpg\" alt=\"how to find hammered coins metal detecting\" title=\"paul cee metal detecting\" width=\"226\" height=\"226\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab Equinox hammered coins"
+  },
+  {
+   "t": "p",
+   "html": "A Day out metal detecting with the <a href=\"@minelab-equinox/\" data-kind=\"internal\">MINELAB EQUINOX 800</a> metal detecting stubble fields and ploughed"
+  },
+  {
+   "t": "p",
+   "html": "fields."
+  },
+  {
+   "t": "p",
+   "html": "Equinox settings are made as field and conditions predicts not using billy bobs deep finds surface master hammy sniffing program.... be warned set up your detector for where you are detecting"
+  }
+ ],
+ "images": [
+  "images/5_hammeredweb.jpg",
+  "images/small-logo.jpg"
+ ],
+ "videos": [
+  "UAkXo4GL8sQ"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "type": "post",
+ "slug": "amazing-beach-detecting-find",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?amazing-beach-detecting-find",
+ "title": "amazing beach detecting find",
+ "seo": {
+  "title": "amazing beach detecting find - Blog",
+  "description": "Found beach metal detecting in the uk with a Minelab GPX 5000, an amazing metal detecting find",
+  "keywords": "Minelab, GPX, GPX 5000, metal, detecting, uk, beach",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?amazing-beach-detecting-find",
+  "og": {
+   "title": "amazing beach detecting find",
+   "description": "Found beach metal detecting in the uk with a Minelab GPX 5000, an amazing metal detecting find",
+   "image": "https://www.paulcee.co.uk/blog/files/WEB_badge_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?amazing-beach-detecting-find"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2021-04-18T09:49:00",
+    "dateModified": "2021-04-18T09:49:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "amazing beach detecting find",
+    "description": "Minelab GPX 5000 amazing find",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?amazing-beach-detecting-find",
+    "image": [
+     "https://www.paulcee.co.uk/images/gpx-2.jpg",
+     "https://www.paulcee.co.uk/blog/files/WEB_badge.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Apr 2021",
+      "item": "https://www.paulcee.co.uk/blog/?month=202104",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "amazing beach detecting find",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab GPX 5000",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab GPX 5000",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "amazing beach detecting find",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "amazing beach detecting find",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2021-04-18T09:49:00",
+ "dateModified": "2021-04-18T09:49:00",
+ "author": "Paul Cee",
+ "category": "Minelab GPX 5000",
+ "categorySlug": "Minelab_GPX_5000",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab GPX 5000 amazing find",
+ "cover": "blog/files/WEB_badge.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/gpx-2.jpg\" alt=\"amazing WW1 cap badge found metal detecting on a beach with the minelab GPX 5000\" title=\"Minelab GPX 5000 uk\" width=\"256\" height=\"144\">"
+  },
+  {
+   "t": "h2",
+   "html": "Minelab GPX 5000 beach detecting uk"
+  },
+  {
+   "t": "p",
+   "html": "Recovering history with a Metal Detector. An Amazing WW1 Military Cap Badge Found Beach metal Detecting Uk, with the Minelab GPX 5000, This is what Metal Detecting is all about."
+  },
+  {
+   "t": "video",
+   "id": "AruXoJYh8Vo",
+   "title": "YouTube video player"
+  },
+  {
+   "t": "p",
+   "html": "👉 Crawfords Metal Detecting Discount Use CODE \"PaulCee10\" in one of the Crawfords Metal Detectors Showrooms over the phone📞, or online 🖥 to grab some money off your purchase 💰 (some items not included)."
+  }
+ ],
+ "images": [
+  "images/gpx-2.jpg"
+ ],
+ "videos": [
+  "AruXoJYh8Vo"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

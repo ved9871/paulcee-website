@@ -1,0 +1,453 @@
+{
+ "type": "post",
+ "slug": "equinox-900-setting-up",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-900-setting-up",
+ "title": "equinox 900 setting up",
+ "seo": {
+  "title": "setting up equinox 900 - Blog",
+  "description": "setting up a Minelab Equinox 900, for metal detecting, looking at the function of the buttons and what they do, and how to change settings.",
+  "keywords": "equinox 900, minelab equinox settings, nox 900, buttons, settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-900-setting-up",
+  "og": {
+   "title": "equinox 900 setting up",
+   "description": "setting up a Minelab Equinox 900, for metal detecting, looking at the function of the buttons and what they do, and how to change settings.",
+   "image": "https://www.paulcee.co.uk/blog/files/eqx-900-buttons_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-900-setting-up"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2023-01-29T18:50:00",
+    "dateModified": "2023-01-29T18:50:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "equinox 900 setting up",
+    "description": "In this post, we'll be talking about the buttons on the Minelab equinox 900 metal detector. We'll go over how to properly set up your detector for the best results. So, if you're a metal detecting enthusiast in the UK, keep reading!",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-900-setting-up",
+    "image": [
+     "https://www.paulcee.co.uk/images/eqx-900-buttons.jpg",
+     "https://www.paulcee.co.uk/blog/files/eqx-900-buttons.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2023",
+      "item": "https://www.paulcee.co.uk/blog/?month=202301",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 900 settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox 900 settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "UK",
+      "item": "https://www.paulcee.co.uk/blog/?tag=UK",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "900",
+      "item": "https://www.paulcee.co.uk/blog/?tag=900",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Setting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Setting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Up",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Up",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Buttons.",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Buttons.",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "equinox 900 setting up",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2023-01-29T18:50:00",
+ "dateModified": "2023-01-29T18:50:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox 900 settings",
+ "categorySlug": "Minelab_Equinox_900_settings",
+ "tags": [
+  "Metal",
+  "Detecting",
+  "UK",
+  "Equinox",
+  "900",
+  "Setting",
+  "Up",
+  "Minelab",
+  "Buttons."
+ ],
+ "readTime": 2,
+ "summary": "In this post, we'll be talking about the buttons on the Minelab equinox 900 metal detector. We'll go over how to properly set up your detector for the best results. So, if you're a metal detecting enthusiast in the UK, keep reading!",
+ "cover": "blog/files/eqx-900-buttons.jpg",
+ "heroVideo": "Q1jp2mquvGk",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "What do the buttons on the Equinox 900 do"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/eqx-900-buttons.jpg\" alt=\"what do the buttons on the equinox 900 do and how they change settings\" title=\"Equinox 900 settings\" width=\"225\" height=\"126\">"
+  },
+  {
+   "t": "p",
+   "html": "This time we look at all the button functions of the Minelab equinox 900, and what they change on the metal detector."
+  },
+  {
+   "t": "p",
+   "html": "All the icons on the screen and what they mean to you, the depth indicator, the target id screen."
+  },
+  {
+   "t": "p",
+   "html": "How to turn on the wireless headphones connection"
+  },
+  {
+   "t": "p",
+   "html": "<strong>\"Get the Most Out of Your Metal Detector:</strong> Equinox 900 Setting Up Guide\""
+  },
+  {
+   "t": "h3",
+   "html": "About the Minelab Equinox 900"
+  },
+  {
+   "t": "p",
+   "html": "The Minelab Equinox 900 metal detector known for its versatility and advanced features. Here are some of its key features:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Multi-IQ Technology:</strong> This technology allows the detector to simultaneously use multiple frequencies, enhancing its ability to find a wide range of targets in various ground conditions."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Waterproof Design:</strong> The Equinox 900 is fully submersible, allowing you to use it in water up to 5 meters (15 feet) deep. This makes it suitable for beach and underwater detecting."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Multiple Search Modes:</strong> It offers several search modes, including Park, Beach, Field, Gold, and Custom modes, allowing users to optimise settings for different environments and target types."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Wireless Audio:</strong> It has built-in wireless technology, enabling wireless audio transmission to compatible headphones or speakers for convenience and freedom of movement, and can be used with the Minelab WM09 Wireless module for more freedom from a wired connection."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Adjustable Settings:</strong> Users can adjust various settings such as sensitivity, discrimination, and target identification to suit their preferences and specific detecting needs."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Lightweight and Ergonomic:</strong> The Equinox 900 is designed to be lightweight and ergonomic, making it comfortable for extended use during detecting sessions."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Rechargeable Battery:</strong> It comes with a rechargeable lithium-ion battery, providing long detecting sessions without the need for frequent battery replacements."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Target Identification and Depth Indicator:</strong> The detector provides visual and audio cues to identify different types of targets and estimates target depths to help users locate items more efficiently."
+  },
+  {
+   "t": "p",
+   "html": "Overall, the Equinox 900 is praised for its adaptability across different terrains and its ability to find various types of targets, making it a popular choice among metal detectorists."
+  }
+ ],
+ "images": [
+  "images/eqx-900-buttons.jpg"
+ ],
+ "videos": [
+  "Q1jp2mquvGk"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

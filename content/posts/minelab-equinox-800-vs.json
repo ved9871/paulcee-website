@@ -1,0 +1,179 @@
+{
+ "type": "post",
+ "slug": "minelab-equinox-800-vs",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-vs",
+ "title": "Minelab Equinox 800 vs",
+ "seo": {
+  "title": "Minelab Equinox 800 vs Seahunter - Blog",
+  "description": "Minelab Equinox 800 vs Garrett seahunter Mk 2",
+  "keywords": "minelab, equinox 800, garrett, seahunter, metal detector, equinox beach settings",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-vs",
+  "og": {
+   "title": "Minelab Equinox 800 vs",
+   "description": "Minelab Equinox 800 vs Garrett seahunter Mk 2",
+   "image": "https://www.paulcee.co.uk/blog/files/buster-gold_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-vs"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-07-13T10:38:00",
+    "dateModified": "2019-07-13T10:38:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab Equinox 800 vs",
+    "description": "Minelab Equinox 800 and Garrett Seahunter MK 2 beach metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-vs",
+    "image": [
+     "https://www.paulcee.co.uk/images/buster-gold_web.jpg",
+     "https://www.paulcee.co.uk/blog/files/buster-gold_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201907",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 vs",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 vs",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox 800 vs",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-07-13T10:38:00",
+ "dateModified": "2019-07-13T10:38:00",
+ "author": "Paul Cee",
+ "category": "Equinox detecting",
+ "categorySlug": "Equinox_detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Minelab Equinox 800 and Garrett Seahunter MK 2 beach metal detecting",
+ "cover": "blog/files/buster-gold_web.jpg",
+ "heroVideo": "l0pUWGIDWwU",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/buster-gold_web.jpg\" alt=\"Equinox 800 vs garrett seahunter\" title=\"Equinox 800 vs garrett seahunter\" width=\"624\" height=\"349\">"
+  },
+  {
+   "t": "h2",
+   "html": "Beach metal detecting."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"@minelab-equinox/\" data-kind=\"internal\">Minelab Equinox 800</a> takes on the Garrett Sea Hunter MKii"
+  },
+  {
+   "t": "p",
+   "html": "a chilly day to start with metal detecting lincolnshire beaches."
+  },
+  {
+   "t": "p",
+   "html": "Equinox 800 and <a href=\"@coiltek-nox-18-inch-coil/\" data-kind=\"internal\">15 inch coil </a>takes on the Garrett Seahunter MK2 with standard coil one of these detectors finds gold on this outing."
+  }
+ ],
+ "images": [
+  "images/buster-gold_web.jpg"
+ ],
+ "videos": [
+  "l0pUWGIDWwU"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

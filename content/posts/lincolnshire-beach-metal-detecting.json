@@ -1,0 +1,295 @@
+{
+ "type": "post",
+ "slug": "lincolnshire-beach-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?lincolnshire-beach-metal-detecting",
+ "title": "lincolnshire beach metal detecting",
+ "seo": {
+  "title": "lincolnshire beach metal detecting - Blog",
+  "description": "metal detecting lincolnshire beach at cleethorpes with a minelab ctx 3030",
+  "keywords": "metal detecting uk, beach detecting uk, best beach to metal detect lincolnshire, minelab ctx 3030",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?lincolnshire-beach-metal-detecting",
+  "og": {
+   "title": "lincolnshire beach metal detecting",
+   "description": "metal detecting lincolnshire beach at cleethorpes with a minelab ctx 3030",
+   "image": "https://www.paulcee.co.uk/blog/files/ctx3030_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?lincolnshire-beach-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-08-27T12:37:00",
+    "dateModified": "2019-08-27T12:37:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "lincolnshire beach metal detecting",
+    "description": "Cleethorpes beach metal detecting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?lincolnshire-beach-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/untitled--6-of-6-.jpg",
+     "https://www.paulcee.co.uk/blog/files/ctx3030.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201908",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "lincolnshire beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "lincolnshire beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "lincolnshire beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Cleethorpes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Cleethorpes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "lincolnshire beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach",
+      "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "lincolnshire beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "lincolnshire beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "lincolnshire beach metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "southwold",
+      "item": "https://www.paulcee.co.uk/blog/?tag=southwold",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "lincolnshire beach metal detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-08-27T12:37:00",
+ "dateModified": "2019-08-27T12:37:00",
+ "author": "David Wallace",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [
+  "Cleethorpes",
+  "beach",
+  "metal",
+  "detecting",
+  "southwold"
+ ],
+ "readTime": 1,
+ "summary": "Cleethorpes beach metal detecting",
+ "cover": "blog/files/ctx3030.png",
+ "heroVideo": "JM6XH2uFmKU",
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/untitled--6-of-6-.jpg\" alt=\"metal detecting cleethorpes\" title=\"cleethorpes beach metal detecting 2025\" width=\"626\" height=\"352\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "More slim picking from the lincolnshire coast.. a legless soldier, and gun live .303 round and pre decimal coinage, found with the <a href=\"@ctx3030/\" data-kind=\"internal\">minelab Ctx3030</a> and dug with the <a href=\"@sand-scoops-for-metal-detecting/\" data-kind=\"internal\">Evolution sandscoop</a>"
+  }
+ ],
+ "images": [
+  "images/untitled--6-of-6-.jpg"
+ ],
+ "videos": [
+  "JM6XH2uFmKU"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

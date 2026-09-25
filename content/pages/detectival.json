@@ -1,0 +1,138 @@
+{
+ "type": "page",
+ "slug": "detectival",
+ "liveUrl": "https://www.paulcee.co.uk/detectival.html",
+ "h1": "Detectival",
+ "seo": {
+  "title": "Detectival",
+  "description": "Metal Detecting Rally DETECTIVAL",
+  "keywords": "detectival, metal detecting, metal detecting events, metal detecting rally this year",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/detectival.html",
+  "og": {
+   "title": "Detectival",
+   "description": "Metal Detecting Rally DETECTIVAL",
+   "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+   "type": "website",
+   "url": "http://192.168.0.55:8080/detectival.html"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "VideoObject",
+    "name": "hambledon hoard LIVE",
+    "description": "finding the hamblendon hoard, a hoard of gold and silver hammered coins",
+    "uploadDate": "2023-11-11T20:20:53+00:00",
+    "thumbnailUrl": "images/hoard1_yz3s0ooy.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=vauNSRHsiMk",
+    "@context": "https://schema.org"
+   },
+   {
+    "@type": "VideoObject",
+    "name": "hambledon hoard at detectival",
+    "description": "Detectival metal detecting rally has produced some amazing finds including the HAMBLEDON HOARD of gold and silver coins",
+    "uploadDate": "2023-11-11T20:24:04+00:00",
+    "thumbnailUrl": "images/hoard_4_q3q7bear.jpg",
+    "contentUrl": "http://www.youtube.com/watch?v=49lbEIUvU3c",
+    "@context": "https://schema.org"
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/2026-thumb_fi4vubdi.jpg\" alt=\"What alternatives are there to Detectival Rally in 2026\" title=\"Detectival Rally 2026\" width=\"320\" height=\"320\">"
+  },
+  {
+   "t": "p",
+   "html": "Detectival 2026, location and dates, please note."
+  },
+  {
+   "t": "p",
+   "html": "With the announcement that Detectival 2026 in the Uk will not go ahead this year, what alternatives will there be."
+  },
+  {
+   "t": "p",
+   "html": "The BEST alternative this summer for a metal detecting rally will be the <a href=\"@minelab-500-rally/\" data-kind=\"internal\">MINELAB 500</a>, you can find more information <a href=\"@minelab-500-rally/\" data-kind=\"internal\">here..</a>"
+  },
+  {
+   "t": "p",
+   "html": "The list has plenty of weekly club digs and also big detecting weekenders, so you should find and event to suit your needs"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/detectival_2026.jpg\" alt=\"Details of Detectival 2026, the biggest and best metal detecting rally in Europe, and what is the best alternative\" title=\"Detectival 2026 details\" width=\"365\" height=\"365\">"
+  },
+  {
+   "t": "h3",
+   "html": "DETECTIVAL Metal Detecting rally in the U.K"
+  },
+  {
+   "t": "p",
+   "html": "<strong>DETECTIVAL:</strong> The UK's Premier Metal Detecting Event"
+  },
+  {
+   "t": "p",
+   "html": "Where History is Discovered."
+  },
+  {
+   "t": "p",
+   "html": "Welcome to the DETECTIVAL Page, one of Europe’s largest and most anticipated Yearly metal detecting rallies. Detectival bring together enthusiasts from around the globe for an unforgettable weekend of history, community, and discovery in the United Kingdom."
+  },
+  {
+   "t": "p",
+   "html": "Details for Detectival 2026 coming soon."
+  },
+  {
+   "t": "video",
+   "id": "vauNSRHsiMk",
+   "title": "finding the HAMBLEDON HOARD"
+  },
+  {
+   "t": "h2",
+   "html": "LIVE footage from Detectival and the finding of the Hambledon Hoard"
+  },
+  {
+   "t": "p",
+   "html": "<strong>HISTORY MADE LIVE:</strong> The Hambledon Hoard In 2019, the atmosphere at Detectival UK changed forever. Right there in the fields, amidst the buzz of the rally, the Hambledon Hoard was unearthed LIVE. Participants watched in awe as 12 Gold Coins and over 600 Silver Hammered Coins saw sunlight for the first time in centuries. It wasn't just a find; it was a phenomenon."
+  },
+  {
+   "t": "video",
+   "id": "49lbEIUvU3c",
+   "title": "Hambledon hoard at detectival"
+  },
+  {
+   "t": "h3",
+   "html": "Hambledon hoard 2019 live footage of treasure finds"
+  },
+  {
+   "t": "p",
+   "html": "<strong>WATCH:</strong> The Hambledon Hoard Discovery LIVE 🎥 Relive the chaos and the glory of Detectival 2019. Watch the raw reaction footage as the \"Hambledon Hoard\" is unearthed—featuring the discovery of 12 Gold Coins and over 600 Silver Hammered Coins. This is what metal detecting is all about."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Detectival metal detecting rally 2026 details\" title=\"Metal Detecting rally 2026\" width=\"365\" height=\"365\">"
+  }
+ ],
+ "images": [
+  "images/2026-thumb_fi4vubdi.jpg",
+  "images/detectival_2026.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "vauNSRHsiMk",
+  "49lbEIUvU3c"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

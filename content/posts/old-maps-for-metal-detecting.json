@@ -1,0 +1,400 @@
+{
+ "type": "post",
+ "slug": "old-maps-for-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?old-maps-for-metal-detecting",
+ "title": "old maps for metal detecting",
+ "seo": {
+  "title": "old maps for metal detecting - Blog",
+  "description": "Maps for metal detecting reasearch, with side by side maps and lidar maps.",
+  "keywords": "Lidar Map, Metal detecting research, old maps, treasure hunting map",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?old-maps-for-metal-detecting",
+  "og": {
+   "title": "old maps for metal detecting",
+   "description": "Maps for metal detecting reasearch, with side by side maps and lidar maps.",
+   "image": "https://www.paulcee.co.uk/blog/files/research_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?old-maps-for-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-01-29T07:34:00",
+    "dateModified": "2020-01-29T07:34:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "old maps for metal detecting",
+    "description": "How to use old maps to find treasure for metal detecting research and treasure hunting",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?old-maps-for-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/research_web.jpg",
+     "https://www.paulcee.co.uk/blog/files/research_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202001",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal detecting research",
+      "item": "https://www.paulcee.co.uk/blog/?category=metal detecting research",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "old",
+      "item": "https://www.paulcee.co.uk/blog/?tag=old",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "maps",
+      "item": "https://www.paulcee.co.uk/blog/?tag=maps",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "research",
+      "item": "https://www.paulcee.co.uk/blog/?tag=research",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "how",
+      "item": "https://www.paulcee.co.uk/blog/?tag=how",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "to",
+      "item": "https://www.paulcee.co.uk/blog/?tag=to",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "lidar",
+      "item": "https://www.paulcee.co.uk/blog/?tag=lidar",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "old maps for metal detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-01-29T07:34:00",
+ "dateModified": "2020-01-29T07:34:00",
+ "author": "Paul Cee",
+ "category": "metal detecting research",
+ "categorySlug": "metal_detecting_research",
+ "tags": [
+  "old",
+  "maps",
+  "metal",
+  "detecting",
+  "research",
+  "how",
+  "to",
+  "lidar"
+ ],
+ "readTime": 1,
+ "summary": "How to use old maps to find treasure for metal detecting research and treasure hunting",
+ "cover": "blog/files/research_web.jpg",
+ "heroVideo": "-v_ye2cnzOc",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/research_web.jpg\" alt=\"old maps for metal detecting research\" title=\"metal detecting research Maps\" width=\"285\" height=\"161\">"
+  },
+  {
+   "t": "h2",
+   "html": "Metal Detecting Research old maps"
+  },
+  {
+   "t": "p",
+   "html": "to find treasure for metal detecting research and treasure hunting,find the best places to metal detect, using LIDAR, Old maps and side by side maps."
+  },
+  {
+   "t": "p",
+   "html": "Step by step of how to use old maps for researching metal detecting sites."
+  },
+  {
+   "t": "p",
+   "html": "Whether your field walking and looking for pottery or a serious treasure hunter with the best metal detector looking for a hoard of treasure using old maps and lidar maps in the quest of finding \"A Hoard\" or a beginner at metal detecting looking at how to research where to metal detect step by step guide on using old maps, old footpath maps to locate lost towns, villages and roads and footpaths, modern LIDAR maps overlaid and maps side by side can aid locating areas to metal detect or field walk. and how what 3 words can help with planning a metal detecting adventure and be used for creating find points."
+  },
+  {
+   "t": "p",
+   "html": "Links"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/archiuk\" data-kind=\"affiliate\">Archi uk Research maps</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/W3W_YT\" data-kind=\"affiliate\">What 3 Words</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"http://bit.ly/lidar_YT\" data-kind=\"affiliate\">Lidar Maps</a>"
+  }
+ ],
+ "images": [
+  "images/research_web.jpg"
+ ],
+ "videos": [
+  "-v_ye2cnzOc"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/archiuk",
+  "http://bit.ly/W3W_YT",
+  "http://bit.ly/lidar_YT"
+ ]
+}

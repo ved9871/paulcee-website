@@ -1,0 +1,177 @@
+{
+ "type": "post",
+ "slug": "beach-detecting-lincolnshire",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?beach-detecting-lincolnshire",
+ "title": "beach detecting lincolnshire",
+ "seo": {
+  "title": "beach metal detecting lincolnshire - Blog",
+  "description": "beach metal detecting lincolnshire in cleethorpes with a minelab ctx 3030",
+  "keywords": "cleethorpes, beach, metal, detecting, treasure, crawfords, metal, detectors",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?beach-detecting-lincolnshire",
+  "og": {
+   "title": "beach detecting lincolnshire",
+   "description": "beach metal detecting lincolnshire in cleethorpes with a minelab ctx 3030",
+   "image": "https://www.paulcee.co.uk/blog/files/png-logo-2025_og.png",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?beach-detecting-lincolnshire"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-07-19T20:49:00",
+    "dateModified": "2017-07-19T20:49:00",
+    "author": {
+     "@type": "Person",
+     "name": "David Wallace"
+    },
+    "headline": "beach detecting lincolnshire",
+    "description": "ctx 3030 set up for the beach",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?beach-detecting-lincolnshire",
+    "image": [
+     "https://www.paulcee.co.uk/images/190717.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/png-logo-2025.png"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201707",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach detecting lincolnshire",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach detecting lincolnshire",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "David Wallace",
+      "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach detecting lincolnshire",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-07-19T20:49:00",
+ "dateModified": "2017-07-19T20:49:00",
+ "author": "David Wallace",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "ctx 3030 set up for the beach",
+ "cover": "blog/files/png-logo-2025.png",
+ "heroVideo": "9R-FbTuyc2U",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/190717.jpg\" alt=\"cleethorpes beach metal detecting\" title=\"cleethorpes beach metal detecting\" width=\"626\" height=\"352\">"
+  },
+  {
+   "t": "p",
+   "html": "A day metal detecting the wet and dry sand, with the <a href=\"@ctx3030/\" data-kind=\"internal\">CTX3030</a>, with the Anderson neptune and T-Rex Scoop, nothing really much on the wet sand today, but found a little low spot on the dry sand so just stayed in that area, walked it through until the GPS was blanked out thats the beauty of the <a href=\"@ctx3030/\" data-kind=\"internal\">CTX GPS</a> you can see where you have missed, area covered, plenty of coins to spend and some pre-decimal coins from the dry sand and a nice little signet ring. pretty tough finding targets but a lovely day out."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"@social-sites/\" data-kind=\"internal\">Dont forget to subscribe</a> its easy and free.."
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"Beach Metal Detecting uk\" title=\"Beach Metal Detecting uk\" width=\"616\" height=\"616\">"
+  }
+ ],
+ "images": [
+  "images/190717.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "9R-FbTuyc2U"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

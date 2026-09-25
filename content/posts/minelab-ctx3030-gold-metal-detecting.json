@@ -1,0 +1,175 @@
+{
+ "type": "post",
+ "slug": "minelab-ctx3030-gold-metal-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-ctx3030-gold-metal-detecting",
+ "title": "Minelab CTX3030 Gold Metal Detecting",
+ "seo": {
+  "title": "Minelab CTX3030 Gold Metal Detecting - Blog",
+  "description": "CTX 3030 gold ring beach metal detecting on bournemouth beach, set up a metal detector to find gold",
+  "keywords": "Minelab, CTX3030, Beach, Metal, detecting, Gold, bournemouth, cleethorpes",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-ctx3030-gold-metal-detecting",
+  "og": {
+   "title": "Minelab CTX3030 Gold Metal Detecting",
+   "description": "CTX 3030 gold ring beach metal detecting on bournemouth beach, set up a metal detector to find gold",
+   "image": "https://www.paulcee.co.uk/blog/files/GOPR0669_CTX_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-ctx3030-gold-metal-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-07T17:22:00",
+    "dateModified": "2018-11-07T17:22:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Minelab CTX3030 Gold Metal Detecting",
+    "description": "CTX 3030 Beach Settings find stunning gold",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-ctx3030-gold-metal-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/GOPR0669.jpg",
+     "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+     "https://www.paulcee.co.uk/blog/files/GOPR0669_CTX.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab CTX3030 Gold Metal Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030 Detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab CTX3030 Gold Metal Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab CTX3030 Gold Metal Detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-07T17:22:00",
+ "dateModified": "2018-11-07T17:22:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030 Detecting",
+ "categorySlug": "CTX_3030_Detecting",
+ "tags": [],
+ "readTime": 1,
+ "summary": "CTX 3030 Beach Settings find stunning gold",
+ "cover": "blog/files/GOPR0669_CTX.jpg",
+ "heroVideo": "FAOkJMOb0RA",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/GOPR0669.jpg\" alt=\"Bournemouth beach metal detecting\" title=\"Bournemouth beach metal detecting\" width=\"626\" height=\"352\">"
+  },
+  {
+   "t": "p",
+   "html": "Using my custom <a href=\"@ctx3030/\" data-kind=\"internal\">CTX 3030</a> Beach program, metal detecting the wet sand and the Slopes on Bournemouth Beach pays off with a stunning 22k gold ring."
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://crawfordsmd.com/minelab-ctx3030?tracking=fa202437c9\" data-kind=\"affiliate\"><img src=\"@img:images/WEB_AD2026a.jpg\" alt=\"metal detecting on bournemouth beach with a minelab ctx 3030\" title=\"Minelab Ctx 3030 beach detecting\" width=\"616\" height=\"616\"></a>"
+  }
+ ],
+ "images": [
+  "images/GOPR0669.jpg",
+  "images/WEB_AD2026a.jpg"
+ ],
+ "videos": [
+  "FAOkJMOb0RA"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://crawfordsmd.com/minelab-ctx3030?tracking=fa202437c9"
+ ]
+}

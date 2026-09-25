@@ -1,0 +1,428 @@
+{
+ "type": "post",
+ "slug": "mals-surffones",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?mals-surffones",
+ "title": "Mals SurfFones",
+ "seo": {
+  "title": "Mals SurfFones Minelab  - Blog",
+  "description": "what are the best headphones for the minelab ctx 3030 minelab Excallibur or minelab equinox 800 & 600",
+  "keywords": "Minelab, Equinox 800, Minelab ctx 3030, minelab Excallibur, Mals Surffones,metal detector uk, best headphones for metal detecting",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?mals-surffones",
+  "og": {
+   "title": "Mals SurfFones",
+   "description": "what are the best headphones for the minelab ctx 3030 minelab Excallibur or minelab equinox 800 & 600",
+   "image": "https://www.paulcee.co.uk/blog/files/mal-surffones_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?mals-surffones"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-08-27T16:47:00",
+    "dateModified": "2019-08-27T16:47:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Mals SurfFones",
+    "description": "Custom made headphones for the Minelab ctx 3030, Minelab Equinox and excalliber metal detectors",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?mals-surffones",
+    "image": [
+     "https://www.paulcee.co.uk/images/mal-surffones.jpg",
+     "https://www.paulcee.co.uk/blog/files/mal-surffones.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Aug 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201908",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Manticore",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Manticore",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detector",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "headphones",
+      "item": "https://www.paulcee.co.uk/blog/?tag=headphones",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "surffones",
+      "item": "https://www.paulcee.co.uk/blog/?tag=surffones",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "800",
+      "item": "https://www.paulcee.co.uk/blog/?tag=800",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Mals SurfFones",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-08-27T16:47:00",
+ "dateModified": "2019-08-27T16:47:00",
+ "author": "Paul Cee",
+ "category": "Minelab Manticore",
+ "categorySlug": "Minelab_Manticore",
+ "tags": [
+  "metal",
+  "detector",
+  "headphones",
+  "surffones",
+  "metal",
+  "detecting",
+  "minelab",
+  "Equinox",
+  "800",
+  "uk"
+ ],
+ "readTime": 1,
+ "summary": "Custom made headphones for the Minelab ctx 3030, Minelab Equinox and excalliber metal detectors",
+ "cover": "blog/files/mal-surffones.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\"><img src=\"@img:images/mal-surffones.jpg\" alt=\"minelab headphones for the Vanquish, CTX 3030 or minelab Equinox minelab manticore and x terra metal detectors\" title=\"minelab manticore headphones \" width=\"624\" height=\"413\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Headphones for minelab metal detectors"
+  },
+  {
+   "t": "p",
+   "html": "Mals Surfones are available for the Minelab Equinox, minelab CTX 3030 and the Minelab Manticore"
+  },
+  {
+   "t": "p",
+   "html": "Custom made Headphones for the <a href=\"@links/\" data-kind=\"internal\">minelab CTX 3030</a> some of the best aftermarket Headphones you will need to buy, can be used on both land and beach, i use these and they are superb, some of the best metal detecting head phones you can buy"
+  },
+  {
+   "t": "p",
+   "html": "Also can be used with the Minelab Manticore and minelab x terra metal detectors, with a choice of cable connections can be used with the minelab wm09 and wm08 wireless modules"
+  }
+ ],
+ "images": [
+  "images/mal-surffones.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

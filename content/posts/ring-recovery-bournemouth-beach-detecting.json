@@ -1,0 +1,293 @@
+{
+ "type": "post",
+ "slug": "ring-recovery-bournemouth-beach-detecting",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?ring-recovery-bournemouth-beach-detecting",
+ "title": "Ring Recovery Bournemouth beach Detecting",
+ "seo": {
+  "title": "Ring Recovery Bournemouth beach Detecting - Blog",
+  "description": "ring finder in bournemouth",
+  "keywords": "ring, finder, lost, found, recovery, special, expensive, metal, detector",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?ring-recovery-bournemouth-beach-detecting",
+  "og": {
+   "title": "Ring Recovery Bournemouth beach Detecting",
+   "description": "ring finder in bournemouth",
+   "image": "https://www.paulcee.co.uk/blog/files/ring-recover_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?ring-recovery-bournemouth-beach-detecting"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2017-09-03T16:01:00",
+    "dateModified": "2017-09-03T16:01:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Ring Recovery Bournemouth beach Detecting",
+    "description": "Ring recovery, help find rings and keys, lost on the beach",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?ring-recovery-bournemouth-beach-detecting",
+    "image": [
+     "https://www.paulcee.co.uk/images/ring-recover_r9twm2pw.jpg",
+     "https://www.paulcee.co.uk/blog/files/ring-recover.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Sep 2017",
+      "item": "https://www.paulcee.co.uk/blog/?month=201709",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ring Recovery Bournemouth beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "beach metal detecting",
+      "item": "https://www.paulcee.co.uk/blog/?category=beach metal detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ring Recovery Bournemouth beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ring Recovery Bournemouth beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bournemouth",
+      "item": "https://www.paulcee.co.uk/blog/?tag=Bournemouth",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ring Recovery Bournemouth beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "lost",
+      "item": "https://www.paulcee.co.uk/blog/?tag=lost",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ring Recovery Bournemouth beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ring",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ring",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ring Recovery Bournemouth beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "find",
+      "item": "https://www.paulcee.co.uk/blog/?tag=find",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ring Recovery Bournemouth beach Detecting",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "recover",
+      "item": "https://www.paulcee.co.uk/blog/?tag=recover",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ring Recovery Bournemouth beach Detecting",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2017-09-03T16:01:00",
+ "dateModified": "2017-09-03T16:01:00",
+ "author": "Paul Cee",
+ "category": "beach metal detecting",
+ "categorySlug": "beach_metal_detecting",
+ "tags": [
+  "Bournemouth",
+  "lost",
+  "ring",
+  "find",
+  "recover"
+ ],
+ "readTime": 1,
+ "summary": "Ring recovery, help find rings and keys, lost on the beach",
+ "cover": "blog/files/ring-recover.jpg",
+ "heroVideo": "X8b27CCjuFQ",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\"><img src=\"@img:images/ring-recover_r9twm2pw.jpg\" alt=\"ring finder in bournemouth\" title=\"ring finder in bournemouth\" width=\"597\" height=\"334\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "Called to look for a couples wedding band, lost in the dry sand, initially pointed in the wrong direction, but gridded out the area, and using the <a href=\"@ctx3030/\" data-kind=\"internal\">GPS on the ctx3030</a>, covered the area, nothing found but ring pulls and bottletops, changed area gridded out again, 2nd signal Ring Recovered.. best wishes and a happy future for the couple.. Paul"
+  }
+ ],
+ "images": [
+  "images/ring-recover_r9twm2pw.jpg"
+ ],
+ "videos": [
+  "X8b27CCjuFQ"
+ ],
+ "adSlots": [],
+ "affiliateLinks": []
+}

@@ -1,0 +1,205 @@
+{
+ "type": "post",
+ "slug": "equinox-wet-sand-settings",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-wet-sand-settings",
+ "title": "Equinox wet sand settings",
+ "seo": {
+  "title": "Minelab Equinox wet sand settings - Blog",
+  "description": "minelab equinox beach settings, stable setting for minelab equinox metal detector on beaches",
+  "keywords": "minelab equinox 800, equinox 600, beach detecting, uk beach metal detecting, metal, detecting, beach, equinox 800",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?equinox-wet-sand-settings",
+  "og": {
+   "title": "Equinox wet sand settings",
+   "description": "minelab equinox beach settings, stable setting for minelab equinox metal detector on beaches",
+   "image": "https://www.paulcee.co.uk/blog/files/nox_wetsettings_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?equinox-wet-sand-settings"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2018-11-05T19:09:00",
+    "dateModified": "2018-11-05T19:09:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Equinox wet sand settings",
+    "description": "Equinox Beach metal detecting wet sand settings",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-wet-sand-settings",
+    "image": [
+     "https://www.paulcee.co.uk/images/nox_wetsettings.jpg",
+     "https://www.paulcee.co.uk/blog/files/nox_wetsettings.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Nov 2018",
+      "item": "https://www.paulcee.co.uk/blog/?month=201811",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox wet sand settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Minelab Equinox Settings",
+      "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox wet sand settings",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Equinox wet sand settings",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2018-11-05T19:09:00",
+ "dateModified": "2018-11-05T19:09:00",
+ "author": "Paul Cee",
+ "category": "Minelab Equinox Settings",
+ "categorySlug": "Minelab_Equinox_Settings",
+ "tags": [],
+ "readTime": 1,
+ "summary": "Equinox Beach metal detecting wet sand settings",
+ "cover": "blog/files/nox_wetsettings.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"https://www.youtube.com/subscription_center?add_user=flash1968\" data-kind=\"external\"><img src=\"@img:images/nox_wetsettings.jpg\" alt=\"minelab equinox beach settings\" title=\"minelab equinox beach settings\" width=\"620\" height=\"348\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Deeper beach settings for the Minelab Equinox"
+  },
+  {
+   "t": "p",
+   "html": "<strong> Always Noise Cancel first</strong>...these settings have some super results on an iron infested beach, if your beach is a clean beach then the recover speed can be lowered and possibly the Sensitivity raised to 25 or lowered depending on detecting conditions, some beaches also will favour a ground tracking instead of manual Ground Balance, Iron bias may also be adjusted, but then changing all these settings is just adjusting the Detector to suit your beach, and Then it is another Equinox Custom program...."
+  },
+  {
+   "t": "p",
+   "html": "We hope you get on well with these settings, let us know how you get on"
+  },
+  {
+   "t": "p",
+   "html": "1 Noise Cancel"
+  },
+  {
+   "t": "p",
+   "html": "2 Select Beach 1"
+  },
+  {
+   "t": "p",
+   "html": "3 Manual Ground Balance"
+  },
+  {
+   "t": "p",
+   "html": "4 Select 50 tones"
+  },
+  {
+   "t": "p",
+   "html": "5 <a href=\"@minelab-equinox/\" data-kind=\"internal\">Set Iron Bias to 3</a>"
+  },
+  {
+   "t": "p",
+   "html": "6 Set recover speed to 4"
+  },
+  {
+   "t": "p",
+   "html": "7 Go find some relics and treasure"
+  },
+  {
+   "t": "p",
+   "html": "Tip.. <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">If your new to metal detecting</a> just use the Factory presets ..noise cancel, auto GB, Sens adjust so it runs quiet, maybe as low as 18-20. and 5 tones, <a href=\"@beginners-guide-to-metal-detecting/\" data-kind=\"internal\">learn first what targets you are detecting</a> and memorise the sounds"
+  }
+ ],
+ "images": [
+  "images/nox_wetsettings.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}

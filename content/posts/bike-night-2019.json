@@ -1,0 +1,299 @@
+{
+ "type": "post",
+ "slug": "bike-night-2019",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?bike-night-2019",
+ "title": "Bike night 2019_ BRIGG",
+ "seo": {
+  "title": "Bike night BRIGG - Blog",
+  "description": "whats happening in brigg, Bike Night, Racing bikes road bikes, custom and classic bike meet in Brigg North Lincolnshire",
+  "keywords": "Bike night, brigg, lincolnshire, classic, motorbike, rally",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?bike-night-2019",
+  "og": {
+   "title": "Bike night 2019_ BRIGG",
+   "description": "whats happening in brigg, Bike Night, Racing bikes road bikes, custom and classic bike meet in Brigg North Lincolnshire",
+   "image": "https://www.paulcee.co.uk/blog/files/BBnight_2019_web_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?bike-night-2019"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2019-07-13T10:29:00",
+    "dateModified": "2019-07-13T10:29:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Bike night 2019_ BRIGG",
+    "description": "Bike night motorbikes arriving and leaving, and a walk around",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?bike-night-2019",
+    "image": [
+     "https://www.paulcee.co.uk/images/BBnight_2019_web.jpg",
+     "https://www.paulcee.co.uk/blog/files/BBnight_2019_web.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jul 2019",
+      "item": "https://www.paulcee.co.uk/blog/?month=201907",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bike night 2019_ BRIGG",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "bike nights",
+      "item": "https://www.paulcee.co.uk/blog/?category=bike nights",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bike night 2019_ BRIGG",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bike night 2019_ BRIGG",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "bike",
+      "item": "https://www.paulcee.co.uk/blog/?tag=bike",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bike night 2019_ BRIGG",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "night",
+      "item": "https://www.paulcee.co.uk/blog/?tag=night",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bike night 2019_ BRIGG",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "motorbikes",
+      "item": "https://www.paulcee.co.uk/blog/?tag=motorbikes",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bike night 2019_ BRIGG",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "bike",
+      "item": "https://www.paulcee.co.uk/blog/?tag=bike",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bike night 2019_ BRIGG",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "meet",
+      "item": "https://www.paulcee.co.uk/blog/?tag=meet",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Bike night 2019_ BRIGG",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2019-07-13T10:29:00",
+ "dateModified": "2019-07-13T10:29:00",
+ "author": "Paul Cee",
+ "category": "bike nights",
+ "categorySlug": "bike_nights",
+ "tags": [
+  "bike",
+  "night",
+  "motorbikes",
+  "bike",
+  "meet"
+ ],
+ "readTime": 1,
+ "summary": "Bike night motorbikes arriving and leaving, and a walk around",
+ "cover": "blog/files/BBnight_2019_web.jpg",
+ "heroVideo": "DH0KaM1Udwg",
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<a href=\"http://bit.ly/2VcUX0q\" data-kind=\"affiliate\"><img src=\"@img:images/BBnight_2019_web.jpg\" alt=\"bike nights in lincolnshire\" title=\"brigg bike night\" width=\"247\" height=\"139\"></a>"
+  },
+  {
+   "t": "h2",
+   "html": "Brigg Bike Night 2019"
+  },
+  {
+   "t": "p",
+   "html": "is whats happening in Brigg, a well organised nike night for motorbike enthusiasts from arouns lincolnshire and yorkshire.."
+  }
+ ],
+ "images": [
+  "images/BBnight_2019_web.jpg"
+ ],
+ "videos": [
+  "DH0KaM1Udwg"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "http://bit.ly/2VcUX0q"
+ ]
+}

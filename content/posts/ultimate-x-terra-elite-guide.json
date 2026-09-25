@@ -1,0 +1,758 @@
+{
+ "type": "post",
+ "slug": "ultimate-x-terra-elite-guide",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?ultimate-x-terra-elite-guide",
+ "title": "Ultimate X Terra Elite Guide",
+ "seo": {
+  "title": "Ultimate X Terra Elite Guide - Blog",
+  "description": "Ultimate guide to the Xterra Elite, change settings with confidence and how and where to go metal detecting and find the accessories for you new detector ",
+  "keywords": "minelab xterra elite, settings, minelab xterra, accessories, minelab xterra uk, how to metal detect, settings, guide, begginer",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?ultimate-x-terra-elite-guide",
+  "og": {
+   "title": "Ultimate X Terra Elite Guide",
+   "description": "Ultimate guide to the Xterra Elite, change settings with confidence and how and where to go metal detecting and find the accessories for you new detector ",
+   "image": "https://www.paulcee.co.uk/blog/files/XTE-intro_WEB_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?ultimate-x-terra-elite-guide"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2025-01-05T12:31:00",
+    "dateModified": "2025-01-05T12:31:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "Ultimate X Terra Elite Guide",
+    "description": "The Ultimate guide to the minelab XTerra Elite",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?ultimate-x-terra-elite-guide",
+    "image": [
+     "https://www.paulcee.co.uk/images/XTE-intro_WEB.jpg",
+     "https://www.paulcee.co.uk/images/xte-coinshooting.jpg",
+     "https://www.paulcee.co.uk/images/P1040705.jpg",
+     "https://www.paulcee.co.uk/images/P1040728.jpg",
+     "https://www.paulcee.co.uk/images/P1040731.jpg",
+     "https://www.paulcee.co.uk/images/P1040708.jpg",
+     "https://www.paulcee.co.uk/images/P1040709.jpg",
+     "https://www.paulcee.co.uk/images/P1040710.jpg",
+     "https://www.paulcee.co.uk/images/P1040720.jpg",
+     "https://www.paulcee.co.uk/images/P1040730.jpg",
+     "https://www.paulcee.co.uk/images/P1040732.jpg",
+     "https://www.paulcee.co.uk/blog/files/XTE-intro_WEB.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Jan 2025",
+      "item": "https://www.paulcee.co.uk/blog/?month=202501",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ultimate X Terra Elite Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "X Terra Elite",
+      "item": "https://www.paulcee.co.uk/blog/?category=X Terra Elite",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ultimate X Terra Elite Guide",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "Ultimate X Terra Elite Guide",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2025-01-05T12:31:00",
+ "dateModified": "2025-01-05T12:31:00",
+ "author": "Paul Cee",
+ "category": "X Terra Elite",
+ "categorySlug": "X_Terra_Elite",
+ "tags": [],
+ "readTime": 12,
+ "summary": "The Ultimate guide to the minelab XTerra Elite",
+ "cover": "blog/files/XTE-intro_WEB.jpg",
+ "heroVideo": "aULlCG7EjWE",
+ "blocks": [
+  {
+   "t": "h2",
+   "html": "Minelab X Terra Elite Metal Detector Guide"
+  },
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/XTE-intro_WEB.jpg\" alt=\"user guide for the Minelab X-Terra Elite\" title=\"Minelab X Terra elite settings\" width=\"310\" height=\"174\">"
+  },
+  {
+   "t": "h3",
+   "html": "Setup, Advanced Settings, and Expert Tips",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>1. Introduction:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Overview:</strong> The X-Terra Elite is a versatile metal detector suitable for both beginners and experienced users. It offers multiple frequency options and customisation settings to suit various detecting environments."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Key Features:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Multi-IQ:</strong> Utilises multiple frequencies simultaneously, providing enhanced target detection and accuracy. In Beach Modes, Multi-IQ is the only available option. A Single Frequency of 15 khz is available in other modes."
+  },
+  {
+   "t": "p",
+   "html": "The X-Terra elite is ideal for water detecting with a rating of 5 mtr (16 ft) so you can also go out in the rain."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Updatable:</strong> The device can be updated with the latest software to enhance performance and add new features."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Red Back-light:</strong> Features a red back light that can be switched on or off for better visibility in low-light conditions."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Front Facing Torch:</strong> Equipped with a front facing torch that can be switched on or off to illuminate your search area."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Vibrate Function:</strong> Includes a vibrate function in the handle, ideal for people who are hard of hearing."
+  },
+  {
+   "t": "p",
+   "html": "Lightweight and robust build"
+  },
+  {
+   "t": "p",
+   "html": "High-resolution target ID"
+  },
+  {
+   "t": "p",
+   "html": "Adjustable ground balance and sensitivity"
+  },
+  {
+   "t": "p",
+   "html": "User-friendly interface"
+  },
+  {
+   "t": "p",
+   "html": "<strong>X-Terra Elite Essential Accessories:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Headphones:</strong> Metal Detectors Perform better with headphones, allowing you to hear subtle signals and reducing ambient noise. Most metal detecting rallies and events insist that headphones are used."
+  },
+  {
+   "t": "p",
+   "html": "If you have the X-Terra Elite Expedition pack, you already have Bluetooth headphones. However, if you bought the standalone X-Terra Elite, it doesn't come with headphones. In this case, you need to buy the <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/headphones/minelab-ml85-headphones\" data-kind=\"affiliate\">ML85</a> or <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/headphones/ml105-headphones\" data-kind=\"affiliate\">ML 105</a> headphones, or the <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/headphones/minelab-wm09\" data-kind=\"affiliate\">WM09 wireless module</a> if you prefer a wireless connection."
+  },
+  {
+   "t": "p",
+   "html": "The ML 105 also have a detachable cable so can either be used as wired or wireless."
+  },
+  {
+   "t": "p",
+   "html": "If you want to use your own <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/headphones/loxley-rx3-headphones\" data-kind=\"affiliate\">aftermarket headphones</a>, a <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/headphones/equinox-waterproof-adaptor\" data-kind=\"affiliate\">Minelab Headphone adaptor</a> is required."
+  },
+  {
+   "t": "p",
+   "html": "If you intend on metal detecting near water or underwater then you will need special <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/headphones/equinox-waterproof-headphones\" data-kind=\"affiliate\">underwater headphones</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/equinox-controlbox-cover\" data-kind=\"affiliate\">A control box cover</a> is a really good idea as i keeps your detector clean when out detecting."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Pin-pointer:</strong> A handheld pin-pointer helps you precisely locate targets within a small area. A good entry level pointer is the <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/pinpoint-probe/minelab-pro-find-20\" data-kind=\"affiliate\">Minelab Pro-Find 20</a>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Digging Tools:</strong> <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/minelab-pro-spade\" data-kind=\"affiliate\">A sturdy digging tool</a> and a <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-bags-pouches-bungees-clothing/cmd-pro-pouch\" data-kind=\"affiliate\">finds pouch</a> and <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-bags-pouches-bungees-clothing/cmd-finds-box-medium\" data-kind=\"affiliate\">Finds box</a> for finds are essential for any metal detecting outing."
+  },
+  {
+   "t": "p",
+   "html": "If you plan on detecting on a beach then a <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/emiter-150x-scoop\" data-kind=\"affiliate\">sand-scoop</a> will be quicker and easier than a spade as the sand falls through the scoop and leaves your find inside it."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Carrying Bag:</strong> A <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-bags-pouches-bungees-clothing/cmd-backpack\" data-kind=\"affiliate\">CMD carry bag</a> Protects your detector during transport and storage."
+  },
+  {
+   "t": "p",
+   "html": "For Extended time metal detecting or for a rally use the <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/power-accessories/rnb-power-x\" data-kind=\"affiliate\">RNB POWER X Battery</a> pack this will also work on many other metal detectors that can be charged with a power bank"
+  },
+  {
+   "t": "p",
+   "html": "A range of coils are available for minelab X-Terra including the V8X, V10X and V12X are the standard coils, but you can also use the search coils for the <a href=\"https://www.crawfordsmd.com/metal-detectors/minelab/minelab-equinox-900\" data-kind=\"affiliate\">minelab Equinox</a> series which go from the <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/equinox-6-inch-coil\" data-kind=\"affiliate\">6 inch round coil</a> all the way up to the <a href=\"https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek/coiltek-nox18\" data-kind=\"affiliate\">coiltek Nox 18</a>. you have a huge coil choice for virtually every scenario."
+  },
+  {
+   "t": "p",
+   "html": "<strong><em>A Discount on accessories is available at the CMD checkout.. Use The CODE \"paulcee10\"</em></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>2. Getting Started: Unboxing and Initial Setup:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Unboxing:</strong> Carefully remove the detector and accessories from the box. Ensure you have all the components, including the control box, search coil, shaft, and batteries."
+  },
+  {
+   "t": "p",
+   "html": "Assembling the Detector:"
+  },
+  {
+   "t": "p",
+   "html": "Attach the lower shaft to the search coil."
+  },
+  {
+   "t": "p",
+   "html": "Connect the middle and upper shafts."
+  },
+  {
+   "t": "p",
+   "html": "Secure all connections and ensure the coil cable is neatly wrapped around the shaft."
+  },
+  {
+   "t": "p",
+   "html": "Initial Power-Up:"
+  },
+  {
+   "t": "p",
+   "html": "The batteries are pre-installed in the handle. Ensure they are fully charged."
+  },
+  {
+   "t": "p",
+   "html": "Press the power button to turn on the detector."
+  },
+  {
+   "t": "p",
+   "html": "Follow the on-screen prompts for initial setup, including language selection and basic settings."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Important Note:</strong> Do not use the X-Terra Elite indoors as this can be a significant source of EMI. EMI (Electromagnetic Interference) is a disturbance generated by external sources such as electrical appliances and wiring, which can affect the performance of the metal detector by causing false signals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>3. Basic Settings: Powering On and Off:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Power On:</strong> Press and hold the power button until the startup screen appears."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Power Off:</strong> Press and hold the power button until the shutdown prompt appears, then confirm."
+  },
+  {
+   "t": "p",
+   "html": "Display and Menu Navigation:"
+  },
+  {
+   "t": "p",
+   "html": "Use the control panel buttons to navigate through the menus."
+  },
+  {
+   "t": "p",
+   "html": "The display shows important information such as target ID, depth, and battery status."
+  },
+  {
+   "t": "p",
+   "html": "Understanding the Basic Controls:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Mode Button:</strong> Switches between three primary modes: Park Mode, Field Mode, and Beach Mode. Each mode has two settings that automatically shift frequencies and pre-set discrimination, recovery speed, and tones."
+  },
+  {
+   "t": "p",
+   "html": "<strong>QUICK Noise Cancel:</strong> Use the noise cancel feature to minimise interference from power lines, other detectors, and electronic devices. This helps to improve signal clarity and detection accuracy."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Rolling Noise Cancel:</strong> If you hold down the frequency button, the X-Terra Elite will perform a \"rolling noise cancel.\" This is a longer process where the detector keeps \"rolling\" until it finds the best, not just the quietest, channel. This is especially useful in scenarios with multiple detectors, such as at a rally."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Sensitivity:</strong> Adjust to increase or decrease detection depth and sensitivity. Higher sensitivity can lead to false signals, making it hard to distinguish between faint good targets and false signals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Ground Balance:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Automatic Ground Balance:</strong> Ideal for general detecting, SET TO \"0\"."
+  },
+  {
+   "t": "h3",
+   "html": "Ground Tracking: Constantly tracks the ground below the search coil",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>Manual Ground Balance:</strong> Allows for more control, especially in highly mineralized areas. Unless the ground is highly mineralized. Always perform manual ground balance over clean ground with no signals under the search coil. Really this is only for more experienced users."
+  },
+  {
+   "t": "h3",
+   "html": "4. Advanced Settings: Sensitivity",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "<strong>Sensitivity:</strong> Adjust based on your detecting environment."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Higher Sensitivity:</strong> Helps you detect deeper targets but may pick up more ground noise."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Lower Sensitivity:</strong> Reduces interference but may miss deeper targets."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Balance:</strong> If sensitivity is too high, false signals may occur, making it hard to distinguish between a faint good target and a false signal. Adjust sensitivity to find the best balance for your specific environment."
+  },
+  {
+   "t": "p",
+   "html": "<em>A metal detector that is quiet running results in a happy metal detectorist</em>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Discrimination Settings and Modes:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Custom Discrimination:</strong> Tailor the discrimination settings to filter out unwanted targets like iron or foil while detecting valuable metals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Pre-Set Modes:</strong> Utilise the pre-set discrimination patterns in each mode (Park, Field, Beach) for optimal performance in different environments. These presets automatically adjust discrimination, recovery speed, and audio tones."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Threshold and Audio Settings:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Threshold:</strong> Adjust the background hum to help identify faint signals from deep or small targets. A slightly audible threshold can help you hear the faintest signals. A high threshold will make it hard to hear the deep targets as the target tone will have to be louder than the Threshold so just set it so you can hear it, or non at all, this is a personal setting."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Tone Options:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong><br></strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Audio Tones:</strong> Customise the audio tones to differentiate between different types of targets. Higher tones can indicate more valuable metals, while lower tones can signal junk targets."
+  },
+  {
+   "t": "p",
+   "html": "<strong>1 Tone:</strong> Produces a single tone for all detected targets."
+  },
+  {
+   "t": "p",
+   "html": "<strong>2 Tones:</strong> Differentiates targets with two distinct tones—typically one for ferrous metals and one for non-ferrous metals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>5 Tones:</strong> Uses five different tones to indicate a broader range of target conductivity."
+  },
+  {
+   "t": "p",
+   "html": "<strong>All Tones (AT):</strong> Produces different tones for a wide range of targets, providing detailed audio feedback."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Depth (DP):</strong> Adjusts the tone based on the target's depth, providing an audio indication of how deep the target is buried."
+  },
+  {
+   "t": "p",
+   "html": "<em>These are user optional settings and can be changed from the pre-set in any of the search modes.</em>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Recovery Speed:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Recovery Speed:</strong> Adjust the recovery speed based on your detecting environment and target density."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Faster Recovery Speed:</strong> Ideal for trashy areas with lots of signals, as it helps you quickly separate good targets from junk. Makes the target tones sound \"sharper.\""
+  },
+  {
+   "t": "p",
+   "html": "<strong>Slower Recovery Speed:</strong> Suitable for cleaner areas where you want to focus on deeper targets, allowing the detector to fully process each signal. Makes the target tones sound \"longer,\" requiring a <em>slower swing speed</em>."
+  },
+  {
+   "t": "p",
+   "html": "<strong>FE Function (Ferrous Elimination):</strong>"
+  },
+  {
+   "t": "p",
+   "html": "The FE function helps reduce the detector's sensitivity to iron targets, minimising unwanted signals and allowing you to focus on valuable non-ferrous metals like gold, silver, and copper."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Advanced Feature:</strong> The -1 setting is an <strong>advanced feature</strong> that allows previously detected areas to be covered again. This is particularly useful in scenarios where you have found tiny hammered coins and need to ensure you haven't missed anything at all. This advanced feature can be too complicated for new users, so it's recommended for experienced detectorists who need thorough coverage."
+  },
+  {
+   "t": "p",
+   "html": "<strong>5. Practical Tips:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "Terrain Tips:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Park Mode:</strong> Use this mode for areas with moderate ground mineralisation. It's designed to provide a balance between depth and target separation."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Field Mode:</strong> Great for open fields with varying ground conditions. This mode offers enhanced ground balance and sensitivity for deeper targets."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Beach Mode:</strong> Perfect for sandy and wet environments, minimising false signals. This mode is optimised for both dry sand and saltwater conditions."
+  },
+  {
+   "t": "p",
+   "html": "Pinpointing and Digging:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Pinpoint Function:</strong> Use the pinpoint function to zero in on the exact location of your target. This helps you dig more precisely and avoid unnecessary disturbance."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Maintenance and Care:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Cleaning:</strong> Regularly clean the search coil and control box to maintain optimal performance."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Solution:</strong> Use a mild soapy solution and avoid harsh chemicals."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Skid Plate:</strong> Make sure to remove the skid plate, which protects the underside of the search coil. Under here collect sand and dirt which can cause false signals and incorrect ground balancing."
+  },
+  {
+   "t": "p",
+   "html": "It is also good practice to every now and again to check the rubber washers between the lower shaft and coil lugs for wear, this can when worn lead to over tightening of the bolt and lead to coil lug failure,"
+  },
+  {
+   "t": "h3",
+   "html": "Your First Time Detecting",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Venturing out for your first metal detecting trip can be both exciting and a little daunting."
+  },
+  {
+   "t": "p",
+   "html": "Please be enthusiastic, <strong><em>BUT remember</em></strong> that you may not find treasure every time you go out detecting!"
+  },
+  {
+   "t": "p",
+   "html": "Here’s a simple guide to help you get started:"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Choosing a Location:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<em>ALWAYS MAKE SURE YOU HAVE PERMISSION TO METAL DETECT LAND And SOME BEACHES.</em>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Start Simple:</strong> Pick a location that is easy to access, like a local park or a beach. These areas are typically less challenging and often have plenty of targets to find."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Research Permissions:</strong> Make sure to check if you need any permissions or permits to detect in your chosen location. If you are on farmland then please be aware that you may have to have some PUBLIC LIABILITY Insurance, <a href=\"https://www.ncmd.co.uk/membership/\" data-kind=\"external\">we Recommend the NCMD</a>."
+  },
+  {
+   "t": "p",
+   "html": "For researching land we like to use the <a href=\"https://www.archiuk.com/\" data-kind=\"external\">ARCHI UK app</a> it is loaded with history for areas, previous find locations and much much more."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Setting Up:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Pre-Detecting Checks:</strong> Ensure your detector is fully charged and all connections are secure. Double-check that you have all your accessories, such as headphones, pin-pointer, and digging tools."
+  },
+  {
+   "t": "p",
+   "html": "Adjust Settings:"
+  },
+  {
+   "t": "p",
+   "html": "1st Do the Noise cancel."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Search Mode:</strong> Select a basic search mode like Park or Field mode or Beach if you are on one, to begin with. These modes are optimised for general detecting and will help you get the hang of it. for the first time try not to use an all metal mode and just concentrate on the non-ferrous (good) targets"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Detecting Basics:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Sweep Technique:</strong> Keep your search coil low to the ground and move it in a steady, side-to-side motion. Overlap your sweeps to ensure you cover the area thoroughly."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Listen and Look:</strong> Pay attention to the tones and signals your detector gives. Different tones indicate different types of metals and depths."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Pinpointing:</strong> Once you get a signal, use the pinpoint function to narrow down the exact location of your target. This will make digging easier and more precise."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Digging and Recovery:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Dig Carefully:</strong> Use your digging tool to cut a neat plug of grass or soil. This will allow you to replace it and leave the area looking undisturbed."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Check with Pin-pointer:</strong> Use your pin-pointer to locate the target within the hole. Be gentle to avoid damaging your find."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Fill in Holes:</strong> Always fill in your holes and leave the area as you found it. This is an important part of metal detecting etiquette."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Recording Your Finds:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Keep Track:</strong> Take notes or photos of your finds, including the location and any other relevant details. This will help you track your progress and identify productive areas."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Practice and Patience:</strong>"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Keep Practising:</strong> Metal detecting is a skill that improves with practice. Don’t be discouraged if you don’t find anything valuable right away."
+  },
+  {
+   "t": "p",
+   "html": "<strong>Enjoy the Experience:</strong> Have fun exploring and learning about the history beneath your feet. Every outing is an opportunity to discover something new."
+  },
+  {
+   "t": "h3",
+   "html": "<em>Settings i find most effective For Fields</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "1 Noise Cancel"
+  },
+  {
+   "t": "p",
+   "html": "2 Field 1"
+  },
+  {
+   "t": "p",
+   "html": "3 Ground Balance 0"
+  },
+  {
+   "t": "p",
+   "html": "4 Threshold 3"
+  },
+  {
+   "t": "p",
+   "html": "5 DP Tones"
+  },
+  {
+   "t": "p",
+   "html": "6 Recovery speed 2"
+  },
+  {
+   "t": "p",
+   "html": "7 F.E. 2"
+  },
+  {
+   "t": "h3",
+   "html": "<em>For Beach Detecting</em>",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "1 Noise Cancel"
+  },
+  {
+   "t": "p",
+   "html": "2 Beach 2"
+  },
+  {
+   "t": "p",
+   "html": "3 Manual Ground balance (always Check if it is a low number then leave at 0"
+  },
+  {
+   "t": "p",
+   "html": "4 Threshold 3/4"
+  },
+  {
+   "t": "p",
+   "html": "5 2 Tones"
+  },
+  {
+   "t": "p",
+   "html": "6 Recovery speed 2"
+  },
+  {
+   "t": "p",
+   "html": "7 F.E. -1"
+  },
+  {
+   "t": "p",
+   "html": "how good is the minelab X Terra Elite metal detecting on the beach here are some of the finds"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.youtube.com/playlist?list=PLOcWea3AAxcMp_Rkb7nnpdrWNhmvxx59n\" data-kind=\"external\"><img src=\"@img:images/xte-coinshooting.jpg\" alt=\"finds made metal detecting on the beach with the Minelab X Terra\" title=\"minelab x-terra elite beach metal detecting\" width=\"194\" height=\"194\"></a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"https://www.youtube.com/playlist?list=PLOcWea3AAxcMp_Rkb7nnpdrWNhmvxx59n\" data-kind=\"external\">Check out the X-Terra Elite Settings videos</a>"
+  }
+ ],
+ "images": [
+  "images/XTE-intro_WEB.jpg",
+  "images/xte-coinshooting.jpg"
+ ],
+ "videos": [
+  "aULlCG7EjWE"
+ ],
+ "adSlots": [],
+ "affiliateLinks": [
+  "https://www.crawfordsmd.com/metal-detecting-accessories/headphones/minelab-ml85-headphones",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/headphones/ml105-headphones",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/headphones/minelab-wm09",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/headphones/loxley-rx3-headphones",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/headphones/equinox-waterproof-adaptor",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/headphones/equinox-waterproof-headphones",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/equinox-controlbox-cover",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/pinpoint-probe/minelab-pro-find-20",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/minelab-pro-spade",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/accessories-bags-pouches-bungees-clothing/cmd-pro-pouch",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/accessories-bags-pouches-bungees-clothing/cmd-finds-box-medium",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/digging-tools/emiter-150x-scoop",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/accessories-bags-pouches-bungees-clothing/cmd-backpack",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/power-accessories/rnb-power-x",
+  "https://www.crawfordsmd.com/metal-detectors/minelab/minelab-equinox-900",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/equinox-6-inch-coil",
+  "https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek/coiltek-nox18"
+ ]
+}

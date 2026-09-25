@@ -1,0 +1,400 @@
+{
+ "type": "post",
+ "slug": "minelab-ctx-3030-beach-program",
+ "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-ctx-3030-beach-program",
+ "title": "minelab ctx 3030 beach program",
+ "seo": {
+  "title": "minelab ctx 3030 beach program - Blog",
+  "description": "testing a ctx 3030 program for the beach",
+  "keywords": "Metal, Detecting, UK, Crawfords metal detectors, minelab metal detectors, metal detector tutorial, minelab vanquish, minelab manticore, minelab equinox, minelab detexpert",
+  "robots": "",
+  "canonical": "https://www.paulcee.co.uk/blog/?minelab-ctx-3030-beach-program",
+  "og": {
+   "title": "minelab ctx 3030 beach program",
+   "description": "testing a ctx 3030 program for the beach",
+   "image": "https://www.paulcee.co.uk/blog/files/prog-test_og.jpg",
+   "type": "article",
+   "url": "https://www.paulcee.co.uk/blog/?minelab-ctx-3030-beach-program"
+  },
+  "twitter": {
+   "card": "summary_large_image",
+   "title": "",
+   "description": "",
+   "image": ""
+  },
+  "jsonld": [
+   {
+    "@type": "BlogPosting",
+    "@context": "https://schema.org",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Paul Cee",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+      "width": 320,
+      "height": 320
+     }
+    },
+    "datePublished": "2020-05-10T19:28:00",
+    "dateModified": "2020-05-10T19:28:00",
+    "author": {
+     "@type": "Person",
+     "name": "Paul Cee"
+    },
+    "headline": "minelab ctx 3030 beach program",
+    "description": "testing a ctx 3030 program for the beach",
+    "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-ctx-3030-beach-program",
+    "image": [
+     "https://www.paulcee.co.uk/images/profile-pic-2020_final.jpg",
+     "https://www.paulcee.co.uk/blog/files/prog-test.jpg"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ]
+    }
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "May 2020",
+      "item": "https://www.paulcee.co.uk/blog/?month=202005",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "CTX 3030",
+      "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "Paul Cee",
+      "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab",
+      "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx3030",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ctx3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "program",
+      "item": "https://www.paulcee.co.uk/blog/?tag=program",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "ctx",
+      "item": "https://www.paulcee.co.uk/blog/?tag=ctx",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "3030",
+      "item": "https://www.paulcee.co.uk/blog/?tag=3030",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "settings",
+      "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "metal",
+      "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "detecting",
+      "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@type": "BreadcrumbList",
+    "@context": "https://schema.org",
+    "numberOfItems": 3,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "name": "Blog",
+      "item": "https://www.paulcee.co.uk/blog",
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "name": "uk",
+      "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "name": "minelab ctx 3030 beach program",
+      "position": 3
+     }
+    ]
+   }
+  ],
+  "verification": {
+   "google": "",
+   "bing": "",
+   "norton": ""
+  }
+ },
+ "datePublished": "2020-05-10T19:28:00",
+ "dateModified": "2020-05-10T19:28:00",
+ "author": "Paul Cee",
+ "category": "CTX 3030",
+ "categorySlug": "CTX_3030",
+ "tags": [
+  "minelab",
+  "ctx3030",
+  "program",
+  "ctx",
+  "3030",
+  "settings",
+  "metal",
+  "detecting",
+  "uk"
+ ],
+ "readTime": 1,
+ "summary": "testing a ctx 3030 program for the beach",
+ "cover": "blog/files/prog-test.jpg",
+ "heroVideo": null,
+ "blocks": [
+  {
+   "t": "figure",
+   "html": "<img src=\"@img:images/profile-pic-2020_final.jpg\" alt=\"cmd discount code for metal detecting\" title=\"crawfords metal detectors\" width=\"224\" height=\"222\">"
+  },
+  {
+   "t": "p",
+   "html": "I got sent a program for the Minelab CTX 3030 and told it would detect deeper and find me more than what i usually do.."
+  },
+  {
+   "t": "h3",
+   "html": "Ok ill give it a go nothing to loose have i?",
+   "inferred": true
+  },
+  {
+   "t": "p",
+   "html": "Not putting a downer on anything but when somebody says their program is deeper and finds more ask yourself will it work on where i detect, well the answer was simple no it wont, finds rate went down, so if you make your own programs stick with what works for you"
+  }
+ ],
+ "images": [
+  "images/profile-pic-2020_final.jpg"
+ ],
+ "videos": [],
+ "adSlots": [],
+ "affiliateLinks": []
+}
