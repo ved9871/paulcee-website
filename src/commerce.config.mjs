@@ -61,6 +61,7 @@ export const SHOP_CATS = [
 // Brand assets from Paul's own image library.
 export const BRAND = {
   crawfordsWhite: 'images/CRAWFORDS-2024-White_b0y4qkqf.png',
+  crawfordsBlue: 'brand/crawfords-blue.png', // official blue logo on transparent (Paul's preference, Sept 2026)
   minelab: 'images/minelab-logo.jpg',
   detexpertWord: 'images/Detexpert-Header1.png',
   detexpertShield: 'images/detexpert-logosml.png',

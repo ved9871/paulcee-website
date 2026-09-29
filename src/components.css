@@ -17,16 +17,17 @@
 .creds__logos { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-6); }
 .creds__logos img { height: 38px; width: auto; object-fit: contain; }
 .creds__logos .logo--tall { height: 56px; }
-.creds__logos .logo--dark { background: #1a1816; padding: 9px 16px; border-radius: var(--r-1); height: 52px; }
-@media (max-width: 700px) { .creds__logos { gap: var(--s-4); } .creds__logos img { height: 28px; } .creds__logos .logo--tall { height: 42px; } .creds__logos .logo--dark { height: 42px; padding: 7px 12px; } }
+.creds__logos .logo--wide { height: 46px; }
+@media (max-width: 700px) { .creds__logos { gap: var(--s-4) var(--s-5); } .creds__logos img { height: 28px; } .creds__logos .logo--tall { height: 42px; } .creds__logos .logo--wide { height: 36px; } }
 
 /* Detexpert / Crawfords badges in the hero — white pills, dark text (readable in both themes) */
 .hero__badges { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-3); margin: 0 0 var(--s-5); }
 .detexpert { display: inline-flex; align-items: center; gap: 12px; padding: 7px 18px 7px 8px; border-radius: 999px; background: #fff; color: #1a1816; border: 1.5px solid #d9d5cf; box-shadow: 0 1px 3px rgba(0,0,0,.1); font: 600 .9rem/1.2 var(--f-body); }
 .detexpert img { height: 40px; width: auto; }
-.detexpert img.on-dark { background: #1a1816; padding: 8px 10px; border-radius: 999px; height: 40px; }
+.detexpert img.badge-logo { height: 30px; width: auto; margin-left: 6px; }
 .detexpert .mono { color: #b81c14; font-size: .625rem; display: block; margin-bottom: 3px; }
-.hero__photo .hero__shield { position: absolute; top: 14px; right: 14px; width: 74px; height: auto; filter: drop-shadow(0 4px 10px rgba(0,0,0,.35)); }
+.hero__photo .hero__shield { position: absolute; top: 14px; right: 14px; width: 72px; height: auto; aspect-ratio: auto; object-fit: contain; border-radius: 0; box-shadow: none; filter: drop-shadow(0 4px 10px rgba(0,0,0,.35)); }
+@media (max-width: 860px) { .hero__photo .hero__shield { width: 54px; top: 10px; right: 10px; } }
 .hero__photo--left img:first-child { object-position: 16% center; }
 .hero__ctas .btn--buy svg { width: 1em; height: 1em; }
 
@@ -82,8 +83,9 @@ button.chip { font-family: inherit; cursor: pointer; }
 .gear-strip { margin-top: var(--s-7); padding-top: var(--s-5); border-top: 2px solid var(--ink); clear: both; }
 .gear-strip h2 { font-size: 1.5rem; border: 0 !important; padding: 0 !important; margin-top: 0 !important; }
 .gear-strip__grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--s-4); }
-.dealer { display: flex; align-items: center; gap: var(--s-3); padding: var(--s-3) var(--s-4); background: #075692; color: #fff; border-radius: var(--r-2); font-size: .875rem; }
-.dealer img { height: 30px; width: auto; }
+.dealer { display: flex; align-items: center; gap: var(--s-3); padding: var(--s-3) var(--s-4); background: #fff; color: #1a1816; border: 1px solid #d6e3ee; border-left: 4px solid #075692; border-radius: var(--r-2); font-size: .8125rem; line-height: 1.35; }
+.dealer img { height: 38px; width: auto; flex: none; }
+.dealer strong { color: #075692; }
 .dealer strong { display: block; }
 .side-card--buy .dealer { margin: 0 0 var(--s-4); }
 
@@ -93,7 +95,8 @@ button.chip { font-family: inherit; cursor: pointer; }
 .shop__head { display: grid; grid-template-columns: 1fr auto; align-items: end; gap: var(--s-5); margin-bottom: var(--s-6); }
 .shop__head h2 { margin: 0; color: #fff; }
 .shop__head p { color: #dbeaf5; margin: var(--s-2) 0 0; max-width: 60ch; }
-.shop__logo { width: min(100%, 300px); height: auto; justify-self: end; }
+.shop__logo { display: inline-flex; justify-self: end; background: #fff; padding: 16px 22px; border-radius: var(--r-3); box-shadow: 0 10px 30px -12px rgba(0,0,0,.4); }
+.shop__logo img { width: min(62vw, 260px); height: auto; }
 .shop__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--s-4); }
 .shop-tile { display: flex; flex-direction: column; gap: 6px; padding: var(--s-5); background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.18); border-radius: var(--r-3); color: #fff; backdrop-filter: blur(4px); }
 .shop-tile h3 { margin: 0; font-size: 1.2rem; color: #fff; }
@@ -104,7 +107,7 @@ button.chip { font-family: inherit; cursor: pointer; }
 .shop-tile__guide { color: #fff; font-size: .875rem; }
 .shop__code { margin-top: var(--s-6); display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-3); color: #dbeaf5; font-size: .95rem; }
 .shop__code .code { border-color: #fff; color: #fff; }
-@media (max-width: 900px) { .shop__grid { grid-template-columns: repeat(2, 1fr); } .shop__head { grid-template-columns: 1fr; } .shop__logo { justify-self: start; width: 220px; } }
+@media (max-width: 900px) { .shop__grid { grid-template-columns: repeat(2, 1fr); } .shop__head { grid-template-columns: 1fr; } .shop__logo { justify-self: start; } .shop__logo img { width: 200px; } }
 @media (max-width: 560px) { .shop__grid { grid-template-columns: 1fr; } }
 
 /* video library */
@@ -141,5 +144,23 @@ button.chip { font-family: inherit; cursor: pointer; }
 .footer__partners { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-5); margin: var(--s-6) 0 0; }
 .footer__partners img { height: 30px; width: auto; opacity: .9; }
 .footer__partners .logo--light { background: #fff; padding: 5px 10px; border-radius: 4px; height: 36px; }
-.discount img { height: 44px; width: auto; }
+.discount .logo-chip { height: 64px; width: auto; background: #fff; padding: 10px 14px; border-radius: var(--r-2); flex: none; }
+@media (max-width: 600px) { .discount__brand { flex-direction: column; align-items: flex-start; } }
 .discount__brand { display: flex; align-items: center; gap: var(--s-4); }
+
+/* touch targets: comfortable tap areas for secondary links (UX review, Sept 2026) */
+.shop-tile__guide, .ticks a, .footer__social a { display: inline-flex; align-items: center; min-height: 44px; }
+.site-footer li a { padding: 10px 0; }
+.side-list a, .toc a { padding: 10px 0; }
+@media (pointer: coarse) { .chip, .playlists .chip { min-height: 44px; } .crumbs a { display: inline-block; padding: 8px 0; } }
+
+/* review refinements: centred, larger partner logos; capped banner height on wide screens */
+.creds__row { justify-content: center; column-gap: var(--s-7); }
+@media (min-width: 1000px) { .creds__logos { gap: var(--s-8); } .creds__logos img { height: 46px; } .creds__logos .logo--tall { height: 64px; } .creds__logos .logo--wide { height: 56px; } }
+.vid-banner img { max-height: 340px; }
+
+/* sidebar product box: stack image above text (sidebar is too narrow for two columns) */
+.sidebar .product { grid-template-columns: 1fr; gap: var(--s-3); padding: 0; border: 0; background: none; border-radius: 0; }
+.sidebar .product__img { width: 100%; height: 150px; }
+.sidebar .product .btn { width: 100%; }
+.sidebar .dealer { align-items: center; }

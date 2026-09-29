@@ -4576,5 +4576,11 @@
   "w": 1200,
   "h": 1600,
   "alt": "Paul Cee in a red Minelab shirt swinging a detector along the shoreline"
+ },
+ "brand/crawfords-blue.png": {
+  "file": "img/crawfords-blue.webp",
+  "w": 900,
+  "h": 301,
+  "alt": "Crawfords Metal Detectors"
  }
 }

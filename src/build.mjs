@@ -91,7 +91,7 @@ const vidCard = v => `<article class="vid">${video(v.id, '', v.dur)}<div class="
 
 // ---------- products ----------
 const productsFor = (text, n = 3) => { const hits = PRODUCTS.filter(p => p.re.test(text)); const det = hits.filter(p => p.cat === 'detector'); return [...det, ...hits.filter(p => p.cat !== 'detector')].slice(0, n); };
-const dealer = () => `<div class="dealer">${img(BRAND.crawfordsWhite, 'Crawfords Metal Detectors')}<span><strong>Where Paul buys</strong>Authorised Minelab dealer · UK stock</span></div>`;
+const dealer = () => `<div class="dealer">${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors')}<span><strong>Where Paul buys</strong>Authorised Minelab dealer · UK stock</span></div>`;
 const productBox = (p, wide = false) => `<div class="product${wide ? ' product--wide' : ''}"><div>${p.img && IMAGES[p.img] ? img(p.img, p.name, { cls: 'product__img' }) : '<div class="product__img"></div>'}</div><div><p class="mono product__k">Buy at Crawfords MD</p><p class="product__name">${esc(p.name)}</p><a class="btn btn--buy btn--sm" href="${cmdUrl(p.path)}" rel="sponsored noopener" target="_blank">Check price &amp; stock ${icon.ext}</a>${p.compare ? `<ul class="product__compare"><span class="mono">Compare at Crawfords</span>${p.compare.map(([u, l]) => `<li><a href="${cmdUrl(u)}" rel="sponsored noopener" target="_blank">${esc(l)}</a></li>`).join('')}</ul>` : ''}</div></div>`;
 const buyAside = (text, fallbackHref) => {
   const ps = productsFor(text, 1);
@@ -153,11 +153,11 @@ function footer() {
   const cols = NAV.filter(n => n.groups).slice(0, 3).map(n => `<div><p class="footer__h mono">${n.label}</p><ul>${n.groups.flatMap(g => g.items).slice(0, 7).map(([s, l]) => `<li><a href="${pageUrl(s)}">${l}</a></li>`).join('')}</ul></div>`).join('');
   return `<footer class="site-footer">
   <div class="wrap">
-    <div class="discount"><div class="discount__brand">${img(BRAND.crawfordsWhite, 'Crawfords Metal Detectors')}<div><p class="mono discount__k">Reader discount</p><p class="discount__h">Save on accessories at ${DISCOUNT.where} with code <button type="button" class="code" data-copy="${DISCOUNT.code}" aria-label="Copy code ${DISCOUNT.code}">${DISCOUNT.code}</button></p><p class="discount__t">${DISCOUNT.terms}</p></div></div><a class="btn btn--buy" href="${cmdUrl('/')}" rel="sponsored noopener" target="_blank">Shop at Crawfords MD ${icon.ext}</a></div>
+    <div class="discount"><div class="discount__brand">${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo-chip' })}<div><p class="mono discount__k">Reader discount</p><p class="discount__h">Save on accessories at ${DISCOUNT.where} with code <button type="button" class="code" data-copy="${DISCOUNT.code}" aria-label="Copy code ${DISCOUNT.code}">${DISCOUNT.code}</button></p><p class="discount__t">${DISCOUNT.terms}</p></div></div><a class="btn btn--buy" href="${cmdUrl('/')}" rel="sponsored noopener" target="_blank">Shop at Crawfords MD ${icon.ext}</a></div>
     <div class="footer__grid">
       <div class="footer__brand"><a class="brand brand--footer" href="${url('')}"><span class="brand__mark" aria-hidden="true">PC</span><span class="brand__text"><span class="brand__name">Paul Cee</span><span class="brand__sub mono">Minelab Detexpert</span></span></a><p class="footer__tag">${TAGLINE}</p><p>Official Minelab Detexpert and Crawfords Metal Detectors ambassador, sharing settings, reviews and finds from UK beaches and fields.</p>
       <p class="footer__social"><a href="${YT.subscribeUrl}" rel="noopener" target="_blank">${icon.yt} YouTube</a> <a href="${url('videos/')}">Videos</a> <a href="${pageUrl('social-sites')}">Newsletter</a> <a href="${pageUrl('contact')}">Contact</a></p>
-      <div class="footer__partners">${img(BRAND.minelab, 'Minelab', { cls: 'logo--light' })}${img(BRAND.detexpertShield, 'Minelab Detexpert')}${img(BRAND.crawfordsWhite, 'Crawfords Metal Detectors')}${img(BRAND.coiltek, 'Coiltek', { cls: 'logo--light' })}</div></div>
+      <div class="footer__partners">${img(BRAND.minelab, 'Minelab', { cls: 'logo--light' })}${img(BRAND.detexpertShield, 'Minelab Detexpert')}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--light' })}${img(BRAND.coiltek, 'Coiltek', { cls: 'logo--light' })}</div></div>
       ${cols}
     </div>
     <p class="footer__disclosure"><strong>Affiliate disclosure.</strong> ${DISCLOSURE}</p>
@@ -219,7 +219,7 @@ function renderHome() {
   const body = `
 <section class="hero"><div class="hero__bg" aria-hidden="true"></div><div class="wrap hero__grid">
   <div class="hero__copy">
-    <div class="hero__badges"><span class="detexpert">${img(BRAND.detexpertShield, '')}<span><span class="mono">Official</span>Minelab Detexpert &amp; field tester</span></span><span class="detexpert">${img(BRAND.crawfordsWhite, '', { cls: 'on-dark' })}<span><span class="mono">Ambassador</span>Crawfords Metal Detectors</span></span></div>
+    <div class="hero__badges"><span class="detexpert">${img(BRAND.detexpertShield, '')}<span><span class="mono">Official</span>Minelab Detexpert &amp; field tester</span></span><span class="detexpert">${img(BRAND.crawfordsBlue, '', { cls: 'badge-logo' })}<span><span class="mono">Ambassador</span>Crawfords Metal Detectors</span></span></div>
     <h1 class="hero__h1">${HOME.h1}</h1>
     <p class="hero__sub">${HOME.sub}</p>
     <div class="hero__ctas"><a class="btn btn--lg" href="#detectors">${HOME.primary[1]} ${icon.arrow}</a><a class="btn btn--ghost btn--lg" href="${url('videos/')}">${icon.yt} Watch the tutorials</a></div>
@@ -228,7 +228,7 @@ function renderHome() {
   <figure class="hero__photo hero__photo--left">${img('photos/paul-beach-minelab.jpg', '', { eager: true, sizes: '(min-width: 900px) 40vw, 100vw' })}${img(BRAND.detexpertShield, 'Minelab Detexpert', { cls: 'hero__shield' })}<figcaption class="mono">Paul Cee · Minelab Detexpert</figcaption></figure>
 </div></section>
 
-<section class="creds" aria-label="Partners"><div class="wrap creds__row"><p class="creds__label"><span class="mono">Trusted by</span></p><div class="creds__logos">${img(BRAND.minelab, 'Minelab', { cls: 'logo--tall' })}${img(BRAND.detexpertWord, 'Minelab Detexpert', { cls: '' })}${img(BRAND.crawfordsWhite, 'Crawfords Metal Detectors', { cls: 'logo--dark' })}${img(BRAND.coiltek, 'Coiltek')}</div></div></section>
+<section class="creds" aria-label="Partners"><div class="wrap creds__row"><p class="creds__label"><span class="mono">Trusted by</span></p><div class="creds__logos">${img(BRAND.minelab, 'Minelab', { cls: 'logo--tall' })}${img(BRAND.detexpertWord, 'Minelab Detexpert', { cls: '' })}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--wide' })}${img(BRAND.coiltek, 'Coiltek')}</div></div></section>
 
 <section class="section" id="detectors" aria-labelledby="det-h"><div class="wrap">
   <div class="section__head section__head--photo"><div><p class="eyebrow mono">Find your detector</p><h2 id="det-h">Settings &amp; user guides for every Minelab</h2><p class="section__lede">Pick your machine for Paul’s set-up guides, beach and field settings, and the coils and accessories worth adding.</p></div>${img('photos/paul-vanquish-screen.jpg', '', { cls: 'section__photo' })}</div>
@@ -249,7 +249,7 @@ function renderHome() {
 </div></section>
 
 <section class="section shop" id="shop" aria-labelledby="shop-h"><div class="wrap">
-  <div class="shop__head"><div><p class="eyebrow mono">Where Paul buys his gear</p><h2 id="shop-h">Shop Paul’s recommendations at Crawfords Metal Detectors</h2><p>Authorised Minelab dealer with UK stock, expert advice and free delivery over £50. Every link below carries Paul’s recommendation — and his reader discount on accessories.</p></div>${img(BRAND.crawfordsWhite, 'Crawfords Metal Detectors', { cls: 'shop__logo' })}</div>
+  <div class="shop__head"><div><p class="eyebrow mono">Where Paul buys his gear</p><h2 id="shop-h">Shop Paul’s recommendations at Crawfords Metal Detectors</h2><p>Authorised Minelab dealer with UK stock, expert advice and free delivery over £50. Every link below carries Paul’s recommendation — and his reader discount on accessories.</p></div>${'<span class="shop__logo">' + img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors') + '</span>'}</div>
   <div class="shop__grid">${SHOP_CATS.map(c => `<div class="shop-tile"><h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><div class="shop-tile__links"><a class="btn btn--white btn--sm" href="${cmdUrl(c.path)}" rel="sponsored noopener" target="_blank">Shop at Crawfords ${icon.ext}</a>${pages[c.guide] ? `<a class="shop-tile__guide" href="${pageUrl(c.guide)}">Paul’s guide →</a>` : ''}</div></div>`).join('')}</div>
   <p class="shop__code">Use code <button type="button" class="code" data-copy="${DISCOUNT.code}">${DISCOUNT.code}</button> at checkout for a discount on accessories. ${DISCOUNT.terms}</p>
 </div></section>
