@@ -13,15 +13,17 @@ export function webpSize(file) {
   return null;
 }
 
+// Create one resolver per build: results (including misses) are cached for the
+// resolver's lifetime, so a long-lived process must create a new one after files change.
 export function createImageResolver(root, images) {
   const byFile = new Map(Object.entries(images).map(([k, v]) => ['/' + v.file, k]));
   const cache = new Map();
   return {
     keyForFile: f => byFile.get(f) || null,
-    fileForKey: k => (images[k] ? '/' + images[k].file : null),
+    fileForKey: k => (Object.hasOwn(images, k) ? '/' + images[k].file : null),
     resolve(ref) {
       if (!ref) return null;
-      if (images[ref]) return images[ref];
+      if (Object.hasOwn(images, ref)) return images[ref];
       if (!String(ref).startsWith('/img/')) return null;
       const k = byFile.get(ref); if (k) return images[k];
       if (!cache.has(ref)) { const d = webpSize(path.join(root, 'public', ref)); cache.set(ref, d ? { file: ref.slice(1), w: d.w, h: d.h, alt: '' } : null); }

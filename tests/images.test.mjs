@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
+import os from 'node:os';
 import { createImageResolver, webpSize } from '../src/content/images.mjs';
 
 const root = path.resolve('.');
@@ -22,4 +23,24 @@ test('resolver handles keys, known paths and unknown paths', () => {
   assert.equal(r.resolve('/img/p-paul-beach-minelab.webp').w, 1600);
   assert.equal(r.resolve('/img/does-not-exist.webp'), null);
   assert.equal(r.resolve('nope'), null);
+});
+
+test('resolver handles prototype pollution edge cases', () => {
+  const r = createImageResolver(root, images);
+  assert.equal(r.resolve('constructor'), null);
+  assert.equal(r.fileForKey('toString'), null);
+});
+
+test('resolver handles CMS uploads not in images.json', () => {
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'pc-img-'));
+  try {
+    const publicDir = path.join(tmp, 'public', 'img');
+    fs.mkdirSync(publicDir, { recursive: true });
+    fs.copyFileSync(path.join(root, 'public', 'img', 'p-paul-beach-minelab.webp'), path.join(publicDir, 'upload.webp'));
+    const r = createImageResolver(tmp, {});
+    assert.deepEqual(r.resolve('/img/upload.webp'), { file: 'img/upload.webp', w: 1600, h: 1200, alt: '' });
+    assert.equal(r.keyForFile('/img/upload.webp'), null);
+  } finally {
+    fs.rmSync(tmp, { recursive: true });
+  }
 });
