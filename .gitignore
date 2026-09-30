@@ -5,3 +5,4 @@ Thumbs.db
 *.iwzip
 *.log
 .claude/
+.superpowers/
