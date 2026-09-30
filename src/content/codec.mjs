@@ -63,7 +63,8 @@ export function inlineToMd(html, ctx) {
     if (i < 0) return;
     const { start, href, btn } = stack.splice(i)[0];
     const inner = out.splice(start).join('');
-    if (type === 'a') { out.push(btn ? `<a href="${encodeAttr(href)}" class="btn">${inner}</a>` : `[${inner}](${mdUrl(href)})`); return; }
+    // A "\" hard break at the very end of link text stays literal in Markdown, so trailing breaks there are written as <br>.
+    if (type === 'a') { out.push(btn ? `<a href="${encodeAttr(href)}" class="btn">${inner}</a>` : `[${inner.replace(/(?:\s|\u0000)+$/, m => m.replace(/\u0000/g, '<br>'))}](${mdUrl(href)})`); return; }
     // Whitespace and hard breaks at the edges stay outside the emphasis markers.
     const lead = inner.match(/^(?:\s|\u0000)*/)[0];
     const rest = inner.slice(lead.length);
@@ -151,7 +152,16 @@ export function plainHtmlToToken(html, ctx) {
     });
 }
 
-const inline = s => marked.parseInline(s, MD);
+// marked escapes quotes; the site's token HTML keeps them literal (heading ids are slugified from it).
+const literalQuotes = html => html.split(/(<[^>]+>)/).map(p => (p[0] === '<' ? p : p.replace(/&quot;/g, '"')).replace(/&#39;/g, "'")).join('');
+const inline = s => literalQuotes(marked.parseInline(s, MD));
+// A block ending in a hard break is written with a trailing "\" (which CommonMark leaves literal): read it back as <br>.
+const inlineBlock = (text, ctx) => {
+  const s = text.replace(/\s+$/, '');
+  const br = (s.length - s.replace(/\\+$/, '').length) % 2 === 1;
+  const html = plainHtmlToToken(inline(br ? s.slice(0, -1) : s), ctx).trim();
+  return br ? html + '<br>' : html;
+};
 const isImageOnly = html => /<img /.test(html) && !html.replace(/<a [^>]*>|<\/a>|<img [^>]*>|<br>|\s|&nbsp;/g, '');
 
 export function markdownToBlocks(md, ctx) {
@@ -161,11 +171,11 @@ export function markdownToBlocks(md, ctx) {
       case 'heading': blocks.push({ t: t.depth <= 2 ? 'h2' : t.depth === 3 ? 'h3' : 'h4', html: plainHtmlToToken(inline(t.text), ctx).trim() }); break;
       case 'paragraph': {
         const comp = parseComponent(t.text.trim()); if (comp) { blocks.push(comp); break; }
-        const html = plainHtmlToToken(inline(t.text), ctx).trim(); if (!html) break;
+        const html = inlineBlock(t.text, ctx); if (!html) break;
         blocks.push({ t: isImageOnly(html) ? 'figure' : 'p', html });
         break;
       }
-      case 'list': blocks.push({ t: t.ordered ? 'ol' : 'ul', items: t.items.map(i => plainHtmlToToken(inline(i.text), ctx).trim()) }); break;
+      case 'list': blocks.push({ t: t.ordered ? 'ol' : 'ul', items: t.items.map(i => inlineBlock(i.text, ctx)) }); break;
       case 'html': { const h = t.text.trim(); if (h) blocks.push({ t: 'raw', html: plainHtmlToToken(h, ctx) }); break; }
       case 'blockquote': blocks.push({ t: 'p', html: plainHtmlToToken(inline(t.text), ctx).trim() }); break;
       case 'code': blocks.push({ t: 'raw', html: `<pre><code>${escapeHtml(t.text)}</code></pre>` }); break;

@@ -8,6 +8,8 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { ORIGIN, LINKS, DISCOUNT, NAV, HUBS, HOME, DISCLOSURE, TAGLINE, TOPICS } from './site.config.mjs';
 import { CMD, TRACKING, cmdUrl, LINK_MAP, PRODUCTS, SHOP_CATS, BRAND, YT } from './commerce.config.mjs';
+import { loadPages, loadPosts } from './content/load.mjs';
+import { createImageResolver } from './content/images.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'dist');
@@ -20,9 +22,9 @@ const BLOG_SLOT = '5406186549';
 const read = p => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
 const IMAGES = read('content/images.json');
 const VID = read('content/videos.json');
-const pages = Object.fromEntries(fs.readdirSync(path.join(ROOT, 'content/pages')).filter(f => f.endsWith('.json')).map(f => { const r = read('content/pages/' + f); return [r.slug, r]; }));
-const posts = fs.readdirSync(path.join(ROOT, 'content/posts')).filter(f => f.endsWith('.json')).map(f => read('content/posts/' + f))
-  .sort((a, b) => (b.datePublished || '').localeCompare(a.datePublished || ''));
+const RES = createImageResolver(ROOT, IMAGES);
+const pages = loadPages(ROOT, { resolver: RES });
+const posts = loadPosts(ROOT, { resolver: RES, now: new Date() });
 const postBySlug = Object.fromEntries(posts.map(p => [p.slug, p]));
 
 // ---------- helpers ----------
@@ -32,12 +34,12 @@ const slugify = s => strip(s).toLowerCase().replace(/&/g, 'and').replace(/[^a-z0
 const url = p => BASE + String(p).replace(/^\//, '');
 const pageUrl = slug => slug === 'index' ? url('') : url(slug + '/');
 const img = (rel, alt = '', { cls = '', sizes = '', eager = false, maxw } = {}) => {
-  const m = IMAGES[rel]; if (!m) return '';
+  const m = RES.resolve(rel); if (!m) return '';
   const style = maxw ? ` style="max-width:min(100%,${maxw}px)"` : '';
   return `<img src="${url(m.file)}" alt="${esc(alt || m.alt || '')}" width="${m.w}" height="${m.h}"${cls ? ` class="${cls}"` : ''}${sizes ? ` sizes="${sizes}"` : ''} ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"${style}>`;
 };
 const fmtDate = d => d ? new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) : '';
-const topicOf = p => { const hay = `${p.category} ${p.title} ${p.slug}`; for (const [k, label, re] of TOPICS) if (re.test(hay)) return { key: k, label }; return { key: 'detecting', label: 'Detecting' }; };
+const topicOf = p => { if (p.topicKey) { const t = TOPICS.find(([k]) => k === p.topicKey); if (t) return { key: t[0], label: t[1] }; if (p.topicKey === 'detecting') return { key: 'detecting', label: 'Detecting' }; } const hay = `${p.category} ${p.title} ${p.slug}`; for (const [k, label, re] of TOPICS) if (re.test(hay)) return { key: k, label }; return { key: 'detecting', label: 'Detecting' }; };
 posts.forEach(p => { p.topic = topicOf(p); });
 const TOPIC_LIST = [...TOPICS.map(([k, l]) => ({ key: k, label: l })), { key: 'detecting', label: 'Detecting' }].filter(t => posts.some(p => p.topic.key === t.key));
 const fixOrigin = s => String(s).replace(/https?:\/\/192\.168\.\d+\.\d+(:\d+)?\//g, ORIGIN + '/').replace(/"(thumbnailUrl|url)":"(images\/[^"]+)"/g, `"$1":"${ORIGIN}/$2"`);
@@ -65,6 +67,7 @@ function links(html) {
       if (href.startsWith('@asset:')) { const a = href.slice(7); h = IMAGES[a] ? url(IMAGES[a].file) : `${ORIGIN}/${a}`; }
       else if (href.startsWith('@blog/')) { const s = href.slice(6).replace(/\/$/, ''); h = !s ? url('blog/') : postBySlug[s] ? url(`blog/${s}/`) : `${ORIGIN}/blog/?${s}`; }
       else if (href.startsWith('@')) { const [s, hash = ''] = href.slice(1).split('#'); const sl = s.replace(/\/$/, '') || 'index'; h = pages[sl] ? pageUrl(sl) + (hash ? '#' + hash : '') : `${ORIGIN}/${sl}.html`; }
+      else if (href.startsWith('/')) { h = url(href); }
       else { const c = crawfords(href); if (c) { if (c !== href) rewrote++; h = c; kind = 'affiliate'; affCount++; } }
       if (kind === 'affiliate') { rel = ' rel="sponsored noopener"'; tgt = ' target="_blank"'; }
       else if (kind === 'external') { rel = ' rel="noopener"'; tgt = ' target="_blank"'; }
@@ -92,7 +95,7 @@ const vidCard = v => `<article class="vid">${video(v.id, '', v.dur)}<div class="
 // ---------- products ----------
 const productsFor = (text, n = 3) => { const hits = PRODUCTS.filter(p => p.re.test(text)); const det = hits.filter(p => p.cat === 'detector'); return [...det, ...hits.filter(p => p.cat !== 'detector')].slice(0, n); };
 const dealer = () => `<div class="dealer">${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors')}<span><strong>Where Paul buys</strong>Authorised Minelab dealer · UK stock</span></div>`;
-const productBox = (p, wide = false) => `<div class="product${wide ? ' product--wide' : ''}"><div>${p.img && IMAGES[p.img] ? img(p.img, p.name, { cls: 'product__img' }) : '<div class="product__img"></div>'}</div><div><p class="mono product__k">Buy at Crawfords MD</p><p class="product__name">${esc(p.name)}</p><a class="btn btn--buy btn--sm" href="${cmdUrl(p.path)}" rel="sponsored noopener" target="_blank">Check price &amp; stock ${icon.ext}</a>${p.compare ? `<ul class="product__compare"><span class="mono">Compare at Crawfords</span>${p.compare.map(([u, l]) => `<li><a href="${cmdUrl(u)}" rel="sponsored noopener" target="_blank">${esc(l)}</a></li>`).join('')}</ul>` : ''}</div></div>`;
+const productBox = (p, wide = false) => `<div class="product${wide ? ' product--wide' : ''}"><div>${p.img && RES.resolve(p.img) ? img(p.img, p.name, { cls: 'product__img' }) : '<div class="product__img"></div>'}</div><div><p class="mono product__k">Buy at Crawfords MD</p><p class="product__name">${esc(p.name)}</p><a class="btn btn--buy btn--sm" href="${cmdUrl(p.path)}" rel="sponsored noopener" target="_blank">Check price &amp; stock ${icon.ext}</a>${p.compare ? `<ul class="product__compare"><span class="mono">Compare at Crawfords</span>${p.compare.map(([u, l]) => `<li><a href="${cmdUrl(u)}" rel="sponsored noopener" target="_blank">${esc(l)}</a></li>`).join('')}</ul>` : ''}</div></div>`;
 const buyAside = (text, fallbackHref) => {
   const ps = productsFor(text, 1);
   return `<div class="side-card side-card--buy">${dealer()}${ps.length ? ps.map(p => productBox(p)).join('') : `<a class="btn btn--buy btn--block" href="${fallbackHref || cmdUrl('/metal-detectors/minelab')}" rel="sponsored noopener" target="_blank">Shop Minelab at Crawfords ${icon.ext}</a>`}<p class="side-card__code">Accessories code <button type="button" class="code" data-copy="${DISCOUNT.code}">${DISCOUNT.code}</button></p></div>`;
@@ -200,7 +203,7 @@ function doc(opts, body, active) {
 const crumbs = items => `<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="${url('')}">Home</a></li>${items.map(([h, l], i) => i === items.length - 1 ? `<li aria-current="page">${esc(l)}</li>` : `<li><a href="${h}">${esc(l)}</a></li>`).join('')}</ol></nav>`;
 
 const postCard = (p, { size = '' } = {}) => {
-  const cover = p.cover && IMAGES[p.cover] ? img(p.cover, p.title, { cls: 'card__img' }) : p.heroVideo ? `<img class="card__img" src="${ytThumb(p.heroVideo)}" alt="" loading="lazy" width="480" height="360">` : `<div class="card__img card__img--blank" aria-hidden="true"><span class="mono">${esc(p.topic.label)}</span></div>`;
+  const cover = p.cover && RES.resolve(p.cover) ? img(p.cover, p.title, { cls: 'card__img' }) : p.heroVideo ? `<img class="card__img" src="${ytThumb(p.heroVideo)}" alt="" loading="lazy" width="480" height="360">` : `<div class="card__img card__img--blank" aria-hidden="true"><span class="mono">${esc(p.topic.label)}</span></div>`;
   return `<article class="card ${size}" data-topic="${p.topic.key}"><a class="card__link" href="${url(`blog/${p.slug}/`)}"><div class="card__media">${cover}${p.heroVideo ? '<span class="badge badge--video">Video</span>' : ''}</div><div class="card__body"><p class="card__meta mono">${esc(p.topic.label)} · ${fmtDate(p.datePublished)}</p><h3 class="card__title">${esc(p.title)}</h3>${size === 'card--lg' ? `<p class="card__excerpt">${esc(strip(p.summary).slice(0, 160))}</p>` : ''}</div></a></article>`;
 };
 
@@ -348,6 +351,8 @@ function renderBlocks(blocks, { toc = [], adEvery = 0 } = {}) {
       case 'video': out += video(b.id, b.title); break;
       case 'embed': out += `<div class="embed"><iframe src="${esc(b.src)}" loading="lazy" title="Embedded form" height="${Math.min(+b.height || 600, 1200)}"></iframe></div>`; break;
       case 'ad': out += ad(b.slot); break;
+      case 'raw': out += links(b.html); break;
+      case 'product': { const pr = PRODUCTS.find(x => x.key === b.key); if (pr) out += productBox(pr, true); break; }
       case 'contactform': out += contactForm(); break;
     }
   }

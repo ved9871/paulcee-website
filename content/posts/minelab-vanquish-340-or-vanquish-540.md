@@ -28,7 +28,4 @@ Comparing the Vanquish 340 and 540 side by side and what features and settings t
 
 Looking at which coils and accessories are available for the Minelab Vanquish series Metal Detectors
 
-[\
-\
-\
-](https://youtu.be/HZkSggRUZrg)
+[<br><br><br>](https://youtu.be/HZkSggRUZrg)

@@ -1,6 +1,12 @@
 // Site-wide configuration: navigation, homepage copy, detector hubs, topics.
 // Copy drafted for Paul's review — see docs/HOMEPAGE-COPY.md.
 
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { loadTopics, loadSettings } from './content/load.mjs';
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const SETTINGS = loadSettings(ROOT);
+
 export const ORIGIN = 'https://www.paulcee.co.uk';
 
 export const LINKS = {
@@ -10,11 +16,7 @@ export const LINKS = {
   detexpert: 'https://bit.ly/detexpert',
 };
 
-export const DISCOUNT = {
-  code: 'PaulCee10',
-  where: 'Crawfords Metal Detectors',
-  terms: 'Valid online, in-store & by phone. Accessories only — excludes metal detectors.',
-};
+export const DISCOUNT = SETTINGS.discount;
 
 export const NAV = [
   {
@@ -55,8 +57,8 @@ export const HUBS = [
 
 export const HOME = {
   eyebrow: 'Minelab Detexpert · Crawfords MD Ambassador',
-  h1: 'Master your Minelab metal detector.',
-  sub: 'Field-tested settings, honest reviews and step-by-step tutorials from Paul Cee — Minelab Detexpert, beach-detecting fanatic, and the voice behind 3.8 million+ YouTube views.',
+  h1: SETTINGS.home.h1,
+  sub: SETTINGS.home.sub,
   primary: ['#detectors', 'Find settings for my detector'],
   secondary: ['youtube', 'Watch on YouTube'],
   proof: [['3.5M+', 'YouTube views'], ['220+', 'articles & field reports'], ['Weekly', 'new videos']],
@@ -75,19 +77,8 @@ export const HOME = {
   newsletter: { heading: 'First to hear about new detectors', body: 'Join the Crawfords Metal Detectors mailing list for new releases, exclusive offers and monthly free competitions.' },
 };
 
-export const DISCLOSURE = 'Some links on this site are affiliate links. If you buy through them, Paul may earn a small commission from Crawfords Metal Detectors or Minelab at no extra cost to you. It never changes what he recommends.';
-export const TAGLINE = 'Dig deeper. Detect smarter.';
+export const DISCLOSURE = SETTINGS.disclosure;
+export const TAGLINE = SETTINGS.tagline;
 
 // Blog topic hubs — assigned by matching category/title, first match wins
-export const TOPICS = [
-  ['minelab-manticore', 'Minelab Manticore', /manticore|mythtek|\bm8\b|\bm9\b/i],
-  ['minelab-equinox', 'Minelab Equinox', /equinox|eqx/i],
-  ['minelab-vanquish', 'Minelab Vanquish', /vanquish|simplex/i],
-  ['minelab-x-terra', 'Minelab X-Terra', /x-?\s?terra|voyager/i],
-  ['ctx-3030', 'CTX 3030 & other machines', /ctx|etrac|gpx|deus|garrett|seahunter|atx|go-?find|evo 6000|c-scope|pro-?find/i],
-  ['coils-and-gear', 'Coils, tools & gear', /coil|nox|scoop|spade|shaft|headphone|accessor|wm0|power ?x|case|diamond tester|battery|power bank|armcup|cover|mals|surf/i],
-  ['beach-detecting', 'Beach detecting', /beach|sand|storm|cuts|washout|rockpool|foreshore/i],
-  ['finds', 'Finds & field reports', /find|coin|gold|ring|hoard|silver|treasure|jackpot|badge|stater|hammered/i],
-  ['rallies-and-events', 'Rallies & events', /rally|rallys|detectival|bike night|event|grand tour/i],
-  ['beginners', 'Beginners & how-to', /beginner|how to|guide|permission|tips|research|maps|places|training|kids|panning|clean|electrolysis|maintenance|looking after/i],
-];
+export const TOPICS = loadTopics(ROOT);

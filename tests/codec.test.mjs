@@ -99,3 +99,31 @@ test('an image-only paragraph comes back as a figure (accepted normalisation)', 
   const html = '<a href="https://example.com/" data-kind="external"><img src="@img:images/a.jpg" alt="x" width="800" height="600"></a>';
   assert.deepEqual(rt([{ t: 'p', html }]), [{ t: 'figure', html }]);
 });
+
+test('quotes in text and image alts stay literal (headings slugify from the HTML)', () => {
+  const blocks = [
+    { t: 'h2', html: 'The "Tank": Swagier\'s V5' },
+    { t: 'p', html: 'Paul\'s "favourite" coil' },
+    { t: 'figure', html: '<img src="@img:images/a.jpg" alt="Manticore\'s screen" width="800" height="600">' },
+  ];
+  assert.deepEqual(rt(blocks), blocks);
+});
+
+test('a hard break ending a paragraph or list item comes back as <br>', () => {
+  const blocks = [
+    { t: 'p', html: 'Intro' },
+    { t: 'p', html: '<br>' },
+    { t: 'ul', items: ['Weight 1300g<br>', 'BUY'] },
+    { t: 'p', html: 'Ends with a break<br>' },
+  ];
+  assert.deepEqual(rt(blocks), blocks);
+  assert.deepEqual(markdownToBlocks('A literal backslash \\\\', ctx), [{ t: 'p', html: 'A literal backslash \\' }]);
+});
+
+test('hard breaks at the end of link text survive', () => {
+  const blocks = [
+    { t: 'p', html: '<a href="https://youtu.be/HZkSggRUZrg" data-kind="external"><br><br><br></a>' },
+    { t: 'p', html: 'Watch <a href="https://youtu.be/HZkSggRUZrg" data-kind="external">the video<br></a> now' },
+  ];
+  assert.deepEqual(rt(blocks), blocks);
+});
