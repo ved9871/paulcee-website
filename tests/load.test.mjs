@@ -49,3 +49,22 @@ test('derive collects images, videos and affiliate links', () => {
   const d = derive([{ t: 'p', html: '<a href="https://x.com/?a=1&amp;b=2" data-kind="affiliate">x</a> <img src="@img:images/a.jpg" alt="" width="1" height="1">' }, { t: 'video', id: 'abc' }]);
   assert.deepEqual(d, { images: ['images/a.jpg'], videos: ['abc'], affiliateLinks: ['https://x.com/?a=1&b=2'] });
 });
+
+import { loadEvents } from '../src/content/load.mjs';
+
+test('events split into upcoming (soonest first) and past', () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'pc-ev-'));
+  try {
+    const dir = path.join(root, 'content/events'); fs.mkdirSync(dir, { recursive: true });
+    const w = (n, o) => fs.writeFileSync(path.join(dir, n + '.json'), JSON.stringify(o));
+    w('a', { name: 'Old', start: '2026-05-01' });
+    w('b', { name: 'Multi', start: '2026-09-28', end: '2026-10-02' });
+    w('c', { name: 'Next', start: '2026-10-10' });
+    const { upcoming, past } = loadEvents(root, { today: '2026-09-29' });
+    assert.deepEqual(upcoming.map(e => e.name), ['Multi', 'Next']);
+    assert.deepEqual(past.map(e => e.name), ['Old']);
+    assert.equal(loadEvents(path.join(root, 'nope'), { today: '2026-09-29' }).upcoming.length, 0);
+  } finally {
+    fs.rmSync(root, { recursive: true, force: true });
+  }
+});

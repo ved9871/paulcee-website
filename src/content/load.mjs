@@ -71,3 +71,13 @@ export const loadProducts = root => ordered(path.join(root, 'content/products'))
 }));
 
 export const loadSettings = root => readJson(path.join(root, 'content/settings.json'));
+
+export function loadEvents(root, { today }) {
+  const dir = path.join(root, 'content/events');
+  const all = list(dir, '.json').map(f => ({ slug: f.slice(0, -5), ...readJson(path.join(dir, f)) })).filter(e => e.name && e.start);
+  const isPast = e => String(e.end || e.start).slice(0, 10) < today;
+  return {
+    upcoming: all.filter(e => !isPast(e)).sort((a, b) => String(a.start).localeCompare(String(b.start))),
+    past: all.filter(isPast).sort((a, b) => String(b.start).localeCompare(String(a.start))),
+  };
+}

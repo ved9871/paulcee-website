@@ -8,7 +8,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { ORIGIN, LINKS, DISCOUNT, NAV, HUBS, HOME, DISCLOSURE, TAGLINE, TOPICS } from './site.config.mjs';
 import { CMD, TRACKING, cmdUrl, LINK_MAP, PRODUCTS, SHOP_CATS, BRAND, YT } from './commerce.config.mjs';
-import { loadPages, loadPosts } from './content/load.mjs';
+import { loadPages, loadPosts, loadEvents } from './content/load.mjs';
 import { createImageResolver } from './content/images.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -25,6 +25,7 @@ const VID = read('content/videos.json');
 const RES = createImageResolver(ROOT, IMAGES);
 const pages = loadPages(ROOT, { resolver: RES });
 const posts = loadPosts(ROOT, { resolver: RES, now: new Date() });
+const EVENTS = loadEvents(ROOT, { today: new Date().toISOString().slice(0, 10) });
 const postBySlug = Object.fromEntries(posts.map(p => [p.slug, p]));
 
 // ---------- helpers ----------
@@ -212,6 +213,10 @@ function watchSection(re, heading, groupKey) {
   return `<section class="watch" aria-labelledby="watch-h"><div class="wrap"><div class="section__head section__head--row"><div><p class="eyebrow mono">On YouTube</p><h2 id="watch-h">${esc(heading)}</h2></div><a class="btn btn--ghost" href="${url('videos/')}#${groupKey}">All videos ${icon.arrow}</a></div><div class="vids">${vs.map(vidCard).join('')}</div></div></section>`;
 }
 
+const fmtRange = e => { const s = fmtDate(e.start), en = e.end && e.end !== e.start ? fmtDate(e.end) : ''; return en ? `${s} – ${en}` : s; };
+const eventCard = e => `<article class="event">${e.image ? img(e.image, e.name, { cls: 'event__img' }) : ''}<div class="event__body"><p class="mono event__date">${esc(fmtRange(e))}${e.venue ? ` · ${esc(e.venue)}` : ''}</p><h3 class="event__name">${esc(e.name)}</h3>${e.description ? `<p>${esc(strip(e.description)).slice(0, 220)}</p>` : ''}${e.link ? `<a class="btn btn--sm" href="${esc(e.link)}" rel="noopener" target="_blank">Details &amp; tickets ${icon.ext}</a>` : ''}</div></article>`;
+const eventsBlock = () => EVENTS.upcoming.length ? `<section class="events" aria-labelledby="ev-h"><h2 id="ev-h">Upcoming rallies &amp; events</h2><div class="events__list">${EVENTS.upcoming.map(eventCard).join('')}</div></section>` : '';
+
 // ---------- pages ----------
 function writeFile(rel, html) { const f = path.join(DIST, rel); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, html); }
 
@@ -272,6 +277,7 @@ function renderHome() {
 <section class="section section--dark" aria-labelledby="rally-h"><div class="wrap split split--rev">
   <figure class="rally-photo">${img('images/DSC00062-copy.jpg', 'Paul Cee helping a detectorist with settings at a metal detecting rally')}</figure>
   <div><p class="eyebrow mono">Rallies &amp; events</p><h2 id="rally-h">Come and find Paul at a rally</h2><p>Through the rally season Paul sets up test lanes at digs across the UK and Europe — bring your detector, try the latest Minelab machines, and get your settings checked in person.</p>
+  ${EVENTS.upcoming.length ? `<ul class="ticks">${EVENTS.upcoming.slice(0, 3).map(e => `<li><strong>${esc(fmtRange(e))}</strong>&nbsp;${esc(e.name)}${e.venue ? `, ${esc(e.venue)}` : ''}</li>`).join('')}</ul>` : ''}
   <ul class="ticks"><li><a href="${pageUrl('detecting-rallies-2026')}">Detecting rallies 2026 — updated weekly</a></li><li><a href="${pageUrl('minelab-500-rally')}">The Minelab 500 Rally</a></li><li><a href="${pageUrl('detectival')}">Detectival</a></li></ul>
   <div class="newsletter"><h3>${HOME.newsletter.heading}</h3><p>${HOME.newsletter.body}</p><a class="btn btn--ghost" href="${LINKS.newsletter}" rel="sponsored noopener" target="_blank">Join the Crawfords mailing list ${icon.ext}</a></div></div>
 </div></section>`;
@@ -313,7 +319,7 @@ function renderPage(r) {
   ${r.affiliateLinks.length || gear.length ? `<p class="disclosure-inline"><span class="mono">Affiliate links</span> Product links go to Crawfords Metal Detectors and carry Paul’s affiliate code — <a href="#disclosure">learn more</a>.</p>` : ''}
 </div></div>
 <div class="wrap layout">
-  <article class="prose">${content}${r.slug === 'about-us' ? gallery() : ''}
+  <article class="prose">${r.slug === 'detecting-rallies-2026' ? eventsBlock() : ''}${content}${r.slug === 'about-us' ? gallery() : ''}
     ${gear.length ? `<div class="gear-strip"><h2>Gear in this guide — buy at Crawfords MD</h2><div class="gear-strip__grid">${gear.map(p => productBox(p)).join('')}</div></div>` : ''}
   </article>
   <aside class="sidebar">
