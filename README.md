@@ -10,8 +10,9 @@ This repository holds the **design preview**, a static build of the full site in
 
 | | |
 |---|---|
-| `content/pages/*.json` | 32 core pages extracted from Paul's WebSite X5 project (the pages in the live sitemap) |
-| `content/posts/*.json` | All **223** blog posts fetched from the live blog, with dates, categories, read time and schema |
+| `content/pages/*.md` | 32 core pages as Markdown with front matter (edited in the CMS) |
+| `content/posts/*.md` | All **223** blog posts as Markdown with front matter (edited in the CMS) |
+| `content/meta/` | Developer-managed legacy SEO data per page and post (canonical, JSON-LD, Open Graph) |
 | `content/videos.json` | 270 videos from Paul's YouTube channel (26 playlists + latest uploads), grouped by detector |
 | `content/images.json` + `public/img/` | 757 images, converted to WebP (max 1400px), with intrinsic sizes for zero layout shift |
 | `src/build.mjs` | Static site generator (no dependencies) |
@@ -47,6 +48,26 @@ CNAME=new.paulcee.co.uk node src/build.mjs   # custom subdomain (writes dist/CNA
 ## Deploy
 
 Every push to `main` runs `.github/workflows/pages.yml`, which builds, runs the link/SEO check and publishes to GitHub Pages.
+
+## Editing content (CMS)
+
+Content lives in `content/` and is edited in the Sveltia CMS admin at `/admin/` (launch step 3 configures GitHub sign-in).
+
+| What | Where |
+|---|---|
+| Blog posts | `content/posts/<slug>.md` (Markdown + YAML front matter) |
+| Pages | `content/pages/<slug>.md` |
+| Legacy SEO data (developer-managed) | `content/meta/{posts,pages}/<slug>.json`: canonical, JSON-LD, OG, verification |
+| Rallies & events | `content/events/*.json`; upcoming events appear on the rallies page and the homepage |
+| Products | `content/products/*.json`; the build adds `?tracking=fa202437c9` to every Crawfords link |
+| Topics | `content/topics/*.json` (the blog filter chips) |
+| Settings | `content/settings.json` |
+
+Body components: `{{youtube id="…"}}`, `{{product key="…"}}`, `{{ad slot="…"}}`, `{{embed src="…" height="…"}}`, `{{contactform}}`.
+
+- Drafts (`draft: true`) and future-dated posts are not published. A daily 06:00 UK rebuild publishes scheduled posts.
+- `npm test` runs the unit tests.
+- `node tools/compare-output.mjs <oldDist> <newDist>` diffs two builds on SEO and content signals.
 
 ## Commerce rules (agreed with Paul / Crawfords)
 

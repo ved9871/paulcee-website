@@ -1,6 +1,6 @@
 # CMS for paulcee.co.uk: design
 
-**Status:** approved section by section with Ved on 29 Sept 2026. Paul chose a free, Git-based CMS.
+**Status:** approved 29 Sept 2026 · launch steps 1–2 implemented on branch cms.
 **Research:** 4 Git-based tools evaluated and fact-checked. Scores out of 70: Sveltia 57, Decap 51, Pages CMS 38, Keystatic 37.
 
 ## Goal
