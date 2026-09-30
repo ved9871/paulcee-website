@@ -9,6 +9,7 @@ import { fileURLToPath } from 'node:url';
 import { ORIGIN, LINKS, DISCOUNT, NAV, HUBS, HOME, DISCLOSURE, TAGLINE, TOPICS } from './site.config.mjs';
 import { CMD, TRACKING, cmdUrl, LINK_MAP, PRODUCTS, SHOP_CATS, BRAND, YT } from './commerce.config.mjs';
 import { loadPages, loadPosts, loadEvents } from './content/load.mjs';
+import { withPlaylistTitles } from './content/videos.mjs';
 import { createImageResolver } from './content/images.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -85,8 +86,7 @@ const ad = (slot, label = 'In-content') => PROD
   : `<aside class="ad ad--preview" aria-label="Advertisement placeholder"><span class="mono">AdSense · ${esc(label)}</span><span>${slot ? `Slot ${slot} — preserved from current site` : 'Auto-ads position'}</span></aside>`;
 
 // ---------- videos ----------
-const PL = Object.fromEntries(VID.playlists.map(p => [p.id, p]));
-const videos = VID.videos.map(v => ({ ...v, plTitles: v.playlists.map(id => PL[id]?.title || '') }));
+const videos = withPlaylistTitles(VID.videos, VID.playlists);
 const groupOf = v => YT.groups.find(g => g.re.test(v.title) || v.plTitles.some(t => g.re.test(t))) || YT.groups[YT.groups.length - 1];
 videos.forEach(v => { v.group = groupOf(v).key; });
 const recent = videos.filter(v => v.recent != null).sort((a, b) => a.recent - b.recent);

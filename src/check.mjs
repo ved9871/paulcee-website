@@ -8,7 +8,7 @@ const broken = new Map(); const seo = []; let links = 0; let untracked = 0, noAl
 for (const f of files) {
   const h = fs.readFileSync(f, 'utf8'); const rel = path.relative(DIST, f);
   for (const m of h.matchAll(/(?:href|src)="([^"]+)"/g)) { const u = m[1]; if (/^(https?:|mailto:|tel:|#|data:)/.test(u)) continue; links++; if (!exists(u)) broken.set(u, (broken.get(u) || []).concat(rel)); }
-  for (const m of h.matchAll(/href="(https?:\/\/(?:www\.)?crawfordsmd\.com[^"]*)"/g)) if (!/tracking=fa202437c9/.test(m[1])) { untracked++; if (untracked <= 5) console.log('UNTRACKED', m[1], '←', rel); }
+  for (const m of h.matchAll(/href="(https?:\/\/(?:[a-z0-9-]+\.)*crawfordsmd\.com[^"]*)"/gi)) if (!/[?&]tracking=fa202437c9(?:&|#|$)/.test(m[1].replace(/&amp;/g, '&'))) { untracked++; if (untracked <= 5) console.log('UNTRACKED', m[1], '←', rel); }
   const prose = (h.match(/<article class="prose">([\s\S]*?)<\/article>/) || [, ''])[1];
   noAlt += (prose.match(/<img (?![^>]*class="(?:card__img|byline__avatar|author-box__img)")[^>]*alt=""/g) || []).length;
   if (rel === '404.html') continue;
