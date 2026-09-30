@@ -1,0 +1,533 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?the-ultimate-beginner-metal-detector-guide",
+  "author": "Paul Cee",
+  "category": "beginners metal detecting",
+  "categorySlug": "beginners_metal_detecting",
+  "readTime": 5,
+  "dateModified": "2026-08-31T11:11:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?the-ultimate-beginner-metal-detector-guide",
+    "og": {
+      "title": "The Ultimate Beginner Metal Detector Guide",
+      "description": "Discover how to choose the best beginner metal detector. Compare VLF vs multi-frequency technology, essential accessories, and UK detecting rules.",
+      "image": "https://www.paulcee.co.uk/blog/files/voyager-screen_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?the-ultimate-beginner-metal-detector-guide"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2026-08-31T11:11:00",
+        "dateModified": "2026-08-31T11:11:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "The Ultimate Beginner Metal Detector Guide",
+        "description": "Discover how to choose the best beginner metal detector",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?the-ultimate-beginner-metal-detector-guide",
+        "image": [
+          "https://www.paulcee.co.uk/images/multi-iq-Simplified-Curves.jpg",
+          "https://www.paulcee.co.uk/images/560-vol_c8fhftm8.jpg",
+          "https://www.paulcee.co.uk/images/900-ground-balance_v7wbufjq.jpg",
+          "https://www.paulcee.co.uk/images/XTE-intro_WEB.jpg",
+          "https://www.paulcee.co.uk/images/voyager-pack_w1lg3wcq.jpg",
+          "https://www.paulcee.co.uk/images/60-field_kb6gk9vb.jpg",
+          "https://www.paulcee.co.uk/images/XTE-intro.jpg",
+          "https://www.paulcee.co.uk/images/nox-900a_30mpj44c.jpg",
+          "https://www.paulcee.co.uk/images/manticore_webpage_w87pkd3e.jpg",
+          "https://www.paulcee.co.uk/images/pro-find-40-image-web_9zwmcxnf.jpg",
+          "https://www.paulcee.co.uk/images/20230422_064036.jpg",
+          "https://www.paulcee.co.uk/images/cmd-pouch_vpw4m5nl.jpg",
+          "https://www.paulcee.co.uk/blog/files/voyager-screen.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Aug 2026",
+            "item": "https://www.paulcee.co.uk/blog/?month=202608",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beginners metal detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=beginners metal detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beginner",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beginner",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detector",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "guide",
+            "item": "https://www.paulcee.co.uk/blog/?tag=guide",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "best",
+            "item": "https://www.paulcee.co.uk/blog/?tag=best",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detector",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "uk",
+            "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coin",
+            "item": "https://www.paulcee.co.uk/blog/?tag=coin",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "shooting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=shooting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "vlf",
+            "item": "https://www.paulcee.co.uk/blog/?tag=vlf",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "vs",
+            "item": "https://www.paulcee.co.uk/blog/?tag=vs",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "multi",
+            "item": "https://www.paulcee.co.uk/blog/?tag=multi",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "frequency",
+            "item": "https://www.paulcee.co.uk/blog/?tag=frequency",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "The Ultimate Beginner Metal Detector Guide",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

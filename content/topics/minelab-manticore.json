@@ -1,0 +1,7 @@
+{
+  "key": "minelab-manticore",
+  "label": "Minelab Manticore",
+  "description": "",
+  "match": "manticore|mythtek|\\bm8\\b|\\bm9\\b",
+  "order": 1
+}

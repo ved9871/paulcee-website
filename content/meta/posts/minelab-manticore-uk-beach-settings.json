@@ -1,0 +1,269 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-manticore-uk-beach-settings",
+  "author": "Paul Cee",
+  "category": "minelab manticore settings",
+  "categorySlug": "minelab_manticore_settings",
+  "readTime": 8,
+  "dateModified": "2025-04-06T17:53:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-manticore-uk-beach-settings",
+    "og": {
+      "title": "Minelab Manticore UK Beach Settings",
+      "description": "Beach settings for the minelab manticore that really work, how to set up your minelab manticore for great results metal detecting, on the beach",
+      "image": "https://www.paulcee.co.uk/blog/files/manticore-beach-settings_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-manticore-uk-beach-settings"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2025-04-06T17:53:00",
+        "dateModified": "2025-04-06T17:53:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab Manticore UK Beach Settings",
+        "description": "Minelab Manticore, Paul Cee Beach Settings",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-manticore-uk-beach-settings",
+        "image": [
+          "https://www.paulcee.co.uk/images/detexpert-logosml.png",
+          "https://www.paulcee.co.uk/images/manti-rings.jpg",
+          "https://www.paulcee.co.uk/images/manticore-search-modes1.jpg",
+          "https://www.paulcee.co.uk/images/manticore-low-cond_ldfqziva.jpg",
+          "https://www.paulcee.co.uk/images/manticore_ground-balance_cieh4yy5.jpg",
+          "https://www.paulcee.co.uk/images/manticore_emi_n45o22oz.jpg",
+          "https://www.paulcee.co.uk/images/manticore-recovery-speed_7c1v4ufe.jpg",
+          "https://www.paulcee.co.uk/images/ferrous-limits-web.jpg",
+          "https://www.paulcee.co.uk/images/custom-ferrous-limits_1kfhg507.jpg",
+          "https://www.paulcee.co.uk/images/manticore-audio_maxdhlvr.jpg",
+          "https://www.paulcee.co.uk/images/coil-size---Copy.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD---Copy_sqvu6v9i.jpg",
+          "https://www.paulcee.co.uk/blog/files/manticore-beach-settings.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Apr 2025",
+            "item": "https://www.paulcee.co.uk/blog/?month=202504",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore UK Beach Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab manticore settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=minelab manticore settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore UK Beach Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore UK Beach Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "MINELAB",
+            "item": "https://www.paulcee.co.uk/blog/?tag=MINELAB",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore UK Beach Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "MANTICORE",
+            "item": "https://www.paulcee.co.uk/blog/?tag=MANTICORE",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore UK Beach Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore UK Beach Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "settings",
+            "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore UK Beach Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "uk",
+            "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore UK Beach Settings",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

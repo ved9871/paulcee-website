@@ -1,0 +1,360 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?gold-panning-in-the-uk-complete-guide",
+  "author": "Paul Cee",
+  "category": "gold panning",
+  "categorySlug": "gold_panning",
+  "readTime": 10,
+  "dateModified": "2026-08-22T15:04:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?gold-panning-in-the-uk-complete-guide",
+    "og": {
+      "title": "Gold Panning in the UK Complete Guide",
+      "description": "Planning to pan for gold in the UK? Discover the essential laws, permits for Scotland and Wales, equipment checklists, and step-by-step techniques.",
+      "image": "https://www.paulcee.co.uk/blog/files/gold-panning_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?gold-panning-in-the-uk-complete-guide"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2026-08-22T15:04:00",
+        "dateModified": "2026-08-22T15:04:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Gold Panning in the UK Complete Guide",
+        "description": "Gold Panning in the UK A Complete Guide",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?gold-panning-in-the-uk-complete-guide",
+        "image": [
+          "https://www.paulcee.co.uk/images/gold-panning-web.jpg",
+          "https://www.paulcee.co.uk/images/pan-kit.jpg",
+          "https://www.paulcee.co.uk/images/find-gold.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD2026.jpg",
+          "https://www.paulcee.co.uk/images/find-gold_6uel6blw.jpg",
+          "https://www.paulcee.co.uk/images/gold-panning-technique.jpg",
+          "https://www.paulcee.co.uk/images/gold-panning.jpg",
+          "https://www.paulcee.co.uk/blog/files/gold-panning.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Aug 2026",
+            "item": "https://www.paulcee.co.uk/blog/?month=202608",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "gold panning",
+            "item": "https://www.paulcee.co.uk/blog/?category=gold panning",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "gold",
+            "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "panning",
+            "item": "https://www.paulcee.co.uk/blog/?tag=panning",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "uk",
+            "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "gold",
+            "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "panning",
+            "item": "https://www.paulcee.co.uk/blog/?tag=panning",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beginner",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beginner",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "gold",
+            "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "panning",
+            "item": "https://www.paulcee.co.uk/blog/?tag=panning",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "equipment",
+            "item": "https://www.paulcee.co.uk/blog/?tag=equipment",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Gold Panning in the UK Complete Guide",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

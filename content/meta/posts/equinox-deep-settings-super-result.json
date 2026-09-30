@@ -1,0 +1,306 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-deep-settings-super-result",
+  "author": "Paul Cee",
+  "category": "Equinox detecting",
+  "categorySlug": "Equinox_detecting",
+  "readTime": 1,
+  "dateModified": "2018-11-01T19:12:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?equinox-deep-settings-super-result",
+    "og": {
+      "title": "equinox deep settings super result",
+      "description": "Minelab equinox deep settings",
+      "image": "https://www.paulcee.co.uk/blog/files/211018_1_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?equinox-deep-settings-super-result"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2018-11-01T19:12:00",
+        "dateModified": "2018-11-01T19:12:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "equinox deep settings super result",
+        "description": "Equinox deep settings superb coin",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-deep-settings-super-result",
+        "image": [
+          "https://www.paulcee.co.uk/images/211018_1.jpg",
+          "https://www.paulcee.co.uk/blog/files/211018_1.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Nov 2018",
+            "item": "https://www.paulcee.co.uk/blog/?month=201811",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "deep",
+            "item": "https://www.paulcee.co.uk/blog/?tag=deep",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "settings",
+            "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox deep settings super result",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

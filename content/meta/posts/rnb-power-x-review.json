@@ -1,0 +1,311 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?rnb-power-x-review",
+  "author": "Paul Cee",
+  "category": "rnb power x",
+  "categorySlug": "rnb_power_x",
+  "readTime": 4,
+  "dateModified": "2025-01-12T12:52:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?rnb-power-x-review",
+    "og": {
+      "title": "RNB Power X Review",
+      "description": "RNB Power X battery pack is the best battery to suit Minelab manticore, will increase the power range of you metal detector allowing you to detect longer.",
+      "image": "https://www.paulcee.co.uk/blog/files/rnb-Power-x_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?rnb-power-x-review"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2025-01-12T12:52:00",
+        "dateModified": "2025-01-12T12:52:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "RNB Power X Review",
+        "description": "RNB Power X review",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?rnb-power-x-review",
+        "image": [
+          "https://www.paulcee.co.uk/images/powerx_review1.jpg",
+          "https://www.paulcee.co.uk/images/rnb-Power-x1.jpg",
+          "https://www.paulcee.co.uk/images/rnb-manticore-battery_tewujcks.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD---Copy_lrv66acy.jpg",
+          "https://www.paulcee.co.uk/images/P1050571.jpg",
+          "https://www.paulcee.co.uk/images/P1050566.jpg",
+          "https://www.paulcee.co.uk/blog/files/rnb-Power-x.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2025",
+            "item": "https://www.paulcee.co.uk/blog/?month=202501",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "rnb power x",
+            "item": "https://www.paulcee.co.uk/blog/?category=rnb power x",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "rnb",
+            "item": "https://www.paulcee.co.uk/blog/?tag=rnb",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "battery",
+            "item": "https://www.paulcee.co.uk/blog/?tag=battery",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore",
+            "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "xterra",
+            "item": "https://www.paulcee.co.uk/blog/?tag=xterra",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "elite",
+            "item": "https://www.paulcee.co.uk/blog/?tag=elite",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "review",
+            "item": "https://www.paulcee.co.uk/blog/?tag=review",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "RNB Power X Review",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

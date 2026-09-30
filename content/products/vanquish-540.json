@@ -1,0 +1,15 @@
+{
+  "key": "vanquish-540",
+  "name": "Minelab Vanquish 540 Pro",
+  "path": "/metal-detectors/minelab/minelab-vanquish/minelab-vanquish540-pro",
+  "cat": "detector",
+  "img": "/img/vanquish-settings1.webp",
+  "compare": [
+    {
+      "path": "/blog/first-look-at-the-new-minelab-vanquish-560",
+      "label": "540 vs 560: what changed"
+    }
+  ],
+  "match": "vanquish.?(540|440|340|40)|40 series|\\bvanquish\\b",
+  "order": 4
+}

@@ -1,0 +1,312 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?celtic-silver-coin",
+  "author": "David Wallace",
+  "category": "Minelab Equinox Settings",
+  "categorySlug": "Minelab_Equinox_Settings",
+  "readTime": 2,
+  "dateModified": "2019-09-02T15:34:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?celtic-silver-coin",
+    "og": {
+      "title": "Celtic Silver coin",
+      "description": "Minelab Equinox 800 Celtic silver unit coin and hammered coins settings that got results metal detecting in Norfolk uk",
+      "image": "https://www.paulcee.co.uk/blog/files/P9020296_web_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?celtic-silver-coin"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2019-09-02T15:34:00",
+        "dateModified": "2019-09-02T15:34:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "Celtic Silver coin",
+        "description": " Iceni Bury diadenum unit (gallo belgic) 65 bc - 1ad First coin like this for me ",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?celtic-silver-coin",
+        "image": [
+          "https://www.paulcee.co.uk/images/YT-thumb_2020_okx3i7ir.png",
+          "https://www.paulcee.co.uk/images/detexpert-logosml_12ylb7bo.png",
+          "https://www.paulcee.co.uk/images/P9020296_web.jpg",
+          "https://www.paulcee.co.uk/images/P9020297_a.jpg",
+          "https://www.paulcee.co.uk/images/P9020284_a.jpg",
+          "https://www.paulcee.co.uk/images/P9020275_a.jpg",
+          "https://www.paulcee.co.uk/images/P9020276_a.jpg",
+          "https://www.paulcee.co.uk/blog/files/P9020296_web.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Sep 2019",
+            "item": "https://www.paulcee.co.uk/blog/?month=201909",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "celtic",
+            "item": "https://www.paulcee.co.uk/blog/?tag=celtic",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "800",
+            "item": "https://www.paulcee.co.uk/blog/?tag=800",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detector",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detector",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "uk",
+            "item": "https://www.paulcee.co.uk/blog/?tag=uk",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Celtic Silver coin",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

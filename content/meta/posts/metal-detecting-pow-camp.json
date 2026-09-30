@@ -1,0 +1,138 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detecting-pow-camp",
+  "author": "Paul Cee",
+  "category": "Minelab Manticore",
+  "categorySlug": "Minelab_Manticore",
+  "readTime": 2,
+  "dateModified": "2023-11-15T20:05:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?metal-detecting-pow-camp",
+    "og": {
+      "title": "metal detecting pow camp",
+      "description": "metal detecting with the minelab manticore, around a ww2 pow camp. looking for evidence of who was living and working at the camp",
+      "image": "https://www.paulcee.co.uk/blog/files/121123_donna-nook_manticore_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?metal-detecting-pow-camp"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2023-11-15T20:05:00",
+        "dateModified": "2023-11-15T20:05:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "metal detecting pow camp",
+        "description": "",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detecting-pow-camp",
+        "image": [
+          "https://www.paulcee.co.uk/images/YT-thumb_2020_0s3t4hli.png",
+          "https://www.paulcee.co.uk/blog/files/121123_donna-nook_manticore.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Nov 2023",
+            "item": "https://www.paulcee.co.uk/blog/?month=202311",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal detecting pow camp",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Manticore",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Manticore",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal detecting pow camp",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal detecting pow camp",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

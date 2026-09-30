@@ -1,0 +1,7 @@
+{
+  "key": "beginners",
+  "label": "Beginners & how-to",
+  "description": "",
+  "match": "beginner|how to|guide|permission|tips|research|maps|places|training|kids|panning|clean|electrolysis|maintenance|looking after",
+  "order": 10
+}

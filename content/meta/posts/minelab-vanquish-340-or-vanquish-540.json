@@ -1,0 +1,283 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-340-or-vanquish-540",
+  "author": "Paul Cee",
+  "category": "Minelab Vanquish Settings",
+  "categorySlug": "Minelab_Vanquish_Settings",
+  "readTime": 1,
+  "dateModified": "2020-04-22T06:18:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-340-or-vanquish-540",
+    "og": {
+      "title": "Minelab Vanquish 340 or Vanquish 540",
+      "description": "what does the minelab vanquish 540 have that the vanquish 340 is missing, both have multi iq but the vanquish 540 has more settings and features",
+      "image": "https://www.paulcee.co.uk/blog/files/comparison_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-340-or-vanquish-540"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2020-04-22T06:18:00",
+        "dateModified": "2020-04-22T06:18:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab Vanquish 340 or Vanquish 540",
+        "description": "what is the differance between the minelab Vanquish 340 and Vanquish 540",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-340-or-vanquish-540",
+        "image": [
+          "https://www.paulcee.co.uk/images/comparison.jpg",
+          "https://www.paulcee.co.uk/images/detexpert-logosml_hqje2q23.png",
+          "https://www.paulcee.co.uk/blog/files/comparison.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Apr 2020",
+            "item": "https://www.paulcee.co.uk/blog/?month=202004",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Vanquish",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Vanquish",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "340",
+            "item": "https://www.paulcee.co.uk/blog/?tag=340",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "vanquish",
+            "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "540",
+            "item": "https://www.paulcee.co.uk/blog/?tag=540",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "440",
+            "item": "https://www.paulcee.co.uk/blog/?tag=440",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 340 or Vanquish 540",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

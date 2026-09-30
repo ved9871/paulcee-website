@@ -1,0 +1,7 @@
+{
+  "key": "coils-and-gear",
+  "label": "Coils, tools & gear",
+  "description": "",
+  "match": "coil|nox|scoop|spade|shaft|headphone|accessor|wm0|power ?x|case|diamond tester|battery|power bank|armcup|cover|mals|surf",
+  "order": 6
+}

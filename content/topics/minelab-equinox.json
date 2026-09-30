@@ -1,0 +1,7 @@
+{
+  "key": "minelab-equinox",
+  "label": "Minelab Equinox",
+  "description": "",
+  "match": "equinox|eqx",
+  "order": 2
+}

@@ -1,0 +1,10 @@
+{
+  "key": "ctx3030",
+  "name": "Minelab CTX 3030",
+  "path": "/minelab-ctx3030",
+  "cat": "detector",
+  "img": "/img/ctx-3030_WEB.webp",
+  "compare": [],
+  "match": "ctx",
+  "order": 7
+}

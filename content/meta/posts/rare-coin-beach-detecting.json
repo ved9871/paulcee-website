@@ -1,0 +1,139 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?rare-coin-beach-detecting",
+  "author": "Paul Cee",
+  "category": "CTX 3030 Detecting",
+  "categorySlug": "CTX_3030_Detecting",
+  "readTime": 1,
+  "dateModified": "2017-11-09T18:59:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?rare-coin-beach-detecting",
+    "og": {
+      "title": "Rare Coin beach Detecting",
+      "description": "rare coin found metal detecting cleethorpes beach in the uk",
+      "image": "https://www.paulcee.co.uk/blog/files/profile-pic-2020_final_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?rare-coin-beach-detecting"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2017-11-09T18:59:00",
+        "dateModified": "2017-11-09T18:59:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Rare Coin beach Detecting",
+        "description": "Used to be a Rare coin to find for me, but of late it seems to becoming more popular.",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?rare-coin-beach-detecting",
+        "image": [
+          "https://www.paulcee.co.uk/images/291017iyt.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+          "https://www.paulcee.co.uk/blog/files/profile-pic-2020_final.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Nov 2017",
+            "item": "https://www.paulcee.co.uk/blog/?month=201711",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Rare Coin beach Detecting",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "CTX 3030 Detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030 Detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Rare Coin beach Detecting",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Rare Coin beach Detecting",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

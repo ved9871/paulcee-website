@@ -20,8 +20,8 @@ const BLOG_SLOT = '5406186549';
 const read = p => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
 const IMAGES = read('content/images.json');
 const VID = read('content/videos.json');
-const pages = Object.fromEntries(fs.readdirSync(path.join(ROOT, 'content/pages')).map(f => { const r = read('content/pages/' + f); return [r.slug, r]; }));
-const posts = fs.readdirSync(path.join(ROOT, 'content/posts')).map(f => read('content/posts/' + f))
+const pages = Object.fromEntries(fs.readdirSync(path.join(ROOT, 'content/pages')).filter(f => f.endsWith('.json')).map(f => { const r = read('content/pages/' + f); return [r.slug, r]; }));
+const posts = fs.readdirSync(path.join(ROOT, 'content/posts')).filter(f => f.endsWith('.json')).map(f => read('content/posts/' + f))
   .sort((a, b) => (b.datePublished || '').localeCompare(a.datePublished || ''));
 const postBySlug = Object.fromEntries(posts.map(p => [p.slug, p]));
 

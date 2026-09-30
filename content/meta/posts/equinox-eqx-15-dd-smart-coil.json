@@ -1,0 +1,333 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-eqx-15-dd-smart-coil",
+  "author": "Paul Cee",
+  "category": "Equinox detecting",
+  "categorySlug": "Equinox_detecting",
+  "readTime": 1,
+  "dateModified": "2018-11-11T17:33:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?equinox-eqx-15-dd-smart-coil",
+    "og": {
+      "title": "Equinox EQX 15 DD smart coil",
+      "description": "Minelab Equinox large coil, 15 inch smart DD search coil",
+      "image": "https://www.paulcee.co.uk/blog/files/111118_silver_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?equinox-eqx-15-dd-smart-coil"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2018-11-11T17:33:00",
+        "dateModified": "2018-11-11T17:33:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Equinox EQX 15 DD smart coil",
+        "description": "Minelab Equinox 15 inch coil finds silver",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-eqx-15-dd-smart-coil",
+        "image": [
+          "https://www.paulcee.co.uk/images/111118_silver.jpg",
+          "https://www.paulcee.co.uk/images/P1040545_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040549_a.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+          "https://www.paulcee.co.uk/blog/files/111118_silver.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Nov 2018",
+            "item": "https://www.paulcee.co.uk/blog/?month=201811",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "smart",
+            "item": "https://www.paulcee.co.uk/blog/?tag=smart",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coil",
+            "item": "https://www.paulcee.co.uk/blog/?tag=coil",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "EQX15",
+            "item": "https://www.paulcee.co.uk/blog/?tag=EQX15",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "DD",
+            "item": "https://www.paulcee.co.uk/blog/?tag=DD",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "silver",
+            "item": "https://www.paulcee.co.uk/blog/?tag=silver",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "cleethorpes",
+            "item": "https://www.paulcee.co.uk/blog/?tag=cleethorpes",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox EQX 15 DD smart coil",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

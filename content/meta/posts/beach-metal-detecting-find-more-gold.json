@@ -1,0 +1,139 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?beach-metal-detecting-find-more-gold",
+  "author": "Paul Cee",
+  "category": "Equinox detecting",
+  "categorySlug": "Equinox_detecting",
+  "readTime": 1,
+  "dateModified": "2018-11-03T05:31:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?beach-metal-detecting-find-more-gold",
+    "og": {
+      "title": "beach metal detecting find more gold",
+      "description": "learn how to metal detect on a beach and find gold",
+      "image": "https://www.paulcee.co.uk/blog/files/dodd_16_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?beach-metal-detecting-find-more-gold"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2018-11-03T05:31:00",
+        "dateModified": "2018-11-03T05:31:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "beach metal detecting find more gold",
+        "description": "tips and tricks to find more gold beach detecting minelab equinox",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?beach-metal-detecting-find-more-gold",
+        "image": [
+          "https://www.paulcee.co.uk/images/dodd_16.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+          "https://www.paulcee.co.uk/blog/files/dodd_16.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Nov 2018",
+            "item": "https://www.paulcee.co.uk/blog/?month=201811",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach metal detecting find more gold",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach metal detecting find more gold",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach metal detecting find more gold",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

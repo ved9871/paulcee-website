@@ -1,0 +1,306 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test",
+  "author": "David Wallace",
+  "category": "Equinox detecting",
+  "categorySlug": "Equinox_detecting",
+  "readTime": 2,
+  "dateModified": "2019-09-30T18:38:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test",
+    "og": {
+      "title": "Equinox Update 2019 test",
+      "description": "the latest update for the minelab equinox, where to find it and how to use it",
+      "image": "https://www.paulcee.co.uk/blog/files/norfolk_AWEB_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2019-09-30T18:38:00",
+        "dateModified": "2019-09-30T18:38:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "Equinox Update 2019 test",
+        "description": "Minelab Equinox Update V2.0 TEST\nBeach and land",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test",
+        "image": [
+          "https://www.paulcee.co.uk/images/norfolk_AWEB.jpg",
+          "https://www.paulcee.co.uk/blog/files/norfolk_AWEB.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Sep 2019",
+            "item": "https://www.paulcee.co.uk/blog/?month=201909",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "update",
+            "item": "https://www.paulcee.co.uk/blog/?tag=update",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "v2",
+            "item": "https://www.paulcee.co.uk/blog/?tag=v2",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "800",
+            "item": "https://www.paulcee.co.uk/blog/?tag=800",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "600",
+            "item": "https://www.paulcee.co.uk/blog/?tag=600",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "test",
+            "item": "https://www.paulcee.co.uk/blog/?tag=test",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox Update 2019 test",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

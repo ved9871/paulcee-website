@@ -1,0 +1,330 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-6-inch-coil",
+  "author": "Paul Cee",
+  "category": "Equinox detecting",
+  "categorySlug": "Equinox_detecting",
+  "readTime": 1,
+  "dateModified": "2018-10-10T18:37:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-6-inch-coil",
+    "og": {
+      "title": "Minelab Equinox 6 small coil",
+      "description": "how good is the six inch coil for the minelab equinox and x terra metal detectors",
+      "image": "https://www.paulcee.co.uk/blog/files/071018_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-6-inch-coil"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2018-10-10T18:37:00",
+        "dateModified": "2018-10-10T18:37:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab Equinox 6 small coil",
+        "description": "Metal detecting UK with the Minelab Equinox and 6 inch coil",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-6-inch-coil",
+        "image": [
+          "https://www.paulcee.co.uk/images/071018.jpg",
+          "https://www.paulcee.co.uk/blog/files/071018.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Oct 2018",
+            "item": "https://www.paulcee.co.uk/blog/?month=201810",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "6",
+            "item": "https://www.paulcee.co.uk/blog/?tag=6",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "inch",
+            "item": "https://www.paulcee.co.uk/blog/?tag=inch",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coil",
+            "item": "https://www.paulcee.co.uk/blog/?tag=coil",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "finds",
+            "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 6 small coil",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

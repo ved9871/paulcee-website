@@ -1,0 +1,10 @@
+{
+  "key": "power-x",
+  "name": "RNB Power X battery",
+  "path": "/rnb-power-x",
+  "cat": "accessory",
+  "img": "/img/pwr_x_n529ai0y.webp",
+  "compare": [],
+  "match": "power ?x|power bank",
+  "order": 18
+}

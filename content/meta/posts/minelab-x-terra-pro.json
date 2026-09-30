@@ -1,0 +1,140 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-x-terra-pro",
+  "author": "Paul Cee",
+  "category": "X-Terra Pro Uk",
+  "categorySlug": "X-Terra_Pro_Uk",
+  "readTime": 3,
+  "dateModified": "2026-01-09T09:00:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-x-terra-pro",
+    "og": {
+      "title": "Minelab X-Terra Pro",
+      "description": "Minelab X-Terra pro a metal detector for beginners, with features of a Mid range detector including Multi frequency shift, coils from Equinox detectors will fit",
+      "image": "https://www.paulcee.co.uk/blog/files/xterra-pro-features_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-x-terra-pro"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2026-01-09T09:00:00",
+        "dateModified": "2026-01-09T09:00:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab X-Terra Pro",
+        "description": "",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-x-terra-pro",
+        "image": [
+          "https://www.paulcee.co.uk/images/YT-thumb_2020_ygyc27n1.png",
+          "https://www.paulcee.co.uk/images/cmd-xterra-pro-cmd.jpg",
+          "https://www.paulcee.co.uk/images/xterra-search-coils1.jpg",
+          "https://www.paulcee.co.uk/blog/files/xterra-pro-features.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2026",
+            "item": "https://www.paulcee.co.uk/blog/?month=202601",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X-Terra Pro",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "X-Terra Pro Uk",
+            "item": "https://www.paulcee.co.uk/blog/?category=X-Terra Pro Uk",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X-Terra Pro",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X-Terra Pro",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

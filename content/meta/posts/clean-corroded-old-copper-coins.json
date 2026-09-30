@@ -1,0 +1,355 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?clean-corroded-old-copper-coins",
+  "author": "David Wallace",
+  "category": "coin cleaning",
+  "categorySlug": "coin_cleaning",
+  "readTime": 4,
+  "dateModified": "2026-01-09T08:45:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?clean-corroded-old-copper-coins",
+    "og": {
+      "title": "clean corroded old copper coins",
+      "description": "how to clean corroded coins, how to clean old copper coins, coin cleaning kit, clean coins metal detecting, coin cleaning methods, what will clean an old coin",
+      "image": "https://www.paulcee.co.uk/blog/files/tumbler_web_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?clean-corroded-old-copper-coins"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2026-01-09T08:45:00",
+        "dateModified": "2026-01-09T08:45:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "clean corroded old copper coins",
+        "description": "how to clean corroded old copper coins",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?clean-corroded-old-copper-coins",
+        "image": [
+          "https://www.paulcee.co.uk/images/2026-thumb_fi4vubdi.jpg",
+          "https://www.paulcee.co.uk/images/tumbler_web.jpg",
+          "https://www.paulcee.co.uk/blog/files/tumbler_web.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2026",
+            "item": "https://www.paulcee.co.uk/blog/?month=202601",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coin cleaning",
+            "item": "https://www.paulcee.co.uk/blog/?category=coin cleaning",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coin",
+            "item": "https://www.paulcee.co.uk/blog/?tag=coin",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "cleaning",
+            "item": "https://www.paulcee.co.uk/blog/?tag=cleaning",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "ultrasonic",
+            "item": "https://www.paulcee.co.uk/blog/?tag=ultrasonic",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "cleaner",
+            "item": "https://www.paulcee.co.uk/blog/?tag=cleaner",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean",
+            "item": "https://www.paulcee.co.uk/blog/?tag=clean",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "corroded",
+            "item": "https://www.paulcee.co.uk/blog/?tag=corroded",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coins",
+            "item": "https://www.paulcee.co.uk/blog/?tag=coins",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coin",
+            "item": "https://www.paulcee.co.uk/blog/?tag=coin",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "tumbler",
+            "item": "https://www.paulcee.co.uk/blog/?tag=tumbler",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "clean corroded old copper coins",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

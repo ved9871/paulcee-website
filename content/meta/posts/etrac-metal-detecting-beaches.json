@@ -1,0 +1,139 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?etrac-metal-detecting-beaches",
+  "author": "Paul Cee",
+  "category": "minelab etrac",
+  "categorySlug": "minelab_etrac",
+  "readTime": 1,
+  "dateModified": "2017-10-18T17:38:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?etrac-metal-detecting-beaches",
+    "og": {
+      "title": "Etrac metal detecting Beaches",
+      "description": "minelab etrac, metal detecting uk beach, minelab etrac metal detecting, where to metal detect",
+      "image": "https://www.paulcee.co.uk/blog/files/etrac1a_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?etrac-metal-detecting-beaches"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2017-10-18T17:38:00",
+        "dateModified": "2017-10-18T17:38:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Etrac metal detecting Beaches",
+        "description": "Minelab Etrac beach Detecting",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?etrac-metal-detecting-beaches",
+        "image": [
+          "https://www.paulcee.co.uk/images/etrac1a_3mqq5ka6.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+          "https://www.paulcee.co.uk/blog/files/etrac1a.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Oct 2017",
+            "item": "https://www.paulcee.co.uk/blog/?month=201710",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Etrac metal detecting Beaches",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab etrac",
+            "item": "https://www.paulcee.co.uk/blog/?category=minelab etrac",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Etrac metal detecting Beaches",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Etrac metal detecting Beaches",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

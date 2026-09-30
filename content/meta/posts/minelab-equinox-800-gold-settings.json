@@ -1,0 +1,330 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-gold-settings",
+  "author": "Paul Cee",
+  "category": "Minelab Equinox Settings",
+  "categorySlug": "Minelab_Equinox_Settings",
+  "readTime": 1,
+  "dateModified": "2018-11-18T16:04:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-gold-settings",
+    "og": {
+      "title": "Minelab Equinox 800 Gold Settings",
+      "description": "setting that you need to use to find small gold chain on the minelab equinox 800",
+      "image": "https://www.paulcee.co.uk/blog/files/Nox_chain_1_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-gold-settings"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2018-11-18T16:04:00",
+        "dateModified": "2018-11-18T16:04:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab Equinox 800 Gold Settings",
+        "description": "Should you change your settings",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-gold-settings",
+        "image": [
+          "https://www.paulcee.co.uk/images/pdc-sticker_sml_o3r0m54d.jpg",
+          "https://www.paulcee.co.uk/blog/files/Nox_chain_1.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Nov 2018",
+            "item": "https://www.paulcee.co.uk/blog/?month=201811",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "800",
+            "item": "https://www.paulcee.co.uk/blog/?tag=800",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "gold",
+            "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "settings",
+            "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 800 Gold Settings",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

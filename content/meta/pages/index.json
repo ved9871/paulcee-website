@@ -1,0 +1,82 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/index.php",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/index.html",
+    "og": {
+      "title": "Paul Cee Metal Detecting",
+      "description": "The UK's home for expert Minelab advice. Tutorials, detector settings, and reviews from Paul Cee, Minelab Detexpert and Crawfords Product Specialist.",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/index.php"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "WebSite",
+        "url": "http://192.168.0.55:8080/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "http://192.168.0.55:8080/imsearch.html?search={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "LocalBusiness",
+        "@id": "https://www.paulcee.co.uk",
+        "url": "https://www.paulcee.co.uk",
+        "name": "Paul Cee",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "http://192.168.0.55:8080/images/2026-thumb.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Unit 11 Weaver Court. Sawcliffe Industrial Estate",
+          "addressLocality": "Scunthorpe",
+          "addressRegion": "Nth Lincs",
+          "addressCountry": "United Kindom",
+          "postalCode": "DN15 8RN"
+        },
+        "telephone": "01724 845608",
+        "email": "webcontact@paulcee.co.uk",
+        "image": [
+          "http://192.168.0.55:8080/images/2026-thumb.jpg",
+          "http://192.168.0.55:8080/images/YT-thumb_2020.png"
+        ],
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Vanquish 560",
+        "description": "Minelab Vanquish 560, Specificatons when is the Vanquish 560 available to buy in the uk",
+        "uploadDate": "2025-09-19T19:53:06+01:00",
+        "thumbnailUrl": "images/v560-spec.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=nrMw2oEBDyQ",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab vanquish 560 metal detector",
+        "description": "Whats new with the Minelab Vanquish 60 series, the 560, 460 and 360 metal detectors",
+        "uploadDate": "2025-09-19T19:55:23+01:00",
+        "thumbnailUrl": "images/v560-launch.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=2blmefyIcgo",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "upzhlSe-Da4bcEtuFMVBRt9Lfc0wO7fW_5ZhN8Z9iFE",
+      "bing": "B367851D41D331F139BAE7E4702E1EDD",
+      "norton": "bak1ao0llztwmmp6plur212ieholtqwudcjtnwggixjcztaafzzxh0fpytom6q7v10th7agi2lkkmrh0pzzkul-epjnyirsvsldqr6sag1m6quai3a1nyoi0ocoo7hmh"
+    }
+  }
+}

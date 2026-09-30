@@ -1,0 +1,10 @@
+{
+  "key": "m15-coil",
+  "name": "Minelab M15 coil",
+  "path": "/minelab-m15",
+  "cat": "coil",
+  "img": "/img/m15-beach.webp",
+  "compare": [],
+  "match": "\\bm15\\b|big coil",
+  "order": 12
+}

@@ -1,0 +1,282 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-depth",
+  "author": "David Wallace",
+  "category": "Equinox detecting",
+  "categorySlug": "Equinox_detecting",
+  "readTime": 1,
+  "dateModified": "2018-10-24T16:28:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-depth",
+    "og": {
+      "title": "Minelab Equinox Depth",
+      "description": "how deep will the minelab equinox detect on the beach",
+      "image": "https://www.paulcee.co.uk/blog/files/nox_deepA_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-depth"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2018-10-24T16:28:00",
+        "dateModified": "2018-10-24T16:28:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "Minelab Equinox Depth",
+        "description": "How deep will the Minelab Equinox hit a target",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-depth",
+        "image": [
+          "https://www.paulcee.co.uk/images/nox_deepA.jpg",
+          "https://www.paulcee.co.uk/blog/files/nox_deepA.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Oct 2018",
+            "item": "https://www.paulcee.co.uk/blog/?month=201810",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=Equinox detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Depth",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Depth",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "test",
+            "item": "https://www.paulcee.co.uk/blog/?tag=test",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "settings",
+            "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Depth",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?jersey-liberation-coins",
+  "author": "David Wallace",
+  "category": "beach metal detecting",
+  "categorySlug": "beach_metal_detecting",
+  "readTime": 2,
+  "dateModified": "2019-08-29T19:19:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?jersey-liberation-coins",
+    "og": {
+      "title": "jersey liberation coins",
+      "description": "Jersey liberation coins found metal detecting on mablethorpe beach, these coins minted i think were no really common",
+      "image": "https://www.paulcee.co.uk/blog/files/P1040915_a_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?jersey-liberation-coins"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2019-08-29T19:19:00",
+        "dateModified": "2019-08-29T19:19:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "jersey liberation coins",
+        "description": "twelve pence to a shilling coins liberated island of jersey coins found metal detecting",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?jersey-liberation-coins",
+        "image": [
+          "https://www.paulcee.co.uk/images/P1040914_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040915_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040916_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040917_a.jpg",
+          "https://www.paulcee.co.uk/blog/files/P1040915_a.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Aug 2019",
+            "item": "https://www.paulcee.co.uk/blog/?month=201908",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach metal detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=beach metal detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey",
+            "item": "https://www.paulcee.co.uk/blog/?tag=jersey",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "liberation",
+            "item": "https://www.paulcee.co.uk/blog/?tag=liberation",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coin",
+            "item": "https://www.paulcee.co.uk/blog/?tag=coin",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "rare",
+            "item": "https://www.paulcee.co.uk/blog/?tag=rare",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "find",
+            "item": "https://www.paulcee.co.uk/blog/?tag=find",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "jersey liberation coins",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

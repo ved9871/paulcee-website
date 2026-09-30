@@ -1,0 +1,7 @@
+{
+  "key": "beach-detecting",
+  "label": "Beach detecting",
+  "description": "",
+  "match": "beach|sand|storm|cuts|washout|rockpool|foreshore",
+  "order": 7
+}

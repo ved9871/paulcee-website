@@ -1,0 +1,135 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?electrolysis-coin-cleaning",
+  "author": "David Wallace",
+  "category": "coin cleaning",
+  "categorySlug": "coin_cleaning",
+  "readTime": 1,
+  "dateModified": "2021-04-23T17:14:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?electrolysis-coin-cleaning",
+    "og": {
+      "title": "Electrolysis coin cleaning",
+      "description": "Cleaning coins and silver with electrolysis, is an effective way to clean crusty coins and silver although care should be taken not to damage the silver or coin",
+      "image": "https://www.paulcee.co.uk/blog/files/electro_web_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?electrolysis-coin-cleaning"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2021-04-23T17:14:00",
+        "dateModified": "2021-04-23T17:14:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "Electrolysis coin cleaning",
+        "description": "Clean coins with electrolysis",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?electrolysis-coin-cleaning",
+        "image": "https://www.paulcee.co.uk/blog/files/electro_web.jpg",
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Apr 2021",
+            "item": "https://www.paulcee.co.uk/blog/?month=202104",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Electrolysis coin cleaning",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coin cleaning",
+            "item": "https://www.paulcee.co.uk/blog/?category=coin cleaning",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Electrolysis coin cleaning",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Electrolysis coin cleaning",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

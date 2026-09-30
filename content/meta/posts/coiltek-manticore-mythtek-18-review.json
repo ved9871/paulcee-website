@@ -1,0 +1,143 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?coiltek-manticore-mythtek-18-review",
+  "author": "Paul Cee",
+  "category": "CoilTek MythTek manticore",
+  "categorySlug": "CoilTek_MythTek_manticore",
+  "readTime": 3,
+  "dateModified": "2025-01-02T12:39:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?coiltek-manticore-mythtek-18-review",
+    "og": {
+      "title": "CoilTek Manticore MythTek 18 Review",
+      "description": "Review of the CoilTek MythTek coil for the Minelab Manticore, the depth and ground coverage, along with sensitivity to smalller targets, is a specilised coil",
+      "image": "https://www.paulcee.co.uk/blog/files/mythtek18-review_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?coiltek-manticore-mythtek-18-review"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2025-01-02T12:39:00",
+        "dateModified": "2025-01-02T12:39:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "CoilTek Manticore MythTek 18 Review",
+        "description": "Coiltek MythTek 18 manticore coil",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?coiltek-manticore-mythtek-18-review",
+        "image": [
+          "https://www.paulcee.co.uk/images/DSC02218.jpg",
+          "https://www.paulcee.co.uk/images/DSC02279.jpg",
+          "https://www.paulcee.co.uk/images/manticore-high-cond_yeyign8l.jpg",
+          "https://www.paulcee.co.uk/images/DJI_0689-copy.jpg",
+          "https://www.paulcee.co.uk/images/rnb-manticore-battery.jpg",
+          "https://www.paulcee.co.uk/images/mythtek18-review1.jpg",
+          "https://www.paulcee.co.uk/blog/files/mythtek18-review.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2025",
+            "item": "https://www.paulcee.co.uk/blog/?month=202501",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "CoilTek Manticore MythTek 18 Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "CoilTek MythTek manticore",
+            "item": "https://www.paulcee.co.uk/blog/?category=CoilTek MythTek manticore",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "CoilTek Manticore MythTek 18 Review",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "CoilTek Manticore MythTek 18 Review",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

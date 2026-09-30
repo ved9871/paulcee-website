@@ -1,0 +1,139 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-sensitivity-settings",
+  "author": "Paul Cee",
+  "category": "Minelab Vanquish Settings",
+  "categorySlug": "Minelab_Vanquish_Settings",
+  "readTime": 2,
+  "dateModified": "2020-05-09T15:38:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-sensitivity-settings",
+    "og": {
+      "title": "Minelab Vanquish Sensitivity Settings",
+      "description": "how to setup and use the sensitivity on a minelab vanquish, get the sensitivity right with our helpful tutorials on the Minelab Vanquish",
+      "image": "https://www.paulcee.co.uk/blog/files/vanq_tutorials_sensitivity_web_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-sensitivity-settings"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2020-05-09T15:38:00",
+        "dateModified": "2020-05-09T15:38:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab Vanquish Sensitivity Settings",
+        "description": "Minelab Vanquish 340 Settings. Sensitivity",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-sensitivity-settings",
+        "image": [
+          "https://www.paulcee.co.uk/images/P1050232a.jpg",
+          "https://www.paulcee.co.uk/images/P1050229a.jpg",
+          "https://www.paulcee.co.uk/blog/files/vanq_tutorials_sensitivity_web.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "May 2020",
+            "item": "https://www.paulcee.co.uk/blog/?month=202005",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish Sensitivity Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish Sensitivity Settings",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish Sensitivity Settings",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

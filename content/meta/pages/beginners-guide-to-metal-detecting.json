@@ -1,0 +1,36 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/beginners-guide-to-metal-detecting.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/beginners-guide-to-metal-detecting.html",
+    "og": {
+      "title": "beginners guide to metal detecting",
+      "description": "Metal detecting for beginners, best metal detector for beginners, tips for beginners to metal detecting, beginner metal detecting, how to metal detect properly",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/beginners-guide-to-metal-detecting.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "guide to starting metal detecting",
+        "description": "all you need to know about starting metal detecting and learning how to metal detect with a minelab metal detectors and CMD, and find your 1st treasures",
+        "uploadDate": "2023-11-11T20:15:16+00:00",
+        "thumbnailUrl": "images/DSC00062-copy_03dvvclc.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=3U-rQCywjOg",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

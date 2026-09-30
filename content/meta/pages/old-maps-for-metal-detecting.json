@@ -1,0 +1,36 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/old-maps-for-metal-detecting.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/old-maps-for-metal-detecting.html",
+    "og": {
+      "title": "Best Metal Detecting Research Maps | Paul Cee",
+      "description": "The ultimate guide to metal detecting research maps. Explore old English maps, LiDAR overlays, and footpath data, locate historic hoards and ancient settlements",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/old-maps-for-metal-detecting.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "Best Metal Detecting Research Maps",
+        "description": "Discover the best old maps and LiDAR tools for metal detecting. Learn to research lost villages, use side-by-side overlays, and find new treasure hunting spots today.",
+        "uploadDate": "2025-12-31T10:12:27+00:00",
+        "thumbnailUrl": "images/research_web_5cis2rim.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=-v_ye2cnzOc",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

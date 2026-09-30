@@ -1,0 +1,7 @@
+{
+  "key": "finds",
+  "label": "Finds & field reports",
+  "description": "",
+  "match": "find|coin|gold|ring|hoard|silver|treasure|jackpot|badge|stater|hammered",
+  "order": 8
+}

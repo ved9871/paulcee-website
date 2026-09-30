@@ -1,0 +1,7 @@
+{
+  "key": "minelab-x-terra",
+  "label": "Minelab X-Terra",
+  "description": "",
+  "match": "x-?\\s?terra|voyager",
+  "order": 4
+}

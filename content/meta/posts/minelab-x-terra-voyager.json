@@ -1,0 +1,146 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-x-terra-voyager",
+  "author": "Paul Cee",
+  "category": "Minelab X-Terra Voyager",
+  "categorySlug": "Minelab_X-Terra_Voyager",
+  "readTime": 2,
+  "dateModified": "2023-11-24T17:41:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-x-terra-voyager",
+    "og": {
+      "title": "Minelab X-Terra Voyager",
+      "description": "Minelab Voyager, the ideal metal detector for beginners and children, packed with professional features and compact and waterproof for beach and fields",
+      "image": "https://www.paulcee.co.uk/blog/files/xterra-voyager_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-x-terra-voyager"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2023-11-24T17:41:00",
+        "dateModified": "2023-11-24T17:41:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab X-Terra Voyager",
+        "description": "New metal detector for beginners",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-x-terra-voyager",
+        "image": [
+          "https://www.paulcee.co.uk/images/detexpert-logosml_vfaa8qet.png",
+          "https://www.paulcee.co.uk/images/YT-thumb_2020_krf9oxd0.png",
+          "https://www.paulcee.co.uk/images/voyager-pack.jpg",
+          "https://www.paulcee.co.uk/images/voyager-spec.jpg",
+          "https://www.paulcee.co.uk/images/voyager-search-profiles.jpg",
+          "https://www.paulcee.co.uk/images/voyager-kit.jpg",
+          "https://www.paulcee.co.uk/images/voyager-screen.jpg",
+          "https://www.paulcee.co.uk/images/voyager-coil.jpg",
+          "https://www.paulcee.co.uk/images/minelab-logo_fntjduex.jpg",
+          "https://www.paulcee.co.uk/blog/files/xterra-voyager.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Nov 2023",
+            "item": "https://www.paulcee.co.uk/blog/?month=202311",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X-Terra Voyager",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X-Terra Voyager",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab X-Terra Voyager",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X-Terra Voyager",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X-Terra Voyager",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

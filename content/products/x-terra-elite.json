@@ -1,0 +1,15 @@
+{
+  "key": "x-terra-elite",
+  "name": "Minelab X-Terra Elite",
+  "path": "/minelab-x-terra-elite",
+  "cat": "detector",
+  "img": "/img/XTE-intro_WEB.webp",
+  "compare": [
+    {
+      "path": "/blog/xterra-elite-vs-nokta-triple-score",
+      "label": "X-Terra Elite vs Nokta Triple Score"
+    }
+  ],
+  "match": "x-?\\s?terra elite|\\bxte\\b|elite",
+  "order": 5
+}

@@ -1,0 +1,99 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/manticore-settings.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/manticore-settings.html",
+    "og": {
+      "title": "Minelab Manticore | The Ultimate Metal Detector Guide & Settings",
+      "description": "Complete guide to the Minelab Manticore.  Advanced ferrous limits settings, recovery speed tutorials for relic and beach hunting, 2D Screen, with vidoes",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/manticore-settings.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore Getting Started",
+        "description": "Minelab Manticore Getting Started",
+        "uploadDate": "2026-01-01T11:06:13+00:00",
+        "thumbnailUrl": "images/manticore-tutorials-menu.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=HbdnRKHElJk",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore Custom Search Profile",
+        "description": "Minelab Manticore Custom Search Profile, how to make and use",
+        "uploadDate": "2026-01-01T11:08:50+00:00",
+        "thumbnailUrl": "images/manticore-search-modes1_sjx9oxbf.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=vnaRlFVrQi4",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore sensitivity and recovery speed",
+        "description": "Minelab Manticore sensitivity and recovery speed, how and when to use,\nBy Minelab and Minelab Detexperts",
+        "uploadDate": "2026-01-01T11:12:47+00:00",
+        "thumbnailUrl": "images/Recovery-speed-stabilizer.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=xXBFeg-Jdzc",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore Audio settings",
+        "description": "Minelab Manticore Audio settings",
+        "uploadDate": "2026-01-01T11:19:17+00:00",
+        "thumbnailUrl": "images/manticore-audio_zskqqzqu.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=eMlcJ6mqE_g",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore Discrimination",
+        "description": "how to use Discrimination on the Minelab Manticore",
+        "uploadDate": "2026-01-01T11:21:41+00:00",
+        "thumbnailUrl": "images/manticore-discrim_hot-keys.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=HnHdXpvIaAM",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore, the best settings",
+        "description": "Minelab Manticore, the best settings",
+        "uploadDate": "2026-01-01T11:27:27+00:00",
+        "thumbnailUrl": "images/MANTICORE-VIDEO_yi9f7866.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=m6kc6wczJ9U",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore headphone connection and problems",
+        "description": "Minelab Manticore headphone connection and problems and how to solve them",
+        "uploadDate": "2026-01-01T11:32:07+00:00",
+        "thumbnailUrl": "images/headphones-ep4.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=VimSTbHMGi4",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore, emi and false signal",
+        "description": "Minelab Manticore, emi and false signals, how to make the minelab manticore quiet and smooth near power lines and electric sources",
+        "uploadDate": "2026-01-01T11:37:11+00:00",
+        "thumbnailUrl": "images/manticore_emi_xi9bt5w7.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=FKQsXUGtfuc",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

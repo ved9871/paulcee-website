@@ -1,0 +1,402 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?best-equinox-headphones",
+  "author": "David Wallace",
+  "category": "Minelab Equinox Settings",
+  "categorySlug": "Minelab_Equinox_Settings",
+  "readTime": 1,
+  "dateModified": "2018-03-04T19:56:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?best-equinox-headphones",
+    "og": {
+      "title": "best equinox headphones",
+      "description": "Minelab Equinox best earbuds that are not expensive with a great tone sound, fit nicely in your ears and can work in bad weather under a balaclava",
+      "image": "https://www.paulcee.co.uk/blog/files/m6_pro_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?best-equinox-headphones"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2018-03-04T19:56:00",
+        "dateModified": "2018-03-04T19:56:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "best equinox headphones",
+        "description": "best headphones Earbuds for the minelab EQUINOX",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?best-equinox-headphones",
+        "image": [
+          "https://www.paulcee.co.uk/images/m6_pro.jpg",
+          "https://www.paulcee.co.uk/blog/files/m6_pro.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Mar 2018",
+            "item": "https://www.paulcee.co.uk/blog/?month=201803",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "m6",
+            "item": "https://www.paulcee.co.uk/blog/?tag=m6",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "pro",
+            "item": "https://www.paulcee.co.uk/blog/?tag=pro",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "headphones",
+            "item": "https://www.paulcee.co.uk/blog/?tag=headphones",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "best",
+            "item": "https://www.paulcee.co.uk/blog/?tag=best",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "earbuds",
+            "item": "https://www.paulcee.co.uk/blog/?tag=earbuds",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "earbuds",
+            "item": "https://www.paulcee.co.uk/blog/?tag=earbuds",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Vansky",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Vansky",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best equinox headphones",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

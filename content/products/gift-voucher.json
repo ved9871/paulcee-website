@@ -1,0 +1,10 @@
+{
+  "key": "gift-voucher",
+  "name": "Crawfords gift voucher",
+  "path": "/cmd-gift-voucher",
+  "cat": "accessory",
+  "img": "/img/cmd-gift-card-1.webp",
+  "compare": [],
+  "match": "gift|voucher",
+  "order": 24
+}
