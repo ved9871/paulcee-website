@@ -1,5 +1,6 @@
 // One-off migration: content JSON blocks -> Markdown + front matter (+ sidecar meta), and
-// topics/products/settings out of code into content/ JSON collections. Safe to re-run.
+// topics/products/settings out of code into content/ JSON collections. Completed one-off, kept for
+// reference only: the JSON sources it read are gone, so do not re-run it against the current content.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
