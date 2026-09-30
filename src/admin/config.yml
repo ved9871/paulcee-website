@@ -42,8 +42,8 @@ collections:
       - { name: tags, label: Tags, widget: list, required: false }
       - { name: cover, label: Cover image, widget: image, required: false }
       - { name: heroVideo, label: Main YouTube video, widget: string, required: false, hint: "Paste the YouTube link." }
-      - { name: summary, label: Summary, widget: text, required: false, hint: "One or two sentences shown on blog cards." }
-      - { name: body, label: Article, widget: markdown }
+      - { name: summary, label: Summary, widget: text, hint: "One or two sentences shown on blog cards. Also used for Google when no meta description is given below." }
+      - { name: body, label: Article, widget: markdown, modes: [raw, rich_text] }
       - name: seo
         label: SEO (Google)
         widget: object
@@ -66,7 +66,7 @@ collections:
     preview_path: "{{slug}}/"
     fields:
       - { name: title, label: Page heading, widget: string, required: false }
-      - { name: body, label: Content, widget: markdown }
+      - { name: body, label: Content, widget: markdown, modes: [raw, rich_text] }
       - name: seo
         label: SEO (Google)
         widget: object
@@ -117,7 +117,7 @@ collections:
         widget: list
         required: false
         fields:
-          - { name: path, label: Crawfords path, widget: string }
+          - { name: path, label: Crawfords path, widget: string, pattern: ["^/", "Start with / (e.g. /blog/minelab-equinox-900-vs-minelab-manticore). Tracking is added automatically."] }
           - { name: label, label: Link text, widget: string }
       - { name: match, label: "Show on pages whose title matches (developer)", widget: string, required: false }
       - { name: order, label: Order, widget: number, value_type: int, required: false }

@@ -24,8 +24,12 @@ const read = p => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
 const IMAGES = read('content/images.json');
 const VID = read('content/videos.json');
 const RES = createImageResolver(ROOT, IMAGES);
-const pages = loadPages(ROOT, { resolver: RES });
-const posts = loadPosts(ROOT, { resolver: RES, now: new Date() });
+// Content problems (unresolved images, unknown product keys, reserved slugs) fail the build after dist/ is written.
+const problems = [];
+const onProblem = (entry, msg) => problems.push(`${entry}: ${msg}`);
+const pages = loadPages(ROOT, { resolver: RES, onProblem });
+const posts = loadPosts(ROOT, { resolver: RES, now: new Date(), onProblem });
+for (const [kind, list] of [['pages', Object.values(pages)], ['posts', posts]]) for (const r of list) for (const b of r.blocks) if (b.t === 'product' && !PRODUCTS.some(p => p.key === b.key)) onProblem(`${kind}/${r.slug}`, `unknown product key "${b.key}"`);
 const EVENTS = loadEvents(ROOT, { today: new Date().toISOString().slice(0, 10) });
 const postBySlug = Object.fromEntries(posts.map(p => [p.slug, p]));
 
@@ -99,7 +103,7 @@ const dealer = () => `<div class="dealer">${img(BRAND.crawfordsBlue, 'Crawfords 
 const productBox = (p, wide = false) => `<div class="product${wide ? ' product--wide' : ''}"><div>${p.img && RES.resolve(p.img) ? img(p.img, p.name, { cls: 'product__img' }) : '<div class="product__img"></div>'}</div><div><p class="mono product__k">Buy at Crawfords MD</p><p class="product__name">${esc(p.name)}</p><a class="btn btn--buy btn--sm" href="${cmdUrl(p.path)}" rel="sponsored noopener" target="_blank">Check price &amp; stock ${icon.ext}</a>${p.compare ? `<ul class="product__compare"><span class="mono">Compare at Crawfords</span>${p.compare.map(([u, l]) => `<li><a href="${cmdUrl(u)}" rel="sponsored noopener" target="_blank">${esc(l)}</a></li>`).join('')}</ul>` : ''}</div></div>`;
 const buyAside = (text, fallbackHref) => {
   const ps = productsFor(text, 1);
-  return `<div class="side-card side-card--buy">${dealer()}${ps.length ? ps.map(p => productBox(p)).join('') : `<a class="btn btn--buy btn--block" href="${fallbackHref || cmdUrl('/metal-detectors/minelab')}" rel="sponsored noopener" target="_blank">Shop Minelab at Crawfords ${icon.ext}</a>`}<p class="side-card__code">Accessories code <button type="button" class="code" data-copy="${DISCOUNT.code}">${DISCOUNT.code}</button></p></div>`;
+  return `<div class="side-card side-card--buy">${dealer()}${ps.length ? ps.map(p => productBox(p)).join('') : `<a class="btn btn--buy btn--block" href="${fallbackHref || cmdUrl('/metal-detectors/minelab')}" rel="sponsored noopener" target="_blank">Shop Minelab at Crawfords ${icon.ext}</a>`}<p class="side-card__code">Accessories code <button type="button" class="code" data-copy="${esc(DISCOUNT.code)}">${esc(DISCOUNT.code)}</button></p></div>`;
 };
 
 // Photos of Paul used through the site (see docs/PHOTOS.md)
@@ -157,14 +161,14 @@ function footer() {
   const cols = NAV.filter(n => n.groups).slice(0, 3).map(n => `<div><p class="footer__h mono">${n.label}</p><ul>${n.groups.flatMap(g => g.items).slice(0, 7).map(([s, l]) => `<li><a href="${pageUrl(s)}">${l}</a></li>`).join('')}</ul></div>`).join('');
   return `<footer class="site-footer">
   <div class="wrap">
-    <div class="discount"><div class="discount__brand">${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo-chip' })}<div><p class="mono discount__k">Reader discount</p><p class="discount__h">Save on accessories at ${DISCOUNT.where} with code <button type="button" class="code" data-copy="${DISCOUNT.code}" aria-label="Copy code ${DISCOUNT.code}">${DISCOUNT.code}</button></p><p class="discount__t">${DISCOUNT.terms}</p></div></div><a class="btn btn--buy" href="${cmdUrl('/')}" rel="sponsored noopener" target="_blank">Shop at Crawfords MD ${icon.ext}</a></div>
+    <div class="discount"><div class="discount__brand">${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo-chip' })}<div><p class="mono discount__k">Reader discount</p><p class="discount__h">Save on accessories at ${esc(DISCOUNT.where)} with code <button type="button" class="code" data-copy="${esc(DISCOUNT.code)}" aria-label="Copy code ${esc(DISCOUNT.code)}">${esc(DISCOUNT.code)}</button></p><p class="discount__t">${esc(DISCOUNT.terms)}</p></div></div><a class="btn btn--buy" href="${cmdUrl('/')}" rel="sponsored noopener" target="_blank">Shop at Crawfords MD ${icon.ext}</a></div>
     <div class="footer__grid">
-      <div class="footer__brand"><a class="brand brand--footer" href="${url('')}"><span class="brand__mark" aria-hidden="true">PC</span><span class="brand__text"><span class="brand__name">Paul Cee</span><span class="brand__sub mono">Minelab Detexpert</span></span></a><p class="footer__tag">${TAGLINE}</p><p>Official Minelab Detexpert and Crawfords Metal Detectors ambassador, sharing settings, reviews and finds from UK beaches and fields.</p>
+      <div class="footer__brand"><a class="brand brand--footer" href="${url('')}"><span class="brand__mark" aria-hidden="true">PC</span><span class="brand__text"><span class="brand__name">Paul Cee</span><span class="brand__sub mono">Minelab Detexpert</span></span></a><p class="footer__tag">${esc(TAGLINE)}</p><p>Official Minelab Detexpert and Crawfords Metal Detectors ambassador, sharing settings, reviews and finds from UK beaches and fields.</p>
       <p class="footer__social"><a href="${YT.subscribeUrl}" rel="noopener" target="_blank">${icon.yt} YouTube</a> <a href="${url('videos/')}">Videos</a> <a href="${pageUrl('social-sites')}">Newsletter</a> <a href="${pageUrl('contact')}">Contact</a></p>
       <div class="footer__partners">${img(BRAND.minelab, 'Minelab', { cls: 'logo--light' })}${img(BRAND.detexpertShield, 'Minelab Detexpert')}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--light' })}${img(BRAND.coiltek, 'Coiltek', { cls: 'logo--light' })}</div></div>
       ${cols}
     </div>
-    <p class="footer__disclosure"><strong>Affiliate disclosure.</strong> ${DISCLOSURE}</p>
+    <p class="footer__disclosure"><strong>Affiliate disclosure.</strong> ${esc(DISCLOSURE)}</p>
     <div class="footer__legal"><span>© ${new Date().getFullYear()} Paul Cee Metal Detecting · Loxley Media</span><span><a href="${pageUrl('privacy')}">Privacy &amp; cookies</a> · <a href="${pageUrl('links')}">Useful links</a> · <a href="${url('blog/')}">Blog</a></span></div>
   </div>
 </footer>`;
@@ -214,7 +218,15 @@ function watchSection(re, heading, groupKey) {
 }
 
 const fmtRange = e => { const s = fmtDate(e.start), en = e.end && e.end !== e.start ? fmtDate(e.end) : ''; return en ? `${s} – ${en}` : s; };
-const eventCard = e => `<article class="event">${e.image ? img(e.image, e.name, { cls: 'event__img' }) : ''}<div class="event__body"><p class="mono event__date">${esc(fmtRange(e))}${e.venue ? ` · ${esc(e.venue)}` : ''}</p><h3 class="event__name">${esc(e.name)}</h3>${e.description ? `<p>${esc(strip(e.description)).slice(0, 220)}</p>` : ''}${e.link ? `<a class="btn btn--sm" href="${esc(e.link)}" rel="noopener" target="_blank">Details &amp; tickets ${icon.ext}</a>` : ''}</div></article>`;
+// Event links: only http(s) and mailto; Crawfords links get the tracking ID and are marked sponsored.
+const eventLink = link => {
+  const s = String(link || '').trim();
+  if (/^mailto:/i.test(s)) return `<a class="btn btn--sm" href="${esc(s)}">Details &amp; tickets ${icon.ext}</a>`;
+  if (!/^https?:\/\//i.test(s)) return '';
+  const c = crawfords(s);
+  return `<a class="btn btn--sm" href="${esc(c || s)}" rel="${c ? 'sponsored noopener' : 'noopener'}" target="_blank">Details &amp; tickets ${icon.ext}</a>`;
+};
+const eventCard = e => `<article class="event">${e.image ? img(e.image, e.name, { cls: 'event__img' }) : ''}<div class="event__body"><p class="mono event__date">${esc(fmtRange(e))}${e.venue ? ` · ${esc(e.venue)}` : ''}</p><h3 class="event__name">${esc(e.name)}</h3>${e.description ? `<p>${esc(strip(e.description).slice(0, 220))}</p>` : ''}${eventLink(e.link)}</div></article>`;
 const eventsBlock = () => EVENTS.upcoming.length ? `<section class="events" aria-labelledby="ev-h"><h2 id="ev-h">Upcoming rallies &amp; events</h2><div class="events__list">${EVENTS.upcoming.map(eventCard).join('')}</div></section>` : '';
 
 // ---------- pages ----------
@@ -228,8 +240,8 @@ function renderHome() {
 <section class="hero"><div class="hero__bg" aria-hidden="true"></div><div class="wrap hero__grid">
   <div class="hero__copy">
     <div class="hero__badges"><span class="detexpert">${img(BRAND.detexpertShield, '')}<span><span class="mono">Official</span>Minelab Detexpert &amp; field tester</span></span><span class="detexpert">${img(BRAND.crawfordsBlue, '', { cls: 'badge-logo' })}<span><span class="mono">Ambassador</span>Crawfords Metal Detectors</span></span></div>
-    <h1 class="hero__h1">${HOME.h1}</h1>
-    <p class="hero__sub">${HOME.sub}</p>
+    <h1 class="hero__h1">${esc(HOME.h1)}</h1>
+    <p class="hero__sub">${esc(HOME.sub)}</p>
     <div class="hero__ctas"><a class="btn btn--lg" href="#detectors">${HOME.primary[1]} ${icon.arrow}</a><a class="btn btn--ghost btn--lg" href="${url('videos/')}">${icon.yt} Watch the tutorials</a></div>
     <dl class="proof"><div><dt>${YT.stats.views}</dt><dd>YouTube views</dd></div><div><dt>${YT.stats.videos}</dt><dd>detecting videos</dd></div><div><dt>${posts.length}</dt><dd>articles &amp; field reports</dd></div></dl>
   </div>
@@ -259,7 +271,7 @@ function renderHome() {
 <section class="section shop" id="shop" aria-labelledby="shop-h"><div class="wrap">
   <div class="shop__head"><div><p class="eyebrow mono">Where Paul buys his gear</p><h2 id="shop-h">Shop Paul’s recommendations at Crawfords Metal Detectors</h2><p>Authorised Minelab dealer with UK stock, expert advice and free delivery over £50. Every link below carries Paul’s recommendation — and his reader discount on accessories.</p></div>${'<span class="shop__logo">' + img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors') + '</span>'}</div>
   <div class="shop__grid">${SHOP_CATS.map(c => `<div class="shop-tile"><h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><div class="shop-tile__links"><a class="btn btn--white btn--sm" href="${cmdUrl(c.path)}" rel="sponsored noopener" target="_blank">Shop at Crawfords ${icon.ext}</a>${pages[c.guide] ? `<a class="shop-tile__guide" href="${pageUrl(c.guide)}">Paul’s guide →</a>` : ''}</div></div>`).join('')}</div>
-  <p class="shop__code">Use code <button type="button" class="code" data-copy="${DISCOUNT.code}">${DISCOUNT.code}</button> at checkout for a discount on accessories. ${DISCOUNT.terms}</p>
+  <p class="shop__code">Use code <button type="button" class="code" data-copy="${esc(DISCOUNT.code)}">${esc(DISCOUNT.code)}</button> at checkout for a discount on accessories. ${esc(DISCOUNT.terms)}</p>
 </div></section>
 
 <section class="section" aria-labelledby="start-h"><div class="wrap">
@@ -472,3 +484,5 @@ const prodRows = [['product', 'crawfords_url', 'category'], ...PRODUCTS.map(p =>
 fs.writeFileSync(path.join(ROOT, 'docs/crawfords-product-links.csv'), prodRows.map(r => r.map(c => `"${c}"`).join(',')).join('\n'));
 
 console.log(`Built ${Object.keys(pages).length} pages, ${posts.length} posts, ${TOPIC_LIST.length} topics, ${videos.length} videos → dist/ (BASE=${BASE}, ${PROD ? 'production' : 'preview'}) · Crawfords links: ${affCount} (${rewrote} normalised to tracking)`);
+for (const p of problems) console.error(`CONTENT-ERROR ${p}`);
+if (problems.length) process.exitCode = 1;
