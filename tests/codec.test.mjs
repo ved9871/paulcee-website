@@ -66,3 +66,36 @@ test('components parse and new uploads resolve by path', () => {
   const [b] = markdownToBlocks('![Beach](/img/new-upload.webp)', { ...ctx, resolve: k => k === '/img/new-upload.webp' ? { file: 'img/new-upload.webp', w: 1600, h: 1200 } : null });
   assert.equal(b.html, '<img src="@img:/img/new-upload.webp" alt="Beach" width="1600" height="1200">');
 });
+
+test('a hard break at the edge of bold or italic moves outside the wrapper', () => {
+  const cases = [
+    ['a<strong><br></strong>b', 'a<br>b'],
+    ['<strong>Text<br></strong>Next', '<strong>Text</strong><br>Next'],
+    ['Intro<strong><br>Text</strong>', 'Intro<br><strong>Text</strong>'],
+    ['<em>Two<br><br></em>End', '<em>Two</em><br><br>End'],
+    ['<strong>Mid<br>dle</strong>', '<strong>Mid<br>dle</strong>'],
+  ];
+  for (const [html, want] of cases) {
+    const [b] = rt([{ t: 'p', html }]);
+    assert.equal(b.html, want);
+    assert.doesNotMatch(b.html, /&lt;\/(strong|em)&gt;/);
+  }
+});
+
+test('btn links inside a paragraph keep their class', () => {
+  const html = 'Try it: <a href="https://crawfordsmd.com/y" data-kind="affiliate" class="btn">Buy <strong>now</strong></a> or <a href="@minelab-equinox/" data-kind="internal" class="btn">see more</a>.';
+  assert.deepEqual(rt([{ t: 'p', html }]), [{ t: 'p', html }]);
+});
+
+test('the small image hint scales the height with the width', () => {
+  const big = { ...ctx, resolve: k => k === '/img/big.webp' ? { file: 'img/big.webp', w: 800, h: 600 } : null };
+  assert.equal(markdownToBlocks('![Big](/img/big.webp "small")', big)[0].html, '<img src="@img:/img/big.webp" alt="Big" width="180" height="135">');
+  assert.equal(markdownToBlocks('![Big](/img/big.webp)', big)[0].html, '<img src="@img:/img/big.webp" alt="Big" width="800" height="600">');
+  const [logo] = rt([{ t: 'figure', html: '<img src="@img:images/logo.png" alt="Logo" width="60" height="89">' }]);
+  assert.equal(logo.html, '<img src="@img:images/logo.png" alt="Logo" width="60" height="89">');
+});
+
+test('an image-only paragraph comes back as a figure (accepted normalisation)', () => {
+  const html = '<a href="https://example.com/" data-kind="external"><img src="@img:images/a.jpg" alt="x" width="800" height="600"></a>';
+  assert.deepEqual(rt([{ t: 'p', html }]), [{ t: 'figure', html }]);
+});

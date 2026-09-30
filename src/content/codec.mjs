@@ -54,16 +54,22 @@ function imgToMd(a, { fileForKey }) {
   return `![${alt}](${mdUrl(decodeAttr(src))})`;
 }
 
+const BREAK = '\u0000'; // placeholder for <br> until emphasis edges are settled; becomes "\\\n"
+
 export function inlineToMd(html, ctx) {
   const out = [], stack = [];
   const close = type => {
     let i = stack.length - 1; while (i >= 0 && stack[i].type !== type) i--;
     if (i < 0) return;
-    const { start, href } = stack.splice(i)[0];
+    const { start, href, btn } = stack.splice(i)[0];
     const inner = out.splice(start).join('');
-    if (type === 'a') { out.push(`[${inner}](${mdUrl(href)})`); return; }
-    const core = inner.trim(); if (!core) { out.push(inner); return; }
-    const lead = inner.slice(0, inner.indexOf(core[0])), trail = inner.slice(inner.lastIndexOf(core[core.length - 1]) + 1);
+    if (type === 'a') { out.push(btn ? `<a href="${encodeAttr(href)}" class="btn">${inner}</a>` : `[${inner}](${mdUrl(href)})`); return; }
+    // Whitespace and hard breaks at the edges stay outside the emphasis markers.
+    const lead = inner.match(/^(?:\s|\u0000)*/)[0];
+    const rest = inner.slice(lead.length);
+    const trail = rest.match(/(?:\s|\u0000)*$/)[0];
+    const core = rest.slice(0, rest.length - trail.length);
+    if (!core) { out.push(inner); return; }
     const ambiguous = PUNCT.test(core[0]) || PUNCT.test(core[core.length - 1]);
     const [o, c] = ambiguous ? [`<${type}>`, `</${type}>`] : type === 'strong' ? ['**', '**'] : ['*', '*'];
     out.push(lead + o + core + c + trail);
@@ -73,13 +79,13 @@ export function inlineToMd(html, ctx) {
     const tag = part.toLowerCase();
     if (tag === '<strong>' || tag === '<em>') stack.push({ type: tag.slice(1, -1), start: out.length });
     else if (tag === '</strong>' || tag === '</em>') close(tag.slice(2, -1));
-    else if (/^<br\s*\/?>$/.test(tag)) out.push('\\\n');
-    else if (tag.startsWith('<a ')) stack.push({ type: 'a', start: out.length, href: hrefToPlain(attrMap(part).href || '', ctx) });
+    else if (/^<br\s*\/?>$/.test(tag)) out.push(BREAK);
+    else if (tag.startsWith('<a ')) { const a = attrMap(part); stack.push({ type: 'a', start: out.length, href: hrefToPlain(a.href || '', ctx), btn: /\bbtn\b/.test(a.class || '') }); }
     else if (tag === '</a>') close('a');
     else if (tag.startsWith('<img ')) out.push(imgToMd(attrMap(part), ctx));
     else out.push(part);
   }
-  return out.join('');
+  return out.join('').replace(/\u0000/g, '\\\n');
 }
 
 export function tokenHtmlToPlain(html, ctx) {
@@ -131,7 +137,8 @@ function imgToken(a, { resolve, keyForFile }) {
   if (/^https?:/i.test(src)) return `<img src="${encodeAttr(src)}" alt="${alt}">`;
   const key = src.startsWith('@img:') ? src.slice(5) : (keyForFile(src) || src);
   const m = resolve(key); if (!m) return '';
-  return `<img src="@img:${key}" alt="${alt}" width="${a.title === 'small' ? Math.min(m.w, 180) : m.w}" height="${m.h}">`;
+  const small = a.title === 'small' && m.w > 180;
+  return `<img src="@img:${key}" alt="${alt}" width="${small ? 180 : m.w}" height="${small ? Math.round(m.h * 180 / m.w) : m.h}">`;
 }
 
 export function plainHtmlToToken(html, ctx) {
