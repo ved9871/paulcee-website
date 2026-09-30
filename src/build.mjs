@@ -440,6 +440,13 @@ posts.forEach(renderPost);
 renderBlogIndex(posts);
 TOPIC_LIST.forEach(t => renderBlogIndex(posts.filter(p => p.topic.key === t.key), { topic: t }));
 
+// CMS admin (Sveltia): templated with the site URL and the current product list
+const siteUrl = process.env.SITE_URL || (process.env.CNAME ? `https://${process.env.CNAME}` : BASE === '/' ? 'http://localhost:4173' : `https://ved9871.github.io${BASE.replace(/\/$/, '')}`);
+fs.mkdirSync(path.join(DIST, 'admin'), { recursive: true });
+fs.copyFileSync(path.join(ROOT, 'src/admin/index.html'), path.join(DIST, 'admin/index.html'));
+fs.writeFileSync(path.join(DIST, 'admin/config.yml'), fs.readFileSync(path.join(ROOT, 'src/admin/config.yml'), 'utf8').replaceAll('__SITE_URL__', siteUrl));
+fs.writeFileSync(path.join(DIST, 'admin/components.js'), fs.readFileSync(path.join(ROOT, 'src/admin/components.js'), 'utf8').replace('/*__PRODUCT_OPTIONS__*/[]', JSON.stringify(PRODUCTS.map(p => ({ label: p.name, value: p.key })))));
+
 // search index (guides, posts, videos)
 const search = [
   ...Object.values(pages).filter(r => r.slug !== 'index').map(r => ({ t: r.h1 || strip(r.seo.title), u: pageUrl(r.slug), k: 'Guide' })),
