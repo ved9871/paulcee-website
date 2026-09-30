@@ -24,6 +24,8 @@ export function hrefToToken(h, { keyForFile }) {
   if (h === '/') return ['@', 'internal'];
   if (/^\/blog\/?$/.test(h)) return ['@blog/', 'internal'];
   if ((m = h.match(/^\/blog\/([^/#?]+)\/?$/))) return [`@blog/${m[1]}/`, 'internal'];
+  // Generated routes (not content pages): kept as plain paths, which the build maps under BASE.
+  if (/^\/videos\/?(#.*)?$/.test(h) || /^\/blog\/topic\/[a-z0-9-]+\/?(#.*)?$/i.test(h) || /^\/blog\/[^/#?]+\/?#.*$/.test(h)) return [h, 'internal'];
   if (h.startsWith('/img/')) { const k = keyForFile(h); return [k ? `@asset:${k}` : h, 'asset']; }
   if ((m = h.match(/^\/([a-z0-9-]+)\/?(#.*)?$/i))) return [`@${m[1]}/${m[2] || ''}`, 'internal'];
   if (/^(mailto:|tel:)/i.test(h)) return [h, 'contact'];
@@ -44,11 +46,11 @@ function escapeLineStarts(md) {
   }).join('\n');
 }
 
-function imgToMd(a, { fileForKey }) {
+function imgToMd(a, { fileForKey, onMissingImage }) {
   const src = a.src || '';
   const alt = escapeText(decodeAttr(a.alt || '')).replace(/\n/g, ' ');
   if (src.startsWith('@img:')) {
-    const file = fileForKey(src.slice(5)); if (!file) return '';
+    const file = fileForKey(src.slice(5)); if (!file) { onMissingImage?.(src); return ''; }
     return `![${alt}](${mdUrl(file)}${+a.width && +a.width <= 180 ? ' "small"' : ''})`;
   }
   return `![${alt}](${mdUrl(decodeAttr(src))})`;
@@ -91,7 +93,7 @@ export function inlineToMd(html, ctx) {
 
 export function tokenHtmlToPlain(html, ctx) {
   return String(html)
-    .replace(/<img\s[^>]*>/g, tag => { const a = attrMap(tag); if (!(a.src || '').startsWith('@img:')) return tag; const f = ctx.fileForKey(a.src.slice(5)); return f ? `<img src="${f}" alt="${a.alt || ''}"${+a.width && +a.width <= 180 ? ' title="small"' : ''}>` : ''; })
+    .replace(/<img\s[^>]*>/g, tag => { const a = attrMap(tag); if (!(a.src || '').startsWith('@img:')) return tag; const f = ctx.fileForKey(a.src.slice(5)); if (!f) { ctx.onMissingImage?.(a.src); return ''; } return `<img src="${f}" alt="${a.alt || ''}"${+a.width && +a.width <= 180 ? ' title="small"' : ''}>`; })
     .replace(/<a\s[^>]*>/g, tag => { const a = attrMap(tag); return `<a href="${encodeAttr(hrefToPlain(a.href || '', ctx))}"${a.class ? ` class="${a.class}"` : ''}>`; });
 }
 
@@ -133,11 +135,11 @@ export function parseComponent(text) {
   return null;
 }
 
-function imgToken(a, { resolve, keyForFile }) {
+function imgToken(a, { resolve, keyForFile, onMissingImage }) {
   const src = decodeAttr(a.src || ''), alt = a.alt || '';
   if (/^https?:/i.test(src)) return `<img src="${encodeAttr(src)}" alt="${alt}">`;
   const key = src.startsWith('@img:') ? src.slice(5) : (keyForFile(src) || src);
-  const m = resolve(key); if (!m) return '';
+  const m = resolve(key); if (!m) { onMissingImage?.(src); return ''; }
   const small = a.title === 'small' && m.w > 180;
   return `<img src="@img:${key}" alt="${alt}" width="${small ? 180 : m.w}" height="${small ? Math.round(m.h * 180 / m.w) : m.h}">`;
 }

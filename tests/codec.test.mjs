@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { parseFrontMatter, stringifyFrontMatter } from '../src/content/frontmatter.mjs';
-import { blocksToMarkdown, markdownToBlocks, parseComponent, youtubeId } from '../src/content/codec.mjs';
+import { blocksToMarkdown, markdownToBlocks, parseComponent, youtubeId, hrefToToken } from '../src/content/codec.mjs';
 
 const images = { 'images/a.jpg': { file: 'img/a.webp', w: 800, h: 600, alt: '' }, 'images/logo.png': { file: 'img/logo.webp', w: 60, h: 89, alt: '' } };
 const byFile = Object.fromEntries(Object.entries(images).map(([k, v]) => ['/' + v.file, k]));
@@ -126,4 +126,22 @@ test('hard breaks at the end of link text survive', () => {
     { t: 'p', html: 'Watch <a href="https://youtu.be/HZkSggRUZrg" data-kind="external">the video<br></a> now' },
   ];
   assert.deepEqual(rt(blocks), blocks);
+});
+
+test('an image the build cannot resolve is reported through ctx.onMissingImage', () => {
+  const missing = [];
+  const blocks = markdownToBlocks('![x](/img/x.jpg)\n\nText <img src="/img/y.png" alt="">', { ...ctx, onMissingImage: src => missing.push(src) });
+  assert.deepEqual(missing, ['/img/x.jpg', '/img/y.png']);
+  assert.deepEqual(blocks.map(b => b.html), ['Text']);
+  assert.doesNotThrow(() => markdownToBlocks('![x](/img/x.jpg)', ctx));
+  blocksToMarkdown([{ t: 'figure', html: '<img src="@img:images/none.jpg" alt="" width="1" height="1">' }], { ...ctx, onMissingImage: src => missing.push(src) });
+  assert.deepEqual(missing.slice(2), ['@img:images/none.jpg']);
+});
+
+test('generated routes (videos, topic pages, post fragments) stay plain internal paths', () => {
+  const md = '[a](/videos/) [b](/videos/#minelab-manticore) [c](/blog/topic/beach-detecting/) [d](/blog/some-post/#settings)';
+  const hrefs = [...markdownToBlocks(md, ctx)[0].html.matchAll(/<a href="([^"]+)" data-kind="(\w+)">/g)].map(m => `${m[1]} ${m[2]}`);
+  assert.deepEqual(hrefs, ['/videos/ internal', '/videos/#minelab-manticore internal', '/blog/topic/beach-detecting/ internal', '/blog/some-post/#settings internal']);
+  assert.equal(hrefToToken('/blog/some-post/', ctx)[0], '@blog/some-post/');
+  assert.equal(hrefToToken('/minelab-manticore/#coils', ctx)[0], '@minelab-manticore/#coils');
 });
