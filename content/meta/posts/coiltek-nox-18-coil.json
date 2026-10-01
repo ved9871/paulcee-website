@@ -1,0 +1,141 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?coiltek-nox-18-coil",
+  "author": "Paul Cee",
+  "category": "coiltek Nox 18 Coil",
+  "categorySlug": "coiltek_Nox_18_Coil",
+  "readTime": 2,
+  "dateModified": "2023-12-03T11:43:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?coiltek-nox-18-coil",
+    "og": {
+      "title": "Coiltek Nox 18 Coil",
+      "description": "the biggest deepest seeking coil for the Minelab Equinox and X-Terra Pro, submersible to 5mtr and 2 year warranty, the best coil for equinox and xterra Pro.",
+      "image": "https://www.paulcee.co.uk/blog/files/coiltek-nox-18-review_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?coiltek-nox-18-coil"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2023-12-03T11:43:00",
+        "dateModified": "2023-12-03T11:43:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Coiltek Nox 18 Coil",
+        "description": "Coiltek Nox 18 Review",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?coiltek-nox-18-coil",
+        "image": [
+          "https://www.paulcee.co.uk/images/YT-thumb_2020_b8c447jk.png",
+          "https://www.paulcee.co.uk/images/cmd-white-alpha_j4js08kk.png",
+          "https://www.paulcee.co.uk/images/CoiltekLogo.png",
+          "https://www.paulcee.co.uk/images/coiltek-nox-18a.jpg",
+          "https://www.paulcee.co.uk/blog/files/coiltek-nox-18-review.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Dec 2023",
+            "item": "https://www.paulcee.co.uk/blog/?month=202312",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Coiltek Nox 18 Coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coiltek Nox 18 Coil",
+            "item": "https://www.paulcee.co.uk/blog/?category=coiltek Nox 18 Coil",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Coiltek Nox 18 Coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Coiltek Nox 18 Coil",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

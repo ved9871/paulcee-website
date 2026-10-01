@@ -1,0 +1,10 @@
+{
+  "key": "m8-coil",
+  "name": "Minelab M8 coil",
+  "path": "/minelab-m8",
+  "cat": "coil",
+  "img": "/img/m8.webp",
+  "compare": [],
+  "match": "\\bm8\\b",
+  "order": 11
+}

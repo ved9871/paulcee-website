@@ -1,0 +1,282 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?more-gold-from-the-beach-with-the-ctx3030",
+  "author": "Paul Cee",
+  "category": "CTX 3030",
+  "categorySlug": "CTX_3030",
+  "readTime": 1,
+  "dateModified": "2019-08-28T19:51:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?more-gold-from-the-beach-with-the-ctx3030",
+    "og": {
+      "title": "more gold from the beach with the CTX3030",
+      "description": "Find more gold metal detecting, minelab ctx 3030 is one of the best metal detectors for finding gold on the beach",
+      "image": "https://www.paulcee.co.uk/blog/files/45-mm-stickerWeb_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?more-gold-from-the-beach-with-the-ctx3030"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2019-08-28T19:51:00",
+        "dateModified": "2019-08-28T19:51:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "more gold from the beach with the CTX3030",
+        "description": "find gold detecting on beaches,minelab CTx 3030,Evolution sand scoop",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?more-gold-from-the-beach-with-the-ctx3030",
+        "image": [
+          "https://www.paulcee.co.uk/images/060118_a.jpg",
+          "https://www.paulcee.co.uk/blog/files/45-mm-stickerWeb.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Aug 2019",
+            "item": "https://www.paulcee.co.uk/blog/?month=201908",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "CTX 3030",
+            "item": "https://www.paulcee.co.uk/blog/?category=CTX 3030",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "ctx3030",
+            "item": "https://www.paulcee.co.uk/blog/?tag=ctx3030",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Evolution",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Evolution",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "sandSccop",
+            "item": "https://www.paulcee.co.uk/blog/?tag=sandSccop",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "best",
+            "item": "https://www.paulcee.co.uk/blog/?tag=best",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "finds",
+            "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "more gold from the beach with the CTX3030",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen",
+  "author": "Paul Cee",
+  "category": "minelab manticore settings",
+  "categorySlug": "minelab_manticore_settings",
+  "readTime": 4,
+  "dateModified": "2025-12-24T11:11:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen",
+    "og": {
+      "title": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+      "description": "Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.",
+      "image": "https://www.paulcee.co.uk/blog/files/210523_manticore_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2025-12-24T11:11:00",
+        "dateModified": "2025-12-24T11:11:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+        "description": "Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?a-beginner-s-guide-to-the-minelab-manticore-s-2d-screen",
+        "image": [
+          "https://www.paulcee.co.uk/images/2026-thumb_8esxlmtp.jpg",
+          "https://www.paulcee.co.uk/images/2d-screen.jpg",
+          "https://www.paulcee.co.uk/images/2d-blog.jpg",
+          "https://www.paulcee.co.uk/blog/files/210523_manticore.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Dec 2025",
+            "item": "https://www.paulcee.co.uk/blog/?month=202512",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab manticore settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=minelab manticore settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore",
+            "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "settings",
+            "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "2d",
+            "item": "https://www.paulcee.co.uk/blog/?tag=2d",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "ferrous",
+            "item": "https://www.paulcee.co.uk/blog/?tag=ferrous",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "limits",
+            "item": "https://www.paulcee.co.uk/blog/?tag=limits",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "A Beginner’s Guide to the Minelab Manticore’s 2D Screen",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

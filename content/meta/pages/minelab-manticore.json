@@ -1,0 +1,45 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/minelab-manticore.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/minelab-manticore.html",
+    "og": {
+      "title": "Minelab Manticore",
+      "description": "Explore the Minelab Manticore and unlock its full potential with our comprehensive user guides and in-depth specifications.",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/minelab-manticore.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore beach settings",
+        "description": "Minelab Manticore is the best metal detector for beach detecting in water and wet and dry sand",
+        "uploadDate": "2025-12-24T10:59:36+00:00",
+        "thumbnailUrl": "images/manticore-beach-settings.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=bSgPk84mtcE",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab manticore ferrous limits",
+        "description": "Minelab manticore ferrous limits and 2D screen how to setup and use them for the best results",
+        "uploadDate": "2023-11-11T19:02:51+00:00",
+        "thumbnailUrl": "images/210523_manticore.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=5ddRBp33QIU",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

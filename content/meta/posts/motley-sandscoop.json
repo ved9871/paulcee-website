@@ -1,0 +1,140 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?motley-sandscoop",
+  "author": "Paul Cee",
+  "category": "Motley Sandscoop",
+  "categorySlug": "Motley_Sandscoop",
+  "readTime": 2,
+  "dateModified": "2021-04-18T08:57:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?motley-sandscoop",
+    "og": {
+      "title": "Motley Sandscoop",
+      "description": "Motley Sandscoops could be the Best Sandscoops for beach metal detecting",
+      "image": "https://www.paulcee.co.uk/blog/files/WEB_thumb_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?motley-sandscoop"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2021-04-18T08:57:00",
+        "dateModified": "2021-04-18T08:57:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Motley Sandscoop",
+        "description": "",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?motley-sandscoop",
+        "image": [
+          "https://www.paulcee.co.uk/images/motley_shaft.jpg",
+          "https://www.paulcee.co.uk/images/P1050964_8q74fvqw.jpg",
+          "https://www.paulcee.co.uk/images/motley-3_szlymu7l.jpg",
+          "https://www.paulcee.co.uk/blog/files/WEB_thumb.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Apr 2021",
+            "item": "https://www.paulcee.co.uk/blog/?month=202104",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Motley Sandscoop",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Motley Sandscoop",
+            "item": "https://www.paulcee.co.uk/blog/?category=Motley Sandscoop",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Motley Sandscoop",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Motley Sandscoop",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

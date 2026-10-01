@@ -1,0 +1,10 @@
+{
+  "key": "x-terra-pro",
+  "name": "Minelab X-Terra Pro",
+  "path": "/minelab-x-terra-pro",
+  "cat": "detector",
+  "img": "/img/xterra-pro-features.webp",
+  "compare": [],
+  "match": "x-?\\s?terra pro|\\bxtp\\b|x-?\\s?terra(?! elite)",
+  "order": 6
+}

@@ -1,0 +1,36 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/crawfords-metal-detectors.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/crawfords-metal-detectors.html",
+    "og": {
+      "title": "Crawfords metal detectors",
+      "description": "Celebrating 30 years as the UK's leading metal detector specialists. Official Minelab distributors in Lincolnshire & Dorset. Expert advice for beginners to pros",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/crawfords-metal-detectors.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "Location of crawfords metal detectors scunthorpe",
+        "description": "crawfords metal detectors in scunthorpe, location",
+        "uploadDate": "2025-12-31T08:59:37+00:00",
+        "thumbnailUrl": "images/me-cmd.jpg",
+        "contentUrl": "videos/cmd-store.mp4",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

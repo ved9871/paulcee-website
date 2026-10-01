@@ -1,0 +1,54 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/minelab-vanquish-40-series.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/minelab-vanquish-40-series.html",
+    "og": {
+      "title": "Minelab Vanquish 40 Series",
+      "description": "Discover why the Minelab Vanquish 40 Series remains the smart choice. Proven Multi-IQ technology, rugged design, and unbeatable value for every detectorist.",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/minelab-vanquish-40-series.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "minelab vanquish features and settings",
+        "description": "what features and setting are on the minelab vanquish, we have a look at what this metal detector for beginners has to offer",
+        "uploadDate": "2023-11-11T17:48:41+00:00",
+        "thumbnailUrl": "images/vs191023-002_web.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=yA7hhnbGFwI",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "minelab vanquish for beginners",
+        "description": "why the minelab vanquish is ideal for a beginners, with multi iq and choice of search coils",
+        "uploadDate": "2023-11-11T17:53:57+00:00",
+        "thumbnailUrl": "images/340c_Final_web_nvghpqcb.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=hjGB8153a0Q",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "minelab vanquish comparisons",
+        "description": "what are the differances on the minelab vanquish range of the 340, 540 vanquish metal detectors",
+        "uploadDate": "2023-11-11T17:58:08+00:00",
+        "thumbnailUrl": "images/comparison_1brxicq5.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=HZkSggRUZrg",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

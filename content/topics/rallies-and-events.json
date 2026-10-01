@@ -1,0 +1,7 @@
+{
+  "key": "rallies-and-events",
+  "label": "Rallies & events",
+  "description": "",
+  "match": "rally|rallys|detectival|bike night|event|grand tour",
+  "order": 9
+}

@@ -1,0 +1,311 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540-test",
+  "author": "Paul Cee",
+  "category": "Minelab Vanquish Settings",
+  "categorySlug": "Minelab_Vanquish_Settings",
+  "readTime": 1,
+  "dateModified": "2019-09-22T19:14:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540-test",
+    "og": {
+      "title": "Minelab Vanquish 540 test",
+      "description": "minelab vanquish 540 field test, recovery speed and air depth test, review of what is available on the minelab vanquish detectors",
+      "image": "https://www.paulcee.co.uk/blog/files/vanquish-test_1_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540-test"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2019-09-22T19:14:00",
+        "dateModified": "2019-09-22T19:14:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab Vanquish 540 test",
+        "description": "Minelab Vanquish 540 Field Test",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-540-test",
+        "image": [
+          "https://www.paulcee.co.uk/images/P1040953_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040950_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040955_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040957_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040954_a.jpg",
+          "https://www.paulcee.co.uk/images/P1040952_a.jpg",
+          "https://www.paulcee.co.uk/blog/files/vanquish-test_1.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Sep 2019",
+            "item": "https://www.paulcee.co.uk/blog/?month=201909",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "vanquish",
+            "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "540",
+            "item": "https://www.paulcee.co.uk/blog/?tag=540",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "field",
+            "item": "https://www.paulcee.co.uk/blog/?tag=field",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "test",
+            "item": "https://www.paulcee.co.uk/blog/?tag=test",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "recovery",
+            "item": "https://www.paulcee.co.uk/blog/?tag=recovery",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "speed",
+            "item": "https://www.paulcee.co.uk/blog/?tag=speed",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish 540 test",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

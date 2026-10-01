@@ -1,0 +1,327 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings-paul-cee",
+  "author": "David Wallace",
+  "category": "Minelab Equinox Settings",
+  "categorySlug": "Minelab_Equinox_Settings",
+  "readTime": 2,
+  "dateModified": "2018-11-28T14:19:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings-paul-cee",
+    "og": {
+      "title": "Minelab Equinox Beach Settings paul cee",
+      "description": "beach settings for the minelab equinox, setting has produced great finds and can be adapted for the minelab equinox 900, for sharper tones use the depth mode",
+      "image": "https://www.paulcee.co.uk/blog/files/PB280315_alliron_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings-paul-cee"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2018-11-28T14:19:00",
+        "dateModified": "2018-11-28T14:19:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "Minelab Equinox Beach Settings paul cee",
+        "description": "Setting up the Equinox 800 for beach metal detecting",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings-paul-cee",
+        "image": [
+          "https://www.paulcee.co.uk/images/youtube-header_website_enug23by.jpg",
+          "https://www.paulcee.co.uk/images/detexpert-logosml_0uu4x349.png",
+          "https://www.paulcee.co.uk/images/PB280315.jpg",
+          "https://www.paulcee.co.uk/images/PB280315_alliron.jpg",
+          "https://www.paulcee.co.uk/images/PB280315_selectmode.jpg",
+          "https://www.paulcee.co.uk/images/PB280315_function.jpg",
+          "https://www.paulcee.co.uk/images/PB280317_nywhvgky.jpg",
+          "https://www.paulcee.co.uk/images/PB280317_select.jpg",
+          "https://www.paulcee.co.uk/images/PB280318.jpg",
+          "https://www.paulcee.co.uk/images/PB280318_gb.jpg",
+          "https://www.paulcee.co.uk/images/PB280319.jpg",
+          "https://www.paulcee.co.uk/images/PB280317.jpg",
+          "https://www.paulcee.co.uk/images/PB280315_function_unnua97i.jpg",
+          "https://www.paulcee.co.uk/images/PB280320.jpg",
+          "https://www.paulcee.co.uk/images/PB280322.jpg",
+          "https://www.paulcee.co.uk/images/PB280332.jpg",
+          "https://www.paulcee.co.uk/images/PB280332_A.jpg",
+          "https://www.paulcee.co.uk/images/PB280331.jpg",
+          "https://www.paulcee.co.uk/images/PB280329_A.jpg",
+          "https://www.paulcee.co.uk/images/PB280328.jpg",
+          "https://www.paulcee.co.uk/images/PB280316_A.jpg",
+          "https://www.paulcee.co.uk/images/PB280318_gb_02em57go.jpg",
+          "https://www.paulcee.co.uk/blog/files/PB280315_alliron.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Nov 2018",
+            "item": "https://www.paulcee.co.uk/blog/?month=201811",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "settings",
+            "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "deep",
+            "item": "https://www.paulcee.co.uk/blog/?tag=deep",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "gold",
+            "item": "https://www.paulcee.co.uk/blog/?tag=gold",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "silver",
+            "item": "https://www.paulcee.co.uk/blog/?tag=silver",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Beach Settings paul cee",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

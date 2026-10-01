@@ -1,0 +1,45 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/manticore-m8-vs-m9-coil.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/manticore-m8-vs-m9-coil.html",
+    "og": {
+      "title": "Manticore M8 Vs M9 Coil",
+      "description": "Minelab Manticore Search Coils which is the best the M8 coil or the M9 coil",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/manticore-m8-vs-m9-coil.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Manticore M9 Coil Depth",
+        "description": "how deep does the Minelab Manticore M9 Coil Detect, Is It any good",
+        "uploadDate": "2025-12-31T09:07:12+00:00",
+        "thumbnailUrl": "images/manticore_web_uf98vrfo.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=pGhQu_hRQWA",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Is the Minelab Manticore M8 Coil Good",
+        "description": "How good is the Minelab Manticore M8 Coil, and how cheap is it",
+        "uploadDate": "2025-12-31T09:10:18+00:00",
+        "thumbnailUrl": "images/minelab-2026.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=jG0-J_fj1wQ",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

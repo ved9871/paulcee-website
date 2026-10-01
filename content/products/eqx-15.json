@@ -1,0 +1,10 @@
+{
+  "key": "eqx-15",
+  "name": "Minelab Equinox 15\" coil",
+  "path": "/minelab-equinox-15inch-coil",
+  "cat": "coil",
+  "img": "/img/b-15inch-coil-review.webp",
+  "compare": [],
+  "match": "15[- ]?inch|15\"",
+  "order": 15
+}

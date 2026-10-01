@@ -1,0 +1,45 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/minelab-equinox.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/minelab-equinox.html",
+    "og": {
+      "title": "Minelab Equinox Series Review | 600, 700, 800 & 900 Comparison",
+      "description": "The complete guide to the Minelab Equinox. Compare the 600, 700, 800 and 900 models. Discover Multi-IQ technology and the best search coils for your detector",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/minelab-equinox.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "minelab equinox 900 Beach Metal Detecting",
+        "description": "how to set up and use the minelab equinox 900",
+        "uploadDate": "2025-12-30T18:31:22+00:00",
+        "thumbnailUrl": "images/eqx-900-beach_jpq52ehf.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=wmwskgU3xIs",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "minelab equinox iron bias explained",
+        "description": "minelab equinox iron bias explained with Minelab engineers",
+        "uploadDate": "2025-12-31T15:00:02+00:00",
+        "thumbnailUrl": "images/iron-bias-explained_2rp2xcqh.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=o6n_H_onH3o",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

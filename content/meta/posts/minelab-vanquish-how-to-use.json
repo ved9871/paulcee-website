@@ -1,0 +1,286 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-vanquish-how-to-use",
+  "author": "Paul Cee",
+  "category": "Minelab Vanquish Settings",
+  "categorySlug": "Minelab_Vanquish_Settings",
+  "readTime": 14,
+  "dateModified": "2025-06-08T19:02:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-vanquish-how-to-use",
+    "og": {
+      "title": "Minelab Vanquish how to use",
+      "description": "How to use a minelab vanquish, from beginner to pro, with all the settings you will need",
+      "image": "https://www.paulcee.co.uk/blog/files/learn-Vanquish_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-vanquish-how-to-use"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2025-06-08T19:02:00",
+        "dateModified": "2025-06-08T19:02:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab Vanquish how to use",
+        "description": "Learn how to use a minelab vanquish metal detector",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-vanquish-how-to-use",
+        "image": [
+          "https://www.paulcee.co.uk/images/vanquish-small.png",
+          "https://www.paulcee.co.uk/images/detexpert-logosml_l9aop9jz.png",
+          "https://www.paulcee.co.uk/images/CRAWFORDS-2024-White.png",
+          "https://www.paulcee.co.uk/images/VANQUISH-340-User-Interface-Gallery.jpg",
+          "https://www.paulcee.co.uk/images/vanquish-mutli-iq.jpg",
+          "https://www.paulcee.co.uk/images/340-sens.jpg",
+          "https://www.paulcee.co.uk/images/340-discrim.jpg",
+          "https://www.paulcee.co.uk/images/vanquish-discrim.jpg",
+          "https://www.paulcee.co.uk/images/vanquish-coinshoot.jpg",
+          "https://www.paulcee.co.uk/images/V8-01.jpg",
+          "https://www.paulcee.co.uk/images/GOPR0131.jpg",
+          "https://www.paulcee.co.uk/images/P1040957_a_rwwyufix.jpg",
+          "https://www.paulcee.co.uk/images/pro-find-40-image-web_49bjvii4.jpg",
+          "https://www.paulcee.co.uk/images/cmd-spades.jpg",
+          "https://www.paulcee.co.uk/images/finds-bag.jpg",
+          "https://www.paulcee.co.uk/images/cleaning-kit.jpg",
+          "https://www.paulcee.co.uk/images/finds-box.jpg",
+          "https://www.paulcee.co.uk/images/RNB-weight.png",
+          "https://www.paulcee.co.uk/images/vanq_simplex_vhqpcfgl.jpg",
+          "https://www.paulcee.co.uk/images/buster_gold.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD---Copy_9i98cpn7.jpg",
+          "https://www.paulcee.co.uk/images/cmd-gift-card-1_k4f7dsq4.jpg",
+          "https://www.paulcee.co.uk/images/ultimate-guide_web_sspgbtj7.jpg",
+          "https://www.paulcee.co.uk/images/vanquish-short_web_25ej7zi7.jpg",
+          "https://www.paulcee.co.uk/images/540-BT-headphones_web_v5rssx96.jpg",
+          "https://www.paulcee.co.uk/images/vanq_tutorials_sensitivity_web_07l82a27.jpg",
+          "https://www.paulcee.co.uk/images/vanq_tutorials_discrim_web.jpg",
+          "https://www.paulcee.co.uk/images/vanq_tutorials_pinpont_web.jpg",
+          "https://www.paulcee.co.uk/images/vanquish-battery_web_08yhipzx.jpg",
+          "https://www.paulcee.co.uk/blog/files/learn-Vanquish.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jun 2025",
+            "item": "https://www.paulcee.co.uk/blog/?month=202506",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish how to use",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Vanquish Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish how to use",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish how to use",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish how to use",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "vanquish",
+            "item": "https://www.paulcee.co.uk/blog/?tag=vanquish",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish how to use",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "tutorial",
+            "item": "https://www.paulcee.co.uk/blog/?tag=tutorial",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish how to use",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "help",
+            "item": "https://www.paulcee.co.uk/blog/?tag=help",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish how to use",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "settings",
+            "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Vanquish how to use",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

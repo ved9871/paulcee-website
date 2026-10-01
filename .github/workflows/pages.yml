@@ -2,7 +2,9 @@ name: Deploy preview to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, cms]
+  schedule:
+    - cron: '0 5 * * *'   # 06:00 UK summer time: publishes scheduled posts
   workflow_dispatch:
 
 permissions:
@@ -11,7 +13,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -22,6 +24,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
       - name: Build preview (noindex, ad placeholders)
         run: node src/build.mjs
         env:
@@ -31,9 +36,11 @@ jobs:
         env:
           BASE: /${{ github.event.repository.name }}/
       - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
         with:
           path: dist
   deploy:
+    if: github.ref == 'refs/heads/main'
     needs: build
     runs-on: ubuntu-latest
     environment:

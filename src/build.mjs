@@ -8,6 +8,9 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { ORIGIN, LINKS, DISCOUNT, NAV, HUBS, HOME, DISCLOSURE, TAGLINE, TOPICS } from './site.config.mjs';
 import { CMD, TRACKING, cmdUrl, LINK_MAP, PRODUCTS, SHOP_CATS, BRAND, YT } from './commerce.config.mjs';
+import { loadPages, loadPosts, loadEvents } from './content/load.mjs';
+import { withPlaylistTitles } from './content/videos.mjs';
+import { createImageResolver } from './content/images.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'dist');
@@ -20,9 +23,14 @@ const BLOG_SLOT = '5406186549';
 const read = p => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
 const IMAGES = read('content/images.json');
 const VID = read('content/videos.json');
-const pages = Object.fromEntries(fs.readdirSync(path.join(ROOT, 'content/pages')).map(f => { const r = read('content/pages/' + f); return [r.slug, r]; }));
-const posts = fs.readdirSync(path.join(ROOT, 'content/posts')).map(f => read('content/posts/' + f))
-  .sort((a, b) => (b.datePublished || '').localeCompare(a.datePublished || ''));
+const RES = createImageResolver(ROOT, IMAGES);
+// Content problems (unresolved images, unknown product keys, reserved slugs) fail the build after dist/ is written.
+const problems = [];
+const onProblem = (entry, msg) => problems.push(`${entry}: ${msg}`);
+const pages = loadPages(ROOT, { resolver: RES, onProblem });
+const posts = loadPosts(ROOT, { resolver: RES, now: new Date(), onProblem });
+for (const [kind, list] of [['pages', Object.values(pages)], ['posts', posts]]) for (const r of list) for (const b of r.blocks) if (b.t === 'product' && !PRODUCTS.some(p => p.key === b.key)) onProblem(`${kind}/${r.slug}`, `unknown product key "${b.key}"`);
+const EVENTS = loadEvents(ROOT, { today: new Date().toISOString().slice(0, 10) });
 const postBySlug = Object.fromEntries(posts.map(p => [p.slug, p]));
 
 // ---------- helpers ----------
@@ -32,12 +40,12 @@ const slugify = s => strip(s).toLowerCase().replace(/&/g, 'and').replace(/[^a-z0
 const url = p => BASE + String(p).replace(/^\//, '');
 const pageUrl = slug => slug === 'index' ? url('') : url(slug + '/');
 const img = (rel, alt = '', { cls = '', sizes = '', eager = false, maxw } = {}) => {
-  const m = IMAGES[rel]; if (!m) return '';
+  const m = RES.resolve(rel); if (!m) return '';
   const style = maxw ? ` style="max-width:min(100%,${maxw}px)"` : '';
   return `<img src="${url(m.file)}" alt="${esc(alt || m.alt || '')}" width="${m.w}" height="${m.h}"${cls ? ` class="${cls}"` : ''}${sizes ? ` sizes="${sizes}"` : ''} ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"${style}>`;
 };
 const fmtDate = d => d ? new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) : '';
-const topicOf = p => { const hay = `${p.category} ${p.title} ${p.slug}`; for (const [k, label, re] of TOPICS) if (re.test(hay)) return { key: k, label }; return { key: 'detecting', label: 'Detecting' }; };
+const topicOf = p => { if (p.topicKey) { const t = TOPICS.find(([k]) => k === p.topicKey); if (t) return { key: t[0], label: t[1] }; if (p.topicKey === 'detecting') return { key: 'detecting', label: 'Detecting' }; } const hay = `${p.category} ${p.title} ${p.slug}`; for (const [k, label, re] of TOPICS) if (re.test(hay)) return { key: k, label }; return { key: 'detecting', label: 'Detecting' }; };
 posts.forEach(p => { p.topic = topicOf(p); });
 const TOPIC_LIST = [...TOPICS.map(([k, l]) => ({ key: k, label: l })), { key: 'detecting', label: 'Detecting' }].filter(t => posts.some(p => p.topic.key === t.key));
 const fixOrigin = s => String(s).replace(/https?:\/\/192\.168\.\d+\.\d+(:\d+)?\//g, ORIGIN + '/').replace(/"(thumbnailUrl|url)":"(images\/[^"]+)"/g, `"$1":"${ORIGIN}/$2"`);
@@ -65,6 +73,7 @@ function links(html) {
       if (href.startsWith('@asset:')) { const a = href.slice(7); h = IMAGES[a] ? url(IMAGES[a].file) : `${ORIGIN}/${a}`; }
       else if (href.startsWith('@blog/')) { const s = href.slice(6).replace(/\/$/, ''); h = !s ? url('blog/') : postBySlug[s] ? url(`blog/${s}/`) : `${ORIGIN}/blog/?${s}`; }
       else if (href.startsWith('@')) { const [s, hash = ''] = href.slice(1).split('#'); const sl = s.replace(/\/$/, '') || 'index'; h = pages[sl] ? pageUrl(sl) + (hash ? '#' + hash : '') : `${ORIGIN}/${sl}.html`; }
+      else if (href.startsWith('/')) { h = url(href); }
       else { const c = crawfords(href); if (c) { if (c !== href) rewrote++; h = c; kind = 'affiliate'; affCount++; } }
       if (kind === 'affiliate') { rel = ' rel="sponsored noopener"'; tgt = ' target="_blank"'; }
       else if (kind === 'external') { rel = ' rel="noopener"'; tgt = ' target="_blank"'; }
@@ -81,8 +90,7 @@ const ad = (slot, label = 'In-content') => PROD
   : `<aside class="ad ad--preview" aria-label="Advertisement placeholder"><span class="mono">AdSense · ${esc(label)}</span><span>${slot ? `Slot ${slot} — preserved from current site` : 'Auto-ads position'}</span></aside>`;
 
 // ---------- videos ----------
-const PL = Object.fromEntries(VID.playlists.map(p => [p.id, p]));
-const videos = VID.videos.map(v => ({ ...v, plTitles: v.playlists.map(id => PL[id]?.title || '') }));
+const videos = withPlaylistTitles(VID.videos, VID.playlists);
 const groupOf = v => YT.groups.find(g => g.re.test(v.title) || v.plTitles.some(t => g.re.test(t))) || YT.groups[YT.groups.length - 1];
 videos.forEach(v => { v.group = groupOf(v).key; });
 const recent = videos.filter(v => v.recent != null).sort((a, b) => a.recent - b.recent);
@@ -92,10 +100,10 @@ const vidCard = v => `<article class="vid">${video(v.id, '', v.dur)}<div class="
 // ---------- products ----------
 const productsFor = (text, n = 3) => { const hits = PRODUCTS.filter(p => p.re.test(text)); const det = hits.filter(p => p.cat === 'detector'); return [...det, ...hits.filter(p => p.cat !== 'detector')].slice(0, n); };
 const dealer = () => `<div class="dealer">${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors')}<span><strong>Where Paul buys</strong>Authorised Minelab dealer · UK stock</span></div>`;
-const productBox = (p, wide = false) => `<div class="product${wide ? ' product--wide' : ''}"><div>${p.img && IMAGES[p.img] ? img(p.img, p.name, { cls: 'product__img' }) : '<div class="product__img"></div>'}</div><div><p class="mono product__k">Buy at Crawfords MD</p><p class="product__name">${esc(p.name)}</p><a class="btn btn--buy btn--sm" href="${cmdUrl(p.path)}" rel="sponsored noopener" target="_blank">Check price &amp; stock ${icon.ext}</a>${p.compare ? `<ul class="product__compare"><span class="mono">Compare at Crawfords</span>${p.compare.map(([u, l]) => `<li><a href="${cmdUrl(u)}" rel="sponsored noopener" target="_blank">${esc(l)}</a></li>`).join('')}</ul>` : ''}</div></div>`;
+const productBox = (p, wide = false) => `<div class="product${wide ? ' product--wide' : ''}"><div>${p.img && RES.resolve(p.img) ? img(p.img, p.name, { cls: 'product__img' }) : '<div class="product__img"></div>'}</div><div><p class="mono product__k">Buy at Crawfords MD</p><p class="product__name">${esc(p.name)}</p><a class="btn btn--buy btn--sm" href="${cmdUrl(p.path)}" rel="sponsored noopener" target="_blank">Check price &amp; stock ${icon.ext}</a>${p.compare ? `<ul class="product__compare"><span class="mono">Compare at Crawfords</span>${p.compare.map(([u, l]) => `<li><a href="${cmdUrl(u)}" rel="sponsored noopener" target="_blank">${esc(l)}</a></li>`).join('')}</ul>` : ''}</div></div>`;
 const buyAside = (text, fallbackHref) => {
   const ps = productsFor(text, 1);
-  return `<div class="side-card side-card--buy">${dealer()}${ps.length ? ps.map(p => productBox(p)).join('') : `<a class="btn btn--buy btn--block" href="${fallbackHref || cmdUrl('/metal-detectors/minelab')}" rel="sponsored noopener" target="_blank">Shop Minelab at Crawfords ${icon.ext}</a>`}<p class="side-card__code">Accessories code <button type="button" class="code" data-copy="${DISCOUNT.code}">${DISCOUNT.code}</button></p></div>`;
+  return `<div class="side-card side-card--buy">${dealer()}${ps.length ? ps.map(p => productBox(p)).join('') : `<a class="btn btn--buy btn--block" href="${fallbackHref || cmdUrl('/metal-detectors/minelab')}" rel="sponsored noopener" target="_blank">Shop Minelab at Crawfords ${icon.ext}</a>`}<p class="side-card__code">Accessories code <button type="button" class="code" data-copy="${esc(DISCOUNT.code)}">${esc(DISCOUNT.code)}</button></p></div>`;
 };
 
 // Photos of Paul used through the site (see docs/PHOTOS.md)
@@ -153,14 +161,14 @@ function footer() {
   const cols = NAV.filter(n => n.groups).slice(0, 3).map(n => `<div><p class="footer__h mono">${n.label}</p><ul>${n.groups.flatMap(g => g.items).slice(0, 7).map(([s, l]) => `<li><a href="${pageUrl(s)}">${l}</a></li>`).join('')}</ul></div>`).join('');
   return `<footer class="site-footer">
   <div class="wrap">
-    <div class="discount"><div class="discount__brand">${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo-chip' })}<div><p class="mono discount__k">Reader discount</p><p class="discount__h">Save on accessories at ${DISCOUNT.where} with code <button type="button" class="code" data-copy="${DISCOUNT.code}" aria-label="Copy code ${DISCOUNT.code}">${DISCOUNT.code}</button></p><p class="discount__t">${DISCOUNT.terms}</p></div></div><a class="btn btn--buy" href="${cmdUrl('/')}" rel="sponsored noopener" target="_blank">Shop at Crawfords MD ${icon.ext}</a></div>
+    <div class="discount"><div class="discount__brand">${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo-chip' })}<div><p class="mono discount__k">Reader discount</p><p class="discount__h">Save on accessories at ${esc(DISCOUNT.where)} with code <button type="button" class="code" data-copy="${esc(DISCOUNT.code)}" aria-label="Copy code ${esc(DISCOUNT.code)}">${esc(DISCOUNT.code)}</button></p><p class="discount__t">${esc(DISCOUNT.terms)}</p></div></div><a class="btn btn--buy" href="${cmdUrl('/')}" rel="sponsored noopener" target="_blank">Shop at Crawfords MD ${icon.ext}</a></div>
     <div class="footer__grid">
-      <div class="footer__brand"><a class="brand brand--footer" href="${url('')}"><span class="brand__mark" aria-hidden="true">PC</span><span class="brand__text"><span class="brand__name">Paul Cee</span><span class="brand__sub mono">Minelab Detexpert</span></span></a><p class="footer__tag">${TAGLINE}</p><p>Official Minelab Detexpert and Crawfords Metal Detectors ambassador, sharing settings, reviews and finds from UK beaches and fields.</p>
+      <div class="footer__brand"><a class="brand brand--footer" href="${url('')}"><span class="brand__mark" aria-hidden="true">PC</span><span class="brand__text"><span class="brand__name">Paul Cee</span><span class="brand__sub mono">Minelab Detexpert</span></span></a><p class="footer__tag">${esc(TAGLINE)}</p><p>Official Minelab Detexpert and Crawfords Metal Detectors ambassador, sharing settings, reviews and finds from UK beaches and fields.</p>
       <p class="footer__social"><a href="${YT.subscribeUrl}" rel="noopener" target="_blank">${icon.yt} YouTube</a> <a href="${url('videos/')}">Videos</a> <a href="${pageUrl('social-sites')}">Newsletter</a> <a href="${pageUrl('contact')}">Contact</a></p>
       <div class="footer__partners">${img(BRAND.minelab, 'Minelab', { cls: 'logo--light' })}${img(BRAND.detexpertShield, 'Minelab Detexpert')}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--light' })}${img(BRAND.coiltek, 'Coiltek', { cls: 'logo--light' })}</div></div>
       ${cols}
     </div>
-    <p class="footer__disclosure"><strong>Affiliate disclosure.</strong> ${DISCLOSURE}</p>
+    <p class="footer__disclosure"><strong>Affiliate disclosure.</strong> ${esc(DISCLOSURE)}</p>
     <div class="footer__legal"><span>© ${new Date().getFullYear()} Paul Cee Metal Detecting · Loxley Media</span><span><a href="${pageUrl('privacy')}">Privacy &amp; cookies</a> · <a href="${pageUrl('links')}">Useful links</a> · <a href="${url('blog/')}">Blog</a></span></div>
   </div>
 </footer>`;
@@ -200,7 +208,7 @@ function doc(opts, body, active) {
 const crumbs = items => `<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="${url('')}">Home</a></li>${items.map(([h, l], i) => i === items.length - 1 ? `<li aria-current="page">${esc(l)}</li>` : `<li><a href="${h}">${esc(l)}</a></li>`).join('')}</ol></nav>`;
 
 const postCard = (p, { size = '' } = {}) => {
-  const cover = p.cover && IMAGES[p.cover] ? img(p.cover, p.title, { cls: 'card__img' }) : p.heroVideo ? `<img class="card__img" src="${ytThumb(p.heroVideo)}" alt="" loading="lazy" width="480" height="360">` : `<div class="card__img card__img--blank" aria-hidden="true"><span class="mono">${esc(p.topic.label)}</span></div>`;
+  const cover = p.cover && RES.resolve(p.cover) ? img(p.cover, p.title, { cls: 'card__img' }) : p.heroVideo ? `<img class="card__img" src="${ytThumb(p.heroVideo)}" alt="" loading="lazy" width="480" height="360">` : `<div class="card__img card__img--blank" aria-hidden="true"><span class="mono">${esc(p.topic.label)}</span></div>`;
   return `<article class="card ${size}" data-topic="${p.topic.key}"><a class="card__link" href="${url(`blog/${p.slug}/`)}"><div class="card__media">${cover}${p.heroVideo ? '<span class="badge badge--video">Video</span>' : ''}</div><div class="card__body"><p class="card__meta mono">${esc(p.topic.label)} · ${fmtDate(p.datePublished)}</p><h3 class="card__title">${esc(p.title)}</h3>${size === 'card--lg' ? `<p class="card__excerpt">${esc(strip(p.summary).slice(0, 160))}</p>` : ''}</div></a></article>`;
 };
 
@@ -208,6 +216,18 @@ function watchSection(re, heading, groupKey) {
   const vs = vidsFor(re, 4); if (vs.length < 2) return '';
   return `<section class="watch" aria-labelledby="watch-h"><div class="wrap"><div class="section__head section__head--row"><div><p class="eyebrow mono">On YouTube</p><h2 id="watch-h">${esc(heading)}</h2></div><a class="btn btn--ghost" href="${url('videos/')}#${groupKey}">All videos ${icon.arrow}</a></div><div class="vids">${vs.map(vidCard).join('')}</div></div></section>`;
 }
+
+const fmtRange = e => { const s = fmtDate(e.start), en = e.end && e.end !== e.start ? fmtDate(e.end) : ''; return en ? `${s} – ${en}` : s; };
+// Event links: only http(s) and mailto; Crawfords links get the tracking ID and are marked sponsored.
+const eventLink = link => {
+  const s = String(link || '').trim();
+  if (/^mailto:/i.test(s)) return `<a class="btn btn--sm" href="${esc(s)}">Details &amp; tickets ${icon.ext}</a>`;
+  if (!/^https?:\/\//i.test(s)) return '';
+  const c = crawfords(s);
+  return `<a class="btn btn--sm" href="${esc(c || s)}" rel="${c ? 'sponsored noopener' : 'noopener'}" target="_blank">Details &amp; tickets ${icon.ext}</a>`;
+};
+const eventCard = e => `<article class="event">${e.image ? img(e.image, e.name, { cls: 'event__img' }) : ''}<div class="event__body"><p class="mono event__date">${esc(fmtRange(e))}${e.venue ? ` · ${esc(e.venue)}` : ''}</p><h3 class="event__name">${esc(e.name)}</h3>${e.description ? `<p>${esc(strip(e.description).slice(0, 220))}</p>` : ''}${eventLink(e.link)}</div></article>`;
+const eventsBlock = () => EVENTS.upcoming.length ? `<section class="events" aria-labelledby="ev-h"><h2 id="ev-h">Upcoming rallies &amp; events</h2><div class="events__list">${EVENTS.upcoming.map(eventCard).join('')}</div></section>` : '';
 
 // ---------- pages ----------
 function writeFile(rel, html) { const f = path.join(DIST, rel); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, html); }
@@ -220,8 +240,8 @@ function renderHome() {
 <section class="hero"><div class="hero__bg" aria-hidden="true"></div><div class="wrap hero__grid">
   <div class="hero__copy">
     <div class="hero__badges"><span class="detexpert">${img(BRAND.detexpertShield, '')}<span><span class="mono">Official</span>Minelab Detexpert &amp; field tester</span></span><span class="detexpert">${img(BRAND.crawfordsBlue, '', { cls: 'badge-logo' })}<span><span class="mono">Ambassador</span>Crawfords Metal Detectors</span></span></div>
-    <h1 class="hero__h1">${HOME.h1}</h1>
-    <p class="hero__sub">${HOME.sub}</p>
+    <h1 class="hero__h1">${esc(HOME.h1)}</h1>
+    <p class="hero__sub">${esc(HOME.sub)}</p>
     <div class="hero__ctas"><a class="btn btn--lg" href="#detectors">${HOME.primary[1]} ${icon.arrow}</a><a class="btn btn--ghost btn--lg" href="${url('videos/')}">${icon.yt} Watch the tutorials</a></div>
     <dl class="proof"><div><dt>${YT.stats.views}</dt><dd>YouTube views</dd></div><div><dt>${YT.stats.videos}</dt><dd>detecting videos</dd></div><div><dt>${posts.length}</dt><dd>articles &amp; field reports</dd></div></dl>
   </div>
@@ -251,7 +271,7 @@ function renderHome() {
 <section class="section shop" id="shop" aria-labelledby="shop-h"><div class="wrap">
   <div class="shop__head"><div><p class="eyebrow mono">Where Paul buys his gear</p><h2 id="shop-h">Shop Paul’s recommendations at Crawfords Metal Detectors</h2><p>Authorised Minelab dealer with UK stock, expert advice and free delivery over £50. Every link below carries Paul’s recommendation — and his reader discount on accessories.</p></div>${'<span class="shop__logo">' + img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors') + '</span>'}</div>
   <div class="shop__grid">${SHOP_CATS.map(c => `<div class="shop-tile"><h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><div class="shop-tile__links"><a class="btn btn--white btn--sm" href="${cmdUrl(c.path)}" rel="sponsored noopener" target="_blank">Shop at Crawfords ${icon.ext}</a>${pages[c.guide] ? `<a class="shop-tile__guide" href="${pageUrl(c.guide)}">Paul’s guide →</a>` : ''}</div></div>`).join('')}</div>
-  <p class="shop__code">Use code <button type="button" class="code" data-copy="${DISCOUNT.code}">${DISCOUNT.code}</button> at checkout for a discount on accessories. ${DISCOUNT.terms}</p>
+  <p class="shop__code">Use code <button type="button" class="code" data-copy="${esc(DISCOUNT.code)}">${esc(DISCOUNT.code)}</button> at checkout for a discount on accessories. ${esc(DISCOUNT.terms)}</p>
 </div></section>
 
 <section class="section" aria-labelledby="start-h"><div class="wrap">
@@ -269,6 +289,7 @@ function renderHome() {
 <section class="section section--dark" aria-labelledby="rally-h"><div class="wrap split split--rev">
   <figure class="rally-photo">${img('images/DSC00062-copy.jpg', 'Paul Cee helping a detectorist with settings at a metal detecting rally')}</figure>
   <div><p class="eyebrow mono">Rallies &amp; events</p><h2 id="rally-h">Come and find Paul at a rally</h2><p>Through the rally season Paul sets up test lanes at digs across the UK and Europe — bring your detector, try the latest Minelab machines, and get your settings checked in person.</p>
+  ${EVENTS.upcoming.length ? `<ul class="ticks">${EVENTS.upcoming.slice(0, 3).map(e => `<li><strong>${esc(fmtRange(e))}</strong>&nbsp;${esc(e.name)}${e.venue ? `, ${esc(e.venue)}` : ''}</li>`).join('')}</ul>` : ''}
   <ul class="ticks"><li><a href="${pageUrl('detecting-rallies-2026')}">Detecting rallies 2026 — updated weekly</a></li><li><a href="${pageUrl('minelab-500-rally')}">The Minelab 500 Rally</a></li><li><a href="${pageUrl('detectival')}">Detectival</a></li></ul>
   <div class="newsletter"><h3>${HOME.newsletter.heading}</h3><p>${HOME.newsletter.body}</p><a class="btn btn--ghost" href="${LINKS.newsletter}" rel="sponsored noopener" target="_blank">Join the Crawfords mailing list ${icon.ext}</a></div></div>
 </div></section>`;
@@ -310,7 +331,7 @@ function renderPage(r) {
   ${r.affiliateLinks.length || gear.length ? `<p class="disclosure-inline"><span class="mono">Affiliate links</span> Product links go to Crawfords Metal Detectors and carry Paul’s affiliate code — <a href="#disclosure">learn more</a>.</p>` : ''}
 </div></div>
 <div class="wrap layout">
-  <article class="prose">${content}${r.slug === 'about-us' ? gallery() : ''}
+  <article class="prose">${r.slug === 'detecting-rallies-2026' ? eventsBlock() : ''}${content}${r.slug === 'about-us' ? gallery() : ''}
     ${gear.length ? `<div class="gear-strip"><h2>Gear in this guide — buy at Crawfords MD</h2><div class="gear-strip__grid">${gear.map(p => productBox(p)).join('')}</div></div>` : ''}
   </article>
   <aside class="sidebar">
@@ -348,6 +369,8 @@ function renderBlocks(blocks, { toc = [], adEvery = 0 } = {}) {
       case 'video': out += video(b.id, b.title); break;
       case 'embed': out += `<div class="embed"><iframe src="${esc(b.src)}" loading="lazy" title="Embedded form" height="${Math.min(+b.height || 600, 1200)}"></iframe></div>`; break;
       case 'ad': out += ad(b.slot); break;
+      case 'raw': out += links(b.html); break;
+      case 'product': { const pr = PRODUCTS.find(x => x.key === b.key); if (pr) out += productBox(pr, true); break; }
       case 'contactform': out += contactForm(); break;
     }
   }
@@ -429,6 +452,13 @@ posts.forEach(renderPost);
 renderBlogIndex(posts);
 TOPIC_LIST.forEach(t => renderBlogIndex(posts.filter(p => p.topic.key === t.key), { topic: t }));
 
+// CMS admin (Sveltia): templated with the site URL and the current product list
+const siteUrl = process.env.SITE_URL || (process.env.CNAME ? `https://${process.env.CNAME}` : BASE === '/' ? 'http://localhost:4173' : `https://ved9871.github.io${BASE.replace(/\/$/, '')}`);
+fs.mkdirSync(path.join(DIST, 'admin'), { recursive: true });
+fs.copyFileSync(path.join(ROOT, 'src/admin/index.html'), path.join(DIST, 'admin/index.html'));
+fs.writeFileSync(path.join(DIST, 'admin/config.yml'), fs.readFileSync(path.join(ROOT, 'src/admin/config.yml'), 'utf8').replaceAll('__SITE_URL__', siteUrl));
+fs.writeFileSync(path.join(DIST, 'admin/components.js'), fs.readFileSync(path.join(ROOT, 'src/admin/components.js'), 'utf8').replace('/*__PRODUCT_OPTIONS__*/[]', JSON.stringify(PRODUCTS.map(p => ({ label: p.name, value: p.key })))));
+
 // search index (guides, posts, videos)
 const search = [
   ...Object.values(pages).filter(r => r.slug !== 'index').map(r => ({ t: r.h1 || strip(r.seo.title), u: pageUrl(r.slug), k: 'Guide' })),
@@ -454,3 +484,5 @@ const prodRows = [['product', 'crawfords_url', 'category'], ...PRODUCTS.map(p =>
 fs.writeFileSync(path.join(ROOT, 'docs/crawfords-product-links.csv'), prodRows.map(r => r.map(c => `"${c}"`).join(',')).join('\n'));
 
 console.log(`Built ${Object.keys(pages).length} pages, ${posts.length} posts, ${TOPIC_LIST.length} topics, ${videos.length} videos → dist/ (BASE=${BASE}, ${PROD ? 'production' : 'preview'}) · Crawfords links: ${affCount} (${rewrote} normalised to tracking)`);
+for (const p of problems) console.error(`CONTENT-ERROR ${p}`);
+if (problems.length) process.exitCode = 1;

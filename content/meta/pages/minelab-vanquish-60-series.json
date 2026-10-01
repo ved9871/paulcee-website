@@ -1,0 +1,45 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/minelab-vanquish-60-series.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/minelab-vanquish-60-series.html",
+    "og": {
+      "title": "Minelab Vanquish 60 series",
+      "description": "Discover metal detecting with the Minelab Vanquish 60 series! The waterproof detector is ideal for beginners, featuring user-friendly options and performance.",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/minelab-vanquish-60-series.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "how good is the new minelab vanquish 560",
+        "description": "how good is the new minelab vanquish 560",
+        "uploadDate": "2025-12-24T13:39:55+00:00",
+        "thumbnailUrl": "images/560-beach_pw4a72lq.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=nrMw2oEBDyQ",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "minelab vanquish 60 series to buy",
+        "description": "when is the minelab vanquish 60 series available to buy",
+        "uploadDate": "2025-12-24T13:44:26+00:00",
+        "thumbnailUrl": "images/560-web_rucci05s.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=2blmefyIcgo",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

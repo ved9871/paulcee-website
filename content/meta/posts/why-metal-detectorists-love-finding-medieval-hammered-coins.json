@@ -1,0 +1,551 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?why-metal-detectorists-love-finding-medieval-hammered-coins",
+  "author": "Paul Cee",
+  "category": "metal detecting finds",
+  "categorySlug": "metal_detecting_finds",
+  "readTime": 9,
+  "dateModified": "2026-08-31T14:24:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?why-metal-detectorists-love-finding-medieval-hammered-coins",
+    "og": {
+      "title": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+      "description": "Discover why medieval hammered silver coins (hammies) are the ultimate prize for metal detectorists—from sterling silver preservation to historical mystery.",
+      "image": "https://www.paulcee.co.uk/blog/files/hammered-coin-blog_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?why-metal-detectorists-love-finding-medieval-hammered-coins"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2026-08-31T14:24:00",
+        "dateModified": "2026-08-31T14:24:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+        "description": "Discover why medieval hammered silver coins (hammies) are the ultimate prize for metal detectorists—from sterling silver preservation to historical mystery.",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?why-metal-detectorists-love-finding-medieval-hammered-coins",
+        "image": [
+          "https://www.paulcee.co.uk/images/hammie--id.jpg",
+          "https://www.paulcee.co.uk/images/mint-marks.jpg",
+          "https://www.paulcee.co.uk/images/short-cross.jpg",
+          "https://www.paulcee.co.uk/images/short-cross-id.jpg",
+          "https://www.paulcee.co.uk/images/squirter_mw1xznko.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD2026.jpg",
+          "https://www.paulcee.co.uk/blog/files/hammered-coin-blog.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Aug 2026",
+            "item": "https://www.paulcee.co.uk/blog/?month=202608",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal detecting finds",
+            "item": "https://www.paulcee.co.uk/blog/?category=metal detecting finds",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "hammered",
+            "item": "https://www.paulcee.co.uk/blog/?tag=hammered",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "silver",
+            "item": "https://www.paulcee.co.uk/blog/?tag=silver",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Edward",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Edward",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "I",
+            "item": "https://www.paulcee.co.uk/blog/?tag=I",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "penny",
+            "item": "https://www.paulcee.co.uk/blog/?tag=penny",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "cut",
+            "item": "https://www.paulcee.co.uk/blog/?tag=cut",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "halfpenny",
+            "item": "https://www.paulcee.co.uk/blog/?tag=halfpenny",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "finds",
+            "item": "https://www.paulcee.co.uk/blog/?tag=finds",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "hammered",
+            "item": "https://www.paulcee.co.uk/blog/?tag=hammered",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "coin",
+            "item": "https://www.paulcee.co.uk/blog/?tag=coin",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "ID",
+            "item": "https://www.paulcee.co.uk/blog/?tag=ID",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "PAS",
+            "item": "https://www.paulcee.co.uk/blog/?tag=PAS",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "scheme",
+            "item": "https://www.paulcee.co.uk/blog/?tag=scheme",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "permissions",
+            "item": "https://www.paulcee.co.uk/blog/?tag=permissions",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Why Metal Detectorists Love Finding Medieval Hammered Coins",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

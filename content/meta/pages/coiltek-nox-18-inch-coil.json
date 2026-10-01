@@ -1,0 +1,36 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/coiltek-nox-18-inch-coil.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/coiltek-nox-18-inch-coil.html",
+    "og": {
+      "title": "Coiltek Nox 18 inch coil",
+      "description": "Coilteks biggest search coil for the Minelab Equinox and X-Terra Pro detectors the NOX 18, waterproof to 5 Mtr, deep search coil with fantastic ground coverage",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/coiltek-nox-18-inch-coil.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "coiltek nox 18 coil",
+        "description": "the newest and largest search coil for the Minelab Equinox and X-Terra Pro, this is made by Coiltek and Endorsed by minelab, buy from crawfords metal detectors",
+        "uploadDate": "2023-12-03T16:42:07+00:00",
+        "thumbnailUrl": "images/coiltek-nox-18a_gvgrlxvo.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=Frvw6TdHhCg",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

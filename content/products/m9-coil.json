@@ -1,0 +1,10 @@
+{
+  "key": "m9-coil",
+  "name": "Minelab M9 coil",
+  "path": "/minelab-m9",
+  "cat": "coil",
+  "img": "/img/m9-web.webp",
+  "compare": [],
+  "match": "\\bm9\\b",
+  "order": 10
+}

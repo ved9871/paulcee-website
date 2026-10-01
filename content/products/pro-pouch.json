@@ -1,0 +1,10 @@
+{
+  "key": "pro-pouch",
+  "name": "CMD Pro finds pouch",
+  "path": "/cmd-pro-pouch",
+  "cat": "accessory",
+  "img": "/img/cmd-pouch.webp",
+  "compare": [],
+  "match": "pouch",
+  "order": 22
+}

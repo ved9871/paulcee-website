@@ -1,0 +1,45 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/detectival.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/detectival.html",
+    "og": {
+      "title": "Detectival",
+      "description": "Metal Detecting Rally DETECTIVAL",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/detectival.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "hambledon hoard LIVE",
+        "description": "finding the hamblendon hoard, a hoard of gold and silver hammered coins",
+        "uploadDate": "2023-11-11T20:20:53+00:00",
+        "thumbnailUrl": "images/hoard1_yz3s0ooy.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=vauNSRHsiMk",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "hambledon hoard at detectival",
+        "description": "Detectival metal detecting rally has produced some amazing finds including the HAMBLEDON HOARD of gold and silver coins",
+        "uploadDate": "2023-11-11T20:24:04+00:00",
+        "thumbnailUrl": "images/hoard_4_q3q7bear.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=49lbEIUvU3c",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

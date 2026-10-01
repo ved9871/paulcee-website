@@ -1,0 +1,354 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-900-setting-up",
+  "author": "Paul Cee",
+  "category": "Minelab Equinox 900 settings",
+  "categorySlug": "Minelab_Equinox_900_settings",
+  "readTime": 2,
+  "dateModified": "2023-01-29T18:50:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?equinox-900-setting-up",
+    "og": {
+      "title": "equinox 900 setting up",
+      "description": "setting up a Minelab Equinox 900, for metal detecting, looking at the function of the buttons and what they do, and how to change settings.",
+      "image": "https://www.paulcee.co.uk/blog/files/eqx-900-buttons_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?equinox-900-setting-up"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2023-01-29T18:50:00",
+        "dateModified": "2023-01-29T18:50:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "equinox 900 setting up",
+        "description": "In this post, we'll be talking about the buttons on the Minelab equinox 900 metal detector. We'll go over how to properly set up your detector for the best results. So, if you're a metal detecting enthusiast in the UK, keep reading!",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?equinox-900-setting-up",
+        "image": [
+          "https://www.paulcee.co.uk/images/eqx-900-buttons.jpg",
+          "https://www.paulcee.co.uk/blog/files/eqx-900-buttons.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2023",
+            "item": "https://www.paulcee.co.uk/blog/?month=202301",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox 900 settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox 900 settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Metal",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Metal",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "UK",
+            "item": "https://www.paulcee.co.uk/blog/?tag=UK",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Equinox",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Equinox",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "900",
+            "item": "https://www.paulcee.co.uk/blog/?tag=900",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Setting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Setting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Up",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Up",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Buttons.",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Buttons.",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "equinox 900 setting up",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

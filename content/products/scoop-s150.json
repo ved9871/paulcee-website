@@ -1,0 +1,10 @@
+{
+  "key": "scoop-s150",
+  "name": "Emite-R S150 sand scoop",
+  "path": "/sandscoop-s150",
+  "cat": "digging",
+  "img": "/img/emiter-scoop.webp",
+  "compare": [],
+  "match": "scoop|emite",
+  "order": 21
+}

@@ -1,0 +1,36 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/emite-r-sand-scoops.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/emite-r-sand-scoops.html",
+    "og": {
+      "title": "Emite R Sand Scoops",
+      "description": "Emite R sand scoops for beach metal detecting, cheap sand scoops for beach metal detecting in the UK",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/emite-r-sand-scoops.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "EmiteR sand scoops from Crawfords metal detectors",
+        "description": "Budget sand scoops from EmiteR and Crawfords metal detectors based in lincolnshire and Dorset",
+        "uploadDate": "2023-11-11T19:26:21+00:00",
+        "thumbnailUrl": "images/emite-r-scoops_vxqh8k6w.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=5-17EpIFG0M",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

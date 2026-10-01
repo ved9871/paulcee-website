@@ -1,0 +1,139 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?cut-hammered-coins",
+  "author": "David Wallace",
+  "category": "Minelab Equinox Settings",
+  "categorySlug": "Minelab_Equinox_Settings",
+  "readTime": 1,
+  "dateModified": "2019-09-04T19:10:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?cut-hammered-coins",
+    "og": {
+      "title": "Cut Hammered coins",
+      "description": "find very small cur hammered silver coins with a minelab equinox and the correct settings for where you are detecting, not beach to land settings",
+      "image": "https://www.paulcee.co.uk/blog/files/P9020284_a_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?cut-hammered-coins"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2019-09-04T19:10:00",
+        "dateModified": "2019-09-04T19:10:00",
+        "author": {
+          "@type": "Person",
+          "name": "David Wallace"
+        },
+        "headline": "Cut Hammered coins",
+        "description": "cut 1/4 hammered and Roman coins found metal detecting with the Equinox 800\n",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?cut-hammered-coins",
+        "image": [
+          "https://www.paulcee.co.uk/images/YT-thumb_2020_yoz5yje9.png",
+          "https://www.paulcee.co.uk/images/detexpert-logosml_mqph5bcu.png",
+          "https://www.paulcee.co.uk/blog/files/P9020284_a.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Sep 2019",
+            "item": "https://www.paulcee.co.uk/blog/?month=201909",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Cut Hammered coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Equinox Settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Equinox Settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Cut Hammered coins",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "David Wallace",
+            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Cut Hammered coins",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

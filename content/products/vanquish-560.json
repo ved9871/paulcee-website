@@ -1,0 +1,15 @@
+{
+  "key": "vanquish-560",
+  "name": "Minelab Vanquish 560 Pro",
+  "path": "/minelab-vanquish-560-pro",
+  "cat": "detector",
+  "img": "/img/560-web1_cr16wx23.webp",
+  "compare": [
+    {
+      "path": "/blog/first-look-at-the-new-minelab-vanquish-560",
+      "label": "First look: Vanquish 560"
+    }
+  ],
+  "match": "vanquish.?(560|60|460|360)|60 series",
+  "order": 3
+}

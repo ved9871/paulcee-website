@@ -1,0 +1,10 @@
+{
+  "key": "pro-find-40",
+  "name": "Minelab Pro-Find 40 pinpointer",
+  "path": "/minelab-pro-find-40",
+  "cat": "pinpointer",
+  "img": "/img/pro-find-40-image-web_49bjvii4.webp",
+  "compare": [],
+  "match": "pro-?\\s?find|pinpoint",
+  "order": 9
+}

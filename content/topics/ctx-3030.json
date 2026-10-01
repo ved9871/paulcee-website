@@ -1,0 +1,7 @@
+{
+  "key": "ctx-3030",
+  "label": "CTX 3030 & other machines",
+  "description": "",
+  "match": "ctx|etrac|gpx|deus|garrett|seahunter|atx|go-?find|evo 6000|c-scope|pro-?find",
+  "order": 5
+}

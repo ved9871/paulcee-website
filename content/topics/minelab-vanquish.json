@@ -1,0 +1,7 @@
+{
+  "key": "minelab-vanquish",
+  "label": "Minelab Vanquish",
+  "description": "",
+  "match": "vanquish|simplex",
+  "order": 3
+}

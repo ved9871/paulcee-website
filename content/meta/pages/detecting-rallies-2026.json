@@ -1,0 +1,36 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/detecting-rallies-2026.php",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/detecting-rallies-2026.html",
+    "og": {
+      "title": "Metal Detecting Rallies 2026 | UK & World Events Guide",
+      "description": "Discover the best Metal Detecting Rallies for 2026 in the UK and worldwide. Get the latest dates for major events like the Minelab 500, list your event for free",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/detecting-rallies-2026.php"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "Metal detecting rally 2026",
+        "description": "Looking for a Metal Detecting Rally in 2026? Browse our ultimate guide to upcoming detecting weekends, treasure hunts, and camping events. Find a rally near you",
+        "uploadDate": "2023-11-11T20:38:50+00:00",
+        "thumbnailUrl": "images/ultimate-guide_web_v9yykro1.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=syIbMDl9ZiA",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

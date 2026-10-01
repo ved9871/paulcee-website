@@ -1,0 +1,154 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?metal-detector-large-case",
+  "author": "Paul Cee",
+  "category": "crawfords metal detectors",
+  "categorySlug": "crawfords_metal_detectors",
+  "readTime": 2,
+  "dateModified": "2024-01-02T11:15:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?metal-detector-large-case",
+    "og": {
+      "title": "metal detector large case",
+      "description": "Large case for metal detectors, manticore, minelab Equinox 900 and other brands, your detecting accessories fit in this big bag. water resistant 600D polyester.",
+      "image": "https://www.paulcee.co.uk/blog/files/cmd-case_900_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?metal-detector-large-case"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2024-01-02T11:15:00",
+        "dateModified": "2024-01-02T11:15:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "metal detector large case",
+        "description": "CMD LARGE Detector carry case",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?metal-detector-large-case",
+        "image": [
+          "https://www.paulcee.co.uk/images/cmd-case_900.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_manti_coils.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_headphones.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_molle.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_shoulder-straps.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_size.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_900_1trt3ajd.jpg",
+          "https://www.paulcee.co.uk/images/wm09a.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_manti_coils_zi8e3qck.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_headphones_55dc8kcz.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_molle_rq2pz954.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_shoulder-straps_rhihwreg.jpg",
+          "https://www.paulcee.co.uk/images/cmd-case_size_xvujprw5.jpg",
+          "https://www.paulcee.co.uk/images/cmd-discount_web.jpg",
+          "https://www.paulcee.co.uk/images/equinox-900-tutorials_search-profile_z4r83iif.jpg",
+          "https://www.paulcee.co.uk/images/equinox-900-tutorials_fw8orz5p.jpg",
+          "https://www.paulcee.co.uk/images/manticore-recovery-speed_bp6g9yfg.jpg",
+          "https://www.paulcee.co.uk/blog/files/cmd-case_900.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2024",
+            "item": "https://www.paulcee.co.uk/blog/?month=202401",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal detector large case",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "crawfords metal detectors",
+            "item": "https://www.paulcee.co.uk/blog/?category=crawfords metal detectors",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal detector large case",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal detector large case",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

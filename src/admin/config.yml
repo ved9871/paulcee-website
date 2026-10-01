@@ -1,0 +1,195 @@
+# Sveltia CMS configuration (Decap-compatible). The site-URL placeholder below is filled in by src/build.mjs.
+backend:
+  name: github
+  repo: ved9871/paulcee-website
+  branch: main
+  # base_url is set in launch step 3 to the sveltia-cms-auth Cloudflare Worker URL.
+site_url: __SITE_URL__
+display_url: __SITE_URL__
+publish_mode: simple
+media_folder: public/img
+public_folder: /img
+media_libraries:
+  default:
+    config:
+      max_file_size: 15000000
+      slugify_filename: true
+      transformations:
+        raster_image:
+          format: webp
+          quality: 80
+          width: 1600
+          height: 1600
+
+collections:
+  - name: posts
+    label: Blog posts
+    label_singular: Blog post
+    folder: content/posts
+    extension: md
+    format: yaml-frontmatter
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    summary: "{{title}} · {{datePublished}}"
+    sortable_fields: [datePublished, title]
+    preview_path: "blog/{{slug}}/"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: datePublished, label: Publish date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ss", hint: "A future date schedules the post; it goes live that morning." }
+      - { name: draft, label: "Draft (saved but not published)", widget: boolean, default: false, required: false }
+      - { name: topic, label: Topic, widget: relation, collection: topics, value_field: key, search_fields: [label], display_fields: [label], required: false }
+      - { name: tags, label: Tags, widget: list, required: false }
+      - { name: cover, label: Cover image, widget: image, required: false }
+      - { name: heroVideo, label: Main YouTube video, widget: string, required: false, hint: "Paste the YouTube link." }
+      - { name: summary, label: Summary, widget: text, hint: "One or two sentences shown on blog cards. Also used for Google when no meta description is given below." }
+      - { name: body, label: Article, widget: markdown, modes: [raw, rich_text] }
+      - name: seo
+        label: SEO (Google)
+        widget: object
+        collapsed: true
+        required: false
+        fields:
+          - { name: title, label: Page title for Google, widget: string, required: false, hint: "About 50–60 characters." }
+          - { name: description, label: Meta description, widget: text, required: false, hint: "About 140–160 characters." }
+          - { name: keywords, label: Keywords, widget: string, required: false }
+
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: content/pages
+    extension: md
+    format: yaml-frontmatter
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    preview_path: "{{slug}}/"
+    fields:
+      - { name: title, label: Page heading, widget: string, required: false }
+      - { name: body, label: Content, widget: markdown, modes: [raw, rich_text] }
+      - name: seo
+        label: SEO (Google)
+        widget: object
+        collapsed: true
+        required: false
+        fields:
+          - { name: title, label: Page title for Google, widget: string, required: false }
+          - { name: description, label: Meta description, widget: text, required: false }
+          - { name: keywords, label: Keywords, widget: string, required: false }
+
+  - name: events
+    label: Rallies & events
+    label_singular: Event
+    folder: content/events
+    extension: json
+    format: json
+    create: true
+    slug: "{{start}}-{{name}}"
+    identifier_field: name
+    summary: "{{start}} · {{name}}"
+    sortable_fields: [start, name]
+    fields:
+      - { name: name, label: Event name, widget: string }
+      - { name: start, label: Start date, widget: datetime, time_format: false, format: "YYYY-MM-DD" }
+      - { name: end, label: End date, widget: datetime, time_format: false, format: "YYYY-MM-DD", required: false }
+      - { name: venue, label: Venue / town, widget: string, required: false }
+      - { name: link, label: Organiser or tickets link, widget: string, required: false }
+      - { name: image, label: Image, widget: image, required: false }
+      - { name: description, label: Description, widget: text, required: false }
+
+  - name: products
+    label: Products (Crawfords)
+    label_singular: Product
+    folder: content/products
+    extension: json
+    format: json
+    create: true
+    slug: "{{key}}"
+    identifier_field: name
+    fields:
+      - { name: name, label: Product name, widget: string }
+      - { name: key, label: Short ID, widget: string, pattern: ["^[a-z0-9-]+$", "Lower-case letters, numbers and dashes"] }
+      - { name: path, label: Crawfords page path, widget: string, pattern: ["^/", "Start with / (e.g. /minelab-manticore). Tracking is added automatically."] }
+      - { name: cat, label: Category, widget: select, options: [detector, pinpointer, coil, accessory, digging] }
+      - { name: img, label: Image, widget: image, required: false }
+      - name: compare
+        label: Crawfords comparison articles
+        widget: list
+        required: false
+        fields:
+          - { name: path, label: Crawfords path, widget: string, pattern: ["^/", "Start with / (e.g. /blog/minelab-equinox-900-vs-minelab-manticore). Tracking is added automatically."] }
+          - { name: label, label: Link text, widget: string }
+      - { name: match, label: "Show on pages whose title matches (developer)", widget: string, required: false }
+      - { name: order, label: Order, widget: number, value_type: int, required: false }
+
+  - name: topics
+    label: Blog topics
+    label_singular: Topic
+    folder: content/topics
+    extension: json
+    format: json
+    create: true
+    slug: "{{key}}"
+    identifier_field: label
+    fields:
+      - { name: label, label: Topic name, widget: string }
+      - { name: key, label: Short ID, widget: string, pattern: ["^[a-z0-9-]+$", "Lower-case letters, numbers and dashes"] }
+      - { name: description, label: Description, widget: text, required: false }
+      - { name: match, label: "Auto-assign posts whose title matches (developer)", widget: string, required: false }
+      - { name: order, label: Order, widget: number, value_type: int, required: false }
+
+  - name: settings
+    label: Site settings
+    files:
+      - name: site
+        label: Site settings
+        file: content/settings.json
+        format: json
+        fields:
+          - name: discount
+            label: Reader discount
+            widget: object
+            fields:
+              - { name: code, label: Code, widget: string }
+              - { name: where, label: Shop name, widget: string }
+              - { name: terms, label: Terms, widget: text }
+          - { name: disclosure, label: Affiliate disclosure, widget: text }
+          - { name: tagline, label: Footer tagline, widget: string }
+          - name: home
+            label: Homepage
+            widget: object
+            fields:
+              - { name: h1, label: Headline, widget: string }
+              - { name: sub, label: Sub-heading, widget: text }
+          - name: youtube
+            label: YouTube stats
+            widget: object
+            fields:
+              - { name: subscribers, widget: string }
+              - { name: views, widget: string }
+              - { name: videos, widget: string }
+      - name: videos
+        label: YouTube videos
+        file: content/videos.json
+        format: json
+        fields:
+          - name: videos
+            label: Videos
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { name: id, label: YouTube ID, widget: string }
+              - { name: title, label: Title, widget: string }
+              - { name: dur, label: Duration, widget: string, required: false }
+              - { name: views, label: Views label, widget: string, required: false }
+              - { name: age, label: Age label, widget: string, required: false }
+              - { name: playlists, label: Playlist IDs, widget: list, required: false }
+              - { name: recent, label: "Recent order (0 = newest)", widget: number, value_type: int, required: false }
+          - name: playlists
+            label: Playlists
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { name: id, label: Playlist ID, widget: string }
+              - { name: title, label: Title, widget: string }
+              - { name: count, label: Video count, widget: number, value_type: int, required: false }

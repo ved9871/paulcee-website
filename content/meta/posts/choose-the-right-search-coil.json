@@ -1,0 +1,144 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?choose-the-right-search-coil",
+  "author": "Paul Cee",
+  "category": "Minelab Search Coils",
+  "categorySlug": "Minelab_Search_Coils",
+  "readTime": 5,
+  "dateModified": "2024-01-07T10:57:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?choose-the-right-search-coil",
+    "og": {
+      "title": "Choose the right search coil",
+      "description": "choose the correct minelab or coiltek search coil for where you are metal detecting and what you are looking for, differant types of coils have differant uses",
+      "image": "https://www.paulcee.co.uk/blog/files/coil-size_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?choose-the-right-search-coil"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2024-01-07T10:57:00",
+        "dateModified": "2024-01-07T10:57:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Choose the right search coil",
+        "description": "Choosing the correct search coil",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?choose-the-right-search-coil",
+        "image": [
+          "https://www.paulcee.co.uk/images/coil-size.jpg",
+          "https://www.paulcee.co.uk/images/YT-thumb_2020_bgsjxm1h.png",
+          "https://www.paulcee.co.uk/images/minelab-6inch.jpg",
+          "https://www.paulcee.co.uk/images/vanquish-V8.jpg",
+          "https://www.paulcee.co.uk/images/coiltek-nox-18-web.jpg",
+          "https://www.paulcee.co.uk/images/m15-beach.jpg",
+          "https://www.paulcee.co.uk/images/coiltek-14x9.jpg",
+          "https://www.paulcee.co.uk/blog/files/coil-size.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2024",
+            "item": "https://www.paulcee.co.uk/blog/?month=202401",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Choose the right search coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab Search Coils",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab Search Coils",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Choose the right search coil",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Choose the right search coil",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

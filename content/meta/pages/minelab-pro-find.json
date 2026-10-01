@@ -1,0 +1,45 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/minelab-pro-find.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/minelab-pro-find.html",
+    "og": {
+      "title": "Minelab Pro find user guide",
+      "description": "Minelab Pro Find, waterproof pinpointer, how to set ferrous tone on the pro find, how to factory reset a pinpointer, the best minelab pinpointer",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/minelab-pro-find.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Pro Find user guide",
+        "description": "how to set up and use a Minelab Pro find pinpointer",
+        "uploadDate": "2023-11-11T19:06:19+00:00",
+        "thumbnailUrl": "images/pro-find-web_jk74e7ij.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=TgGDcPCVXDQ",
+        "@context": "https://schema.org"
+      },
+      {
+        "@type": "VideoObject",
+        "name": "Minelab Pro Find 40 user guide",
+        "description": "Minelab Pro Find 40 probe, user guide and settings",
+        "uploadDate": "2025-12-29T09:14:18+00:00",
+        "thumbnailUrl": "images/pro-find-40-image-web_c5c9oig0.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=fFCVaYQ1-uE",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?armani-and-diamonds-metal-detecting-bournemouth",
+  "author": "Paul Cee",
+  "category": "beach metal detecting",
+  "categorySlug": "beach_metal_detecting",
+  "readTime": 1,
+  "dateModified": "2020-05-10T15:57:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?armani-and-diamonds-metal-detecting-bournemouth",
+    "og": {
+      "title": "Armani and diamonds metal detecting Bournemouth",
+      "description": "bournemouth beach metal detecting with a minelab ctx 3030 the detector that finds treasures",
+      "image": "https://www.paulcee.co.uk/blog/files/bourne-1_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?armani-and-diamonds-metal-detecting-bournemouth"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2020-05-10T15:57:00",
+        "dateModified": "2020-05-10T15:57:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Armani and diamonds metal detecting Bournemouth",
+        "description": "Bournemouth beach metal detecting",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?armani-and-diamonds-metal-detecting-bournemouth",
+        "image": [
+          "https://www.paulcee.co.uk/images/bourne-1_rcqvo5e2.jpg",
+          "https://www.paulcee.co.uk/blog/files/bourne-1.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "May 2020",
+            "item": "https://www.paulcee.co.uk/blog/?month=202005",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Armani and diamonds metal detecting Bournemouth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach metal detecting",
+            "item": "https://www.paulcee.co.uk/blog/?category=beach metal detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Armani and diamonds metal detecting Bournemouth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Armani and diamonds metal detecting Bournemouth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Bournemouth",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Bournemouth",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Armani and diamonds metal detecting Bournemouth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Armani and diamonds metal detecting Bournemouth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "detecting",
+            "item": "https://www.paulcee.co.uk/blog/?tag=detecting",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Armani and diamonds metal detecting Bournemouth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Treasure",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Treasure",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Armani and diamonds metal detecting Bournemouth",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "UK",
+            "item": "https://www.paulcee.co.uk/blog/?tag=UK",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Armani and diamonds metal detecting Bournemouth",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

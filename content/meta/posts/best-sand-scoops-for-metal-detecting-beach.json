@@ -1,0 +1,307 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?best-sand-scoops-for-metal-detecting-beach",
+  "author": "Paul Cee",
+  "category": "sand scoops",
+  "categorySlug": "sand_scoops",
+  "readTime": 1,
+  "dateModified": "2020-03-26T17:26:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?best-sand-scoops-for-metal-detecting-beach",
+    "og": {
+      "title": "best sand scoops for metal detecting beach",
+      "description": "what are the best sand scoops for metal detecting on beaches, we look at Evolution scoops, Swagier Scoops, sito scoops and Anderson Neptune Carbon shafts",
+      "image": "https://www.paulcee.co.uk/blog/files/sand-scoops_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?best-sand-scoops-for-metal-detecting-beach"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2020-03-26T17:26:00",
+        "dateModified": "2020-03-26T17:26:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "best sand scoops for metal detecting beach",
+        "description": "best beach metal detecting sand scoops",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?best-sand-scoops-for-metal-detecting-beach",
+        "image": [
+          "https://www.paulcee.co.uk/images/WEB_AD2026a.jpg",
+          "https://www.paulcee.co.uk/images/P1050147b.jpg",
+          "https://www.paulcee.co.uk/blog/files/sand-scoops.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Mar 2020",
+            "item": "https://www.paulcee.co.uk/blog/?month=202003",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "sand scoops",
+            "item": "https://www.paulcee.co.uk/blog/?category=sand scoops",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "sand",
+            "item": "https://www.paulcee.co.uk/blog/?tag=sand",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "scoop",
+            "item": "https://www.paulcee.co.uk/blog/?tag=scoop",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "best",
+            "item": "https://www.paulcee.co.uk/blog/?tag=best",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "beach",
+            "item": "https://www.paulcee.co.uk/blog/?tag=beach",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "sito",
+            "item": "https://www.paulcee.co.uk/blog/?tag=sito",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "review",
+            "item": "https://www.paulcee.co.uk/blog/?tag=review",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "video",
+            "item": "https://www.paulcee.co.uk/blog/?tag=video",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "best sand scoops for metal detecting beach",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

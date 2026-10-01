@@ -164,3 +164,13 @@ button.chip { font-family: inherit; cursor: pointer; }
 .sidebar .product__img { width: 100%; height: 150px; }
 .sidebar .product .btn { width: 100%; }
 .sidebar .dealer { align-items: center; }
+
+/* rallies & events (CMS collection) */
+.events { margin: 0 0 var(--s-7); padding-bottom: var(--s-5); border-bottom: 2px solid var(--ink); }
+.events h2 { border-top: 0 !important; padding-top: 0 !important; margin-top: 0 !important; }
+.events__list { display: grid; gap: var(--s-4); }
+.event { display: grid; grid-template-columns: 140px 1fr; gap: var(--s-4); padding: var(--s-4); background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--brand); border-radius: var(--r-2); }
+.event__img { width: 140px; height: 105px; object-fit: cover; border-radius: var(--r-1); }
+.event__date { color: var(--brass); margin: 0 0 4px; font-size: .6875rem; }
+.event__name { margin: 0 0 var(--s-2); font-size: 1.2rem; }
+@media (max-width: 560px) { .event { grid-template-columns: 1fr; } .event__img { width: 100%; height: 160px; } }

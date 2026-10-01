@@ -1,0 +1,147 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?ancient-gold-coin-found-metal-detecting",
+  "author": "Paul Cee",
+  "category": "metal detecting Finds",
+  "categorySlug": "metal_detecting_Finds",
+  "readTime": 3,
+  "dateModified": "2026-01-09T09:00:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?ancient-gold-coin-found-metal-detecting",
+    "og": {
+      "title": "ancient gold coin found metal detecting",
+      "description": "metal detectorist finds ancient gold coin in lincolnshire with a minelab manticore metal detector",
+      "image": "https://www.paulcee.co.uk/blog/files/gold-stater4_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?ancient-gold-coin-found-metal-detecting"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2026-01-09T09:00:00",
+        "dateModified": "2026-01-09T09:00:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "ancient gold coin found metal detecting",
+        "description": "Ancient gold coin found metal detecting",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?ancient-gold-coin-found-metal-detecting",
+        "image": [
+          "https://www.paulcee.co.uk/images/gold-stater.jpg",
+          "https://www.paulcee.co.uk/images/IMG-20230614-WA0007.jpg",
+          "https://www.paulcee.co.uk/images/gold-stater3.jpg",
+          "https://www.paulcee.co.uk/images/gold-stater2.jpg",
+          "https://www.paulcee.co.uk/images/gold-stater1.jpg",
+          "https://www.paulcee.co.uk/images/gold-stater3_l2pi91et.jpg",
+          "https://www.paulcee.co.uk/images/manticore-recovery-speed_bp6g9yfg.jpg",
+          "https://www.paulcee.co.uk/images/ferrous-limits-web_6m6d64kj.jpg",
+          "https://www.paulcee.co.uk/images/manticore-audio.jpg",
+          "https://www.paulcee.co.uk/images/manticore_ground-balance_5o59e6t1.jpg",
+          "https://www.paulcee.co.uk/blog/files/gold-stater4.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2026",
+            "item": "https://www.paulcee.co.uk/blog/?month=202601",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "ancient gold coin found metal detecting",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "metal detecting Finds",
+            "item": "https://www.paulcee.co.uk/blog/?category=metal detecting Finds",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "ancient gold coin found metal detecting",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "ancient gold coin found metal detecting",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

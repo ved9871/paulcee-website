@@ -1,0 +1,36 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/minelab-x-terra.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/minelab-x-terra.html",
+    "og": {
+      "title": "Minelab X-Terra Elite vs Pro: Review, Pros, Cons & Coil Guide",
+      "description": "Compare the Minelab X-Terra Elite and X-Terra Pro. Discover the pros, cons, Multi-IQ features, and full compatibility guide for Equinox and Coiltek Nox coils",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/minelab-x-terra.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "VideoObject",
+        "name": "Minelab X-terra pro and Coiltek 18inch coil",
+        "description": "This video is relevant because it demonstrates the X-Terra Pro effectively using the Coiltek Nox 18 coil, verifying the coil compatibility discussed in the content.",
+        "uploadDate": "2025-12-31T12:12:15+00:00",
+        "thumbnailUrl": "images/XTP_WEB.jpg",
+        "contentUrl": "http://www.youtube.com/watch?v=LDcEDpRyk3c",
+        "@context": "https://schema.org"
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

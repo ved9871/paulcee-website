@@ -1,0 +1,451 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?anderson-neptune-2-part-carbon-sandscoop-shaft-uk",
+  "author": "Paul Cee",
+  "category": "sand scoops",
+  "categorySlug": "sand_scoops",
+  "readTime": 2,
+  "dateModified": "2020-07-24T16:50:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?anderson-neptune-2-part-carbon-sandscoop-shaft-uk",
+    "og": {
+      "title": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+      "description": "Anderson Carbon Fiber Sandscoop Shaft uk",
+      "image": "https://www.paulcee.co.uk/blog/files/Neptune-2-part_web_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?anderson-neptune-2-part-carbon-sandscoop-shaft-uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2020-07-24T16:50:00",
+        "dateModified": "2020-07-24T16:50:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+        "description": "Anderson Carbon Fiber Sandscoop Shaft uk",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?anderson-neptune-2-part-carbon-sandscoop-shaft-uk",
+        "image": [
+          "https://www.paulcee.co.uk/images/2part_shaft2.jpg",
+          "https://www.paulcee.co.uk/images/2part_shaft1.jpg",
+          "https://www.paulcee.co.uk/blog/files/Neptune-2-part_web.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jul 2020",
+            "item": "https://www.paulcee.co.uk/blog/?month=202007",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "sand scoops",
+            "item": "https://www.paulcee.co.uk/blog/?category=sand scoops",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson",
+            "item": "https://www.paulcee.co.uk/blog/?tag=Anderson",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "sandscoop",
+            "item": "https://www.paulcee.co.uk/blog/?tag=sandscoop",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "shaft",
+            "item": "https://www.paulcee.co.uk/blog/?tag=shaft",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "anderson",
+            "item": "https://www.paulcee.co.uk/blog/?tag=anderson",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "neptune",
+            "item": "https://www.paulcee.co.uk/blog/?tag=neptune",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "carbon",
+            "item": "https://www.paulcee.co.uk/blog/?tag=carbon",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "shaft",
+            "item": "https://www.paulcee.co.uk/blog/?tag=shaft",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "travel",
+            "item": "https://www.paulcee.co.uk/blog/?tag=travel",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "shaft",
+            "item": "https://www.paulcee.co.uk/blog/?tag=shaft",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "sandscoop",
+            "item": "https://www.paulcee.co.uk/blog/?tag=sandscoop",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "shaft",
+            "item": "https://www.paulcee.co.uk/blog/?tag=shaft",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "best",
+            "item": "https://www.paulcee.co.uk/blog/?tag=best",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "UK",
+            "item": "https://www.paulcee.co.uk/blog/?tag=UK",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Anderson Neptune 2 part Carbon Sandscoop shaft uk",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

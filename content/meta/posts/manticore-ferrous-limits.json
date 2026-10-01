@@ -1,0 +1,308 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?manticore-ferrous-limits",
+  "author": "Paul Cee",
+  "category": "minelab manticore settings",
+  "categorySlug": "minelab_manticore_settings",
+  "readTime": 2,
+  "dateModified": "2026-01-09T09:00:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?manticore-ferrous-limits",
+    "og": {
+      "title": "manticore ferrous limits",
+      "description": "ferrous limits on the minelab manticore, and which sould you change the upper limits or lower limits, adjusting the ferrous limits can increase your finds rate",
+      "image": "https://www.paulcee.co.uk/blog/files/custom-ferrous-limits_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?manticore-ferrous-limits"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2026-01-09T09:00:00",
+        "dateModified": "2026-01-09T09:00:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "manticore ferrous limits",
+        "description": "Set up custom ferrous limits",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?manticore-ferrous-limits",
+        "image": [
+          "https://www.paulcee.co.uk/images/YT-thumb_2020_r7jin4fe.png",
+          "https://www.paulcee.co.uk/images/ferrous-limit-screen.jpg",
+          "https://www.paulcee.co.uk/images/custom-ferrous-limit-screen.jpg",
+          "https://www.paulcee.co.uk/blog/files/custom-ferrous-limits.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2026",
+            "item": "https://www.paulcee.co.uk/blog/?month=202601",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab manticore settings",
+            "item": "https://www.paulcee.co.uk/blog/?category=minelab manticore settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "minelab",
+            "item": "https://www.paulcee.co.uk/blog/?tag=minelab",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore",
+            "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore",
+            "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "ferrous",
+            "item": "https://www.paulcee.co.uk/blog/?tag=ferrous",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "limits",
+            "item": "https://www.paulcee.co.uk/blog/?tag=limits",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore",
+            "item": "https://www.paulcee.co.uk/blog/?tag=manticore",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "settings",
+            "item": "https://www.paulcee.co.uk/blog/?tag=settings",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "manticore ferrous limits",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

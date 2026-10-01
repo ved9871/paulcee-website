@@ -1,0 +1,10 @@
+{
+  "key": "finds-box",
+  "name": "CMD finds box",
+  "path": "/cmd-finds-box-medium",
+  "cat": "accessory",
+  "img": "/img/finds-box.webp",
+  "compare": [],
+  "match": "finds box|large case",
+  "order": 23
+}

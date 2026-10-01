@@ -1,0 +1,23 @@
+{
+  "key": "manticore",
+  "name": "Minelab Manticore",
+  "path": "/minelab-manticore",
+  "cat": "detector",
+  "img": "/img/MANTICORE-VIDEO_as2ycfdz.webp",
+  "compare": [
+    {
+      "path": "/blog/minelab-equinox-900-vs-minelab-manticore",
+      "label": "Equinox 900 vs Manticore"
+    },
+    {
+      "path": "/blog/minelab-manticore-vs-xp-deus-2",
+      "label": "Manticore vs XP Deus 2"
+    },
+    {
+      "path": "/blog/minelab-manticore-top-accessories",
+      "label": "Top Manticore accessories"
+    }
+  ],
+  "match": "manticore",
+  "order": 1
+}

@@ -1,0 +1,147 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-x-terra-elite",
+  "author": "Paul Cee",
+  "category": "Minelab X Terra Elite",
+  "categorySlug": "Minelab_X_Terra_Elite",
+  "readTime": 2,
+  "dateModified": "2024-06-03T18:10:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?minelab-x-terra-elite",
+    "og": {
+      "title": "Minelab X Terra Elite",
+      "description": "Minelab X Terra Elite Review and new features and setting, metal detecting on the beach. how much is the X Terra Elite and the expedition pack, where to buy.",
+      "image": "https://www.paulcee.co.uk/blog/files/XTE-intro_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?minelab-x-terra-elite"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2024-06-03T18:10:00",
+        "dateModified": "2024-06-03T18:10:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Minelab X Terra Elite",
+        "description": "Minelab X Terra Elite",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?minelab-x-terra-elite",
+        "image": [
+          "https://www.paulcee.co.uk/images/detexpert-logosml.png",
+          "https://www.paulcee.co.uk/images/ELITE-Expedition-Pack_logo_colour.png",
+          "https://www.paulcee.co.uk/images/elite-promo.jpg",
+          "https://www.paulcee.co.uk/images/xte_silver.jpg",
+          "https://www.paulcee.co.uk/images/xte_red-screen.jpg",
+          "https://www.paulcee.co.uk/images/WEB_AD---Copy_1q7dk814.jpg",
+          "https://www.paulcee.co.uk/images/xte_red-screen_u0f04irs.jpg",
+          "https://www.paulcee.co.uk/images/xte_peseta.jpg",
+          "https://www.paulcee.co.uk/images/xte_silver_fm1husc9.jpg",
+          "https://www.paulcee.co.uk/images/xte_ring.jpg",
+          "https://www.paulcee.co.uk/blog/files/XTE-intro.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jun 2024",
+            "item": "https://www.paulcee.co.uk/blog/?month=202406",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X Terra Elite",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X Terra Elite",
+            "item": "https://www.paulcee.co.uk/blog/?category=Minelab X Terra Elite",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X Terra Elite",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Minelab X Terra Elite",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

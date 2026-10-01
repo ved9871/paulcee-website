@@ -10,11 +10,12 @@ This repository holds the **design preview**, a static build of the full site in
 
 | | |
 |---|---|
-| `content/pages/*.json` | 32 core pages extracted from Paul's WebSite X5 project (the pages in the live sitemap) |
-| `content/posts/*.json` | All **223** blog posts fetched from the live blog, with dates, categories, read time and schema |
+| `content/pages/*.md` | 32 core pages as Markdown with front matter (edited in the CMS) |
+| `content/posts/*.md` | All **223** blog posts as Markdown with front matter (edited in the CMS) |
+| `content/meta/` | Developer-managed legacy SEO data per page and post (canonical, JSON-LD, Open Graph) |
 | `content/videos.json` | 270 videos from Paul's YouTube channel (26 playlists + latest uploads), grouped by detector |
 | `content/images.json` + `public/img/` | 757 images, converted to WebP (max 1400px), with intrinsic sizes for zero layout shift |
-| `src/build.mjs` | Static site generator (no dependencies) |
+| `src/build.mjs` | Static site generator (depends on `marked` and `yaml`; run `npm ci` first) |
 | `src/site.css`, `src/site.js` | Design system and progressive-enhancement JS |
 | `src/site.config.mjs` | Navigation, homepage copy, detector hubs, blog topics |
 | `src/commerce.config.mjs` | Crawfords link policy + tracking ID, product catalogue, shop categories, brand assets, YouTube groups |
@@ -24,11 +25,11 @@ This repository holds the **design preview**, a static build of the full site in
 | `docs/SEO-AND-ADSENSE.md` | What we preserve and how |
 | `docs/DESIGN-SYSTEM.md` | Colours, type, components |
 | `docs/HOMEPAGE-COPY.md` | New homepage copy for Paul to approve |
-| `tools/` | The extraction scripts used to pull content from the X5 export and the live blog |
+| `tools/` | `compare-output.mjs` (build diff) plus historical one-off scripts: `extract.cjs` (pulled content from the X5 export and the live blog) and `migrate-content.mjs` (converted it to `content/`). They no longer run against the current content. |
 
 ## Run it locally
 
-Requires Node 20 or newer. There's nothing to install.
+Requires Node 20 or newer. Install the two dependencies (`marked`, `yaml`) once with `npm ci`.
 
 ```bash
 npm run dev          # build + serve on http://localhost:4173
@@ -46,7 +47,27 @@ CNAME=new.paulcee.co.uk node src/build.mjs   # custom subdomain (writes dist/CNA
 
 ## Deploy
 
-Every push to `main` runs `.github/workflows/pages.yml`, which builds, runs the link/SEO check and publishes to GitHub Pages.
+`.github/workflows/pages.yml` runs `npm ci`, the unit tests, the build and the link/SEO check on every push to `main` or `cms`. Pushes to `cms` build and test only; pushes to `main` also deploy to GitHub Pages. A daily 06:00 UK rebuild (cron 05:00 UTC, so 05:00 in winter) publishes scheduled posts: a post goes live on the morning of its publish date.
+
+## Editing content (CMS)
+
+Content lives in `content/` and is edited in the Sveltia CMS admin at `/admin/` (launch step 3 configures GitHub sign-in).
+
+| What | Where |
+|---|---|
+| Blog posts | `content/posts/<slug>.md` (Markdown + YAML front matter) |
+| Pages | `content/pages/<slug>.md` |
+| Legacy SEO data (developer-managed) | `content/meta/{posts,pages}/<slug>.json`: canonical, JSON-LD, OG, verification |
+| Rallies & events | `content/events/*.json`; upcoming events appear on the rallies page and the homepage |
+| Products | `content/products/*.json`; the build adds `?tracking=fa202437c9` to every Crawfords link |
+| Topics | `content/topics/*.json` (the blog filter chips) |
+| Settings | `content/settings.json` |
+
+Body components: `{{youtube id="…"}}`, `{{product key="…"}}`, `{{ad slot="…"}}`, `{{embed src="…" height="…"}}`, `{{contactform}}`.
+
+- Drafts (`draft: true`) and posts dated after today (UK date) are not published. The daily 06:00 UK rebuild publishes scheduled posts on their date.
+- `npm test` runs the unit tests.
+- `node tools/compare-output.mjs <oldDist> <newDist>` diffs two builds on SEO and content signals.
 
 ## Commerce rules (agreed with Paul / Crawfords)
 

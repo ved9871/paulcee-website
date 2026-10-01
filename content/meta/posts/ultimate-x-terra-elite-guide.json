@@ -1,0 +1,148 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/blog/?ultimate-x-terra-elite-guide",
+  "author": "Paul Cee",
+  "category": "X Terra Elite",
+  "categorySlug": "X_Terra_Elite",
+  "readTime": 12,
+  "dateModified": "2025-01-05T12:31:00",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/blog/?ultimate-x-terra-elite-guide",
+    "og": {
+      "title": "Ultimate X Terra Elite Guide",
+      "description": "Ultimate guide to the Xterra Elite, change settings with confidence and how and where to go metal detecting and find the accessories for you new detector ",
+      "image": "https://www.paulcee.co.uk/blog/files/XTE-intro_WEB_og.jpg",
+      "type": "article",
+      "url": "https://www.paulcee.co.uk/blog/?ultimate-x-terra-elite-guide"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonld": [
+      {
+        "@type": "BlogPosting",
+        "@context": "https://schema.org",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Paul Cee",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.paulcee.co.uk/images/2026-thumb.jpg",
+            "width": 320,
+            "height": 320
+          }
+        },
+        "datePublished": "2025-01-05T12:31:00",
+        "dateModified": "2025-01-05T12:31:00",
+        "author": {
+          "@type": "Person",
+          "name": "Paul Cee"
+        },
+        "headline": "Ultimate X Terra Elite Guide",
+        "description": "The Ultimate guide to the minelab XTerra Elite",
+        "mainEntityOfPage": "https://www.paulcee.co.uk/blog/?ultimate-x-terra-elite-guide",
+        "image": [
+          "https://www.paulcee.co.uk/images/XTE-intro_WEB.jpg",
+          "https://www.paulcee.co.uk/images/xte-coinshooting.jpg",
+          "https://www.paulcee.co.uk/images/P1040705.jpg",
+          "https://www.paulcee.co.uk/images/P1040728.jpg",
+          "https://www.paulcee.co.uk/images/P1040731.jpg",
+          "https://www.paulcee.co.uk/images/P1040708.jpg",
+          "https://www.paulcee.co.uk/images/P1040709.jpg",
+          "https://www.paulcee.co.uk/images/P1040710.jpg",
+          "https://www.paulcee.co.uk/images/P1040720.jpg",
+          "https://www.paulcee.co.uk/images/P1040730.jpg",
+          "https://www.paulcee.co.uk/images/P1040732.jpg",
+          "https://www.paulcee.co.uk/blog/files/XTE-intro_WEB.jpg"
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "xpath": [
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Jan 2025",
+            "item": "https://www.paulcee.co.uk/blog/?month=202501",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Ultimate X Terra Elite Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "X Terra Elite",
+            "item": "https://www.paulcee.co.uk/blog/?category=X Terra Elite",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Ultimate X Terra Elite Guide",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@context": "https://schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Blog",
+            "item": "https://www.paulcee.co.uk/blog",
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "name": "Ultimate X Terra Elite Guide",
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

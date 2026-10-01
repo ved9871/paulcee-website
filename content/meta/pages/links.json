@@ -1,0 +1,25 @@
+{
+  "liveUrl": "https://www.paulcee.co.uk/links.html",
+  "adSlots": [],
+  "seo": {
+    "canonical": "https://www.paulcee.co.uk/links.html",
+    "og": {
+      "title": "metal detecting LINKS",
+      "description": "Metal Detecting insurance, Crown estate foreshore, metal detector headphones, headphones for metal detectors, best metal detector headphones, surffones",
+      "image": "http://192.168.0.55:8080/favImage_t3jspbgt.png",
+      "type": "website",
+      "url": "http://192.168.0.55:8080/links.html"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "verification": {
+      "google": "",
+      "bing": "",
+      "norton": ""
+    }
+  }
+}

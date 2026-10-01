@@ -1,0 +1,10 @@
+{
+  "key": "wm09",
+  "name": "Minelab WM 09 wireless module",
+  "path": "/minelab-wm09",
+  "cat": "accessory",
+  "img": "/img/20251207_082004.webp",
+  "compare": [],
+  "match": "wm ?09|wireless",
+  "order": 16
+}

@@ -1,0 +1,10 @@
+{
+  "key": "nox18",
+  "name": "Coiltek NOX 18\" coil",
+  "path": "/coiltek-nox18",
+  "cat": "coil",
+  "img": "/img/DSC02279.webp",
+  "compare": [],
+  "match": "nox ?18|18[- ]inch|18\"",
+  "order": 13
+}
