@@ -51,7 +51,7 @@ CNAME=new.paulcee.co.uk node src/build.mjs   # custom subdomain (writes dist/CNA
 
 ## Editing content (CMS)
 
-Content lives in `content/` and is edited in the Sveltia CMS admin at `/admin/` (launch step 3 configures GitHub sign-in).
+Content lives in `content/` and is edited in the Sveltia CMS admin at `/admin/`. Sign-in uses GitHub through a small Cloudflare Worker (`sveltia-cms-auth`, `backend.base_url` in `src/admin/config.yml`); editors need Write access to this repository.
 
 | What | Where |
 |---|---|

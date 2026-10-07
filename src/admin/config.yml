@@ -3,7 +3,8 @@ backend:
   name: github
   repo: ved9871/paulcee-website
   branch: main
-  # base_url is set in launch step 3 to the sveltia-cms-auth Cloudflare Worker URL.
+  # GitHub sign-in goes through the sveltia-cms-auth Cloudflare Worker (launch step 3).
+  base_url: https://sveltia-cms-auth.prakashved155.workers.dev
 site_url: __SITE_URL__
 display_url: __SITE_URL__
 publish_mode: simple
