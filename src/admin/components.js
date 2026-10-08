@@ -31,3 +31,13 @@ CMS.registerEditorComponent({
   toBlock: d => `{{ad slot="${d.slot || ''}"}}`,
   toPreview: () => '<div style="border:1.5px dashed #999;padding:16px;text-align:center">AdSense</div>',
 });
+
+// "Site tools" button: backups, restore and editor access live on /admin/tools/ (opens in a new tab)
+{
+  const a = document.createElement('a');
+  a.href = 'tools/'; a.target = '_blank'; a.rel = 'noopener';
+  a.textContent = 'Site tools';
+  a.title = 'Backups, restore, change history and who can edit';
+  a.style.cssText = 'position:fixed;right:16px;bottom:16px;z-index:2147483647;padding:9px 14px;border-radius:999px;background:#075692;color:#fff;font:600 13px/1 system-ui,sans-serif;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.3)';
+  document.body.appendChild(a);
+}
