@@ -47,12 +47,12 @@ export const NAV = [
 
 // Detector hubs shown on the homepage ("Find your detector")
 export const HUBS = [
-  { slug: 'minelab-manticore', img: 'images/MANTICORE-VIDEO_as2ycfdz.jpg', name: 'Manticore', tag: 'Multi-IQ+ · Flagship', blurb: 'Unleash the Beast — set up for beach and fields.' },
-  { slug: 'minelab-equinox', img: 'images/eqx-900-beach_ybg5c3oj.jpg', name: 'Equinox 700 / 900', tag: 'Multi-IQ · All-rounder', blurb: 'Beginner guides and proven settings for the Equinox.' },
+  { slug: 'minelab-manticore', img: 'images/MANTICORE-VIDEO_as2ycfdz.jpg', name: 'Manticore', tag: 'Multi-IQ+ · Flagship', blurb: 'Set-up guide, plus beach and field settings.' },
+  { slug: 'minelab-equinox', img: 'images/eqx-900-beach_ybg5c3oj.jpg', name: 'Equinox 700 / 900', tag: 'Multi-IQ · All-rounder', blurb: 'Beginner guides and tested settings for the 700 and 900.' },
   { slug: 'minelab-vanquish-60-series', img: 'images/560-web1_cr16wx23.jpg', name: 'Vanquish 60 series', tag: '360 · 460 · 560', blurb: 'What’s new in the 60 series and how it performs.' },
   { slug: 'minelab-x-terra', img: 'images/XTE-intro_WEB.jpg', name: 'X-Terra Pro & Elite', tag: 'Waterproof · Value', blurb: 'User guides and settings for beach and fields.' },
   { slug: 'minelab-vanquish-40-series', img: 'images/vanquish-settings1.jpg', name: 'Vanquish 40 series', tag: '340 · 440 · 540', blurb: 'Settings for the 340, 440 and 540.' },
-  { slug: 'ctx3030', img: 'images/ctx-3030_WEB.jpg', name: 'CTX 3030', tag: 'FBS 2 · Deep beach', blurb: 'Deep gold and old coins on UK beaches.' },
+  { slug: 'ctx3030', img: 'images/ctx-3030_WEB.jpg', name: 'CTX 3030', tag: 'FBS 2 · Deep beach', blurb: 'Settings for working deep on UK beaches.' },
 ];
 
 export const HOME = {
@@ -60,21 +60,20 @@ export const HOME = {
   h1: SETTINGS.home.h1,
   sub: SETTINGS.home.sub,
   primary: ['#detectors', 'Find settings for my detector'],
-  secondary: ['youtube', 'Watch on YouTube'],
-  proof: [['3.5M+', 'YouTube views'], ['220+', 'articles & field reports'], ['Weekly', 'new videos']],
+  secondary: ['videos/', 'Watch the tutorials'],
   pillars: [
-    { k: '01', title: 'Settings that actually work', body: 'Every setting here is tested in real UK ground — wet sand, iron-riddled pasture, mineralised clay — not copied off a forum.' },
-    { k: '02', title: 'Straight from the Minelab team', body: 'As a Detexpert and field tester, Paul works alongside Minelab’s own engineers, so you get the why behind a setting, not just the numbers.' },
-    { k: '03', title: 'Honest gear advice', body: 'Coils, scoops, spades and headphones — what earns its place in Paul’s bag, and what doesn’t.' },
+    { k: '01', title: 'Tested in real ground', body: 'Paul tests the settings he publishes on UK wet sand, iron-heavy pasture and mineralised clay.' },
+    { k: '02', title: 'Minelab Detexpert', body: 'Paul is a Minelab Detexpert and field tester. He explains why a setting works, not only what to set.' },
+    { k: '03', title: 'What’s in the bag', body: 'Coils, scoops, spades and headphones: what earns its place in Paul’s bag, and what doesn’t.' },
   ],
   paths: [
     { label: 'New to detecting', body: 'Where to start, what to buy first, and how to get permission.', href: 'beginners-guide-to-metal-detecting', cta: 'Read the beginner’s guide' },
     { label: 'Choosing a detector', body: 'Paul’s top five Minelab machines for beginners, compared.', href: 'top-5-beginners-metal-detectors', cta: 'Compare the top 5' },
     { label: 'Hitting the beach', body: 'Reading cuts and washouts, sand scoops, and wet-sand settings.', href: 'blog/topic/beach-detecting/', cta: 'Beach detecting articles' },
-    { label: 'Finding a rally', body: 'Digs, weekends and day events across the UK — updated weekly.', href: 'detecting-rallies-2026', cta: 'See the 2026 rally list' },
+    { label: 'Finding a rally', body: 'Digs, weekends and day events across the UK. Updated when new dates come in.', href: 'detecting-rallies-2026', cta: 'See the 2026 rally list' },
   ],
-  video: { id: 'nrMw2oEBDyQ', title: 'Minelab Vanquish 560 — what’s new and how it performs', heading: 'A new video most weeks', body: 'Settings walk-throughs, coil tests and beach sessions, filmed in the field. Subscribe so you don’t miss the next one.' },
-  newsletter: { heading: 'First to hear about new detectors', body: 'Join the Crawfords Metal Detectors mailing list for new releases, exclusive offers and monthly free competitions.' },
+  video: { id: 'nrMw2oEBDyQ', title: 'Minelab Vanquish 560: what’s new and how it performs', heading: 'A new video most weeks', body: 'Settings walk-throughs, coil tests and beach sessions, filmed in the field. Subscribe so you don’t miss the next one.' },
+  newsletter: { heading: 'Crawfords mailing list', body: 'The Crawfords Metal Detectors mailing list covers new releases, offers and a free competition each month.' },
 };
 
 export const DISCLOSURE = SETTINGS.disclosure;

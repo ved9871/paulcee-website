@@ -87,7 +87,7 @@ const video = (id, title = '', dur = '') => `<div class="yt" data-yt="${id}"><im
 
 const ad = (slot, label = 'In-content') => PROD
   ? `<div class="ad"><ins class="adsbygoogle" style="display:block" data-ad-client="${ADSENSE}"${slot ? ` data-ad-slot="${slot}"` : ''} data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></div>`
-  : `<aside class="ad ad--preview" aria-label="Advertisement placeholder"><span class="mono">AdSense · ${esc(label)}</span><span>${slot ? `Slot ${slot} — preserved from current site` : 'Auto-ads position'}</span></aside>`;
+  : `<aside class="ad ad--preview" aria-label="Advertisement placeholder"><span class="mono">AdSense · ${esc(label)}</span><span>${slot ? `Slot ${slot}, preserved from current site` : 'Auto-ads position'}</span></aside>`;
 
 // ---------- videos ----------
 const videos = withPlaylistTitles(VID.videos, VID.playlists);
@@ -108,7 +108,7 @@ const buyAside = (text, fallbackHref) => {
 
 // Photos of Paul used through the site (see docs/PHOTOS.md)
 const photoHead = rel => IMAGES[rel] ? `class="page-head page-head--photo" style="--photo:url(${url(IMAGES[rel].file)})"` : 'class="page-head"';
-const paulCard = () => `<div class="side-card side-card--paul">${img('photos/paul-field-detexpert.jpg', 'Paul Cee field testing on a ploughed field')}<p class="mono side-card__k">Written by</p><p class="side-card__h">Paul Cee</p><p>Official Minelab Detexpert, field tester and Crawfords Metal Detectors ambassador — every setting here is tested on real UK beaches and fields.</p><p><a href="${pageUrl('about-us')}">About Paul</a> · <a href="${url('videos/')}">Videos</a></p></div>`;
+const paulCard = () => `<div class="side-card side-card--paul">${img('photos/paul-field-detexpert.jpg', 'Paul Cee field testing on a ploughed field')}<p class="mono side-card__k">Written by</p><p class="side-card__h">Paul Cee</p><p>Minelab Detexpert, field tester and Crawfords Metal Detectors ambassador. Paul tests the settings he publishes on UK beaches and fields.</p><p><a href="${pageUrl('about-us')}">About Paul</a> · <a href="${url('videos/')}">Videos</a></p></div>`;
 const gallery = () => `<div class="gallery">${[['photos/paul-beach-minelab.jpg', 'Wet-sand detecting, headphones on'], ['photos/paul-field-detexpert.jpg', 'Field testing on the plough'], ['photos/paul-vanquish-screen.jpg', 'Checking target IDs on the Vanquish'], ['photos/paul-minelab-shirt-beach.jpg', 'Working the tide line']].map(([r, c]) => `<figure>${img(r, '')}<figcaption>${c}</figcaption></figure>`).join('')}</div>`;
 
 // ---------- layout ----------
@@ -137,7 +137,7 @@ function header(active) {
   return `<a class="skip" href="#main">Skip to content</a>
 ${PROD ? '' : `<div class="preview-bar" role="note"><span class="mono">Design preview</span> Not the live site · ads shown as placeholders · hidden from Google</div>`}
 <header class="site-header"><div class="wrap site-header__row">
-  <a class="brand" href="${url('')}" aria-label="Paul Cee Metal Detecting — home"><span class="brand__mark" aria-hidden="true">PC</span><span class="brand__text"><span class="brand__name">Paul Cee</span><span class="brand__sub mono">Minelab Detexpert</span></span></a>
+  <a class="brand" href="${url('')}" aria-label="Paul Cee Metal Detecting, home"><span class="brand__mark" aria-hidden="true">PC</span><span class="brand__text"><span class="brand__name">Paul Cee</span><span class="brand__sub mono">Minelab Detexpert</span></span></a>
   <nav class="nav" aria-label="Main"><ul class="nav__list">${nav}</ul></nav>
   <div class="site-header__tools">
     <button class="icon-btn" type="button" data-open-search aria-label="Search the site">${icon.search}</button>
@@ -242,40 +242,40 @@ function renderHome() {
     <div class="hero__badges"><span class="detexpert">${img(BRAND.detexpertShield, '')}<span><span class="mono">Official</span>Minelab Detexpert &amp; field tester</span></span><span class="detexpert">${img(BRAND.crawfordsBlue, '', { cls: 'badge-logo' })}<span><span class="mono">Ambassador</span>Crawfords Metal Detectors</span></span></div>
     <h1 class="hero__h1">${esc(HOME.h1)}</h1>
     <p class="hero__sub">${esc(HOME.sub)}</p>
-    <div class="hero__ctas"><a class="btn btn--lg" href="#detectors">${HOME.primary[1]} ${icon.arrow}</a><a class="btn btn--ghost btn--lg" href="${url('videos/')}">${icon.yt} Watch the tutorials</a></div>
+    <div class="hero__ctas"><a class="btn btn--lg" href="#detectors">${HOME.primary[1]} ${icon.arrow}</a><a class="btn btn--ghost btn--lg" href="${url(HOME.secondary[0])}">${icon.yt} ${HOME.secondary[1]}</a></div>
     <dl class="proof"><div><dt>${YT.stats.views}</dt><dd>YouTube views</dd></div><div><dt>${YT.stats.videos}</dt><dd>detecting videos</dd></div><div><dt>${posts.length}</dt><dd>articles &amp; field reports</dd></div></dl>
   </div>
   <figure class="hero__photo hero__photo--left">${img('photos/paul-beach-minelab.jpg', '', { eager: true, sizes: '(min-width: 900px) 40vw, 100vw' })}${img(BRAND.detexpertShield, 'Minelab Detexpert', { cls: 'hero__shield' })}<figcaption class="mono">Paul Cee · Minelab Detexpert</figcaption></figure>
 </div></section>
 
-<section class="creds" aria-label="Partners"><div class="wrap creds__row"><p class="creds__label"><span class="mono">Trusted by</span></p><div class="creds__logos">${img(BRAND.minelab, 'Minelab', { cls: 'logo--tall' })}${img(BRAND.detexpertWord, 'Minelab Detexpert', { cls: '' })}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--wide' })}${img(BRAND.coiltek, 'Coiltek')}</div></div></section>
+<section class="creds" aria-label="Partners"><div class="wrap creds__row"><p class="creds__label"><span class="mono">Brands Paul works with</span></p><div class="creds__logos">${img(BRAND.minelab, 'Minelab', { cls: 'logo--tall' })}${img(BRAND.detexpertWord, 'Minelab Detexpert', { cls: '' })}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--wide' })}${img(BRAND.coiltek, 'Coiltek')}</div></div></section>
 
 <section class="section" id="detectors" aria-labelledby="det-h"><div class="wrap">
-  <div class="section__head section__head--photo"><div><p class="eyebrow mono">Find your detector</p><h2 id="det-h">Settings &amp; user guides for every Minelab</h2><p class="section__lede">Pick your machine for Paul’s set-up guides, beach and field settings, and the coils and accessories worth adding.</p></div>${img('photos/paul-vanquish-screen.jpg', '', { cls: 'section__photo' })}</div>
+  <div class="section__head section__head--photo"><div><p class="eyebrow mono">Find your detector</p><h2 id="det-h">Settings and user guides by detector</h2><p class="section__lede">Pick your machine for Paul’s set-up guides, beach and field settings, and the coils that suit it.</p></div>${img('photos/paul-vanquish-screen.jpg', '', { cls: 'section__photo' })}</div>
   <div class="hubs">${hubCards}</div>
   <p class="more-links mono">Also: <a href="${pageUrl('minelab-pro-find')}">Pro-Find pinpointers</a> · <a href="${pageUrl('manticore-settings')}">Manticore settings</a> · <a href="${pageUrl('minelab-vanquish-60-settings')}">Vanquish 60 settings</a> · <a href="${pageUrl('manticore-m8-vs-m9-coil')}">M8 vs M9 coil</a></p>
 </div></section>
 
 <section class="section section--tint" aria-labelledby="vid-h"><div class="wrap">
-  <div class="section__head section__head--row"><div><p class="eyebrow mono">Training videos</p><h2 id="vid-h">Learn your detector, one video at a time</h2><p class="section__lede">${YT.stats.videos} tutorials, settings walk-throughs and beach sessions from Paul’s channel — ${YT.stats.subscribers} subscribers and ${YT.stats.views} views.</p></div><a class="btn btn--ghost" href="${url('videos/')}">Browse the video library ${icon.arrow}</a></div>
+  <div class="section__head section__head--row"><div><p class="eyebrow mono">Training videos</p><h2 id="vid-h">Recent videos</h2><p class="section__lede">${YT.stats.videos} videos on Paul’s channel: settings walk-throughs, coil tests and beach sessions.</p></div><a class="btn btn--ghost" href="${url('videos/')}">Browse the video library ${icon.arrow}</a></div>
   <figure class="vid-banner">${img('photos/paul-park-video.jpg', '')}<figcaption class="mono">Filmed in the field · settings explained step by step</figcaption></figure>
   <div class="vids">${recent.slice(0, 8).map(vidCard).join('')}</div>
   <div class="playlists">${YT.groups.map(g => `<a class="chip" href="${url('videos/')}#${g.key}">${esc(g.title)} <span class="mono">${videos.filter(v => v.group === g.key).length}</span></a>`).join('')}<a class="chip" href="${YT.subscribeUrl}" rel="noopener" target="_blank">${icon.yt} Subscribe on YouTube</a></div>
 </div></section>
 
 <section class="section section--band" aria-labelledby="why-h"><div class="wrap">
-  <div class="section__head"><p class="eyebrow mono">Why detectorists trust Paul</p><h2 id="why-h">Advice from the field, not the forum</h2></div>
+  <div class="section__head"><p class="eyebrow mono">About the advice</p><h2 id="why-h">Tested in the field</h2></div>
   <div class="pillars-wrap"><div class="pillars">${HOME.pillars.map(p => `<div class="pillar"><span class="pillar__k mono">${p.k}</span><h3>${p.title}</h3><p>${p.body}</p></div>`).join('')}</div><figure class="pillars-photo">${img('photos/paul-field-detexpert.jpg', '')}<figcaption class="mono">Field testing for Minelab</figcaption></figure></div>
 </div></section>
 
 <section class="section shop" id="shop" aria-labelledby="shop-h"><div class="wrap">
-  <div class="shop__head"><div><p class="eyebrow mono">Where Paul buys his gear</p><h2 id="shop-h">Shop Paul’s recommendations at Crawfords Metal Detectors</h2><p>Authorised Minelab dealer with UK stock, expert advice and free delivery over £50. Every link below carries Paul’s recommendation — and his reader discount on accessories.</p></div>${'<span class="shop__logo">' + img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors') + '</span>'}</div>
+  <div class="shop__head"><div><p class="eyebrow mono">Where Paul buys his gear</p><h2 id="shop-h">Buy from Crawfords Metal Detectors</h2><p>Crawfords is an authorised Minelab dealer with UK stock and free delivery over £50. These are affiliate links (see the disclosure in the footer). Paul’s reader discount applies to accessories.</p></div>${'<span class="shop__logo">' + img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors') + '</span>'}</div>
   <div class="shop__grid">${SHOP_CATS.map(c => `<div class="shop-tile"><h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><div class="shop-tile__links"><a class="btn btn--white btn--sm" href="${cmdUrl(c.path)}" rel="sponsored noopener" target="_blank">Shop at Crawfords ${icon.ext}</a>${pages[c.guide] ? `<a class="shop-tile__guide" href="${pageUrl(c.guide)}">Paul’s guide →</a>` : ''}</div></div>`).join('')}</div>
   <p class="shop__code">Use code <button type="button" class="code" data-copy="${esc(DISCOUNT.code)}">${esc(DISCOUNT.code)}</button> at checkout for a discount on accessories. ${esc(DISCOUNT.terms)}</p>
 </div></section>
 
 <section class="section" aria-labelledby="start-h"><div class="wrap">
-  <div class="section__head"><p class="eyebrow mono">Start here</p><h2 id="start-h">Where are you on your detecting journey?</h2></div>
+  <div class="section__head"><p class="eyebrow mono">Start here</p><h2 id="start-h">Pick a starting point</h2></div>
   <div class="paths">${HOME.paths.map((p, i) => `<a class="path" href="${/\/$/.test(p.href) ? url(p.href) : pageUrl(p.href)}"><span class="path__n mono">0${i + 1}</span><h3>${p.label}</h3><p>${p.body}</p><span class="path__go">${p.cta} ${icon.arrow}</span></a>`).join('')}</div>
 </div></section>
 
@@ -288,9 +288,9 @@ function renderHome() {
 
 <section class="section section--dark" aria-labelledby="rally-h"><div class="wrap split split--rev">
   <figure class="rally-photo">${img('images/DSC00062-copy.jpg', 'Paul Cee helping a detectorist with settings at a metal detecting rally')}</figure>
-  <div><p class="eyebrow mono">Rallies &amp; events</p><h2 id="rally-h">Come and find Paul at a rally</h2><p>Through the rally season Paul sets up test lanes at digs across the UK and Europe — bring your detector, try the latest Minelab machines, and get your settings checked in person.</p>
+  <div><p class="eyebrow mono">Rallies &amp; events</p><h2 id="rally-h">Find Paul at a rally</h2><p>At rallies Paul sets up test lanes where you can try the latest Minelab machines and ask about your settings. Bring your own detector.</p>
   ${EVENTS.upcoming.length ? `<ul class="ticks">${EVENTS.upcoming.slice(0, 3).map(e => `<li><strong>${esc(fmtRange(e))}</strong>&nbsp;${esc(e.name)}${e.venue ? `, ${esc(e.venue)}` : ''}</li>`).join('')}</ul>` : ''}
-  <ul class="ticks"><li><a href="${pageUrl('detecting-rallies-2026')}">Detecting rallies 2026 — updated weekly</a></li><li><a href="${pageUrl('minelab-500-rally')}">The Minelab 500 Rally</a></li><li><a href="${pageUrl('detectival')}">Detectival</a></li></ul>
+  <ul class="ticks"><li><a href="${pageUrl('detecting-rallies-2026')}">Detecting rallies 2026</a></li><li><a href="${pageUrl('minelab-500-rally')}">The Minelab 500 Rally</a></li><li><a href="${pageUrl('detectival')}">Detectival</a></li></ul>
   <div class="newsletter"><h3>${HOME.newsletter.heading}</h3><p>${HOME.newsletter.body}</p><a class="btn btn--ghost" href="${LINKS.newsletter}" rel="sponsored noopener" target="_blank">Join the Crawfords mailing list ${icon.ext}</a></div></div>
 </div></section>`;
   writeFile('index.html', doc({ seo: r.seo, canonical: r.liveUrl, jsonld: r.seo.jsonld }, body, ''));
@@ -302,7 +302,7 @@ function renderVideos() {
 <div ${photoHead('photos/paul-park-video.jpg')}><div class="wrap">${crumbs([['', 'Videos']])}
   <p class="eyebrow mono">Paul Cee on YouTube</p>
   <h1 class="page-title">Metal detecting video library</h1>
-  <p class="page-lede">Settings walk-throughs, coil tests, beach sessions and beginner guides — filmed in the field by Paul, Minelab Detexpert. Organised by detector so you can find the tutorial you need.</p>
+  <p class="page-lede">Settings walk-throughs, coil tests, beach sessions and beginner guides, filmed in the field by Paul. Sorted by detector.</p>
   <dl class="stats"><div><dt>${YT.stats.videos}</dt><dd>videos on the channel</dd></div><div><dt>${YT.stats.subscribers}</dt><dd>subscribers</dd></div><div><dt>${YT.stats.views}</dt><dd>views</dd></div></dl>
   <div class="playlists">${groups.map(g => `<a class="chip" href="#${g.key}">${esc(g.title)} <span class="mono">${g.list.length}</span></a>`).join('')}<a class="chip" href="${YT.subscribeUrl}" rel="noopener" target="_blank">${icon.yt} Subscribe</a></div>
 </div></div>
@@ -328,11 +328,11 @@ function renderPage(r) {
   const body = `
 <div ${r.slug === 'about-us' ? photoHead('photos/paul-drone-beach.jpg') : 'class="page-head"'}><div class="wrap">${crumbs([...(group?.label === 'Detectors' ? [[url('') + '#detectors', 'Detectors']] : []), ['', h1]])}
   <h1 class="page-title">${esc(h1)}</h1>${r.seo.description ? `<p class="page-lede">${esc(r.seo.description)}</p>` : ''}
-  ${r.affiliateLinks.length || gear.length ? `<p class="disclosure-inline"><span class="mono">Affiliate links</span> Product links go to Crawfords Metal Detectors and carry Paul’s affiliate code — <a href="#disclosure">learn more</a>.</p>` : ''}
+  ${r.affiliateLinks.length || gear.length ? `<p class="disclosure-inline"><span class="mono">Affiliate links</span> Product links go to Crawfords Metal Detectors and earn Paul a commission at no extra cost to you. <a href="#disclosure">Details below</a>.</p>` : ''}
 </div></div>
 <div class="wrap layout">
   <article class="prose">${r.slug === 'detecting-rallies-2026' ? eventsBlock() : ''}${content}${r.slug === 'about-us' ? gallery() : ''}
-    ${gear.length ? `<div class="gear-strip"><h2>Gear in this guide — buy at Crawfords MD</h2><div class="gear-strip__grid">${gear.map(p => productBox(p)).join('')}</div></div>` : ''}
+    ${gear.length ? `<div class="gear-strip"><h2>Gear mentioned in this guide (Crawfords MD)</h2><div class="gear-strip__grid">${gear.map(p => productBox(p)).join('')}</div></div>` : ''}
   </article>
   <aside class="sidebar">
     ${toc.length > 3 ? `<nav class="side-card toc" aria-label="On this page"><p class="mono side-card__k">On this page</p><ol>${toc.filter(t => t.level === 'h2' || toc.filter(x => x.level === 'h2').length < 3).slice(0, 12).map(t => `<li><a href="#${t.id}">${esc(t.text)}</a></li>`).join('')}</ol></nav>` : ''}
@@ -382,7 +382,7 @@ const contactForm = () => `<form class="form" onsubmit="event.preventDefault();t
   <div class="field"><label for="cf-email">Email address</label><input id="cf-email" name="email" type="email" autocomplete="email" required></div>
   <div class="field"><label for="cf-msg">How can Paul help?</label><textarea id="cf-msg" name="message" rows="5" required></textarea><p class="hint">Detector set-up questions, rally enquiries or collaborations.</p></div>
   <button class="btn" type="submit">Send message</button>
-  <p class="form__note" role="status" hidden>Preview only — on launch this form will deliver to Paul’s inbox.</p>
+  <p class="form__note" role="status" hidden>Preview only. On launch this form will deliver to Paul’s inbox.</p>
 </form>`;
 
 function renderPost(p, i) {
@@ -402,10 +402,10 @@ function renderPost(p, i) {
 </div></div>
 <div class="wrap layout layout--post">
   <article class="prose">
-    ${p.affiliateLinks.length || gear.length ? `<p class="disclosure-inline"><span class="mono">Affiliate links</span> Product links go to Crawfords Metal Detectors and carry Paul’s affiliate code, at no extra cost to you.</p>` : ''}
+    ${p.affiliateLinks.length || gear.length ? `<p class="disclosure-inline"><span class="mono">Affiliate links</span> Product links go to Crawfords Metal Detectors and earn Paul a commission at no extra cost to you.</p>` : ''}
     ${hero}${content}
-    ${gear.length ? `<div class="gear-strip"><h2>Gear in this article — buy at Crawfords MD</h2><div class="gear-strip__grid">${gear.map(x => productBox(x)).join('')}</div></div>` : ''}
-    <div class="author-box">${img(BRAND.paulPhoto, 'Paul Cee', { cls: 'author-box__img' })}<div><p class="mono side-card__k">About the author</p><p class="author-box__name">Paul Cee</p><p>Official Minelab Detexpert, field tester and Crawfords Metal Detectors ambassador. Paul films a new detecting video most weeks and prefers the beach — the finds are younger, but the deep old coins come out in far better condition.</p><p><a href="${pageUrl('about-us')}">More about Paul</a> · <a href="${url('videos/')}">Videos</a> · <a href="${YT.subscribeUrl}" rel="noopener" target="_blank">YouTube</a></p></div></div>
+    ${gear.length ? `<div class="gear-strip"><h2>Gear mentioned in this article (Crawfords MD)</h2><div class="gear-strip__grid">${gear.map(x => productBox(x)).join('')}</div></div>` : ''}
+    <div class="author-box">${img(BRAND.paulPhoto, 'Paul Cee', { cls: 'author-box__img' })}<div><p class="mono side-card__k">About the author</p><p class="author-box__name">Paul Cee</p><p>Minelab Detexpert, field tester and Crawfords Metal Detectors ambassador. Paul posts a new detecting video most weeks and prefers the beach. The finds are younger, but old coins tend to come out in better condition.</p><p><a href="${pageUrl('about-us')}">More about Paul</a> · <a href="${url('videos/')}">Videos</a> · <a href="${YT.subscribeUrl}" rel="noopener" target="_blank">YouTube</a></p></div></div>
     <nav class="post-nav" aria-label="More posts">${prev ? `<a href="${url(`blog/${prev.slug}/`)}"><span class="mono">← Older</span>${esc(prev.title)}</a>` : '<span></span>'}${next ? `<a class="post-nav__next" href="${url(`blog/${next.slug}/`)}"><span class="mono">Newer →</span>${esc(next.title)}</a>` : ''}</nav>
   </article>
   <aside class="sidebar">
@@ -424,7 +424,7 @@ function renderBlogIndex(list, { topic } = {}) {
   const body = `
 <div ${photoHead('photos/paul-minelab-shirt-beach.jpg')}><div class="wrap">${crumbs(topic ? [[url('blog/'), 'Blog'], ['', topic.label]] : [['', 'Blog']])}
   <h1 class="page-title">${topic ? esc(topic.label) : 'The Paul Cee blog'}</h1>
-  <p class="page-lede">${topic ? `${list.length} articles on ${esc(topic.label.toLowerCase())} from Paul Cee.` : `Settings, reviews, field reports and finds — ${posts.length} articles since 2017. Pick a detector or topic to filter the library.`}</p>
+  <p class="page-lede">${topic ? `${list.length} articles on ${esc(topic.label.toLowerCase())} from Paul Cee.` : `Settings, reviews, field reports and finds. ${posts.length} articles since 2017.`}</p>
   ${chips}
 </div></div>
 <div class="wrap">
@@ -433,7 +433,7 @@ function renderBlogIndex(list, { topic } = {}) {
   <p class="load-more-row"><button class="btn btn--ghost" type="button" data-load-more hidden>Show more articles</button></p>
   ${ad(BLOG_SLOT, 'blog index')}
 </div>`;
-  const seo = topic ? { title: `${topic.label} | Paul Cee Metal Detecting Blog`, description: `${topic.label}: settings, reviews and field reports from Paul Cee, Minelab Detexpert.` } : { title: 'Blog | Paul Cee Metal Detecting', description: 'Metal detecting blog from Paul Cee — Minelab settings, detector and coil reviews, beach detecting tips and UK finds.' };
+  const seo = topic ? { title: `${topic.label} | Paul Cee Metal Detecting Blog`, description: `${topic.label}: settings, reviews and field reports from Paul Cee, Minelab Detexpert.` } : { title: 'Blog | Paul Cee Metal Detecting', description: 'Metal detecting blog from Paul Cee: Minelab settings, detector and coil reviews, beach detecting tips and UK finds.' };
   writeFile(topic ? `blog/topic/${topic.key}/index.html` : 'blog/index.html', doc({ seo, canonical: `${ORIGIN}/blog/` }, body, 'blog/'));
 }
 
