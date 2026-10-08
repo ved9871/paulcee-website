@@ -44,7 +44,7 @@ collections:
       - { name: cover, label: Cover image, widget: image, required: false }
       - { name: heroVideo, label: Main YouTube video, widget: string, required: false, hint: "Paste the YouTube link." }
       - { name: summary, label: Summary, widget: text, hint: "One or two sentences shown on blog cards. Also used for Google when no meta description is given below." }
-      - { name: body, label: Article, widget: markdown, modes: [raw, rich_text] }
+      - { name: body, label: Article, widget: markdown, modes: [rich_text, raw] }
       - name: seo
         label: SEO (Google)
         widget: object
@@ -67,7 +67,7 @@ collections:
     preview_path: "{{slug}}/"
     fields:
       - { name: title, label: Page heading, widget: string, required: false }
-      - { name: body, label: Content, widget: markdown, modes: [raw, rich_text] }
+      - { name: body, label: Content, widget: markdown, modes: [rich_text, raw] }
       - name: seo
         label: SEO (Google)
         widget: object

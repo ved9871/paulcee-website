@@ -1,0 +1,70 @@
+name: Restore content from a backup
+
+# Puts content/ and public/img/ back to the state in a backup made by the
+# "Backup content" workflow, commits that to main and rebuilds the site.
+# Run it from the Actions tab: "Run workflow", then type the backup tag
+# (for example backup-2026-10-04, listed on the Releases page) or paste a
+# direct link to a backup zip. Nothing else in the repository is touched,
+# and the previous state stays in the Git history, so a restore can itself
+# be undone by restoring a newer backup.
+
+on:
+  workflow_dispatch:
+    inputs:
+      backup:
+        description: 'Backup tag from the Releases page (e.g. backup-2026-10-04) or a direct https link to a backup zip'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: restore
+  cancel-in-progress: false
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      BACKUP: ${{ inputs.backup }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch the backup zip
+        run: |
+          case "$BACKUP" in
+            https://*) curl -fsSL -o backup.zip "$BACKUP" ;;
+            backup-*)  gh release download "$BACKUP" --repo "$GITHUB_REPOSITORY" --pattern '*.zip' --output backup.zip ;;
+            *) echo "::error::Enter a backup tag like backup-2026-10-04 or an https link to a zip"; exit 1 ;;
+          esac
+          unzip -l backup.zip | grep -q ' content/' || { echo "::error::That zip does not contain a content/ folder"; exit 1; }
+
+      - name: Replace content/ and public/img/ with the backup
+        run: |
+          rm -rf content public/img
+          unzip -q backup.zip
+          rm backup.zip
+          test -d content && test -d public/img
+
+      - name: Commit the restored content
+        id: commit
+        run: |
+          git config user.name  "Paul Cee site backup"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A content public/img
+          if git diff --cached --quiet; then
+            echo "Nothing to restore: the site already matches $BACKUP"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Restore content from $BACKUP" -m "Run by ${{ github.actor }} via the restore workflow."
+            git push origin HEAD:main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Rebuild and publish the site
+        if: steps.commit.outputs.changed == 'true'
+        # Pushes made with the workflow token do not trigger other workflows, so start the deploy here.
+        run: gh workflow run pages.yml --repo "$GITHUB_REPOSITORY" --ref main

@@ -13,8 +13,8 @@ test('build writes a valid admin with site_url and product options', () => {
   for (const n of ['posts', 'pages', 'events', 'products', 'topics', 'settings']) assert.ok(names.includes(n), n);
   assert.deepEqual(cfg.collections.find(c => c.name === 'settings').files.map(f => f.name), ['site', 'videos']);
   for (const c of cfg.collections.filter(c => c.folder)) assert.ok(fs.existsSync(c.folder), c.folder);
-  // Bodies open in raw Markdown until the rich-text save round trip is verified (Sveltia `modes`, first = default).
-  for (const n of ['posts', 'pages']) assert.deepEqual(cfg.collections.find(c => c.name === n).fields.find(f => f.name === 'body').modes, ['raw', 'rich_text'], n);
+  // Rich text is the default editor; the save round trip (text, video and product blocks) was verified in the live admin on 2026-10-07. Raw Markdown stays available.
+  for (const n of ['posts', 'pages']) assert.deepEqual(cfg.collections.find(c => c.name === n).fields.find(f => f.name === 'body').modes, ['rich_text', 'raw'], n);
   const summary = cfg.collections.find(c => c.name === 'posts').fields.find(f => f.name === 'summary');
   assert.notEqual(summary.required, false); assert.match(summary.hint, /Google/);
   const compare = cfg.collections.find(c => c.name === 'products').fields.find(f => f.name === 'compare');

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Paul Cee · Site tools</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin: 0; padding: 2rem 1rem 4rem; font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; background: #f6f6f6; color: #1f1b18; }
+    @media (prefers-color-scheme: dark) { body { background: #1c1a19; color: #ece9e6; } .card { background: #2a2725; } a.btn { background: #ece9e6; color: #1c1a19; } }
+    main { max-width: 44rem; margin: 0 auto; }
+    h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+    .lede { margin: 0 0 1.5rem; opacity: .8; }
+    .card { background: #fff; border-radius: 12px; padding: 1.1rem 1.25rem; margin: 0 0 1rem; box-shadow: 0 1px 2px rgba(0,0,0,.08); }
+    .card h2 { font-size: 1.1rem; margin: 0 0 .5rem; }
+    .card p { margin: .35rem 0; }
+    .card ol { margin: .35rem 0 .35rem 1.2rem; padding: 0; }
+    a.btn { display: inline-block; margin: .35rem .5rem .35rem 0; padding: .5rem .85rem; border-radius: 8px; background: #2e2925; color: #fff; text-decoration: none; font-weight: 600; }
+    a.btn.buy { background: #075692; color: #fff; }
+    a.btn.red { background: #e1261c; color: #fff; }
+    small { opacity: .75; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Site tools</h1>
+  <p class="lede">Backups, undo, and who can edit. Everything here opens on GitHub, so you need to be signed in there.</p>
+
+  <section class="card">
+    <h2>Edit the site</h2>
+    <a class="btn red" href="../">Open the editor</a>
+    <a class="btn" href="__SITE_URL__/">View the site</a>
+    <p><small>Every save in the editor publishes within a few minutes. Posts marked Draft, and posts dated in the future, stay hidden until you untick Draft or the date arrives.</small></p>
+  </section>
+
+  <section class="card">
+    <h2>Backups</h2>
+    <p>A full copy of all pages, posts, events, products and images is made every Sunday night. You can also make one whenever you like.</p>
+    <a class="btn" href="__REPO_URL__/releases">Download a backup</a>
+    <a class="btn" href="__REPO_URL__/actions/workflows/backup.yml">Make a backup now</a>
+    <p><small>Each backup is a zip file named by date. On the "Make a backup now" page, press <b>Run workflow</b>, then <b>Run workflow</b> again. The newest 12 backups are kept.</small></p>
+  </section>
+
+  <section class="card">
+    <h2>Restore a backup</h2>
+    <p>Puts all content and images back to how they were in a chosen backup. Nothing is lost: the state before the restore stays in the history, so you can restore a newer backup afterwards.</p>
+    <a class="btn" href="__REPO_URL__/actions/workflows/restore.yml">Restore a backup</a>
+    <ol>
+      <li>Press <b>Run workflow</b>.</li>
+      <li>Type the backup name from the Releases page, for example <code>backup-2026-10-04</code>. You can also paste a link to a backup zip you downloaded and re-uploaded somewhere.</li>
+      <li>Press <b>Run workflow</b>. The site rebuilds in a few minutes.</li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2>Undo one change</h2>
+    <p>Inside the editor, open any page or post and use the <b>History</b> panel on the right to see earlier versions. For the full change log of the whole site:</p>
+    <a class="btn" href="__REPO_URL__/commits/main">See all changes</a>
+  </section>
+
+  <section class="card">
+    <h2>Who can edit</h2>
+    <p>Editors sign in with a free GitHub account. To let someone in, add them as a collaborator with the <b>Write</b> role. To remove someone, take them off the same page.</p>
+    <a class="btn buy" href="__REPO_URL__/settings/access">Invite or remove an editor</a>
+    <p><small>Press <b>Add people</b>, enter their GitHub username or email, choose <b>Write</b>. They get an email invitation; once accepted they can sign in at the editor. Only the site owner can change this list.</small></p>
+  </section>
+
+  <section class="card">
+    <h2>Help</h2>
+    <a class="btn" href="__REPO_URL__/blob/main/docs/HOW-TO-EDIT.md">How to edit the site</a>
+  </section>
+</main>
+</body>
+</html>

@@ -458,6 +458,13 @@ fs.mkdirSync(path.join(DIST, 'admin'), { recursive: true });
 fs.copyFileSync(path.join(ROOT, 'src/admin/index.html'), path.join(DIST, 'admin/index.html'));
 fs.writeFileSync(path.join(DIST, 'admin/config.yml'), fs.readFileSync(path.join(ROOT, 'src/admin/config.yml'), 'utf8').replaceAll('__SITE_URL__', siteUrl));
 fs.writeFileSync(path.join(DIST, 'admin/components.js'), fs.readFileSync(path.join(ROOT, 'src/admin/components.js'), 'utf8').replace('/*__PRODUCT_OPTIONS__*/[]', JSON.stringify(PRODUCTS.map(p => ({ label: p.name, value: p.key })))));
+// Site tools page (backups, restore, access): plain HTML linking to the GitHub repo
+{
+  const repo = (fs.readFileSync(path.join(ROOT, 'src/admin/config.yml'), 'utf8').match(/^\s*repo:\s*(\S+)/m) || [])[1];
+  if (!repo) throw new Error('src/admin/config.yml: backend.repo not found');
+  fs.mkdirSync(path.join(DIST, 'admin/tools'), { recursive: true });
+  fs.writeFileSync(path.join(DIST, 'admin/tools/index.html'), fs.readFileSync(path.join(ROOT, 'src/admin/tools.html'), 'utf8').replaceAll('__SITE_URL__', siteUrl).replaceAll('__REPO_URL__', `https://github.com/${repo}`));
+}
 
 // search index (guides, posts, videos)
 const search = [
