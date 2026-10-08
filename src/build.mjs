@@ -85,9 +85,11 @@ function links(html) {
 const ytThumb = (id, q = 'hqdefault') => `https://i.ytimg.com/vi/${id}/${q}.jpg`;
 const video = (id, title = '', dur = '') => `<div class="yt" data-yt="${id}"><img src="${ytThumb(id)}" alt="" loading="lazy" width="480" height="360"><button type="button" class="yt__play" aria-label="Play video${title ? ': ' + esc(title) : ''}"><svg viewBox="0 0 68 48" aria-hidden="true"><path d="M66.5 7.7a8.5 8.5 0 0 0-6-6C55.2.3 34 .3 34 .3s-21.2 0-26.5 1.4a8.5 8.5 0 0 0-6 6C.1 13 .1 24 .1 24s0 11 1.4 16.3a8.5 8.5 0 0 0 6 6C12.8 47.7 34 47.7 34 47.7s21.2 0 26.5-1.4a8.5 8.5 0 0 0 6-6C67.9 35 67.9 24 67.9 24s0-11-1.4-16.3z" fill="currentColor"/><path d="M45 24 27 14v20z" fill="#fff"/></svg></button>${title ? `<span class="yt__title">${esc(title)}</span>` : ''}${dur ? `<span class="vid__dur">${esc(dur)}</span>` : ''}</div>`;
 
-const ad = (slot, label = 'In-content') => PROD
+// Ad units need an AdSense slot ID. Everything else is left to Google's Auto ads, exactly as on the
+// current live site, so a call without a slot renders nothing (preview and production alike).
+const ad = (slot, label = 'In-content') => !slot ? '' : PROD
   ? `<div class="ad"><ins class="adsbygoogle" style="display:block" data-ad-client="${ADSENSE}"${slot ? ` data-ad-slot="${slot}"` : ''} data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></div>`
-  : `<aside class="ad ad--preview" aria-label="Advertisement placeholder"><span class="mono">AdSense · ${esc(label)}</span><span>${slot ? `Slot ${slot}, preserved from current site` : 'Auto-ads position'}</span></aside>`;
+  : `<aside class="ad ad--preview" aria-label="Advertisement placeholder"><span class="mono">AdSense · ${esc(label)}</span><span>Slot ${slot}, preserved from current site</span></aside>`;
 
 // ---------- videos ----------
 const videos = withPlaylistTitles(VID.videos, VID.playlists);
@@ -284,7 +286,6 @@ function renderHome() {
   <div class="latest">${postCard(latest[0], { size: 'card--lg' })}${latest.slice(1).map(p => postCard(p)).join('')}</div>
 </div></section>
 
-<div class="wrap">${ad('', 'homepage auto ad')}</div>
 
 <section class="section section--dark" aria-labelledby="rally-h"><div class="wrap split split--rev">
   <figure class="rally-photo">${img('images/DSC00062-copy.jpg', 'Paul Cee helping a detectorist with settings at a metal detecting rally')}</figure>
@@ -308,7 +309,6 @@ function renderVideos() {
 </div></div>
 <div class="wrap">
 ${groups.map(g => `<section class="vid-group" id="${g.key}" aria-labelledby="vg-${g.key}"><div class="vid-group__head"><h2 id="vg-${g.key}">${esc(g.title)}</h2>${g.hub && pages[g.hub] ? `<a href="${pageUrl(g.hub)}">Read the ${esc(g.title)} guide →</a>` : ''}</div><div class="vids" data-paginate="8">${g.list.map(vidCard).join('')}</div><p class="load-more-row"><button class="btn btn--ghost" type="button" data-load-more hidden>Show more videos</button></p></section>`).join('')}
-  ${ad('', 'videos page auto ad')}
   <p class="more-links">Showing ${videos.length} videos from Paul’s playlists and latest uploads. <a href="${YT.channelUrl}/videos" rel="noopener" target="_blank">See all ${YT.stats.videos} on YouTube ${icon.ext}</a></p>
 </div>`;
   writeFile('videos/index.html', doc({ seo: { title: 'Metal Detecting Videos & Minelab Tutorials | Paul Cee', description: `Paul Cee's metal detecting video library: Minelab Manticore, Equinox, Vanquish and X-Terra tutorials, settings and beach detecting sessions. ${YT.stats.videos} videos.` }, canonical: `${ORIGIN}/videos/` }, body, 'videos/'));
@@ -318,7 +318,7 @@ function renderPage(r) {
   if (r.slug === 'index') return;
   const toc = [];
   const h1 = r.h1 || strip(r.seo.title);
-  const content = renderBlocks(r.blocks, { toc, adEvery: 6 });
+  const content = renderBlocks(r.blocks, { toc });
   const group = NAV.find(n => n.groups && n.groups.some(g => g.items.some(([s]) => s === r.slug)));
   const related = group ? group.groups.flatMap(g => g.items).filter(([s]) => s !== r.slug).slice(0, 6) : [];
   const relPosts = posts.filter(p => r.slug.includes(p.topic.key.replace('minelab-', '')) || (p.topic.key.startsWith('minelab-') && r.slug.includes(p.topic.key.split('-').pop()))).slice(0, 4);
@@ -338,7 +338,6 @@ function renderPage(r) {
     ${toc.length > 3 ? `<nav class="side-card toc" aria-label="On this page"><p class="mono side-card__k">On this page</p><ol>${toc.filter(t => t.level === 'h2' || toc.filter(x => x.level === 'h2').length < 3).slice(0, 12).map(t => `<li><a href="#${t.id}">${esc(t.text)}</a></li>`).join('')}</ol></nav>` : ''}
     ${buyAside(text, r.affiliateLinks.map(crawfords).find(Boolean))}
     ${paulCard()}
-    ${ad('', 'sidebar auto ad')}
     ${related.length ? `<nav class="side-card" aria-label="Related guides"><p class="mono side-card__k">More in ${group.label}</p><ul class="side-list">${related.map(([s, l]) => `<li><a href="${pageUrl(s)}">${l}</a></li>`).join('')}</ul></nav>` : ''}
   </aside>
 </div>
@@ -349,8 +348,8 @@ ${relPosts.length ? `<section class="section section--tint"><div class="wrap"><d
 }
 
 // Render content blocks -> HTML, collecting headings for a table of contents
-function renderBlocks(blocks, { toc = [], adEvery = 0 } = {}) {
-  let out = '', paras = 0, adsPlaced = 0; const used = new Set();
+function renderBlocks(blocks, { toc = [] } = {}) {
+  let out = ''; const used = new Set();
   const hid = t => { let id = slugify(t) || 'section'; while (used.has(id)) id += '-2'; used.add(id); return id; };
   for (const b of blocks) {
     switch (b.t) {
@@ -359,9 +358,7 @@ function renderBlocks(blocks, { toc = [], adEvery = 0 } = {}) {
         if (tag !== 'h4') toc.push({ id, text, level: tag });
         out += `<${tag} id="${id}">${links(b.html)}</${tag}>`; break;
       }
-      case 'p': out += `<p>${links(b.html)}</p>`; paras++;
-        if (adEvery && paras % adEvery === 0 && adsPlaced < 2) { out += ad('', 'in-article auto ad'); adsPlaced++; }
-        break;
+      case 'p': out += `<p>${links(b.html)}</p>`; break;
       case 'figure': { const h = links(b.html); const ws = [...h.matchAll(/max-width:min\(100%,(\d+)px\)/g)].map(m => +m[1]); out += `<figure${ws.length && Math.max(...ws) <= 180 ? ' class="fig--small"' : ''}>${h}</figure>`; break; }
       case 'cta': out += `<p class="cta-row">${links(b.html).replace(/class="aff"/, 'class="btn btn--buy"')}</p>`; break;
       case 'ul': case 'ol': out += `<${b.t}>${b.items.map(i => `<li>${links(i)}</li>`).join('')}</${b.t}>`; break;
@@ -387,7 +384,7 @@ const contactForm = () => `<form class="form" onsubmit="event.preventDefault();t
 
 function renderPost(p, i) {
   const toc = [];
-  const content = renderBlocks(p.blocks, { toc, adEvery: 5 });
+  const content = renderBlocks(p.blocks, { toc });
   const related = posts.filter(x => x !== p && x.topic.key === p.topic.key).slice(0, 3);
   const recentPosts = posts.filter(x => x !== p).slice(0, 5);
   const prev = posts[i + 1], next = posts[i - 1];
@@ -409,10 +406,10 @@ function renderPost(p, i) {
     <nav class="post-nav" aria-label="More posts">${prev ? `<a href="${url(`blog/${prev.slug}/`)}"><span class="mono">← Older</span>${esc(prev.title)}</a>` : '<span></span>'}${next ? `<a class="post-nav__next" href="${url(`blog/${next.slug}/`)}"><span class="mono">Newer →</span>${esc(next.title)}</a>` : ''}</nav>
   </article>
   <aside class="sidebar">
-    ${ad(BLOG_SLOT, 'blog sidebar')}
     ${buyAside(text, p.affiliateLinks.map(crawfords).find(Boolean))}
     ${paulCard()}
     <nav class="side-card" aria-label="Recent posts"><p class="mono side-card__k">Recent posts</p><ul class="side-list">${recentPosts.map(x => `<li><a href="${url(`blog/${x.slug}/`)}">${esc(x.title)}</a></li>`).join('')}</ul></nav>
+    ${ad(BLOG_SLOT, 'blog sidebar')}
   </aside>
 </div>
 ${related.length ? `<section class="section section--tint"><div class="wrap"><div class="section__head"><p class="eyebrow mono">${esc(p.topic.label)}</p><h2>Keep reading</h2></div><div class="grid-3">${related.map(x => postCard(x)).join('')}</div></div></section>` : ''}`;
@@ -431,7 +428,7 @@ function renderBlogIndex(list, { topic } = {}) {
   <div class="grid-3 blog-grid" data-paginate="18"${topic ? '' : ' data-filterable'}>${list.map((p, i) => postCard(p, { size: i === 0 && !topic ? 'card--lg' : '' })).join('')}</div>
   <p class="blog-empty page-lede" hidden>No articles in this topic yet.</p>
   <p class="load-more-row"><button class="btn btn--ghost" type="button" data-load-more hidden>Show more articles</button></p>
-  ${ad(BLOG_SLOT, 'blog index')}
+  <div class="ad-index">${ad(BLOG_SLOT, 'blog index')}</div>
 </div>`;
   const seo = topic ? { title: `${topic.label} | Paul Cee Metal Detecting Blog`, description: `${topic.label}: settings, reviews and field reports from Paul Cee, Minelab Detexpert.` } : { title: 'Blog | Paul Cee Metal Detecting', description: 'Metal detecting blog from Paul Cee: Minelab settings, detector and coil reviews, beach detecting tips and UK finds.' };
   writeFile(topic ? `blog/topic/${topic.key}/index.html` : 'blog/index.html', doc({ seo, canonical: `${ORIGIN}/blog/` }, body, 'blog/'));

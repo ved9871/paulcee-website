@@ -4,7 +4,7 @@ A new design for [paulcee.co.uk](https://www.paulcee.co.uk): Paul Cee's metal-de
 
 This repository holds the **design preview**, a static build of the full site in the new design using **all current content**, which Paul can click through before we build the WordPress version. It also holds the migrated content and the SEO/AdSense inventory we'll use for launch.
 
-> **The preview is not the live site.** Every page is `noindex, nofollow`, `robots.txt` blocks all crawlers, AdSense and GA4 are **not** loaded (ad positions are shown as labelled placeholders), and canonical tags point at the current live URLs. Nothing here can affect Paul's rankings or AdSense account.
+> **The preview is not the live site.** Every page is `noindex, nofollow`, `robots.txt` blocks all crawlers, AdSense and GA4 are **not** loaded (the one hand-placed blog ad slot is shown as a labelled placeholder; Auto ads need the real domain), and canonical tags point at the current live URLs. Nothing here can affect Paul's rankings or AdSense account.
 
 ## What's inside
 

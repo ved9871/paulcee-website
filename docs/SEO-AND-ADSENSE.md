@@ -20,9 +20,11 @@ The redesign must not cost Paul any rankings or any AdSense or affiliate income.
 
 - Publisher: `ca-pub-4569712894771793`
 - The site currently uses **Auto ads** on pages and **manual slot `5406186549`** in the blog sidebar.
-- In production mode the build outputs the same `adsbygoogle.js` loader, auto-ad positions, and slot `5406186549` in the blog sidebar and blog index.
-- The preview shows these positions as labelled placeholders and loads **no** ad code. Serving ads on an unapproved GitHub domain would break AdSense policy.
-- At launch: `ads.txt` stays at the domain root unchanged, and we check the account's **Sites** list and ad serving within 24 hours.
+- In production mode the build outputs the same `adsbygoogle.js` loader (Auto ads decide their own positions, as on the live site) and slot `5406186549` on every post (bottom of the sidebar, below the recent-posts list) and at the foot of the blog index and topic pages. No other hand-placed units: an ad call without a slot ID renders nothing, and the build never inserts ads into article text, so ads can't land next to buy buttons.
+- The preview shows the blog slot as a labelled placeholder and loads **no** ad code. Serving ads on an unapproved GitHub domain would break AdSense policy.
+- `public/ads.txt` declares the publisher ID (the live site has no ads.txt, which AdSense flags as a warning). It only counts once the site is on the real domain.
+- Placement was compared against eight live pages on 2026-10-08 (see the session notes): live uses Auto ads only, plus the blog slot in the post sidebar.
+- At launch: check the account's **Sites** list, ads.txt status and ad serving within 24 hours.
 
 ## Analytics
 

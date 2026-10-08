@@ -25,7 +25,7 @@ CMS.registerEditorComponent({
 
 CMS.registerEditorComponent({
   id: 'ad', label: 'AdSense slot',
-  fields: [{ name: 'slot', label: 'Ad slot ID (leave empty for auto ads)', widget: 'string', required: false }],
+  fields: [{ name: 'slot', label: 'Ad slot ID from AdSense (nothing shows without one)', widget: 'string', required: true }],
   pattern: /^\{\{ad slot="([^"]*)"\}\}$/,
   fromBlock: m => ({ slot: m[1] }),
   toBlock: d => `{{ad slot="${d.slot || ''}"}}`,
