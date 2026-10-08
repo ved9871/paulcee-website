@@ -3,7 +3,7 @@
 This is the editor guide for Paul. It covers everything you need day to day. Keep it open in a tab the first few times.
 
 **The editor:** https://ved9871.github.io/paulcee-website/admin/
-**Site tools (backups, undo, access):** https://ved9871.github.io/paulcee-website/admin/tools/
+**Site tools (backups, undo, access):** https://ved9871.github.io/paulcee-website/admin/tools/ (also the blue **Site tools** button at the bottom right of the editor; its links open in new tabs)
 
 Both addresses change to the paulcee.co.uk subdomain when the site moves. Nothing else changes.
 
