@@ -1,5 +1,5 @@
 ---
-title: sand scoops For Metal Detecting
+title: Sand Scoops For Metal Detecting
 seo:
   title: sand scoops For Metal Detecting
   description: sand scoop and shafts metal detecting beach, best sand scoop, Sito Sand scoop uk, stainless steel sand scoop, metal detecting sand scoop, sand scoop shaft cover
