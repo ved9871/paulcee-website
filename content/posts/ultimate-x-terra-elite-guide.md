@@ -1,19 +1,24 @@
 ---
 title: Ultimate X Terra Elite Guide
 datePublished: 2025-01-05T12:31:00
+draft: false
 topic: minelab-x-terra
+tags:
+  - Minelab X Terra
+  - Xterra Elite
+  - X Terra Elite Settings
 cover: /img/b-XTE-intro_WEB.webp
 heroVideo: aULlCG7EjWE
 summary: The Ultimate guide to the minelab XTerra Elite
 seo:
   title: Ultimate X Terra Elite Guide - Blog
-  description: "Ultimate guide to the Xterra Elite, change settings with confidence and how and where to go metal detecting and find the accessories for you new detector "
+  description: Ultimate guide to the Xterra Elite, change settings with confidence and how and where to go metal detecting and find the accessories for you new detector
   keywords: minelab xterra elite, settings, minelab xterra, accessories, minelab xterra uk, how to metal detect, settings, guide, begginer
 ---
 
 ## Minelab X Terra Elite Metal Detector Guide
 
-![user guide for the Minelab X-Terra Elite](/img/XTE-intro_WEB.webp)
+![user guide for the Minelab X-Terra Elite](/img/XTE-intro_WEB.webp "Minelab X Terra Elite Settings and user guide")
 
 ### Setup, Advanced Settings, and Expert Tips
 
@@ -133,7 +138,7 @@ Understanding the Basic Controls:
 
 <strong>Balance:</strong> If sensitivity is too high, false signals may occur, making it hard to distinguish between a faint good target and a false signal. Adjust sensitivity to find the best balance for your specific environment.
 
-*A metal detector that is quiet running results in a happy metal detectorist*
+_A metal detector that is quiet running results in a happy metal detectorist_
 
 <strong>Discrimination Settings and Modes:</strong>
 
@@ -169,7 +174,7 @@ Understanding the Basic Controls:
 
 <strong>Faster Recovery Speed:</strong> Ideal for trashy areas with lots of signals, as it helps you quickly separate good targets from junk. Makes the target tones sound "sharper."
 
-<strong>Slower Recovery Speed:</strong> Suitable for cleaner areas where you want to focus on deeper targets, allowing the detector to fully process each signal. Makes the target tones sound "longer," requiring a *slower swing speed*.
+<strong>Slower Recovery Speed:</strong> Suitable for cleaner areas where you want to focus on deeper targets, allowing the detector to fully process each signal. Makes the target tones sound "longer," requiring a _slower swing speed_.
 
 <strong>FE Function (Ferrous Elimination):</strong>
 
@@ -205,7 +210,7 @@ It is also good practice to every now and again to check the rubber washers betw
 
 Venturing out for your first metal detecting trip can be both exciting and a little daunting.
 
-Please be enthusiastic, <strong>*BUT remember*</strong> that you may not find treasure every time you go out detecting!
+Please be enthusiastic, <strong>_BUT remember_</strong> that you may not find treasure every time you go out detecting!
 
 Here’s a simple guide to help you get started:
 
@@ -255,7 +260,7 @@ Adjust Settings:
 
 <strong>Enjoy the Experience:</strong> Have fun exploring and learning about the history beneath your feet. Every outing is an opportunity to discover something new.
 
-### *Settings i find most effective For Fields*
+### _Settings i find most effective For Fields_
 
 1 Noise Cancel
 
@@ -271,7 +276,7 @@ Adjust Settings:
 
 7 F.E. 2
 
-### *For Beach Detecting*
+### _For Beach Detecting_
 
 1 Noise Cancel
 
@@ -289,6 +294,6 @@ Adjust Settings:
 
 how good is the minelab X Terra Elite metal detecting on the beach here are some of the finds
 
-[![finds made metal detecting on the beach with the Minelab X Terra](/img/xte-coinshooting.webp)](https://www.youtube.com/playlist?list=PLOcWea3AAxcMp_Rkb7nnpdrWNhmvxx59n)
+[![finds made metal detecting on the beach with the Minelab X Terra](/img/xte-coinshooting.webp "Minelab X Terra Elite Beach Detecting")](https://www.youtube.com/playlist?list=PLOcWea3AAxcMp_Rkb7nnpdrWNhmvxx59n)
 
 [Check out the X-Terra Elite Settings videos](https://www.youtube.com/playlist?list=PLOcWea3AAxcMp_Rkb7nnpdrWNhmvxx59n)
