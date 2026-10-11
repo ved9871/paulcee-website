@@ -1,5 +1,5 @@
 ---
-title: beginners guide to metal detecting
+title: Beginners Guide to Metal Detecting
 seo:
   title: beginners guide to metal detecting
   description: Metal detecting for beginners, best metal detector for beginners, tips for beginners to metal detecting, beginner metal detecting, how to metal detect properly
