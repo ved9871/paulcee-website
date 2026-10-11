@@ -1,5 +1,5 @@
 ---
-title: metal detecting LINKS
+title: Metal Detecting LINKS
 seo:
   title: LINKS
   description: Metal Detecting insurance, Crown estate foreshore, metal detector headphones, headphones for metal detectors, best metal detector headphones, surffones
