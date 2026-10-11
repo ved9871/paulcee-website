@@ -1,9 +1,9 @@
 ---
-title: "Swagier Sand Scoops: The Heavy Duty Choice for Beach Detecting"
+title: 'Swagier Sand Scoops: The Heavy Duty Choice for Beach Detecting'
 seo:
   title: Swagier Scoops
-  description: Discover Swagier Sand Scoops—premium stainless steel digging tools for metal detecting. Featuring hexagonal holes and marine-grade durability. Built in Poland.
-  keywords: Swagier scoops, sand scoop, sand sifter, sand scoop uk, best sand scoop,motley digging tools, motley sand scoops
+  description: Swagier Sand Scoops—Premium stainless steel digging tools for metal detecting. Featuring hexagonal holes and marine-grade durability. Built in Poland.
+  keywords: Swagier scoops, sand scoop, sand sifter, sand scoop Uk, best sand scoop, motley digging tools, motley sand scoops
 ---
 
 ## Swagier Sand Scoops: The Heavy-Duty Choice for Beach Detecting
@@ -24,21 +24,19 @@ Stop replacing cheap sand scoops. Swagier sand scoops are crafted from marine-gr
 
 Every scoop is welded from AISI 304 Stainless Steel. This offers exceptional resistance to salt corrosion, ensuring your gear survives season after season in harsh ocean environments.
 
-\
-
 ### 2. Hex-Hole Technology
 
 Swagier uses a signature hexagonal hole pattern (honeycomb design). This structural choice allows water and sand to flow out faster than traditional round holes while maintaining superior strength and preventing mesh deformation.
 
 ### 3. Electropolished Finish
 
-Swagier don't just paint their scoops; they treat them. The electropolishing process smoothes the steel surface on a microscopic level, creating a chrome-like shine that sheds sand easily and Stainless steel wont rust.
+Swagier don't just paint their scoops; they treat them. The electropolishing process smooths the steel surface on a microscopic level, creating a chrome-like shine that sheds sand easily and Stainless steel wont rust.
 
 Meet the Line up
 
 ### The "Tank": Swagier V5
 
-![the best heavy duty sand scoop in the uk for HEAVY SAND beach detecting, and fast target recovery](/img/swagier-V5.webp)
+![the best heavy duty sand scoop in the uk for HEAVY SAND beach detecting, and fast target recovery](/img/swagier-V5.webp "Swagier Sand scoop, heavy duty ")
 
 <strong>Best For: Deep water wading, wet heavy sand, and rocky bottoms.</strong>
 
@@ -56,7 +54,7 @@ Weight 1700gr
 
 ### The "Sniper": Swagier V2 (Sito)
 
-![the swagier Sito V2 sand scoop ideal for dry sand beach detecting](/img/v2-sito1.webp)
+![the swagier Sito V2 sand scoop ideal for dry sand beach detecting](/img/v2-sito1.webp "Swagier Sand scoop ")
 
 <strong>Best For: Dry Sand, Coins, Micro-jewellery, stud earrings, and fine chains.</strong>
 
