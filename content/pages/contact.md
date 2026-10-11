@@ -1,5 +1,5 @@
 ---
-title: contact
+title: Contact
 seo:
   title: contact
   description: Contact Paul Cee. for metal detecting help
