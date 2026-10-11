@@ -108,28 +108,6 @@ Tickets go on sale at the end of May — Limited numbers!
 
 ### ★ BRAND NEW LAND ★
 
-![A metal detecting rally at baumber in sept 2026](/img/baumber-2026.webp)
-
-### Baumber metal detecting rally 2026
-
-**Dates are detecting on Friday 25th - 28th sept 2026**, Leaving site on Tuesday 29th Sept 2026.
-
-### Price £25 per day
-
-Toilets placed across the whole site (as previous years)
-
-Hot food truck.
-
-They also have additional new land from two more farms during the weekend, including reworked land from previous visits.
-
-**Both new sites are positioned next to churches in two different village locations**.
-
-We have approximately 1800 acres for the 4 day weekend.
-
-You will be able to drive and park to the furthest fields.
-
-Last years Sugar-beet fields and flower fields that produced some spectacular finds previously (Saxon, Roman and a gold hammered) will be available for this year.
-
 {{youtube id="syIbMDl9ZiA" title="metal detecting rally, what happens at a metal detecting rally in 2026"}}
 
 🔄 Updates Frequently
