@@ -6,7 +6,7 @@ seo:
   keywords: Metal detecting rallies 2026, UK metal detecting events, detecting weekends, treasure hunting rallies, Minelab 500 rally, UK History Finders, metal detecting holidays, detecting digs UK
 ---
 
-<strong>Welcome to your guide for 2026 Metal Detecting events.</strong>
+<strong>Welcome to your guide for 2026/2027 Metal Detecting events.</strong>
 
 Here you will find the latest listings for metal detecting rallies and events, some are weekenders and some will be metal detecting club day detecting, across the UK, Europe and the world.
 
@@ -42,71 +42,7 @@ Please fill out the form below to have your event listed on this page.
 
 <em>(Our admin team will verify the details and post it for you.)</em>
 
-## Duchy’s Dirty Weekends: The Ultimate Cornwall Metal Detecting Rally
-
-## For 3 weekends in September 2026
-
-Experience Cornwall’s first-of-its-kind metal detecting roadshow experience. Created by Duchy Metal Detectors for the UK detecting community, our exclusive rally events combine exciting new land permissions, proper weekend camping, and incredible metal detecting in some of the UK’s most scenic locations. Imagine swinging your machine across open countryside fields with stunning coastal backdrops and sea views. Whether you want to try beach metal detecting or find historical hammered coins in fresh soil, Duchy’s Dirty Weekends in September offers friendly events, unmatched locations, and unforgettable treasure hunting.
-
-### The Metal Detecting Roadshow Concept
-
-Instead of a single-weekend event, this unique roadshow moves across the Cornish landscape with multiple weekend stops and mid-week camp breaks.
-
-<strong>The Routine:</strong> Arrive and set up camp on Thursday, enjoy a full weekend of intensive detecting, and pack down by Sunday evening or Monday morning before the roadshow shifts locations.
-
-<strong>Join the Adventure:</strong> Book a single weekend or follow the full roadshow across Cornwall! September is a quieter time for local tourist spots, making it easy to arrange nearby mid-week campsite accommodations if you are staying for multiple stops.
-
-<strong>Fresh Permissions:</strong> Exact metal detecting sites are announced closer to the dates, ensuring completely fresh land, diverse terrains, and an amazing community atmosphere.
-
-### What to Expect: The Rally Experience
-
-Every stop on the roadshow has its own unique flavour and setup, but every event is centred around great detecting and good company. Across selected weekend stops, you will find:
-
-#### Top Detecting Brands &amp; Trade Stands: Meet industry experts and try out the latest metal detectors, coils, and pointer gear from top brands like Minelab, Garrett, XP Metal Detectors, Rutus, and Nokta.
-
-<strong>On-Site Facilities:</strong> Enjoy hassle-free camping with accessible toilets, local food vendors serving hot breakfast and evening meals, and a large central event tent featuring a licensed bar and live entertainment. Select sites may also feature electrical hook-ups and hot showers.
-
-<strong>Extra Prizes:</strong> Keep the competitive spirit buzzing with regular raffles, token hunts, and massive metal detecting gear giveaways.
-
-### Night &amp; Day Metal Detecting Games
-
-The excitement doesn't stop when the sun goes down. Put your skills to the test with our custom metal detecting games (just £10 entry per game) with high-end detectors and major prizes up for grabs!
-
-Let's GLOW Hunting (Saturday Night Dark-Field Hunt): When darkness falls, the fields light up. This unique, one-hour night detecting challenge gives you glow sticks to light up your gear. Race to uncover 200 hidden tokens scattered across the field—the detectorist with the most tokens wins a brand-new metal detector, alongside 9 fantastic runner-up prizes. Bring your head torch and prepare for proper detectorist fun!
-
-<strong>Finders-KEY-pers (Daytime Race):</strong> 300 keys. One chest. One ultimate prize. In this fast-paced field challenge, hundreds of keys are scattered across the ground, but only one will unlock the prize chest. It’s a dead sprint to find a key, test the lock, and see if you’ll be walking away with a premium metal detector.
-
-[![a metal detecting weekend in september 2026](/img/dutchy-1.webp) ](https://duchysdirtyweekends.co.uk/collections/events-tickets)
-
-[![a great weekend of metal detecting in september 2026](/img/dutchy-2.webp) ](https://duchysdirtyweekends.co.uk/collections/events-tickets)
-
-[![a metal detecting rally weekend in september 2026, an alternative to Detectival or the RCM rally](/img/dutchy-3.webp) ](https://duchysdirtyweekends.co.uk/collections/events-tickets)
-
 ![Minelab 500 metal detecting rally in 2026, what metal detecting weekends are on in 2026](/img/minelab-500_2026-WEB_wqucwbvc.webp)
-
-Buy Tickets
-
-Organised by
-
-The RCM Rally
-
-(Rodney Cooke Memorial)
-
-## "No Frills" September Events
-
-Tickets go on sale at the end of May — Limited numbers!
-
-📅 4th – 6th September
-
-📍 Newbury, Berkshire
-
-### ★ BRAND NEW LAND ★
-
-📅 18th – 20th September
-
-📍 Cirencester, Gloucestershire
-
-### ★ BRAND NEW LAND ★
 
 {{youtube id="syIbMDl9ZiA" title="metal detecting rally, what happens at a metal detecting rally in 2026"}}
 
