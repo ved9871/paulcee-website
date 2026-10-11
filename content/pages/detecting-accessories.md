@@ -1,5 +1,5 @@
 ---
-title: Must have detecting accessories
+title: Must have Metal Detecting Accessories
 seo:
   title: Metal Detecting cheap accessories
   description: The must-have cheap detecting accessories. From budget pinpointers to tough digging tools, get essential gear to upgrade your hunt without breaking the bank.
@@ -8,7 +8,7 @@ seo:
 
 ## Gear up for your next treasure hunt without breaking the bank.
 
-Our collection of must-have cheap detecting accessories features high-value essentials every detectorist needs—from precise pin pointers and durable digging tools to protective covers and finds pouches. Whether you are a beginner looking to build your first kit or a pro needing reliable backup gear, these affordable tools improve your recovery speed and protect your equipment for less.
+Our collection of must-have cheap metal detecting accessories, features high-value essentials every detectorist needs—from precise pin pointers and durable digging tools to protective covers and finds pouches. Whether you are a beginner looking to build your first kit or a pro needing reliable backup gear, these affordable tools improve your recovery speed and protect your equipment for less.
 
 <a href="https://crawfordsmd.com/cmd-pro-pouch?tracking=fa202437c9" class="btn">Buy CMD Finds Pouch</a>
 
@@ -90,7 +90,7 @@ Includes a USB charge cable with magnetic connection.
 
 <a href="https://crawfordsmd.com/cmd-spray-bottle?tracking=fa202437c9" class="btn">Get Squirter</a>
 
-[![a coin cleaning set comprising of a soft brush and squirt bottle for cleaning liquid, to clean finds on the field](/img/squirter.webp)](https://crawfordsmd.com/cmd-spray-bottle?tracking=fa202437c9)
+[![a coin cleaning set comprising of a soft brush and squirt bottle for cleaning liquid, to clean finds on the field](/img/squirter.webp "Coin Cleaning Brush and Kit")](https://crawfordsmd.com/cmd-spray-bottle?tracking=fa202437c9)
 
 ### CMD Spray Bottle
 
