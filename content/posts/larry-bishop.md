@@ -1,7 +1,7 @@
 ---
 title: Larry Bishop
 datePublished: 2026-10-11T19:18:00
-draft: true
+draft: false
 topic: beginners
 tags:
   - Detectorists
