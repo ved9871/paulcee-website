@@ -1,5 +1,5 @@
 ---
-title: metal detecting on facebook
+title: Metal Detecting on Facebook
 seo:
   title: social sites
   description: Paul Cee, Metal Detecting facebook groups uk, crawfords metal detectors, metal detecting facebook, minelab owners, metal detector groups uk
