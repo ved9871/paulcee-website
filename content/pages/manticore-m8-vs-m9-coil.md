@@ -1,5 +1,6 @@
 ---
 title: Manticore M8 Vs M9 Coil
+noindex: false
 seo:
   title: Manticore M8 Vs M9 Coil
   description: Minelab Manticore Search Coils which is the best the M8 coil or the M9 coil
@@ -79,4 +80,4 @@ Buying a new coil, bag, or digging tool? Use my code at **Crawfords MD** for an 
 PaulCee10
 
 <em>Valid Online, In-Store &amp; by Phone.\
-(Applies to accessories only. Excludes metal detectors.)</em>
+(Applies to accessories only. Excludes metal detectors.)</em> Trial edit.
