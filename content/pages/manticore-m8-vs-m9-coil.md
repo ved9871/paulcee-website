@@ -80,4 +80,4 @@ Buying a new coil, bag, or digging tool? Use my code at **Crawfords MD** for an 
 PaulCee10
 
 <em>Valid Online, In-Store &amp; by Phone.\
-(Applies to accessories only. Excludes metal detectors.)</em> Trial edit.
+(Applies to accessories only. Excludes metal detectors.)</em>
