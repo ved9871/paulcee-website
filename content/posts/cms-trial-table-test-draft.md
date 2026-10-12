@@ -1,7 +1,8 @@
 ---
 title: 'CMS trial: table test (draft)'
-datePublished: 2026-10-07T15:31:00
-draft: true
+datePublished: 2026-10-19T09:00:00
+draft: false
+noindex: false
 topic: ''
 tags: []
 cover: ''
