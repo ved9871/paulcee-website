@@ -11,7 +11,7 @@ for (const f of files) {
   for (const m of h.matchAll(/href="(https?:\/\/(?:[a-z0-9-]+\.)*crawfordsmd\.com[^"]*)"/gi)) if (!/[?&]tracking=fa202437c9(?:&|#|$)/.test(m[1].replace(/&amp;/g, '&'))) { untracked++; if (untracked <= 5) console.log('UNTRACKED', m[1], '←', rel); }
   const prose = (h.match(/<article class="prose">([\s\S]*?)<\/article>/) || [, ''])[1];
   noAlt += (prose.match(/<img (?![^>]*class="(?:card__img|byline__avatar|author-box__img)")[^>]*alt=""/g) || []).length;
-  if (rel === '404.html') continue;
+  if (rel === '404.html' || /http-equiv="refresh"/.test(h)) continue; // 404 and redirect pages carry no article SEO
   const h1 = (h.match(/<h1[\s>]/g) || []).length;
   const t = (h.match(/<title>([^<]*)<\/title>/) || [])[1]; const d = (h.match(/<meta name="description" content="([^"]*)"/) || [])[1];
   const c = (h.match(/<link rel="canonical" href="([^"]*)"/) || [])[1];
