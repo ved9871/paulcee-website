@@ -120,6 +120,8 @@ export function blocksToMarkdown(blocks, ctx) {
 
 // ---------- Markdown -> token HTML blocks ----------
 export const youtubeId = s => (String(s).match(/(?:v=|youtu\.be\/|embed\/|shorts\/)([A-Za-z0-9_-]{11})/) || [, String(s).trim()])[1];
+// components may be glued to other content on one line; the capture group keeps them when splitting
+const COMP_SPLIT = /(\{\{(?:youtube|product|ad|embed|contactform)\b[^}]*\}\})/;
 const COMP = /^\{\{(youtube|product|ad|embed|contactform)((?:\s+\w+="[^"]*")*)\s*\}\}$/;
 
 export function parseComponent(text) {
@@ -172,9 +174,14 @@ export function markdownToBlocks(md, ctx) {
     switch (t.type) {
       case 'heading': blocks.push({ t: t.depth <= 2 ? 'h2' : t.depth === 3 ? 'h3' : 'h4', html: plainHtmlToToken(inline(t.text), ctx).trim() }); break;
       case 'paragraph': {
-        const comp = parseComponent(t.text.trim()); if (comp) { blocks.push(comp); break; }
-        const html = inlineBlock(t.text, ctx); if (!html) break;
-        blocks.push({ t: isImageOnly(html) ? 'figure' : 'p', html });
+        // The rich-text editor can save a block inserted right after an image on the same line as the image
+        // (and other blocks), so components are split out wherever they appear, not only when alone.
+        for (const piece of t.text.split(COMP_SPLIT)) {
+          const text = piece.trim(); if (!text) continue;
+          const comp = parseComponent(text); if (comp) { blocks.push(comp); continue; }
+          const html = inlineBlock(text, ctx); if (!html) continue;
+          blocks.push({ t: isImageOnly(html) ? 'figure' : 'p', html });
+        }
         break;
       }
       case 'list': blocks.push({ t: t.ordered ? 'ol' : 'ul', items: t.items.map(i => inlineBlock(i.text, ctx)) }); break;

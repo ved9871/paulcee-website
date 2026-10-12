@@ -57,7 +57,7 @@ The article box works like a simple Word document. The preview on the right show
 The **Insert** button on the toolbar adds the special blocks:
 
 - **YouTube video.** Paste the video link or its ID and an optional title. The video shows as a clickable thumbnail that plays on the page.
-- **Product box (Crawfords).** Pick the detector or accessory from the list. The site puts in the picture, the price line, the "Buy at Crawfords" button with your tracking link and the discount code. You never need to type a Crawfords link by hand.
+- **Product box (Crawfords).** Pick the detector or accessory from the list (the box shows nothing until one is picked). The site puts in the picture, the price line, the "Buy at Crawfords" button with your tracking link and the discount code. You never need to type a Crawfords link by hand.
 - **AdSense slot.** Puts a specific AdSense ad unit at that point. Google already places ads on every page automatically (Auto ads), so you only need this if Ved gives you a slot number for a particular spot.
 
 Each block has a small form. Fill it in and keep typing underneath. The **x** on the block removes it.

@@ -145,3 +145,14 @@ test('generated routes (videos, topic pages, post fragments) stay plain internal
   assert.equal(hrefToToken('/blog/some-post/', ctx)[0], '@blog/some-post/');
   assert.equal(hrefToToken('/minelab-manticore/#coils', ctx)[0], '@minelab-manticore/#coils');
 });
+
+test('components glued onto one line (how Sveltia saves a block inserted after an image) are split into blocks', () => {
+  const glued = '![its a detector](/img/a.webp "Vanquish"){{youtube id="kCgMRXq3drY" title="Root Slayer"}}{{product key="vanquish-560"}}{{product key="vanquish-560"}}';
+  const blocks = markdownToBlocks(glued, ctx);
+  assert.deepEqual(blocks.map(b => b.t), ['figure', 'video', 'product', 'product']);
+  assert.equal(blocks[1].id, 'kCgMRXq3drY');
+  assert.equal(blocks[2].key, 'vanquish-560');
+  assert.match(blocks[0].html, /^<img src="@img:images\/a.jpg" alt="its a detector"/);
+  const mixed = markdownToBlocks('Buy this one {{product key="manticore"}} today', ctx);
+  assert.deepEqual(mixed.map(b => [b.t, b.html || b.key]), [['p', 'Buy this one'], ['product', 'manticore'], ['p', 'today']]);
+});
