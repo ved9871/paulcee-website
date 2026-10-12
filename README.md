@@ -61,7 +61,7 @@ Content lives in `content/` and is edited in the Sveltia CMS admin at `/admin/`.
 | Rallies & events | `content/events/*.json`; upcoming events appear on the rallies page and the homepage |
 | Products | `content/products/*.json`; the build adds `?tracking=fa202437c9` to every Crawfords link |
 | Topics | `content/topics/*.json` (the blog filter chips) |
-| Redirects for removed pages | `content/redirects.json`: `{ "old-slug": "new-slug" }`; links are repointed, `/old-slug/` forwards, and the old live URL joins `docs/redirects.csv` |
+| Redirects for removed pages and posts | `content/redirects.json`: `{ "old-slug": "new-slug", "blog/old-post": "blog" }`; links are repointed, the old address forwards, and the old live URL joins `docs/redirects.csv` |
 | Settings | `content/settings.json` |
 
 Body components: `{{youtube id="…"}}`, `{{product key="…"}}`, `{{ad slot="…"}}`, `{{embed src="…" height="…"}}`, `{{contactform}}`.

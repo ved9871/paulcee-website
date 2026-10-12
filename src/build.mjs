@@ -33,13 +33,18 @@ for (const [kind, list] of [['pages', Object.values(pages)], ['posts', posts]]) 
 const EVENTS = loadEvents(ROOT, { today: new Date().toISOString().slice(0, 10) });
 const postBySlug = Object.fromEntries(posts.map(p => [p.slug, p]));
 
-// content/redirects.json: { "old-page-slug": "new-page-slug" }. Used when a page is removed: links to the old
-// slug go straight to the new page, dist/<old>/ becomes a redirect page, and docs/redirects.csv lists it for launch.
+// content/redirects.json: { "old-path": "new-path" } for pages and posts removed in the CMS. Paths are site-relative
+// without slashes: a page slug, "blog/<post-slug>", or "blog" for the blog index. Links to the old path go straight
+// to the new one, dist/<old>/ becomes a redirect page, and docs/redirects.csv lists the old live URL for launch.
 const REDIRECTS = fs.existsSync(path.join(ROOT, 'content/redirects.json')) ? read('content/redirects.json') : {};
+const routeExists = p => p === 'blog' || p === 'videos' || !!pages[p] || (p.startsWith('blog/') && !!postBySlug[p.slice(5)]);
+const routeUrl = p => p === 'blog' ? url('blog/') : p === 'videos' ? url('videos/') : pages[p] ? pageUrl(p) : url(`${p}/`);
+const routeTitle = p => p === 'blog' ? 'the blog' : pages[p] ? pages[p].h1 || p : postBySlug[p.slice(5)] ? postBySlug[p.slice(5)].title : p;
 for (const [from, to] of Object.entries(REDIRECTS)) {
-  if (pages[from]) onProblem('redirects.json', `"${from}" still exists as a page; remove the page or the redirect`);
-  if (!pages[to]) onProblem('redirects.json', `"${from}" points at "${to}", which is not a page`);
+  if (routeExists(from)) onProblem('redirects.json', `"${from}" still exists; remove the page/post or the redirect`);
+  if (!routeExists(to)) onProblem('redirects.json', `"${from}" points at "${to}", which is not a page, post or "blog"`);
 }
+const redirectHref = p => REDIRECTS[p] && routeExists(REDIRECTS[p]) ? routeUrl(REDIRECTS[p]) : null;
 
 // ---------- helpers ----------
 const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -79,12 +84,13 @@ function links(html) {
     .replace(/<a href="([^"]+)" data-kind="(\w+)"( class="btn")?>/g, (m, href, kind, btn) => {
       let h = href, rel = '', tgt = '';
       if (href.startsWith('@asset:')) { const a = href.slice(7); h = IMAGES[a] ? url(IMAGES[a].file) : `${ORIGIN}/${a}`; }
-      else if (href.startsWith('@blog/')) { const s = href.slice(6).replace(/\/$/, ''); if (s && !postBySlug[s]) return missingLink(`blog/${s}/`); h = !s ? url('blog/') : url(`blog/${s}/`); }
-      else if (href.startsWith('@')) { const [s, hash = ''] = href.slice(1).split('#'); const sl = s.replace(/\/$/, '') || 'index'; const t = pages[sl] ? sl : REDIRECTS[sl]; if (!t) return missingLink(sl); h = pageUrl(t) + (hash && t === sl ? '#' + hash : ''); }
+      else if (href.startsWith('@blog/')) { const s = href.slice(6).replace(/\/$/, ''); if (s && !postBySlug[s]) { const rh = redirectHref(`blog/${s}`); if (!rh) return missingLink(`blog/${s}/`); h = rh; } else h = !s ? url('blog/') : url(`blog/${s}/`); }
+      else if (href.startsWith('@')) { const [s, hash = ''] = href.slice(1).split('#'); const sl = s.replace(/\/$/, '') || 'index'; if (pages[sl]) h = pageUrl(sl) + (hash ? '#' + hash : ''); else { const rh = redirectHref(sl); if (!rh) return missingLink(sl); h = rh; } }
       else if (href.startsWith('/')) {
         // root-relative links typed in the CMS: unlink those whose page or post has been deleted
         const p = href.split(/[#?]/)[0].replace(/^\/|\/$/g, ''); const m = p.match(/^blog\/([a-z0-9-]+)$/);
-        if (REDIRECTS[p]) { h = pageUrl(REDIRECTS[p]); }
+        const rh = redirectHref(p);
+        if (rh) { h = rh; }
         else if ((/^[a-z0-9-]+$/.test(p) && !pages[p] && !['blog', 'videos', 'admin'].includes(p)) || (m && m[1] !== 'topic' && !postBySlug[m[1]])) return missingLink(p);
         else h = url(href);
       }
@@ -151,7 +157,7 @@ const icon = {
 // Editors can delete pages in the CMS. Menu entries pointing at a page that no longer exists are dropped
 // (with a warning) instead of becoming dead links that would fail the link check and block the deploy.
 for (const n of NAV) for (const g of n.groups || []) {
-  g.items = g.items.filter(([s]) => pages[s] || console.warn(`WARN menu: "${n.label} › ${g.title}" link to missing page "${s}" dropped (page deleted in the CMS?)`));
+  g.items = g.items.filter(([s]) => pages[s] || REDIRECTS[s] || console.warn(`WARN menu: "${n.label} › ${g.title}" link to missing page "${s}" dropped (page deleted in the CMS?)`));
 }
 const NAV_ALL = [...NAV.slice(0, 3), { label: 'Videos', href: 'videos/' }, ...NAV.slice(3)];
 
@@ -503,10 +509,10 @@ fs.writeFileSync(path.join(DIST, '404.html'), doc({ seo: { title: 'Page not foun
 
 // redirect pages for removed slugs (GitHub Pages has no server redirects): meta refresh + canonical to the target
 for (const [from, to] of Object.entries(REDIRECTS)) {
-  if (pages[from] || !pages[to]) continue;
-  const target = pageUrl(to);
+  if (routeExists(from) || !routeExists(to)) continue;
+  const target = routeUrl(to), name = routeTitle(to);
   fs.mkdirSync(path.join(DIST, from), { recursive: true });
-  fs.writeFileSync(path.join(DIST, from, 'index.html'), `<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><title>Moved: ${esc(pages[to].h1 || to)}</title><meta name="robots" content="noindex"><link rel="canonical" href="${ORIGIN}/${to}/"><meta http-equiv="refresh" content="0; url=${esc(target)}"><script>location.replace(${JSON.stringify(target)})</script></head><body><p>This page has moved to <a href="${esc(target)}">${esc(pages[to].h1 || to)}</a>.</p></body></html>`);
+  fs.writeFileSync(path.join(DIST, from, 'index.html'), `<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><title>Moved: ${esc(name)}</title><meta name="robots" content="noindex"><link rel="canonical" href="${ORIGIN}/${to}/"><meta http-equiv="refresh" content="0; url=${esc(target)}"><script>location.replace(${JSON.stringify(target)})</script></head><body><p>This page has moved to <a href="${esc(target)}">${esc(name)}</a>.</p></body></html>`);
 }
 
 // redirect map + SEO inventory (docs/)
@@ -514,10 +520,11 @@ const rows = [['old_url', 'new_path', 'type']];
 Object.values(pages).forEach(r => rows.push([r.liveUrl, r.slug === 'index' ? '/' : `/${r.slug}/`, 'page']));
 posts.forEach(p => rows.push([p.liveUrl, `/blog/${p.slug}/`, 'post']));
 for (const [from, to] of Object.entries(REDIRECTS)) {
-  const metaFile = path.join(ROOT, 'content/meta/pages', `${from}.json`);
-  const oldLive = fs.existsSync(metaFile) ? read(`content/meta/pages/${from}.json`).liveUrl : '';
-  if (oldLive) rows.push([oldLive, `/${to}/`, 'redirect (page removed)']);
-  rows.push([`${ORIGIN}/${from}/`, `/${to}/`, 'redirect (page removed)']);
+  const metaRel = from.startsWith('blog/') ? `content/meta/posts/${from.slice(5)}.json` : `content/meta/pages/${from}.json`;
+  const oldLive = fs.existsSync(path.join(ROOT, metaRel)) ? read(metaRel).liveUrl : '';
+  const kind = from.startsWith('blog/') ? 'redirect (post removed)' : 'redirect (page removed)';
+  if (oldLive) rows.push([oldLive, `/${to}/`, kind]);
+  rows.push([`${ORIGIN}/${from}/`, `/${to}/`, kind]);
 }
 fs.mkdirSync(path.join(ROOT, 'docs'), { recursive: true });
 fs.writeFileSync(path.join(ROOT, 'docs/redirects.csv'), rows.map(r => r.map(c => `"${String(c).replace(/"/g, '""')}"`).join(',')).join('\n'));
