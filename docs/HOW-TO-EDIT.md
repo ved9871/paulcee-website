@@ -33,6 +33,7 @@ Nothing is ever lost. Every save is kept in the history, and the whole site is b
    - **Title.** Also becomes the web address, so get it right before the first save. Changing the title later doesn't change the address, which is what you want: links keep working.
    - **Publish date.** Press **Now** for today. Pick a later date to schedule it.
    - **Draft.** Tick it if the post isn't ready.
+   - **Hide from Google search.** Tick it for things you want on the site but not in Google, such as a competition page or a notice.
    - **Topic.** Which part of the blog it belongs to (Manticore, Equinox, Beach detecting, and so on). This is what the filter buttons on the blog page use.
    - **Cover image.** The picture used on the blog cards and at the top of the post. Optional, but posts look better with one.
    - **Main YouTube video.** Paste the YouTube link if the post is about a video. It shows above the text.
@@ -82,6 +83,8 @@ Pages are the fixed parts of the site: the detector guides, About, Contact, the 
 3. Press **Save**.
 
 Don't change a page's title casually: the detector guides are linked from the menus and from Crawfords. Ask Ved if a page needs renaming or removing.
+
+**Deleting a page or post.** The site copes: menu entries to it disappear and any links to it in other articles turn into plain text. But its old web address stops working, and at launch the old paulcee.co.uk address will too, so tell Ved which pages you've removed so he can point the old addresses somewhere sensible.
 
 ## Rallies and events
 

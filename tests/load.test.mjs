@@ -123,3 +123,16 @@ test('a product box counts as affiliate content', () => {
 test('the description fallback does not leave spaces before punctuation after inline tags', () => {
   assert.equal(excerpt([{ t: 'p', html: 'See <a href="/videos/" data-kind="internal">videos</a>, then <strong>go</strong>.' }]), 'See videos, then go.');
 });
+
+test('"Hide from Google" (noindex) sets a noindex robots rule on posts and pages', () => {
+  const root = fixture();
+  fs.writeFileSync(path.join(root, 'content/posts/hidden.md'), '---\ntitle: Hidden\ndatePublished: "2026-01-03T09:00:00"\nnoindex: true\n---\n\nX\n');
+  fs.writeFileSync(path.join(root, 'content/pages/secret.md'), '---\ntitle: Secret\nnoindex: true\n---\n\nX\n');
+  const resolver = createImageResolver(root, {});
+  const posts = loadPosts(root, { resolver, now: new Date('2026-09-29') });
+  const pages = loadPages(root, { resolver });
+  assert.equal(posts.find(p => p.slug === 'hidden').seo.robots, 'noindex, follow');
+  assert.equal(posts.find(p => p.slug === 'live').seo.robots, undefined);
+  assert.equal(pages.secret.seo.robots, 'noindex, follow');
+  assert.equal(pages.about.seo.robots, undefined);
+});

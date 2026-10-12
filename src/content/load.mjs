@@ -52,6 +52,7 @@ export function loadPosts(root, { resolver, now = new Date(), onProblem }) {
     const title = data.title || slug;
     const seo = { canonical: liveUrl, ...(meta.seo || {}), ...(data.seo || {}) };
     seo.title ||= title; seo.description ||= data.summary || excerpt(blocks);
+    if (data.noindex) seo.robots = 'noindex, follow';
     if (!Array.isArray(seo.jsonld) || !seo.jsonld.length) seo.jsonld = [{ '@type': 'BlogPosting', '@context': 'https://schema.org', headline: title, description: seo.description, datePublished: date, author: { '@type': 'Person', name: 'Paul Cee' }, mainEntityOfPage: liveUrl }];
     const cover = data.cover ? (resolver.keyForFile(String(data.cover)) || String(data.cover)) : null;
     out.push({
@@ -76,6 +77,7 @@ export function loadPages(root, { resolver, onProblem }) {
     const liveUrl = meta.liveUrl || `${ORIGIN}/${slug === 'index' ? '' : slug + '/'}`;
     const seo = { canonical: liveUrl, jsonld: [], ...(meta.seo || {}), ...(data.seo || {}) };
     seo.title ||= data.title || slug; seo.description ||= excerpt(blocks);
+    if (data.noindex) seo.robots = 'noindex, follow';
     pages[slug] = { type: 'page', slug, liveUrl, h1: data.title || '', seo, adSlots: meta.adSlots || [], blocks, ...derive(blocks) };
   }
   return pages;

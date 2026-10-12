@@ -71,15 +71,27 @@ function links(html) {
     .replace(/<a href="([^"]+)" data-kind="(\w+)"( class="btn")?>/g, (m, href, kind, btn) => {
       let h = href, rel = '', tgt = '';
       if (href.startsWith('@asset:')) { const a = href.slice(7); h = IMAGES[a] ? url(IMAGES[a].file) : `${ORIGIN}/${a}`; }
-      else if (href.startsWith('@blog/')) { const s = href.slice(6).replace(/\/$/, ''); h = !s ? url('blog/') : postBySlug[s] ? url(`blog/${s}/`) : `${ORIGIN}/blog/?${s}`; }
-      else if (href.startsWith('@')) { const [s, hash = ''] = href.slice(1).split('#'); const sl = s.replace(/\/$/, '') || 'index'; h = pages[sl] ? pageUrl(sl) + (hash ? '#' + hash : '') : `${ORIGIN}/${sl}.html`; }
-      else if (href.startsWith('/')) { h = url(href); }
+      else if (href.startsWith('@blog/')) { const s = href.slice(6).replace(/\/$/, ''); if (s && !postBySlug[s]) return missingLink(`blog/${s}/`); h = !s ? url('blog/') : url(`blog/${s}/`); }
+      else if (href.startsWith('@')) { const [s, hash = ''] = href.slice(1).split('#'); const sl = s.replace(/\/$/, '') || 'index'; if (!pages[sl]) return missingLink(sl); h = pageUrl(sl) + (hash ? '#' + hash : ''); }
+      else if (href.startsWith('/')) {
+        // root-relative links typed in the CMS: unlink those whose page or post has been deleted
+        const p = href.split(/[#?]/)[0].replace(/^\/|\/$/g, ''); const m = p.match(/^blog\/([a-z0-9-]+)$/);
+        if ((/^[a-z0-9-]+$/.test(p) && !pages[p] && !['blog', 'videos', 'admin'].includes(p)) || (m && m[1] !== 'topic' && !postBySlug[m[1]])) return missingLink(p);
+        h = url(href);
+      }
       else { const c = crawfords(href); if (c) { if (c !== href) rewrote++; h = c; kind = 'affiliate'; affCount++; } }
       if (kind === 'affiliate') { rel = ' rel="sponsored noopener"'; tgt = ' target="_blank"'; }
       else if (kind === 'external') { rel = ' rel="noopener"'; tgt = ' target="_blank"'; }
       const cls = kind === 'affiliate' ? (btn ? ' class="btn btn--buy"' : ' class="aff"') : (btn ? ' class="btn"' : '');
       return `<a href="${esc(h)}"${cls}${rel}${tgt}>`;
-    });
+    })
+    // a link whose target page or post was deleted keeps its text but stops being a link
+    .replace(/<a data-missing="1">([\s\S]*?)<\/a>/g, '$1');
+}
+const missingTargets = new Set();
+function missingLink(target) {
+  if (!missingTargets.has(target)) { missingTargets.add(target); console.warn(`WARN link: "/${target}" no longer exists (deleted in the CMS?); link text kept, link removed`); }
+  return '<a data-missing="1">';
 }
 
 const ytThumb = (id, q = 'hqdefault') => `https://i.ytimg.com/vi/${id}/${q}.jpg`;
@@ -127,6 +139,11 @@ const icon = {
   cart: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h2l2.4 11.2a1 1 0 0 0 1 .8h9.8a1 1 0 0 0 1-.8L21 8H6.4"/><circle cx="9.5" cy="20" r="1.2"/><circle cx="17.5" cy="20" r="1.2"/></svg>',
 };
 
+// Editors can delete pages in the CMS. Menu entries pointing at a page that no longer exists are dropped
+// (with a warning) instead of becoming dead links that would fail the link check and block the deploy.
+for (const n of NAV) for (const g of n.groups || []) {
+  g.items = g.items.filter(([s]) => pages[s] || console.warn(`WARN menu: "${n.label} › ${g.title}" link to missing page "${s}" dropped (page deleted in the CMS?)`));
+}
 const NAV_ALL = [...NAV.slice(0, 3), { label: 'Videos', href: 'videos/' }, ...NAV.slice(3)];
 
 function header(active) {
