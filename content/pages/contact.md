@@ -14,5 +14,3 @@ For metal detecting help, setting up metal detectors etc
 [![how to contact us](/img/GOPR0979a.webp) ](http://bit.ly/2VcUX0q)
 
 {{contactform}}
-
-Trial line for the contact page test.
