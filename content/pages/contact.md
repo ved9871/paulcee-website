@@ -11,6 +11,6 @@ Contact us with email,
 
 For metal detecting help, setting up metal detectors etc
 
-[![how to contact us](/img/GOPR0979a.webp) ](http://bit.ly/2VcUX0q)
+[![how to contact us](/img/GOPR0979a.webp) 
 
 {{contactform}}
