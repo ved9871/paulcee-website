@@ -1,5 +1,6 @@
 ---
 title: Minelab Vanquish 60 series
+noindex: false
 seo:
   title: Minelab Vanquish 60 series
   description: Discover metal detecting with the Minelab Vanquish 60 series! The waterproof detector is ideal for beginners, featuring user-friendly options and performance.
@@ -67,7 +68,7 @@ The high-performance choice for maximum audio control and depth.
 
 ## What’s New? The "60 Series" Upgrades
 
-The Vanquish 560 isn't just a fresh coat of paint; it’s a significant hardware evolution. Here are the headline changes that set it apart from the older Vanquish 540:
+The Vanquish 560 isn't just a fresh coat of paint; it’s a significant hardware evolution. Here are the GREAT changes that set it apart from the older Vanquish 540:
 
 ### 1. Fully Waterproof (IP68 Rated)
 
@@ -81,7 +82,7 @@ The old 540 had a limited ID range (-9 to 40), which compressed signals and made
 
 <strong>Why it matters:</strong> This "high-resolution" discrimination is similar to the Manticore and Equinox 900. It gives you far more nuance, helping you tell the difference between a pull-tab and a gold ring.
 
-3\. **Minelab Equinox Coil Compatibility**
+3. **Minelab Equinox Coil Compatibility**
 
 In a surprising move, Minelab has made the Vanquish 560 compatible with Equinox coils.
 
