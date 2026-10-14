@@ -1,5 +1,6 @@
 ---
 title: Minelab Vanquish 60 Settings
+noindex: false
 seo:
   title: How to Set Up Minelab Vanquish 560
   description: Learn the best settings for your Minelab Vanquish 60 series. We cover sensitivity, discrimination, beach setups
@@ -10,9 +11,9 @@ seo:
 
 <strong>Meta Description:</strong> Master your Minelab Vanquish 60 series with our 2026 setup guide. Learn the best sensitivity, discrimination, and Multi-IQ settings for beach, field, and relic hunting to maximize your depth and finds.
 
-![How to Set Up Minelab Vanquish 560 from the 60 series of detectors](/img/2026-thumb_fi4vubdi.webp)
+![How to Set Up Minelab Vanquish 560 from the 60 series of detectors](/img/2026-thumb_fi4vubdi.webp "How to Set Up Minelab Vanquish 560 from the 60 series")
 
-![Minelab Vanquish 560 settings explained, Paul Cee explains the easy way to learn the minelab vanquish 60 series](/img/VANQUISH-560PROPACK-RED.webp)
+![Minelab Vanquish 560 settings explained, Paul Cee explains the easy way to learn the minelab vanquish 60 series](/img/VANQUISH-560PROPACK-RED.webp "Minelab Vanquish 60 Series Settings")
 
 ### Minelab Vanquish 60 Series settings.
 
@@ -50,28 +51,6 @@ Higher sensitivity increases "reach," but amplifies ground noise. If the machine
 
 This filters out "junk" like nails. Be careful: blocking iron can "mask" a silver coin if it's sitting right next to a rusty nail.
 
-### Interface Visualizer
-
-Hover/Tap screen icons to understand the LCD layout
-
-🔋Battery
-
-🔊Volume
-
-☀️Light
-
-🎧Audio
-
-SENS
-
-40
-
-DEPTH
-
-🎯
-
-▼
-
 #### Target ID
 
 The main digital readout. Silver and coins show higher numbers.
@@ -79,28 +58,6 @@ The main digital readout. Silver and coins show higher numbers.
 #### Depth
 
 Shows how deep you need to dig. Fewer arrows mean a shallower find.
-
-### Button Navigation
-
-GUIDE
-
-−
-
-⚙️
-
-\+
-
-🧲
-
-🎯
-
-🔍
-
-#### Select a button
-
-Click any button on the pod to see its primary use.
-
-Expert Shortcut: --
 
 ### The 7-Step Logic
 
@@ -116,15 +73,11 @@ Adjust overall loudness (1–10). Hold Horseshoe here for Iron Volume.
 
 ### Your Setup Checklist
 
-### Target ID &amp; Tone Spectrum
+### Target ID &amp; Tone Audio
 
 #### Audio Tone Pitch
 
 Low Grunt (Iron) Mid Range High Pitch (Conductive)
-
-#### Select a zone above
-
-Click a bar in the chart to see common UK finds for that range.
 
 Crawfords Metal Detectors • Paul Cee Expert Series
 
