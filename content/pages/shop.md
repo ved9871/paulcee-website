@@ -1,9 +1,10 @@
 ---
 title: Metal Detecting accessories
+noindex: true
 seo:
   title: Metal Detecting accessories
   description: metal detecting accessories, metal detector shops near me, metal detecting stickers, metal detector uk
-  keywords: "metal detector uk, metal detecting stickers, metal detecting accessories, "
+  keywords: metal detector uk, metal detecting stickers, metal detecting accessories,
 ---
 
 Metal detecting Clothing and accessories.
