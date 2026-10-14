@@ -96,7 +96,7 @@ collections:
       - { name: start, label: Start date, widget: datetime, time_format: false, format: "YYYY-MM-DD" }
       - { name: end, label: End date, widget: datetime, time_format: false, format: "YYYY-MM-DD", required: false }
       - { name: venue, label: Venue / town, widget: string, required: false }
-      - { name: link, label: Organiser or tickets link, widget: string, required: false }
+      - { name: link, label: Organiser or tickets link, widget: string, required: false, pattern: ["^(https?://|mailto:)", "Must be a full web address starting with https:// (or an email starting mailto:)"], hint: "Paste the full address, e.g. https://www.digginghistoryuk.com/…" }
       - { name: image, label: Image, widget: image, required: false }
       - { name: description, label: Description, widget: text, required: false }
 

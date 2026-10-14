@@ -1,6 +1,8 @@
 // QA: internal links/images resolve, SEO tags present, one H1 per page, titles preserved.
 import fs from 'node:fs'; import path from 'node:path';
 const DIST = path.resolve('dist'); const BASE = (process.env.BASE || '/');
+// Redirect pages the build writes for removed paths (content/redirects.json keys) are exempt from the article SEO rules.
+const REDIRECT_PAGES = new Set(fs.existsSync('content/redirects.json') ? Object.keys(JSON.parse(fs.readFileSync('content/redirects.json', 'utf8'))).map(k => path.join(k, 'index.html')) : []);
 const files = []; const walk = d => fs.readdirSync(d, { withFileTypes: true }).forEach(e => { const p = path.join(d, e.name); e.isDirectory() ? (e.name !== 'admin' && walk(p)) : p.endsWith('.html') && files.push(p); });
 walk(DIST);
 const exists = u => { let p = decodeURIComponent(u.split('#')[0].split('?')[0]); if (!p.startsWith(BASE)) return true; p = path.join(DIST, p.slice(BASE.length)); return fs.existsSync(p) && (fs.statSync(p).isFile() || fs.existsSync(path.join(p, 'index.html'))); };
@@ -11,7 +13,7 @@ for (const f of files) {
   for (const m of h.matchAll(/href="(https?:\/\/(?:[a-z0-9-]+\.)*crawfordsmd\.com[^"]*)"/gi)) if (!/[?&]tracking=fa202437c9(?:&|#|$)/.test(m[1].replace(/&amp;/g, '&'))) { untracked++; if (untracked <= 5) console.log('UNTRACKED', m[1], '←', rel); }
   const prose = (h.match(/<article class="prose">([\s\S]*?)<\/article>/) || [, ''])[1];
   noAlt += (prose.match(/<img (?![^>]*class="(?:card__img|byline__avatar|author-box__img)")[^>]*alt=""/g) || []).length;
-  if (rel === '404.html' || /http-equiv="refresh"/.test(h)) continue; // 404 and redirect pages carry no article SEO
+  if (rel === '404.html' || REDIRECT_PAGES.has(rel)) continue; // the 404 and generated redirect pages carry no article SEO
   const h1 = (h.match(/<h1[\s>]/g) || []).length;
   const t = (h.match(/<title>([^<]*)<\/title>/) || [])[1]; const d = (h.match(/<meta name="description" content="([^"]*)"/) || [])[1];
   const c = (h.match(/<link rel="canonical" href="([^"]*)"/) || [])[1];

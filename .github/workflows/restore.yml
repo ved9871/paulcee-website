@@ -60,6 +60,7 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Restore content from $BACKUP" -m "Run by ${{ github.actor }} via the restore workflow."
+            git pull --rebase --quiet origin main
             git push origin HEAD:main
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
