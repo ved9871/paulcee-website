@@ -1,5 +1,6 @@
 ---
-title: "Minelab X-Terra Elite vs Pro: Review, Pros, Cons & Coil Guide"
+title: 'Minelab X-Terra Elite vs Pro: Review, Pros, Cons & Coil Guide'
+noindex: false
 seo:
   title: Minelab X Terra
   description: Compare the Minelab X-Terra Elite and X-Terra Pro. Discover the pros, cons, Multi-IQ features, and full compatibility guide for Equinox and Coiltek Nox coils
@@ -102,4 +103,4 @@ Both machines give you the flexibility to upgrade your performance later by addi
 
 {{youtube id="LDcEDpRyk3c" title="using the Minelab X-Terra Pro, compare to the X-Terra Elite"}}
 
-[![Minelab X-terra elite Vs Minelab X-Terra Pro](/img/WEB_AD2026a.webp) ](https://bit.ly/CMDMDUK)
+[![Minelab X-terra elite Vs Minelab X-Terra Pro](/img/WEB_AD2026a.webp) ]
