@@ -1,7 +1,9 @@
 ---
 title: Minelab Manticore Ferrous Limits
 datePublished: 2023-06-19T19:15:00
-topic: minelab-manticore
+draft: false
+noindex: false
+topic: manticore-settings
 tags:
   - Metal
   - Detecting
@@ -9,7 +11,7 @@ tags:
   - Minelab
   - Manticore
   - Ferrous
-  - Limits.
+  - Limits
 cover: /img/b-ferrous-limits-web.webp
 heroVideo: 5ddRBp33QIU
 summary: Check out our latest blog post about the Minelab Manticore Ferrous Limits. Don't miss out on this informative post!
