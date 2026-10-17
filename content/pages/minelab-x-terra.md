@@ -103,4 +103,4 @@ Both machines give you the flexibility to upgrade your performance later by addi
 
 {{youtube id="LDcEDpRyk3c" title="using the Minelab X-Terra Pro, compare to the X-Terra Elite"}}
 
-[![Minelab X-terra elite Vs Minelab X-Terra Pro](/img/WEB_AD2026a.webp) ]
+![Minelab X-terra elite Vs Minelab X-Terra Pro](/img/WEB_AD2026a.webp) ]
