@@ -3,7 +3,7 @@ title: Manticore dealing with EMI
 datePublished: 2023-11-20T18:03:00
 draft: false
 noindex: false
-topic: minelab-manticore
+topic: manticore-settings
 tags:
   - Minelab Manticore Settings
   - Minelab Manticore
