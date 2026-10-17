@@ -1,23 +1,28 @@
 ---
 title: Manticore dealing with EMI
 datePublished: 2023-11-20T18:03:00
+draft: false
+noindex: false
 topic: minelab-manticore
+tags:
+  - Minelab Manticore Settings
+  - Minelab Manticore
 cover: /img/b-manticore_emi.webp
 heroVideo: FKQsXUGtfuc
-summary: how do you deal with interferance on a minelab manticore or minelab equinox metal detector, electric fences and phone mast can cause problems
+summary: how do you deal with interference on a minelab manticore or minelab equinox metal detector, electric fences and phone mast can cause problems
 seo:
   title: Manticore dealing with EMI - Blog
   description: how do you deal with interferance on a minelab manticore or minelab equinox metal detector, electric fences and phone mast can cause problems
   keywords: minelab manticore settings, minelab equinox settings, EMI, minelab manticore uk, minelab equinox uk
 ---
 
-## Minelab Manticore setting for interferance
+## Minelab Manticore Setting for EMI Interference
 
-![minelab manticore settings to help deal with interferance](/img/YT-thumb_2020_h3v355op.webp "small")
+![minelab manticore settings to help deal with interference](/img/YT-thumb_2020_h3v355op.webp "minelab manticore settings to help deal with interference")
 
-![settings to help deal with EMI on a minelab metal detector](/img/detexpert-logosml_0e0vdxkk.webp "small")
+![settings to help deal with EMI on a minelab metal detector](/img/detexpert-logosml_0e0vdxkk.webp "settings to help deal with EMI on a minelab metal detector")
 
-[![minelab manticore tutorials in the uk from crawfords metal detectors](/img/cmd-white-alpha_l2pfxf7n.webp)](/crawfords-metal-detectors/)
+[![minelab manticore tutorials in the uk from crawfords metal detectors](/img/cmd-white-alpha_l2pfxf7n.webp "minelab manticore tutorials in the uk from crawfords metal detectors")](/crawfords-metal-detectors/)
 
 How do you deal with interference on a metal detector?.
 
