@@ -1,7 +1,9 @@
 ---
 title: Minelab Pro Find user guide
 datePublished: 2021-01-03T09:00:00
-topic: ctx-3030
+draft: false
+noindex: false
+topic: beginners
 tags:
   - Minelab
   - profind
