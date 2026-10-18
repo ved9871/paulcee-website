@@ -1,7 +1,9 @@
 ---
 title: manticore ferrous limits
 datePublished: 2026-01-09T09:00:00
-topic: minelab-manticore
+draft: false
+noindex: false
+topic: manticore-settings
 tags:
   - minelab
   - manticore
