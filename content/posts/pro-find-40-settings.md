@@ -1,7 +1,10 @@
 ---
 title: pro find 40 settings
 datePublished: 2023-11-27T18:50:00
-topic: ctx-3030
+draft: false
+noindex: false
+topic: beginners
+tags: []
 cover: /img/b-pro-find-40-guide--WEB-.webp
 heroVideo: fFCVaYQ1-uE
 summary: minelab pro find 40 user guide and instructions, should you have a problem or just need to know how to use the pro find 40, minelab pinpointer
