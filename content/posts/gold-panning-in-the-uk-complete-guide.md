@@ -3,7 +3,7 @@ title: Gold Panning in the UK Complete Guide
 datePublished: 2026-08-22T15:04:00
 draft: false
 noindex: false
-topic: finds
+topic: beginners
 tags:
   - gold
   - panning
