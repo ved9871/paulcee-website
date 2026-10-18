@@ -1,7 +1,10 @@
 ---
 title: Electrolysis coin cleaning
 datePublished: 2021-04-23T17:14:00
-topic: finds
+draft: false
+noindex: false
+topic: beginners
+tags: []
 cover: /img/b-electro_web.webp
 heroVideo: mNWusXSMGxo
 summary: Clean coins with electrolysis
