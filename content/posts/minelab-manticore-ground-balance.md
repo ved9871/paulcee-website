@@ -1,7 +1,9 @@
 ---
 title: Minelab Manticore Ground Balance
 datePublished: 2024-01-02T06:36:00
-topic: minelab-manticore
+draft: false
+noindex: false
+topic: manticore-settings
 tags:
   - minelab
   - manticore
