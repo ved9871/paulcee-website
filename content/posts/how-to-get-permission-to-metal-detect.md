@@ -1,8 +1,12 @@
 ---
 title: How to get permission to metal detect
 datePublished: 2026-08-22T13:40:00
-topic: rallies-and-events
+draft: false
+noindex: false
+topic: beginners
+tags: []
 cover: /img/b-gain-permission.webp
+heroVideo: ''
 summary: How to get permission to metal detect in the Uk
 seo:
   title: How to get permission to metal detect - Blog
