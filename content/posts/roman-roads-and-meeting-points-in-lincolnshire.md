@@ -7,11 +7,11 @@ topic: beginners
 tags: []
 cover: ''
 heroVideo: ''
-summary: An illustrated schematic map of North Lincolnshire is provided below, followed by an interactive web map code template and historical survey data for investigating ancient wells, Roman corridors, and rights of way.
+summary: An illustrated schematic map of North Lincolnshire is provided below, followed by an interactive web map and historical survey data for investigating ancient wells, Roman corridors, and rights of way.
 seo: null
 ---
 
-```html
+```html-derivative
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -88,7 +88,7 @@ seo: null
 
 Core Historical Features in North Lincolnshire
 
-1. Roman Roads
+Roman Roads
 Ermine Street (Margary Route 2d): The primary arterial route built by the Romans running straight north from Lincoln (Lindum Colonia) through Hibaldstow to the Humber terminus at Winteringham (Ad Abum), where a ferry connected across to Petuaria (Brough). Much of its alignment today survives as the straight stretch of the A15 and rural green lanes/bridleways.
 
 The Jurassic Cliff Trackway / Old High Street: A prehistoric ridgeway enhanced under Roman occupation running along the Lincoln Cliff escarpment towards Alkborough and Winterton.
