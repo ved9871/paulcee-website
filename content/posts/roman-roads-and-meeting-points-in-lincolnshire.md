@@ -11,7 +11,32 @@ summary: An illustrated schematic map of North Lincolnshire is provided below, f
 seo: null
 ---
 
-```html-derivative
+Core Historical Features in North Lincolnshire
+
+Roman Roads
+Ermine Street (Margary Route 2d): The primary arterial route built by the Romans running straight north from Lincoln (Lindum Colonia) through Hibaldstow to the Humber terminus at Winteringham (Ad Abum), where a ferry connected across to Petuaria (Brough). Much of its alignment today survives as the straight stretch of the A15 and rural green lanes/bridleways.
+
+The Jurassic Cliff Trackway / Old High Street: A prehistoric ridgeway enhanced under Roman occupation running along the Lincoln Cliff escarpment towards Alkborough and Winterton.
+
+Winteringham to Kirmington Link: A diagonal Roman route connecting Ermine Street to the Roman settlement and extraction centre at Kirmington on the northern edge of the Lincolnshire Wolds.
+
+2. Historic Wells & Springs
+Blow Wells & Artesian Springs (Barton & Humber Bank): Barton-upon-Humber and the coastal chalk aquifer feature artesian springs historically called "blow wells" (such as those around Castledyke and Dam Road).
+
+Staniwells / Hibaldstow Spring: Located adjacent to Ermine Street at the Roman settlement site of Hibaldstow, where natural freshwater springs supplied travelers and Roman cavalry.
+
+Winterton & Alkborough Chalybeate/Holy Wells: Springs with natural mineral (iron/chalybeate) properties that were revered as healing waters from medieval times.
+
+St. Helen's Wells: Traditional dedications to St. Helen (common across Roman Lincolnshire along springs near Roman tracks).
+
+3. Footpaths and Public Rights of Way
+The Viking Way: A 147-mile long-distance trail starting at Barton-upon-Humber and heading south along the high chalk scarp of the Lincolnshire Wolds.
+
+Nev Cole Way: Connects Burton upon Stather and Scunthorpe through Brigg towards the coastline.
+
+Ancient Green Lanes & Byways: Public footpaths frequently preserve the diverted or abandoned stretches of Roman aggers (banks) where the modern A15 deviates from the original Roman surveyed
+
+```codeql
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -85,28 +110,3 @@ seo: null
 </body>
 </html>
 ```
-
-Core Historical Features in North Lincolnshire
-
-Roman Roads
-Ermine Street (Margary Route 2d): The primary arterial route built by the Romans running straight north from Lincoln (Lindum Colonia) through Hibaldstow to the Humber terminus at Winteringham (Ad Abum), where a ferry connected across to Petuaria (Brough). Much of its alignment today survives as the straight stretch of the A15 and rural green lanes/bridleways.
-
-The Jurassic Cliff Trackway / Old High Street: A prehistoric ridgeway enhanced under Roman occupation running along the Lincoln Cliff escarpment towards Alkborough and Winterton.
-
-Winteringham to Kirmington Link: A diagonal Roman route connecting Ermine Street to the Roman settlement and extraction centre at Kirmington on the northern edge of the Lincolnshire Wolds.
-
-2. Historic Wells & Springs
-Blow Wells & Artesian Springs (Barton & Humber Bank): Barton-upon-Humber and the coastal chalk aquifer feature artesian springs historically called "blow wells" (such as those around Castledyke and Dam Road).
-
-Staniwells / Hibaldstow Spring: Located adjacent to Ermine Street at the Roman settlement site of Hibaldstow, where natural freshwater springs supplied travelers and Roman cavalry.
-
-Winterton & Alkborough Chalybeate/Holy Wells: Springs with natural mineral (iron/chalybeate) properties that were revered as healing waters from medieval times.
-
-St. Helen's Wells: Traditional dedications to St. Helen (common across Roman Lincolnshire along springs near Roman tracks).
-
-3. Footpaths and Public Rights of Way
-The Viking Way: A 147-mile long-distance trail starting at Barton-upon-Humber and heading south along the high chalk scarp of the Lincolnshire Wolds.
-
-Nev Cole Way: Connects Burton upon Stather and Scunthorpe through Brigg towards the coastline.
-
-Ancient Green Lanes & Byways: Public footpaths frequently preserve the diverted or abandoned stretches of Roman aggers (banks) where the modern A15 deviates from the original Roman surveyed
