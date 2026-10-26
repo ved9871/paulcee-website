@@ -110,6 +110,7 @@ export function blocksToMarkdown(blocks, ctx) {
       case 'raw': out.push(tokenHtmlToPlain(b.html, ctx)); break;
       case 'video': out.push(`{{youtube id="${b.id}"${b.title ? ` title="${encodeAttr(b.title)}"` : ''}}}`); break;
       case 'embed': out.push(`{{embed src="${encodeAttr(b.src)}" height="${b.height || 600}"}}`); break;
+      case 'htmlembed': out.push('```html' + (b.height && b.height !== 600 ? ` height=${b.height}` : '') + '\n' + String(b.html).replace(/\n?$/, '\n') + '```'); break;
       case 'ad': out.push(`{{ad slot="${b.slot || ''}"}}`); break;
       case 'product': out.push(`{{product key="${b.key}"}}`); break;
       case 'contactform': out.push('{{contactform}}'); break;
@@ -187,7 +188,14 @@ export function markdownToBlocks(md, ctx) {
       case 'list': blocks.push({ t: t.ordered ? 'ol' : 'ul', items: t.items.map(i => inlineBlock(i.text, ctx)) }); break;
       case 'html': { const h = t.text.trim(); if (h) blocks.push({ t: 'raw', html: plainHtmlToToken(h, ctx) }); break; }
       case 'blockquote': blocks.push({ t: 'p', html: plainHtmlToToken(inline(t.text), ctx).trim() }); break;
-      case 'code': blocks.push({ t: 'raw', html: `<pre><code>${escapeHtml(t.text)}</code></pre>` }); break;
+      case 'code': {
+        // A code block marked HTML, or holding a whole web page, is an embed (rendered in a sandboxed frame);
+        // any other code block is shown as code. The fence info may carry a height: ```html height=700
+        const info = String(t.lang || '').trim();
+        const isHtml = /^html(?:\s|$)/i.test(info) || /^\s*(?:<!doctype html|<html[\s>])/i.test(t.text);
+        if (isHtml) { const h = +(info.match(/height=(\d+)/) || [])[1] || 600; blocks.push({ t: 'htmlembed', html: t.text, height: h }); break; }
+        blocks.push({ t: 'raw', html: `<pre><code>${escapeHtml(t.text)}</code></pre>` }); break;
+      }
       case 'hr': blocks.push({ t: 'raw', html: '<hr>' }); break;
     }
   }

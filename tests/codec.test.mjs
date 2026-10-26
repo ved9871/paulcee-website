@@ -156,3 +156,19 @@ test('components glued onto one line (how Sveltia saves a block inserted after a
   const mixed = markdownToBlocks('Buy this one {{product key="manticore"}} today', ctx);
   assert.deepEqual(mixed.map(b => [b.t, b.html || b.key]), [['p', 'Buy this one'], ['product', 'manticore'], ['p', 'today']]);
 });
+
+test('an HTML code block (or a pasted whole web page) becomes a sandboxed embed and round-trips; other code stays code', () => {
+  const page = '<!DOCTYPE html>\n<html lang="en"><head><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script></head><body><div id="map"></div></body></html>';
+  const [a] = markdownToBlocks('```codeql\n' + page + '\n```', ctx);
+  assert.equal(a.t, 'htmlembed', 'a whole web page is an embed whatever language was picked');
+  assert.equal(a.height, 600);
+  assert.equal(a.html, page);
+  const [b] = markdownToBlocks('```html height=750\n<div class="widget">hi</div>\n```', ctx);
+  assert.deepEqual(b, { t: 'htmlembed', html: '<div class="widget">hi</div>', height: 750 });
+  const md = blocksToMarkdown([b], ctx);
+  assert.equal(md.trim(), '```html height=750\n<div class="widget">hi</div>\n```');
+  assert.deepEqual(markdownToBlocks(md, ctx)[0], b);
+  const [c] = markdownToBlocks('```\nSensitivity 22\nRecovery 5\n```', ctx);
+  assert.equal(c.t, 'raw');
+  assert.match(c.html, /^<pre><code>Sensitivity 22/);
+});

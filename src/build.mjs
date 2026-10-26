@@ -394,6 +394,9 @@ function renderBlocks(blocks, { toc = [] } = {}) {
       case 'table': out += `<div class="table-wrap"><table>${b.rows.map((r, i) => `<tr>${r.map(c => i === 0 ? `<th>${links(c)}</th>` : `<td>${links(c)}</td>`).join('')}</tr>`).join('')}</table></div>`; break;
       case 'video': out += video(b.id, b.title); break;
       case 'embed': out += `<div class="embed"><iframe src="${esc(b.src)}" loading="lazy" title="Embedded form" height="${Math.min(+b.height || 600, 1200)}"></iframe></div>`; break;
+      // HTML pasted into an "HTML" code block in the editor: shown in a sandboxed frame (its scripts run, but
+      // sealed off from this page), so maps and widgets work without giving content access to the site.
+      case 'htmlembed': out += `<div class="embed embed--html"><iframe srcdoc="${esc(b.html)}" sandbox="allow-scripts allow-popups allow-popups-to-escape-sandbox" referrerpolicy="no-referrer" loading="lazy" title="Embedded content" height="${Math.min(+b.height || 600, 1200)}"></iframe></div>`; break;
       case 'ad': out += ad(b.slot); break;
       case 'raw': out += links(b.html); break;
       case 'product': { const pr = PRODUCTS.find(x => x.key === b.key); if (pr) out += productBox(pr, true); break; }

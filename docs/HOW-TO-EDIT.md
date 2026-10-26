@@ -62,6 +62,10 @@ The **Insert** button on the toolbar adds the special blocks:
 
 Each block has a small form. Fill it in and keep typing underneath. The **x** on the block removes it.
 
+### Maps, widgets and other HTML
+
+To put an interactive map or a widget on a page, paste its HTML into a **Code Block** (¶ menu, then Code Block) and set the language of the block to **HTML**. On the site it appears as an embedded frame about 600px tall. The frame is sealed off from the rest of the page, so scripts inside it cannot touch the site. Code blocks in any other language show as code, which is what you want for settings listings.
+
 ### Tables and anything unusual
 
 The editor doesn't have a table button yet. For a comparison table, or if something looks odd, click **Edit in Markdown** on the toolbar. That shows the raw text, where a table looks like this:
