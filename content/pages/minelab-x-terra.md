@@ -11,7 +11,7 @@ seo:
 
 <a href="https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9" class="btn">Buy Elite</a>
 
-[![Minelab X-Terra Pro Review](/img/XTP_WEB.webp) ](https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9)
+[![Minelab X-Terra Pro Review](/img/XTP_WEB.webp "Minelab X-Terra Pro Review") ](https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9" class="btn">Buy Pro</a>
 
