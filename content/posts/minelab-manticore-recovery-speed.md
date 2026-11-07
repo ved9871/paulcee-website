@@ -1,6 +1,8 @@
 ---
 title: minelab manticore recovery speed
 datePublished: 2023-12-30T08:41:00
+draft: false
+noindex: false
 topic: minelab-manticore
 tags:
   - manticore
@@ -10,16 +12,16 @@ cover: /img/b-manticore-recovery-speed.webp
 heroVideo: nP16m-fupVE
 summary: Manticore recovery speed
 seo:
-  title: minelab manticore recovery speed - Blog
-  description: "Recovery speed on the Minelab manticore. Manticore settings for the best recovery speed and coil choice will improve your finds & give you the best experience "
+  title: minelab manticore recovery speed
+  description: Recovery speed on the Minelab manticore. Manticore settings for the best recovery speed and coil choice will improve your finds & give you the best experience
   keywords: minelab manticore, manticore recovery speed, manticore best settings, manticore coils, best recovery speed, recovery speed help
 ---
 
-![what is the best recovery speed on a minelab manticore](/img/manticore-recovery-speed.webp)
+![what is the best recovery speed on a minelab manticore](/img/manticore-recovery-speed.webp "what is the best recovery speed on a minelab manticore")
 
-![what are the best settings for the minelab manticore](/img/YT-thumb_2020_shqkcn25.webp "small")
+![what are the best settings for the minelab manticore](/img/2026-thumb_0bwkmdko.webp "what are the best settings for the minelab manticore")
 
-![what are the best settings for a minelab manticore](/img/detexpert-logosml_h2bvi8tr.webp "small")
+![what are the best settings for a minelab manticore](/img/detexpert-logosml_h2bvi8tr.webp "what are the best settings for a minelab manticore")
 
 ## Minelab Manticore Recovery Speed
 
@@ -31,13 +33,13 @@ This feature is particularly useful in areas with high trash concentration or wh
 
 ### Why use a low recovery speed
 
-![when do you use a slow recovery speed on a minelab manticore](/img/0-recover.webp "small")
+![when do you use a slow recovery speed on a minelab manticore](/img/0-recover.webp "when do you use a slow recovery speed on a minelab manticore")
 
 A slow recovery speed on the Minelab Manticore can be useful in certain situations where precision and thoroughness are more important than speed. Here are a few scenarios where a slow recovery speed might be preferred:
 
 <strong>Deep and Sparse Areas:</strong> In locations where targets are deeply buried and spread apart, a slow recovery speed allows the Manticore to punch deeper especially when using the M15 search coil and a deep setting.
 
-![which is the best recovery speed on a minelab manticore](/img/manticore-high-cond.webp "small")
+![which is the best recovery speed on a minelab manticore](/img/manticore-high-cond.webp "which is the best recovery speed on a minelab manticore")
 
 (all terrain high conductors) or a single low frequency 4Khz again the trade off with using a single frequency is that you will loose all the benefits of the Manticore Multi IQ+, to thoroughly analyze each target without skipping over any potential finds. This method ensures that even faint or deeply buried objects are detected. But the Compromise is you have to use a VERY VERY slow swing speed as the target tone will not be sharp and crisp, it will sound very long.
 
@@ -45,7 +47,7 @@ A slow recovery speed on the Minelab Manticore can be useful in certain situatio
 
 <strong>Conserving Battery:</strong> Using a slower recovery speed might consume less power in some detectors, extending the battery life for longer use in the field,
 
-![when to use the minelab manticore high conductor setting](/img/manticore-high-cond.webp "small")
+![when to use the minelab manticore high conductor setting](/img/manticore-high-cond.webp "when to use the minelab manticore high conductor setting")
 
 ( But if you choose to use the High Conductor settings this will suck the power out of your battery life, so an additional power pack like the PWR-NOX will help somewhat)
 
@@ -53,7 +55,7 @@ In essence, a slow recovery speed can be advantageous in specific detection scen
 
 #### Why use a fast recovery speed
 
-![when to use the fastest recovery speed on the minelab manticore](/img/8-recover.webp "small")
+![when to use the fastest recovery speed on the minelab manticore](/img/8-recover.webp "when to use the fastest recovery speed on the minelab manticore")
 
 A fast recovery speed on the Minelab Manticore can be incredibly beneficial in various scenarios, especially when efficiency and speed in target detection are essential. Here's why you might prefer a fast recovery speed:
 
@@ -63,7 +65,7 @@ A fast recovery speed on the Minelab Manticore can be incredibly beneficial in v
 
 <strong>Metal detecting rally or Group Hunts:</strong> In scenarios where multiple people are detecting in the same area, a fast recovery speed ensures that you can quickly locate and retrieve targets, giving you an edge in competitions or a rally.
 
-![when to use minelab manticore high conductor preset](/img/manticore-low-cond.webp "small")
+![when to use minelab manticore high conductor preset](/img/manticore-low-cond.webp "when to use minelab manticore high conductor preset")
 
 <strong>Handling High-Frequency Signals:</strong> Some metal detectors, especially those designed for gold prospecting or in mineralized soil, use higher frequencies. A fast recovery speed helps these detectors handle rapid signal responses characteristic of these environments.
 
@@ -73,17 +75,17 @@ Overall, a fast recovery speed is advantageous in scenarios where rapid and effi
 
 #### Best Revovery Speed
 
-The best recovery speed is really down to where and how you metal detect. there is NO perfect setting, the factory presets are what are the best out of the box, ![Minelab manticore best recovery speed](/img/5-recover.webp "small")
+The best recovery speed is really down to where and how you metal detect. there is NO perfect setting, the factory presets are what are the best out of the box, ![Minelab manticore best recovery speed](/img/5-recover.webp "Minelab manticore best recovery speed")
 
 Generally a setting of 4,5 or 6 will keep the tones sharp and sweet, your coil choice like trying to use the M15 search coil in a place where there are many targets or the M8 coil trying to get maximum depth on a clean site (although the M8 coil still does punch deep).
 
-![minelab manticore all terrain preset fast](/img/AT-Fast.webp "small")
+![minelab manticore all terrain preset fast](/img/AT-Fast.webp "minelab manticore all terrain preset fast")
 
 ### The Manticore Preset. All Terrain Fast
 
 Will give you a preset that has a faster recovery speed without having to play about with multiple settings and of course is fully customisable, once you have gained confidence in the Manticore and what each of the settings change.
 
-![minelab manticore preset all terrain trash reject](/img/AT-trash.webp "small")
+![minelab manticore preset all terrain trash reject](/img/AT-trash.webp "minelab manticore preset all terrain trash reject")
 
 Manticore Preset. All Terrain Trash Reject.
 
