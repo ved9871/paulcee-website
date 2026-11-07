@@ -1,6 +1,8 @@
 ---
 title: old maps for metal detecting
 datePublished: 2020-01-29T07:34:00
+draft: false
+noindex: false
 topic: beginners
 tags:
   - old
@@ -15,12 +17,12 @@ cover: /img/b-research_web.webp
 heroVideo: -v_ye2cnzOc
 summary: How to use old maps to find treasure for metal detecting research and treasure hunting
 seo:
-  title: old maps for metal detecting - Blog
+  title: old maps for metal detecting
   description: Maps for metal detecting reasearch, with side by side maps and lidar maps.
   keywords: Lidar Map, Metal detecting research, old maps, treasure hunting map
 ---
 
-![old maps for metal detecting research](/img/research_web.webp)
+![old maps for metal detecting research](/img/research_web.webp "old maps for metal detecting research")
 
 ## Metal Detecting Research old maps
 
