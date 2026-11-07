@@ -1,19 +1,25 @@
 ---
 title: Minelab Manticore Settings
 datePublished: 2026-01-09T09:00:00
+draft: false
+noindex: false
 topic: minelab-manticore
+tags:
+  - minelab Manticore
+  - Minelab Detector
+  - Metal Detecting
 cover: /img/b-MANTICORE-VIDEO.webp
 heroVideo: TnWWz4XKcoQ
-summary: Best Settings for the Manticore
+summary: Best Settings for the Minelab Manticore
 seo:
-  title: Minelab Manticore Settings - Blog
+  title: Minelab Manticore Settings
   description: Minelab Manticore best settings, what are the best settings for a minelab manticore, using Beast settings or beach to land, you need these settings
   keywords: minelab, manticore, best, settings, best settings for a minelab manticore, freestyle, Beast settings
 ---
 
-![what are the best settings for a minelab manticore](/img/YT-thumb_2020_znqcobdh.webp "small")
+![what are the best settings for a minelab manticore](/img/2026-thumb_0bwkmdko.webp "what are the best settings for a minelab manticore")
 
-![setting up a minelab manticore with the best settings for beach and fields](/img/detexpert-logosml_383z1pp5.webp "small")
+![setting up a minelab manticore with the best settings for beach and fields](/img/detexpert-logosml_383z1pp5.webp "setting up a minelab manticore with the best settings for beach and fields")
 
 Minelab Manticore Best Settings
 
