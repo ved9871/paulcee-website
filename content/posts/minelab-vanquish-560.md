@@ -1,43 +1,45 @@
 ---
 title: minelab vanquish 560
 datePublished: 2025-09-19T15:39:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - minelab
   - vanquish
-  - "560"
+  - '560'
   - vanquish
-  - "60"
+  - '60'
   - series
   - new
   - minelab
   - vanquish
   - vanquish
-  - "460"
+  - '460'
   - vanquish
-  - "360"
+  - '360'
 cover: /img/b-v560-spec.webp
 heroVideo: nrMw2oEBDyQ
 summary: minelab vanquish 560
 seo:
-  title: minelab vanquish 560 - Blog
+  title: minelab vanquish 560
   description: minelab vanquish 560, specifications and details on the new range of vanquish 60 series metal detectors from minelab, best place to buy a minelab vanquish 560
   keywords: minelab vanquish 560, vanquish 60 series, vanquish 460, vanquish 360
 ---
 
 Minelab Vanquish 60 metal detector
 
-![minelab Vanquish and paul cee vanquish 560 metal detector](/img/detexpert-logosml_32gheh3w.webp "small")
+![minelab Vanquish and paul cee vanquish 560 metal detector](/img/detexpert-logosml_32gheh3w.webp "minelab Vanquish and paul cee vanquish 560 metal detector")
 
-![a review of the new minelab vanquish 60 metal detectors](/img/60-series-web.webp "small")
+![a review of the new minelab vanquish 60 metal detectors](/img/60-series-web.webp "a review of the new minelab vanquish 60 metal detectors")
 
 ## The New Minelab Vanquish 560: A New Era for Entry-Level Power
 
 Minelab has officially unveiled the Vanquish 60 series, a powerful revamp to the highly successful Vanquish range. With useful upgrades and refinements, the 560 is poised to redefine what entry-level and mid-range detectorists can expect from their detectors along with the Minelab Multi IQ technology.
 
-![a review of the minelab vanquish 560 metal detector](/img/560-intro.webp)
+![a review of the minelab vanquish 560 metal detector](/img/560-intro.webp "a review of the minelab vanquish 560 metal detector")
 
-![a review of the new minelab vanquish metal detector](/img/60-uk.webp)
+![a review of the new minelab vanquish metal detector](/img/60-uk.webp "a review of the new minelab vanquish metal detector")
 
 The 560 is part of the Minelab '60-Series' which will eventually replace the '40-series'. This means the Vanquish, 340, 440 and 540, will now be replaced by the Vanquish 360, Vanquish 460, and Vanquish 560.
 
@@ -55,9 +57,9 @@ The Vanquish 560 detector is also aimed at those detectorists who are stepping u
 
 The 560 builds on the original Vanquish concept by incorporating smarter tech, better usability, and crucially fully waterproof to 5 metres. That alone opens up new ground (and water!) for many users. Add in improved discrimination, better target ID range, a torch and vibration function, and even compatibility with Minelab Equinox coils (EQX), and you’ve got a detector that punches way above its weight.
 
-![a review of the new minelab vanquish 560](/img/560-screen.webp)
+![a review of the new minelab vanquish 560](/img/560-screen.webp "a review of the new minelab vanquish 560")
 
-![what settings are on the minelab vanquish 560 ](/img/560-vol.webp)
+![what settings are on the minelab vanquish 560](/img/560-vol.webp "what settings are on the minelab vanquish 560")
 
 Search modes are now in-line with modes on more sophisticated machines such as X-TERRA and Equinox ranges, and target Id’s are also expanded for a more intricate description of targets.
 
@@ -139,7 +141,7 @@ Wired + Minelab Bluetooth LE Earbuds Bluetooth + Wired
 
 Charging
 
-Magnetic charging cable (Equinox/Manticore, XTerra) AA batteries Or RNB Power bank
+Magnetic charging cable (Equinox/Manticore, Xterra) AA batteries Or RNB Power bank
 
 Coil Choices
 
@@ -153,11 +155,11 @@ Refreshed design, improved ergonomics
 
 One of the standout features of the minelab Vanquish 60 detectors is its coil compatibility with Equinox and Coiltek coils.
 
-![whats coils can you use on a new minelab vanquish](/img/60-coils.webp)
+![what coils can you use on a new minelab vanquish 60](/img/60-coils.webp "what coils can you use on a new minelab vanquish 60")
 
 This is a first for the Vanquish line, and it opens up a world of flexibility. Detectorists can now experiment with different coil sizes and shapes depending on their site and targets—all without upgrading to a new detector. That means greater depth, better separation, or even better handling in iron-rich fields and beaches, just by swapping a coil. It won’t suit everyone, but some people will get more variation and options without having to spend on a more expensive machine. And, if you have one of the Vanquish 60 detectors, you can buy some coils, and then later upgrade to XTERRA or Equinox detector then you already have some accessories.
 
-Minelab Vanquish 560![where to buy a new minelab vanquish 560](/img/60-pc.webp)
+Minelab Vanquish 560![where to buy a new minelab vanquish 560, 460 and 360](/img/60-pc.webp "where is the BEST place to buy a new minelab vanquish 560")
 
 ### A Word from Detexpert Paul Cee
 
@@ -165,9 +167,9 @@ Minelab Vanquish 560![where to buy a new minelab vanquish 560](/img/60-pc.webp)
 
 — Paul Cee, Minelab Detexpert
 
-![where can you use a minelab vanquish 60 metal detector](/img/560-beach.webp)
+![where can you use a minelab vanquish 60 metal detector](/img/560-beach.webp "where can you use a minelab vanquish 60 metal detector")
 
-![all about the new minelab vanquish metal detectors](/img/60-field.webp)
+![all about the new minelab vanquish metal detectors](/img/60-field.webp "all about the new minelab vanquish metal detectors")
 
 ### Who Is the Vanquish 60 series For? The 560 is designed for:
 
@@ -183,10 +185,10 @@ The All-Season Detectorist – Rain, rivers, snow? No problem. This machine is r
 
 The Minelab Vanquish 560 represents a thoughtful and exciting update to the Vanquish range. By retaining the simplicity and power that made the 540 such a success, while adding waterproofing, better discrimination, coil compatibility, and a host of modern touches, the 560 is shaping up to be one of the best value detectors on the market.
 
-Whether you're a seasoned swinger looking for a backup detector, or a budding detectorist ready to take your next step into more advanced tech, the Vanquish 560 is well worth a closer look.
+Whether you're a seasoned detectorist looking for a backup detector, or a budding detectorist ready to take your next step into more advanced tech, the Vanquish 560 is well worth a closer look.
 
-![minelab vanquish 560 review](/img/60-release-date.webp)
+![minelab vanquish 560 review](/img/60-release-date.webp "minelab vanquish 560 review")
 
-![where to buy a minelab vanquish 560 metal detector](/img/WEB_AD---Copy_l6p98zfw.webp)
+![where to buy a minelab vanquish 560 metal detector](/img/WEB_AD---Copy_l6p98zfw.webp "where to buy a minelab vanquish 560 metal detector")
 
 Available soon from [Crawfords Metal Detectors](http://www.crawfordsmd.com)
