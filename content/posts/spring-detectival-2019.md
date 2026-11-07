@@ -2,18 +2,23 @@
 title: Spring Detectival 2019
 datePublished: 2019-04-12T17:10:00
 draft: false
+noindex: false
 topic: minelab-equinox
-tags: []
+tags:
+  - hambledon hoard
+  - detectival
+  - Rally
+  - Event
 cover: /img/b-detectival_hammered.webp
 heroVideo: 48yqxdN2hi8
 summary: Metal Detecting Spring Detectival
 seo:
-  title: Spring Detectival - Blog
+  title: Spring Detectival
   description: this is the rally where the Hambledon hoard is found, crawfords and minelab were in attendance with test lanes and actually did some metal detecting
   keywords: detectival, hambledon hoard, minelab equinox, metal, detector, crawfords metal detectors
 ---
 
-![metal detecting at detectival Rally in the uk](/img/detectival_hammered.webp)
+![Metal Detecting at Detectival Rally in the Uk](/img/detectival_hammered.webp "metal detecting at Detectival Rally in the Uk")
 
 ![metal detecting rally in the uk](/img/2026-thumb.webp "Metal Detecting Rally Weekend")
 
