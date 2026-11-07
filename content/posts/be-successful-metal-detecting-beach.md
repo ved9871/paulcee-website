@@ -1,6 +1,8 @@
 ---
 title: be successful metal detecting beach
 datePublished: 2026-01-09T09:00:00
+draft: false
+noindex: false
 topic: beach-detecting
 tags:
   - beach
@@ -13,12 +15,12 @@ cover: /img/b-minelab-2026.webp
 heroVideo: -se1nmB1E3w
 summary: Be a success at beach metal detecting in the UK
 seo:
-  title: be successful metal detecting beach - Blog
+  title: be successful metal detecting beach
   description: where and how to metal detect on a beach
   keywords: beach detecting, minelab, crawfords, metal detector, uk, tutorial
 ---
 
-[![metal detecting for beginners](/img/best-of-5_final1.webp)](http://bit.ly/2VcUX0q)
+[![metal detecting for beginners](/img/best-of-5_final1.webp "metal detecting for beginners")](http://bit.ly/2VcUX0q)
 
 Get the best results beach metal detecting, find all the gold that other people leave behind, where are the best places to metal detect on beach, we try all parts of the beach for the best results
 
