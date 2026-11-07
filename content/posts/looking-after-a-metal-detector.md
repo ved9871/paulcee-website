@@ -1,6 +1,8 @@
 ---
 title: looking after a metal detector
 datePublished: 2022-06-25T04:52:00
+draft: false
+noindex: false
 topic: beginners
 tags:
   - metal
@@ -12,8 +14,8 @@ cover: /img/b-coil-spacers_web.webp
 heroVideo: ZaJimpj9WwI
 summary: '"Keep your metal detector in top shape with these easy tips! Learn how to clean, store and maintain your detector to ensure it lasts for years of treasure hunting in the UK."'
 seo:
-  title: looking after a metal detector - Blog
-  description: "how to help stop your minelab equinox coil lugs breaking how to look after your metal detector, basic maintenance not to overlook "
+  title: looking after a metal detector
+  description: how to help stop your minelab equinox coil lugs breaking how to look after your metal detector, basic maintenance not to overlook
   keywords: minelab equinox lugs break, metal detector maintenance, minelab coil washers, care, repair, minelab equinox coil lugs
 ---
 
