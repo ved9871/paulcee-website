@@ -1,17 +1,22 @@
 ---
 title: Minelab Equinox best settings Uk
 datePublished: 2021-04-23T17:34:00
+draft: false
+noindex: false
 topic: minelab-equinox
+tags:
+  - beach metal detect
+  - tutorial
 cover: /img/b-bournemouth1a.webp
 heroVideo: MrT-sitP1z8
 summary: Minelab equinox settings for uk beach and fields
 seo:
-  title: Minelab Equinox best settings - Blog
+  title: Minelab Equinox best settings
   description: Best settings for the Minelab Equinox, beach and land, will help you for metal detecting and get better results and finds will increase
   keywords: Minelab, equinox, settings, best, beach, land, beginner, detecting, metal, uk
 ---
 
-![set up the minelab Equinox and get best results for beach and land detecting](/img/bournemouth1a.webp)
+![set up the minelab Equinox and get best results for beach and land detecting](/img/bournemouth1a.webp "set up the minelab Equinox and get best results for beach and land detecting")
 
 ## Minelab Equinox 800 Settings
 
