@@ -1,7 +1,7 @@
 {
-  "key": "beginners",
   "label": "Beginners & how-to",
-  "description": "",
+  "key": "beginners",
+  "description": "Everything you need to know about starting the hobby of metal detecting, which metal detector to buy, laws and regulations, insurance and what essential tools you need to get started. tutorials on Minelab Metal Detectors that are ideal for beginners",
   "match": "beginner|how to|guide|permission|tips|research|maps|places|training|kids|panning|clean|electrolysis|maintenance|looking after",
   "order": 10
 }
