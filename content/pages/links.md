@@ -3,7 +3,7 @@ title: Metal Detecting LINKS
 noindex: false
 seo:
   title: LINKS
-  description: which beach can you legally metal detect on, Metal Detecting insurance, Crown estate foreshore, beach metal detecting Uk, Cleethorpes, beach, NCMD, Portable Antiquities scheme UK
+  description: Explore essential metal detecting links and resources for UK detectorists, including NCMD insurance info, Portable Antiquities Scheme guidelines, Crown Estate foreshore rules, and Cleethorpes Beach permit steps.
   keywords: uk beach,mals surffones,metal detecting insurance,beach detecting uk,best for metal detecting, metal detecting maps, metal detecting licence, metal detecting permission, crown estate metal detecting map
 ---
 
