@@ -1,6 +1,8 @@
 ---
 title: Minelab Vanquish Iron Volume
 datePublished: 2020-08-07T17:33:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - minelab
@@ -13,14 +15,14 @@ tags:
   - detector
 cover: /img/b-iron-volume_web.webp
 heroVideo: HYzZLG3UkPs
-summary: "iron Volume on the minelab Vanquish How to find and use "
+summary: iron Volume on the minelab Vanquish How to find and use
 seo:
-  title: Minelab Vanquish Iron Volume - Blog
+  title: Minelab Vanquish Iron Volume
   description: where to find the Iron volume on a minelab vanquish metal detector, after the latest vanquish update a new feature is available
   keywords: minelab vanquish iron volume, minelab vanquish settings, how to use a minelab vanquish, minelab vanquish update, minelab update utility
 ---
 
-![where to find minelab Vanquish iron volume](/img/iron-volume_web.webp)
+![where to find minelab Vanquish iron volume](/img/iron-volume_web.webp "where to find minelab Vanquish iron volume")
 
 ## HOW TO SET IRON VOLUME MINELAB VANQUISH
 
