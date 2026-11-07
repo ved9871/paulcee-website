@@ -1,6 +1,8 @@
 ---
 title: Hambledon hoard
 datePublished: 2019-04-12T16:55:00
+draft: false
+noindex: false
 topic: finds
 tags:
   - detectival
@@ -14,12 +16,12 @@ cover: /img/b-hoard_4.webp
 heroVideo: 49lbEIUvU3c
 summary: Finding and recovery of the Hambledon Hoard Henley on Thames
 seo:
-  title: Hambledon hoard amazing gold coins found - Blog
+  title: Hambledon hoard amazing gold coins found
   description: the amazing moments from when a huge hoard of gold and silver coins were found metal detecting in the uk
   keywords: gold, coins, hoard, metal, detecting, amazings, finds, detectival, paul cee
 ---
 
-![gold coins metal detecting](/img/YT-thumb_2020_45fzpja4.webp "small")
+![gold coins found metal detecting](/img/2026-thumb_0bwkmdko.webp "gold coins found metal detecting")
 
 ## Hambledon Hoard DETECTIVAL
 
@@ -31,9 +33,9 @@ Initially one gold coin was found and then silver hammered coins and then more g
 
 How they got there and why they were left is still going to be found out, but this has sure turned into an epic weekend of metal detecting.. Roll on the Summer Detectival..
 
-[![gold hoard coins found metal detecting](/img/hoard_4.webp)](http://bit.ly/2VcUX0q)[![when a hoard is found metal detecting](/img/hoard1.webp)](http://bit.ly/2VcUX0q)
+[![gold hoard coins found metal detecting](/img/hoard_4.webp "gold hoard coins found metal detecting")](http://bit.ly/2VcUX0q)[![when a hoard is found metal detecting](/img/hoard1.webp "when a hoard is found metal detecting")](http://bit.ly/2VcUX0q)
 
-[![silver coin from hamblendon hoard uk](/img/hoard_3.webp)](http://bit.ly/2VcUX0q)[![hoard of gold found metal detecting](/img/hoard_2.webp)](http://bit.ly/2VcUX0q)
+[![silver coin from Hambledon hoard Uk](/img/hoard_3.webp "silver coin from Hambledon hoard Uk")](http://bit.ly/2VcUX0q)[![hoard of gold found metal detecting](/img/hoard_2.webp "hoard of gold found metal detecting")](http://bit.ly/2VcUX0q)
 
 This was a live feed from when the coins were first discovered at Spring Detectival
 
