@@ -2,12 +2,12 @@
 title: 'Minelab X-Terra Elite vs Pro: Review, Pros, Cons & Coil Guide'
 noindex: false
 seo:
-  title: Minelab X Terra
+  title: Minelab X Terra Pro Vs Elite
   description: Compare the Minelab X-Terra Elite and X-Terra Pro. Discover the pros, cons, Multi-IQ features, and full compatibility guide for Equinox and Coiltek Nox coils
   keywords: Minelab X-Terra Elite, Minelab X-Terra Pro, X-Terra Elite vs Pro, Minelab Equinox coils, Coiltek Nox coils, Multi-IQ detector, Pro-Switch technology, metal detector review, waterproof metal detector, X-Terra coil compatibility
 ---
 
-[![Minelab X Terra Elite Review](/img/XTE_web.webp) ](https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9)
+[![Minelab X Terra Elite Review](/img/XTE_web.webp "Minelab X Terra Elite Review") ](https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9" class="btn">Buy Elite</a>
 
@@ -103,4 +103,4 @@ Both machines give you the flexibility to upgrade your performance later by addi
 
 {{youtube id="LDcEDpRyk3c" title="using the Minelab X-Terra Pro, compare to the X-Terra Elite"}}
 
-![Minelab X-terra elite Vs Minelab X-Terra Pro](/img/WEB_AD2026a.webp) ]
+![Minelab X-terra elite Vs Minelab X-Terra Pro](/img/WEB_AD2026a.webp "Minelab X-terra elite Vs Minelab X-Terra Pro")
