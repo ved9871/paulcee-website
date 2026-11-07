@@ -1,5 +1,5 @@
 ---
-title: 'Minelab X-Terra Elite vs Pro: Review, Pros, Cons & Coil Guide'
+title: Minelab X-Terra Elite vs Pro Review
 noindex: false
 seo:
   title: Minelab X Terra Pro Vs Elite
