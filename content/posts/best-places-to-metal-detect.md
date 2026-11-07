@@ -5,7 +5,7 @@ draft: false
 noindex: false
 topic: beach-detecting
 tags:
-  - metal detct
+  - metal detect
   - best place
   - tutorial
 cover: /img/b-beach_research.webp
