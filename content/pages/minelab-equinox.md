@@ -1,5 +1,6 @@
 ---
 title: Minelab Equinox Series Review | 600, 700, 800 & 900 Comparison
+noindex: false
 seo:
   title: Minelab Equinox Uk
   description: The complete guide to the Minelab Equinox. Compare the 600, 700, 800 and 900 models. Discover Multi-IQ technology and the best search coils for your detector
@@ -20,7 +21,7 @@ seo:
 
 The Equinox series changed the game with **Multi-IQ Technology**. Before this, you had to choose between a VLF machine (good for coins) or a Pulse Induction machine (good for salt).
 
-Multi-IQ transmits multiple frequencies simultaneously (e.g., 5, 10, 15, 20, 40 kHz). This allows the detector to see large silver coins deep down *and* tiny gold nuggets near the surface at the exact same time.
+Multi-IQ transmits multiple frequencies simultaneously (e.g., 5, 10, 15, 20, 40 kHz). This allows the detector to see large silver coins deep down _and_ tiny gold nuggets near the surface at the exact same time.
 
 ## Speed &amp; Versatility
 
@@ -34,7 +35,7 @@ The Equinox is defined by its **Recovery Speed**. It is incredibly fast, allowin
 
 Minelab currently offers the older generation (600/800) and the upgraded generation (700/900).
 
-<div class="table-wrap"><table><tr><th>Feature</th><th>Equinox 600</th><th>Equinox 800</th><th>Equinox 700 (New)</th><th>Equinox 900 (New)</th></tr><tr><td><strong>Target ID Scale</strong></td><td>-9 to 40</td><td>-9 to 40</td><td>-19 to 99 (High Res)</td><td>-19 to 99 (High Res)</td></tr><tr><td><strong>Search Modes</strong></td><td>Park, Field, Beach</td><td>Park, Field, Beach, <strong>Gold</strong></td><td>Park, Field, Beach</td><td>Park, Field, Beach, <strong>Gold</strong></td></tr><tr><td><strong>Waterproof</strong></td><td>3m (10ft)</td><td>3m (10ft)</td><td><strong>5m (16ft)</strong></td><td><strong>5m (16ft)</strong></td></tr><tr><td><strong>Shaft System</strong></td><td>Standard Aluminum</td><td>Standard Aluminum</td><td>Collapsible Carbon Fiber</td><td>Collapsible Carbon Fiber</td></tr><tr><td><strong>Included Coils</strong></td><td>11" only</td><td>11" only</td><td>11" only</td><td><strong>11" AND 6"</strong></td></tr></table></div>
+<div class="table-wrap"><table><tr><th>Feature</th><th>Equinox 600</th><th>Equinox 800</th><th>Equinox 700 (New)</th><th>Equinox 900 (New)</th></tr><tr><td><strong>Target ID Scale</strong></td><td>-9 to 40</td><td>-9 to 40</td><td>-19 to 99 (High Res)</td><td>-19 to 99 (High Res)</td></tr><tr><td><strong>Search Modes</strong></td><td>Park, Field, Beach</td><td>Park, Field, Beach, <strong>Gold</strong></td><td>Park, Field, Beach</td><td>Park, Field, Beach, <strong>Gold</strong></td></tr><tr><td><strong>Waterproof</strong></td><td>3m (10ft)</td><td>3m (10ft)</td><td><strong>5m (16ft)</strong></td><td><strong>5m (16ft)</strong></td></tr><tr><td><strong>Shaft System</strong></td><td>Standard Aluminum</td><td>Standard Aluminum</td><td>Collapsible Carbon Fiber</td><td>Collapsible Carbon Fiber</td></tr><tr><td><strong>Included Coils</strong></td><td>11" only</td><td>11" only</td><td>11" only</td><td><strong>11" Only</strong></td></tr></table></div>
 
 ### 💡 Key Difference: 600/800 vs 700/900
 
@@ -82,11 +83,11 @@ A large round coil offering significant depth and punch. Great for open fields w
 <strong>Coiltek 18" NOX:</strong>\
 The largest coil available. Strictly for deep hoard hunting or clean beaches.
 
-{{youtube id="wmwskgU3xIs" title="Set up and using the minelab equinox 900 for successful beach met detecting"}}
+{{youtube id="wmwskgU3xIs" title="Set up and using the minelab equinox 900 for successful beach metal detecting"}}
 
 {{youtube id="o6n_H_onH3o" title="minelab equinox iron bias explained by Minelab enginners"}}
 
-[![Equinox 900/700 Getting Started](/img/900-programs_4vpc3sw8.webp)](https://youtu.be/gK9kbAqI62w)
+[![Equinox 900/700 Getting Started](/img/900-programs_4vpc3sw8.webp "Minelab Equinox getting Started Tutorials")](https://youtu.be/gK9kbAqI62w)
 
 For setting up your Equinox we look at the pre-set search modes on the equinox 900, the settings and what you can change, this one is about field and park modes.
 
@@ -96,4 +97,4 @@ Shop at Crawfords Metal detectors for The Minelab Equinox
 
 ### Use this discount code for your accessories
 
-![minelab equinox settings for the uk](/img/WEB_AD2026a.webp)
+![minelab equinox settings for the uk](/img/WEB_AD2026a.webp "Minelab Equinox Settings")
