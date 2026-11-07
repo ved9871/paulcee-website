@@ -1,6 +1,8 @@
 ---
 title: CTX3030 is a deep searching detector
 datePublished: 2017-07-15T15:36:00
+draft: false
+noindex: false
 topic: ctx-3030
 tags:
   - ctx3030
@@ -8,6 +10,8 @@ tags:
   - settings
   - gold
   - detectorists
+cover: /img/120317.webp
+heroVideo: ''
 summary: find deep targets, metal detecting beaches
 seo:
   title: CTX3030 is a deep searching detector - Blog
@@ -15,7 +19,7 @@ seo:
   keywords: beach metal detecting, uk beach metal detecting, metal detecting uk
 ---
 
-![CTX3030 beach settings](/img/120317.webp)
+![Good Minelab CTX 3030 beach settings](/img/120317.webp "Minelab CTX 3030 beach settings")
 
 ![minelab beach](/img/deep-beach.webp "small")
 
