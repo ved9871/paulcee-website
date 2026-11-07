@@ -1,21 +1,26 @@
 ---
 title: Minelab X-Terra Pro
 datePublished: 2026-01-09T09:00:00
+draft: false
+noindex: false
 topic: minelab-x-terra
+tags:
+  - Minelab Xterra Pro
+  - Minelab Settings
 cover: /img/b-xterra-pro-features.webp
 heroVideo: vjv3KGson6Q
 summary: Minelab X-Terra pro a metal detector for beginners, with features of a Mid range detector including Multi frequency shift, coils from Equinox detectors will fit
 seo:
-  title: Minelab X-Terra Pro Features - Blog
+  title: Minelab X-Terra Pro Features
   description: Minelab X-Terra pro a metal detector for beginners, with features of a Mid range detector including Multi frequency shift, coils from Equinox detectors will fit
   keywords: x-terra pro uk, x terra pro settings, x terra pro coils, cheap metal detector, x-terra pro search coils, x-terra pro headphones
 ---
 
 ## Minelab X-Terra pro settings
 
-![paul cee Minelab goes through all the features functions and settings of the minelab X-terra Pro](/img/YT-thumb_2020_ygyc27n1.webp "small")
+![paul cee Minelab goes through all the features functions and settings of the minelab X-terra Pro](/img/2026-thumb_0bwkmdko.webp "Minelab XTerra Pro Settings")
 
-![minelab x terra pro settings tutorial](/img/cmd-xterra-pro-cmd.webp)
+![minelab x terra pro settings tutorial](/img/cmd-xterra-pro-cmd.webp "minelab x terra pro settings tutorial")
 
 ### The Minelab X-Terra Pro is a feature packed metal detector
 
@@ -35,7 +40,7 @@ Adjustable discrimination so you can select which targets you want to find and a
 
 You can detect with the X-Terra Pro using wireless headphones, headphones on a cable, underwater headphones or just with the built in speaker (with adjustable Volume).
 
-![minelab and coiltek coils that will work on the X-terra Pro metal detector](/img/xterra-search-coils1.webp)
+![minelab and Coiltek coils that will work on the X-terra Pro metal detector](/img/xterra-search-coils1.webp "minelab and Coiltek coils that will work on the X-terra Pro metal detector")
 
 The X-terra Pro comes with the Huge 12 inch V12X (12"x9") DD Search coil, and also there is a Minelab X-Terra pro V10X (10"x7") coil and V8X (8"x5") elliptical, but coils for the Minelab Equinox detectors will fit and work along with the optional coils from Coiltek for the Equinox detectors so if you want to detect deep or in trashy areas the x-terra pro has a great range of search coils.
 
