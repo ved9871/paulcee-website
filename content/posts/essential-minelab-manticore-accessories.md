@@ -1,11 +1,18 @@
 ---
 title: Minelab Manticore Accessories GOG Folding Handle & Phones
 datePublished: 2026-01-18T10:29:00
+draft: false
+noindex: false
 topic: minelab-manticore
+tags:
+  - Minelab Manticore
+  - Gog Folding Handle
+  - Manticore Accessories
 cover: /img/b-20251207_082004.webp
+heroVideo: ''
 summary: GOG Folding Handle & Phones
 seo:
-  title: Essential Minelab Manticore Accessories, GOG Folding Handle & Phones - Blog
+  title: Essential Minelab Manticore Accessories, GOG Folding Handle & Phones
   description: Upgrade your setup with the GOG Manticore Folding Removable Handle and GOG Wireless Phones (WM09). The best accessories for portability and audio freedom.
   keywords: Minelab Manticore, Manticore Accessories, GOG Folding Handle, GOG Phones, WM09 Wireless Module, Metal Detecting Upgrades, Removable Detector Handle, Wireless Detector Headphones, Minelab Mods, Compact Metal Detector
 ---
@@ -16,7 +23,7 @@ The Minelab Manticore is already a beast of a machine right out of the box. But 
 
 If you are looking to streamline your setup for better portability and audio freedom, we are spotlighting two specific accessories today: the GOG Removable Folding Handle and the GOG Wireless Phones.
 
-![Minelab Manticore metal detector featuring GOG folding removable handle and GOG wireless headphones with WM09 module on the beach.](/img/20251207_082004.webp)
+![Minelab Manticore metal detector featuring GOG folding removable handle and GOG wireless headphones with WM09 module on the beach.](/img/20251207_082004.webp "Minelab Manticore, Removable Folding Handle")
 
 ### 1. The GOG Manticore Removable Folding Handle
 
