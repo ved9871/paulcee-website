@@ -1,6 +1,8 @@
 ---
 title: Coiltek Nox 10inch coil Review
 datePublished: 2026-01-09T09:00:00
+draft: false
+noindex: false
 topic: coils-and-gear
 tags:
   - Minelab
@@ -11,12 +13,12 @@ cover: /img/b-14th-feb_gold1_web.webp
 heroVideo: vTH2CSCNpVU
 summary: Coiltek NOX 10x5 Review and Test
 seo:
-  title: Coiltek Nox 10inch coil Review - Blog
+  title: Coiltek Nox 10inch coil Review
   description: Coiltek NOX 10 inch coil test and review of the new search coils for the minelab equinox
   keywords: Coiltek, minelab, Equinox, coil, metal, detecting, uk, Review
 ---
 
-![Review and Test of the Coiltek Nox 10x5 Equinox coil](/img/14th-feb_gold1_web.webp)
+![Review and Test of the Coiltek Nox 10x5 Equinox coil](/img/14th-feb_gold1_web.webp "Review and Test of the Coiltek Nox 10x5 Equinox coil")
 
 ## Test and REVIEW of the COILTEK NOX 10x5 inch coil.
 
