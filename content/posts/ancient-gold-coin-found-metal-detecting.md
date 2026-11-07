@@ -1,12 +1,17 @@
 ---
 title: ancient gold coin found metal detecting
 datePublished: 2026-01-09T09:00:00
+draft: false
+noindex: false
 topic: finds
+tags:
+  - Gold Coin
+  - Metal Detecting
 cover: /img/b-gold-stater4.webp
 heroVideo: iTXk31MhBMk
 summary: Ancient gold coin found metal detecting
 seo:
-  title: ancient gold coin found metal detecting - Blog
+  title: ancient gold coin found metal detecting
   description: metal detectorist finds ancient gold coin in lincolnshire with a minelab manticore metal detector
   keywords: gold stater, metal detecting finds, metal, detecting, minelab manticore, metal detecting treasure, finders keepers tv, paul cee, crawfords metal detectors
 ---
@@ -27,9 +32,9 @@ Day 2 started out pretty much the same, but then i remebered to use the ARCHI UK
 
 I noticed that the 2 trees that were in the middle of the fields were once along a field boundary with a track (obsereved on lidar) through the middle, not having found much of interest i decided to give this area a go. Well I took about 20 steps and there was a signal, it wasnt deep and read about 56/57 on the manticore 2D screen. I hadnt had a signal in that target id range this weekend so wasnt sure if it was going to be another copper coin or more tin-can, so in went the spade to dig out the target.
 
-![gold stater found with a metal detector](/img/IMG-20230614-WA0007.webp)
+![gold stater found with a metal detector](/img/IMG-20230614-WA0007.webp "gold stater found with a metal detector")
 
-![gold stater weight found metal detecting in the uk](/img/gold-stater3.webp)
+![gold stater weight found metal detecting in the uk](/img/gold-stater3.webp "gold stater weight found metal detecting in the uk")
 
 ### About the CATUVELLAUNI CELTIC TRIBE
 
