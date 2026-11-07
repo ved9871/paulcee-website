@@ -7,9 +7,9 @@ seo:
   keywords: Paul Cee, Metal Detecting, Minelab, Vanquish 60, underwater detector, beach detector, waterproof, iron discrimination, water metal detectors, treasure hunting
 ---
 
-![all about the minelab vanquish 560 metal detector](/img/60-review.webp)
+![all about the minelab vanquish 560 metal detector](/img/60-review.webp "all about the minelab vanquish 560 metal detector")
 
-![learn all about the new minelab vanquish 60 series metal detectors, in the UK](/img/VANQUISH-560-Colour.webp)
+![learn all about the new minelab vanquish 60 series metal detectors, in the UK](/img/VANQUISH-560-Colour.webp "learn all about the new minelab vanquish 60 series metal detectors, in the UK")
 
 ## Minelab Vanquish 560 Review: The Waterproof "Multi-IQ" Beast We’ve Been Waiting For
 
@@ -62,9 +62,9 @@ The high-performance choice for maximum audio control and depth.
 - <strong>Ground Balance:</strong> Auto &amp; Tracking.
 - <strong>Coil:</strong> Large V12X for maximum depth.
 
-![all about the minelab vanquish 60 series metal detectors](/img/2026-thumb_fi4vubdi.webp)
+![all about the minelab vanquish 60 series metal detectors](/img/2026-thumb_fi4vubdi.webp "all about the minelab vanquish 60 series metal detectors")
 
-![what is new on the minelab vanquish 60 series and is it worth the upgrade](/img/560-screen_ddo1d1a6.webp)
+![what is new on the minelab vanquish 60 series and is it worth the upgrade](/img/560-screen_ddo1d1a6.webp "what is new on the minelab vanquish 60 series and is it worth the upgrade")
 
 ## What’s New? The "60 Series" Upgrades
 
@@ -110,7 +110,7 @@ Lighting Backlight only Backlight + Flashlight
 
 Ground Balance Fixed (Park/Field) Manual &amp; Auto
 
-![minelab vanquish 560 pro pack uk, what do you get that is extra](/img/VANQUISH-560PROPACK-RED_5inmo2cy.webp)
+![minelab vanquish 560 pro pack uk, what do you get that is extra](/img/VANQUISH-560PROPACK-RED_5inmo2cy.webp "Minelab Vanquish 560 Pro Pack")
 
 ## The "Pro-Pack" Bonus
 
@@ -148,7 +148,7 @@ The 560 retains the collapsible shaft system, making it perfect for travel. It s
 
 <strong>The Upgrader:</strong> If you own a Vanquish 340 or 440, the jump to the 560 is massive. If you own a 540, the upgrade is worth it only if you need waterproofing or want to use Equinox coils.
 
-![best review of the minelab vanquish 560](/img/560-web2.webp)
+![best review of the minelab vanquish 560](/img/560-web2.webp "Minelab Vanquish 60 Series Review")
 
 #### Verdict: The New King of Mid-Range Detectors?
 
@@ -176,7 +176,7 @@ Click on the button below to buy the minelab vanquish 60 series
 
 <a href="https://crawfordsmd.com/minelab-vanquish-560-pro?tracking=fa202437c9" class="btn">BUY VANQUISH 560</a>
 
-![best place to buy a minelab vanquish 60 series](/img/WEB_AD2026a.webp)
+![best place to buy a minelab vanquish 60 series](/img/WEB_AD2026a.webp "best place to buy a minelab vanquish 60 series")
 
 {{youtube id="nrMw2oEBDyQ" title="how good is the minelab vanquish 560"}}
 
