@@ -1,10 +1,12 @@
 ---
 title: Minelab Equinox 900 and 700 RESET
 datePublished: 2023-12-31T17:14:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - equinox
-  - "900"
+  - '900'
   - Equinox
   - best
   - settings
@@ -19,11 +21,11 @@ seo:
   keywords: equinox 900 reset, factory reset equinox, equinox 900 settings, equinox 700, equinox 900, Best settings, Equinox 900 help, minelab equinox reset.
 ---
 
-![minelab equinox settings looking at reset one profile or full factory reset](/img/equinox-900-tutorials.webp)
+![minelab equinox settings looking at reset one profile or full factory reset](/img/equinox-900-tutorials.webp "minelab equinox settings looking at reset one profile or full factory reset")
 
-![minelab equinox 900 settings in the uk looking at factory reset or single profile reset](/img/YT-thumb_2020_gnw0rqx1.webp "small")
+![minelab equinox 900 settings in the Uk looking at factory reset or single profile reset](/img/2026-thumb_0bwkmdko.webp "minelab equinox 900 settings in the Uk looking at factory reset or single profile reset")
 
-![minelab equinox factory or soft reset and how to do it](/img/detexpert-logosml_7oqjwpja.webp "small")
+![minelab equinox factory or soft reset and how to do it](/img/detexpert-logosml_7oqjwpja.webp "minelab equinox factory or soft reset and how to do it")
 
 ## Minelab Equinox Detector Reset
 
