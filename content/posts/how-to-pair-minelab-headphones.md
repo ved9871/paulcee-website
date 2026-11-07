@@ -1,12 +1,15 @@
 ---
 title: How to pair minelab Headphones
 datePublished: 2021-07-11T16:07:00
+draft: false
+noindex: false
 topic: minelab-vanquish
+tags: []
 cover: /img/b-540-BT-headphones_web.webp
 heroVideo: VEBEUnaj5DE
 summary: How to pair minelab ML 80 Headphones
 seo:
-  title: How to pair minelab Headphones - Blog
+  title: How to pair minelab Headphones
   description: How to pair minelab Vanquish 540 headphones, a step by step easy guide on bluetooth connection
   keywords: Vanquish uk, minelab vanquish, minelab bluetooth, how, to, connect
 ---
