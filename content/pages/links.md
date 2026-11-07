@@ -1,8 +1,9 @@
 ---
 title: Metal Detecting LINKS
+noindex: false
 seo:
   title: LINKS
-  description: Metal Detecting insurance, Crown estate foreshore, metal detector headphones, headphones for metal detectors, best metal detector headphones, surffones
+  description: which beach can you legally metal detect on, Metal Detecting insurance, Crown estate foreshore, beach metal detecting Uk, Cleethorpes, beach, NCMD, Portable Antiquities scheme UK
   keywords: uk beach,mals surffones,metal detecting insurance,beach detecting uk,best for metal detecting, metal detecting maps, metal detecting licence, metal detecting permission, crown estate metal detecting map
 ---
 
@@ -18,9 +19,9 @@ The National Council for Metal Detecting has a written Constitution which is ava
 
 The NCMD have been great of late with getting the ban on metal detecting on the beach at cleethorpes lifted albeit temporarily.
 
-[![insurance for metal detecting in the uk the ncmd is just what you need](/img/ncmd-logo.webp) ](https://www.ncmd.co.uk/)
+[![insurance for metal detecting in the uk ](/img/ncmd-logo.webp "insurance for metal detecting in the Uk the ncmd is just what you need") ](https://www.ncmd.co.uk/)
 
-[![portable antiquities scheme uk, and where metal detecting finds are recorded on a database, that can be searched for context](/img/logo-portable-antiquities-scheme.webp) ](https://finds.org.uk/)
+[![portable antiquities scheme uk, and where metal detecting finds are recorded on a database, that can be searched for context](/img/logo-portable-antiquities-scheme.webp "portable antiquities scheme Uk") ](https://finds.org.uk/)
 
 ## Portable Antiquities Scheme
 
@@ -28,21 +29,23 @@ The Portable Antiquities Scheme is a voluntary scheme to record archaeological o
 
 Their website provides background information on the Portable Antiquities Scheme, news articles, events listings and access to our database of objects and images of finds.
 
-[![Crown Estate Foreshore permit](/img/logo-crown-estate.webp) ](https://www.thecrownestate.co.uk/rural-and-coastal/coastal/metal-detecting/metal-detecting-permit-application/terms-and-conditions/)
+[![Crown Estate Foreshore permit, where to metal detect legally on the beach](/img/logo-crown-estate.webp "Crown Estate Foreshore permit") ](https://www.thecrownestate.co.uk/rural-and-coastal/coastal/metal-detecting/metal-detecting-permit-application/terms-and-conditions/)
 
 ### The crown estate foreshore permit for metal detecting on beaches
 
-*Please note, the Crown Estate no longer provides online permits to anyone wishing to go metal detecting on Crown Estate foreshore*
+_Please note, the Crown Estate no longer provides online permits to anyone wishing to go metal detecting on Crown Estate foreshore_
 
 You are allowed to metal detect on Crown Estate foreshore, but must read our terms and conditions here before doing so.
 
 The Crown Estate generally seeks to encourage access over, and responsible use of, the foreshore and as a result Crown Estate consent for non-commercial metal detecting on the foreshore will not incur a charge.
 
-### *Seabed Metal Detecting*
+### _Seabed Metal Detecting_
 
 At present The Crown Estate does not grant permits for the sea bed as the Treasure Act does not apply below the foreshore.
 
 Finds above the low water mark are generally the property of the landowner, unless classified as Treasure. Wreck on the seabed may still legally belong to a third party, therefore we recommend that any finds, particularly whilst you are diving or snorkelling, are not removed and are reported to English Heritage and the Receiver of Wreck.
+
+![Cleethorpes Beach Metal Detecting Permit, where to get the permit, and what could happen if you dont apply for the FREE Permit](/img/clee-beach.webp "Cleethorpes Beach Metal Detecting Permit")
 
 #### Cleethorpes beach Metal Detecting.
 
