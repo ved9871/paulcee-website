@@ -1,6 +1,8 @@
 ---
 title: Minelab Manticore M9 coil Review
 datePublished: 2025-01-04T06:36:00
+draft: false
+noindex: false
 topic: minelab-manticore
 tags:
   - Minelab
@@ -18,16 +20,17 @@ tags:
   - accessories
   - performance
 cover: /img/b-m9-review.webp
+heroVideo: ''
 summary: Minelab Manticore M9 Search Coil Review
 seo:
   title: Minelab Manticore M9 coil Review - Blog
-  description: "Discover the best-selling Minelab Manticore search coil: Superior depth detection, accuracy, lightweight (262g), perfect for metal detecting everywhere."
+  description: 'Discover the best-selling Minelab Manticore search coil: Superior depth detection, accuracy, lightweight (262g), perfect for metal detecting everywhere.'
   keywords: minelab manticore M9, Manticore m9 search coil, water detecting coil, minelab manticore accessories, manticore m9 coil review, best selling manticore coil
 ---
 
 ## Minelab Manticore M9 Search Coil Review
 
-![a review of the M9 coil for the Minelab Manticore](/img/m9-review.webp)
+![a review of the M9 coil for the Minelab Manticore](/img/m9-review.webp "a review of the M9 coil for the Minelab Manticore")
 
 ### Best Selling
 
@@ -98,3 +101,5 @@ With it being 2" smaller than a stock coil, it has less ground coverage
 Final Thoughts:
 
 The [Minelab Manticore M9 search coil](https://www.crawfordsmd.com/minelab-m9) is a top-notch choice for anyone serious about metal detecting. Its combination of performance, durability, and ease of use makes it a valuable addition to any metal detectorist's toolkit. While it may come with a higher price tag, the investment is justified by its high-quality features and reliability. This M9 coil will quickly become your coil of choice for the Manticore. For a visual demonstration of the Manticore M9 coil in action, check out [Paul Cee on YouTube.](https://www.youtube.com/channel/UCAJhc7UhOgQaupZhJt42G7w)
+
+{{product key="m9-coil"}}
