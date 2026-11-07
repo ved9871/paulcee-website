@@ -1,7 +1,10 @@
 ---
 title: Equinox 900 best settings
 datePublished: 2024-01-01T14:08:00
+draft: false
+noindex: false
 topic: minelab-equinox
+tags: []
 cover: /img/b-equinox-900-tutorials_search-profile.webp
 heroVideo: gK9kbAqI62w
 summary: Best settings for you
@@ -11,9 +14,9 @@ seo:
   keywords: equinox, 900, settings, best, beach, land, ancient, crawfords metal detectors
 ---
 
-![how to use a minelab equinox 900](/img/900-programs_dcv6mil9.webp)
+![how to use a minelab equinox 900](/img/900-programs_dcv6mil9.webp "how to use a minelab equinox 900")
 
-![minelab equinox 900 settings for the uk](/img/YT-thumb_2020_trimni0e.webp "small")
+![minelab equinox 900 settings for the Uk](/img/2026-thumb_0bwkmdko.webp "minelab equinox 900 settings for the Uk")
 
 ## Best Settings for the Equinox
 
