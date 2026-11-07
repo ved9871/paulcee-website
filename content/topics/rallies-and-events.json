@@ -1,7 +1,7 @@
 {
-  "key": "rallies-and-events",
   "label": "Rallies & events",
-  "description": "",
+  "key": "rallies-and-events",
+  "description": "Welcome to the Ultimate Guide for Metal Detecting Events & Rallies\n\nDiscover the latest listings for metal detecting rallies, weekenders, and club digs across the UK, Europe, and worldwide. Whether you are looking for a casual 1-day club dig or a full-scale detecting weekender complete with camping, catering, and evening entertainment, our directory is updated regularly as organizers release new dates",
   "match": "rally|rallys|detectival|bike night|event|grand tour",
   "order": 9
 }
