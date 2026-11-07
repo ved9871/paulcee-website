@@ -1,21 +1,27 @@
 ---
 title: Equinox Vibrate Settings
 datePublished: 2024-01-01T10:57:00
+draft: false
+noindex: false
 topic: minelab-equinox
+tags:
+  - Minelab Equinox settings
+  - Minelab Equinox uk
+  - Vibrate
 cover: /img/b-equinox-900-vibratea.webp
 heroVideo: o1U1u1qW23U
-summary: make the Equinox Vibrate
+summary: make the Minelab Equinox Vibrate
 seo:
   title: Equinox Vibrate Settings - Blog
   description: Minelab Equinox vibrate handle, easy to turn on for all target id or specific target tone, really useful for people that are hard of hearing to go detecting
   keywords: minelab equinox vibrate, vibrate handle settings, equinox 900 settings, equinox 700 settings, nox 900 settings, crawfords metal detectors
 ---
 
-![how to set the Minelab Equinox 900 to Vibrate on targets](/img/equinox-900-vibratea_8nruobap.webp)
+![how to set the Minelab Equinox 900 to Vibrate on targets](/img/equinox-900-vibratea_8nruobap.webp "how to set the Minelab Equinox 900 to Vibrate on targets")
 
-![setting up the vibrate feature on the Minelab Equinox](/img/YT-thumb_2020_bjy8whpu.webp "small")
+![setting up the vibrate feature on the Minelab Equinox](/img/2026-thumb_0bwkmdko.webp "setting up the vibrate feature on the Minelab Equinox")
 
-![Settings for the Vibrating handle on a Minelab Equinox in the uk](/img/detexpert-logosml_8rjvjmu6.webp "small")
+![Settings for the Vibrating handle on a Minelab Equinox in the uk](/img/detexpert-logosml_8rjvjmu6.webp "Settings for the Vibrating handle on a Minelab Equinox in the uk")
 
 ## Minelab Equinox Vibrate Feature on target detection
 
