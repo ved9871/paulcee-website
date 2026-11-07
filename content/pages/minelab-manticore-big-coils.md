@@ -1,5 +1,6 @@
 ---
 title: Manticore Large Search Coils
+noindex: false
 seo:
   title: Minelab Manticore Big Coil Review
   description: A head-to-head review of the Minelab Manticore M15 (15x12) coil versus the Coiltek 18-inch Mythtek. We test weight, separation, and depth to help you decide
@@ -17,7 +18,7 @@ When you own the most powerful detector on the market, you eventually want to pu
 
 ## Quick Specs Comparison
 
-<div class="table-wrap"><table><tr><th>Feature</th><th>Minelab M15</th><th>Coiltek 18" Mythtek</th></tr><tr><td><strong>Shape</strong></td><td>Elliptical (15" x 12")</td><td>Round (18")</td></tr><tr><td><strong>Weight</strong></td><td>~650g (1.43 lbs)</td><td>~980g (2.16 lbs)</td></tr><tr><td><strong>Waterproof</strong></td><td>5m (16ft)</td><td>5m (16ft)</td></tr><tr><td><strong>Balance</strong></td><td>Excellent / Neutral</td><td>Nose Heavy</td></tr><tr><td><strong>Best For</strong></td><td>General Hunting &amp; Fields</td><td>Deep Caches &amp; Clean Sand</td></tr></table></div>
+<div class="table-wrap"><table><tr><th>Feature</th><th>Minelab M15</th><th>Coiltek 18" Mythtek</th></tr><tr><td><strong>Shape</strong></td><td>Elliptical (15" x 12")</td><td>Round (18")</td></tr><tr><td><strong>Weight</strong></td><td>\~650g (1.43 lbs)</td><td>\~980g (2.16 lbs)</td></tr><tr><td><strong>Waterproof</strong></td><td>5m (16ft)</td><td>5m (16ft)</td></tr><tr><td><strong>Balance</strong></td><td>Excellent / Neutral</td><td>Nose Heavy</td></tr><tr><td><strong>Best For</strong></td><td>General Hunting &amp; Fields</td><td>Deep Caches &amp; Clean Sand</td></tr></table></div>
 
 ## 1. The Minelab M15: The "Agile Giant"
 
@@ -59,10 +60,10 @@ You want a daily driver. If you want more coverage than the stock coil but don't
 <strong>Buy the Coiltek 18" Mythtek if:</strong>\
 You are a specialist. If you are chasing a specific deep hoard, clearing a clean pasture, or want to scour a massive beach at low tide, this is your heavy artillery. Just be prepared for the workout.
 
-[![Minelab Manticore 15 inch coil review](/img/manticore-15.webp) ](https://crawfordsmd.com/minelab-m15?tracking=fa202437c9)
+[![Minelab Manticore 15 inch coil review](/img/manticore-15.webp "Minelab Manticore 15 inch coil review") ](https://crawfordsmd.com/minelab-m15?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-m15?tracking=fa202437c9" class="btn">Buy Now</a>
 
-[![Coiltek Mythtek 18 review](/img/mythtek-1.webp) ](https://crawfordsmd.com/coiltek-mythtek18?tracking=fa202437c9)
+[![Coiltek Mythtek 18 review](/img/mythtek-1.webp "Coiltek Manticore Mythtek 18 review") ](https://crawfordsmd.com/coiltek-mythtek18?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/coiltek-mythtek18?tracking=fa202437c9" class="btn">Buy Now</a>
