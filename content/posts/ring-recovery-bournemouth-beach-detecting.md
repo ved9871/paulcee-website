@@ -3,7 +3,7 @@ title: Ring Recovery Bournemouth beach Detecting
 datePublished: 2017-09-03T16:01:00
 draft: false
 noindex: false
-topic: coils-and-gear
+topic: finds
 tags:
   - Bournemouth
   - lost
