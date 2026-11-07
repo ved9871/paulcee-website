@@ -1,27 +1,30 @@
 ---
 title: Coiltek Nox 18 Coil
 datePublished: 2023-12-03T11:43:00
+draft: false
+noindex: false
 topic: coils-and-gear
+tags: []
 cover: /img/b-coiltek-nox-18-review.webp
 heroVideo: Frvw6TdHhCg
 summary: Coiltek Nox 18 Review
 seo:
-  title: Coiltek Nox 18 Coil - Blog
+  title: Coiltek Nox 18 Coil
   description: the biggest deepest seeking coil for the Minelab Equinox and X-Terra Pro, submersible to 5mtr and 2 year warranty, the best coil for equinox and xterra Pro.
   keywords: coiltek nox 18, xterra-pro coil, big metal detector coil, review of coiltek coil, big equinox search coil, best search coil, deepest search coil.
 ---
 
-![coiltek 18 inch nox and x-terra pro coil review](/img/YT-thumb_2020_b8c447jk.webp "small")
+![Coiltek 18 inch Nox and x-terra pro coil review](/img/2026-thumb_0bwkmdko.webp "Coiltek 18 inch Nox and x-terra pro coil review")
 
-![paul cee and crawfords metal detecting](/img/cmd-white-alpha_j4js08kk.webp "small")
+![paul cee and crawfords metal detecting](/img/cmd-white-alpha_j4js08kk.webp "paul cee and crawfords metal detecting")
 
-![paul cee nox 18 inch coiltek coil](/img/CoiltekLogo.webp)
+![paul cee Nox 18 inch Coiltek coil](/img/CoiltekLogo.webp "paul cee Nox 18 inch Coiltek coil")
 
 ## Coiltek Nox 18 inch coil
 
 #### Coiltek 18" Round Coil for Minelab Equinox
 
-![Coiltek nox 18 search coil review](/img/coiltek-nox-18a.webp)
+![Coiltek Nox 18 search coil review](/img/coiltek-nox-18a.webp "Coiltek Nox 18 search coil review")
 
 Today, we're diving into the world of coiltek coils with a special focus on the Coiltek Nox 18 Coil. If you're looking to take your metal detecting game to the next level, this is for you. We'll be exploring the features, performance, and overall value of this coil.
 
