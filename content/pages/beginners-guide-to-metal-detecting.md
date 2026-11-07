@@ -1,14 +1,15 @@
 ---
 title: Beginners Guide to Metal Detecting
+noindex: false
 seo:
   title: beginners guide to metal detecting
   description: Metal detecting for beginners, best metal detector for beginners, tips for beginners to metal detecting, beginner metal detecting, how to metal detect properly
   keywords: how to metal detect, metal detector settings, set up metal detector, where to metal detect, minelab equinox settings, target id, beach detecting help, metal detector tones, metal detecting tips
 ---
 
-[![how to start metal detecting, where to go metal detecting and how to use a metal detector](/img/IMG_20220611_152449.webp) ](http://bit.ly/2VcUX0q)
+[![how to start metal detecting, where to go metal detecting and how to use a metal detector](/img/IMG_20220611_152449.webp "How to Start Metal Detecting") ](http://bit.ly/2VcUX0q)
 
-![learn how to use a metal detector, from 1st use with settings upto expert level and advanced settings](/img/2026-thumb_fwz7ag9m.webp)
+![learn how to use a metal detector, from 1st use with settings upto expert level and advanced settings](/img/2026-thumb_fwz7ag9m.webp "How to Use A Metal Detector Tutorials")
 
 ## Metal detecting for beginners.
 
@@ -16,7 +17,7 @@ seo:
 
 1st thing Get some insurance from the [NCMD (National Council For Metal Detecting)](/links/)
 
-2\. If you planning on metal detecting beaches in the UK, check out the [Crown Foreshore Permit](/links/), as some beach areas in England are out of bounds for metal detecting, and you may also need a Local Council Beach Metal Detecting Permit.
+2. If you planning on metal detecting beaches in the UK, check out the [Crown Foreshore Permit](/links/), as some beach areas in England are out of bounds for metal detecting, and you may also need a Local Council Beach Metal Detecting Permit.
 
 If you haven't decided on which metal detector is best for you we at [CRAWFORDS Metal Detecting](/crawfords-metal-detectors/) have a wide range available and also some pre-owned metal detectors for all price ranges, from beginner to expert and serious gold prospecting and treasure hunting
 
