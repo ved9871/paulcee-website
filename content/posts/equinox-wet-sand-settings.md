@@ -1,16 +1,20 @@
 ---
 title: Equinox wet sand settings
 datePublished: 2018-11-05T19:09:00
+draft: false
+noindex: false
 topic: minelab-equinox
+tags: []
 cover: /img/b-nox_wetsettings.webp
+heroVideo: ''
 summary: Equinox Beach metal detecting wet sand settings
 seo:
-  title: Minelab Equinox wet sand settings - Blog
+  title: Minelab Equinox wet sand settings
   description: minelab equinox beach settings, stable setting for minelab equinox metal detector on beaches
   keywords: minelab equinox 800, equinox 600, beach detecting, uk beach metal detecting, metal, detecting, beach, equinox 800
 ---
 
-[![minelab equinox beach settings](/img/nox_wetsettings.webp)](https://www.youtube.com/subscription_center?add_user=flash1968)
+[![minelab equinox beach settings](/img/nox_wetsettings.webp "minelab equinox beach settings")](https://www.youtube.com/subscription_center?add_user=flash1968)
 
 ## Deeper beach settings for the Minelab Equinox
 
