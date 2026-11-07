@@ -16,7 +16,7 @@ cover: /img/b-ferrous-limits-web.webp
 heroVideo: 5ddRBp33QIU
 summary: Check out our latest blog post about the Minelab Manticore Ferrous Limits. Don't miss out on this informative post!
 seo:
-  title: Minelab Manticore Ferrous Limits - Blog
+  title: Minelab Manticore Ferrous Limits
   description: If you're into metal detecting, you've probably heard of the Minelab Manticore, we'll be diving into the ferrous limits settings on this Minelab metal detector
   keywords: Metal Detecting UK, Minelab Manticore Ferrous Limits, manticore settings, ferrous limits, manticore setup.
 ---
