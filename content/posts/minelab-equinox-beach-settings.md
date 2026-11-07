@@ -1,6 +1,8 @@
 ---
 title: Minelab equinox beach settings
 datePublished: 2018-11-17T17:00:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - minelab
@@ -13,14 +15,15 @@ tags:
   - deep
   - silver
 cover: /img/b-beach_settings.webp
+heroVideo: ''
 summary: equinox beach settings. that work
 seo:
-  title: Minelab equinox beach settings - Blog
+  title: Minelab equinox beach settings
   description: Minelab Equinox beach settings
   keywords: Minelab,equinox,beach,settings,best,deep,stable
 ---
 
-![equinox beach program](/img/P1040528_sml.webp)
+![Minelab Equinox beach program](/img/P1040528_sml.webp "Minelab Equinox beach program")
 
 Why do people go with settings from Youtube videos that are not tried and tested?
 
