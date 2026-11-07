@@ -3,7 +3,7 @@ title: Hambledon hoard
 datePublished: 2019-04-12T16:55:00
 draft: false
 noindex: false
-topic: finds
+topic: rallies-and-events
 tags:
   - detectival
   - hambledon
