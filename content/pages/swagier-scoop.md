@@ -1,5 +1,5 @@
 ---
-title: 'Swagier Sand Scoops: The Heavy Duty Choice for Beach Detecting'
+title: 'Swagier Sand Scoops: The Best Choice for Beach Detecting'
 noindex: false
 seo:
   title: Swagier Scoops
@@ -11,15 +11,15 @@ seo:
 
 ### Built for the Beach. Engineered to Last.
 
-![The best sand scoop for metal detecting in the uk](/img/swagier-2.webp)
+![The best sand scoop for metal detecting in the uk](/img/swagier-2.webp "The best sand scoop for metal detecting in the uk")
 
 Stop replacing cheap sand scoops. Swagier sand scoops are crafted from marine-grade stainless steel to handle the toughest wet sand, clay, and rocky shorelines. Whether you are hunting for rings in the surf or coins in the dry sand, Swagier offers the professional reliability you need at a price you can afford.
 
-![what are the best sandscoops in the uk](/img/swagier1.webp)
+![what are the best sand scoops in the Uk](/img/swagier1.webp "what are the best sand scoops in the Uk")
 
 ### Swagier Scoops built to last
 
-![the V2 Sito scoop from Swagier scoops](/img/v2-sito.webp)
+![the V2 Sito scoop from Swagier scoops](/img/v2-sito.webp "the V2 Sito scoop from Swagier scoops")
 
 ### 1. Marine-Grade Durability
 
@@ -55,7 +55,7 @@ Weight 1700gr
 
 ### The "Sniper": Swagier V2 (Sito)
 
-![the swagier Sito V2 sand scoop ideal for dry sand beach detecting](/img/v2-sito1.webp "Swagier Sand scoop")
+![the swagier Sito V2 sand scoop ideal for dry sand beach detecting](/img/v2-sito1.webp "Swagier Sand scoop Uk")
 
 <strong>Best For: Dry Sand, Coins, Micro-jewellery, stud earrings, and fine chains.</strong>
 
@@ -71,7 +71,7 @@ Thickness 2mm
 
 Shaft Size 29mm
 
-Hex Hole Size 10mm And 10mm
+Hex Hole Size 10mm
 
 Dimensions. 290mm x 180mm x 119mm
 
@@ -87,8 +87,8 @@ Weight. 1360 Gr
 
 ### Buyer’s Guide: What You Need to Know
 
-**Note on Handles**: Swagier scoops are sold as Head Only. To complete your setup, you will need a handle (shaft). We recommend a Carbon Fiber or Ash Wood handle with a diameter of 28-29mm for the best balance of weight and strength.
+**Note on Handles**: Swagier scoops are sold as Head Only. To complete your setup, you will need a handle (shaft). We recommend a Carbon Fibre or Ash Wood handle with a diameter of 28-29mm for the best balance of weight and strength.
 
-<a href="https://bit.ly/swagierscoop" class="btn">Find out More</a>
+<a href="https://swagierscoop.com" class="btn">Find out More</a>
 
 ![the best sandscoops for beach detecting in the uk and where to buy](/img/WEB_AD2026a.webp "the best sandscoops for beach detecting in the uk and where to buy")
