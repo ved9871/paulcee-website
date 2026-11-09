@@ -1,12 +1,13 @@
 ---
 title: Minelab Manticore
+noindex: false
 seo:
   title: Minelab Manticore User guides and specifications
   description: Explore the Minelab Manticore and unlock its full potential with our comprehensive user guides and in-depth specifications.
   keywords: Paul Cee, Metal Detecting, Minelab, Manticore, User Guides, Specifications
 ---
 
-![settings and user guide for the minelab manticore metal detector, specifications and how and where to use it](/img/WEB_AD2026a.webp)
+![settings and user guide for the minelab manticore metal detector, specifications and how and where to use it](/img/WEB_AD2026a.webp "Minelab Manticore Tutorials for the Uk")
 
 ## Minelab Manticore uk user guide
 
@@ -48,9 +49,9 @@ Key Features at a Glance
 
 <strong>Lightweight &amp; Ergonomic:</strong> Features a collapsible carbon-fibre shaft system and a Scorpion armrest for maximum comfort.
 
-![Settings, updates and specifications for the minelab manticore](/img/manticore-update_wpao2wwa.webp)
+![Settings, updates and specifications for the minelab manticore](/img/manticore-update_wpao2wwa.webp "Settings, updates and Tutorials for the Minelab Manticore")
 
-![how the minelab manticore deals with EMI](/img/manticore_emi_qp4voxcu.webp)
+![how the minelab manticore deals with EMI](/img/manticore_emi_qp4voxcu.webp "how the minelab manticore deals with EMI")
 
 ### Technical Specifications
 
