@@ -1,14 +1,15 @@
 ---
 title: Crawfords metal detectors
+noindex: false
 seo:
   title: Crawfords Metal Detectors | UK Minelab Distributor
-  description: Celebrating 30 years as the UK's leading metal detector specialists. Official Minelab distributors in Lincolnshire & Dorset. Expert advice for beginners to pros
+  description: Crawfords Metal Detectors the UK's leading Metal Detector Specialists. Official Minelab distributors in Lincolnshire & Dorset. Expert advice for beginners to pros
   keywords: minelab uk, crawfords metal detector shop, regtons, spin a disc, metal detector shops uk, metal detectors ebay uk, crawfords discount code, metal detecting shops near me
 ---
 
-![crawfords metal detectors and paul cee metal detecting](/img/cmd-white-alpha.webp)
+![crawfords metal detectors and paul cee metal detecting](/img/cmd-white-alpha.webp "crawfords metal detectors and paul cee metal detecting")
 
-[![paul cee and crawfords metal detectors, powered by minelab detecting](/img/minelab-logo_138rzphj.webp)](/crawfords-metal-detectors/)
+[![paul cee and crawfords metal detectors, powered by minelab detecting](/img/2026-thumb_0bwkmdko.webp "Crawfords Metal Detectors and Paul Cee")](/crawfords-metal-detectors/)
 
 ## Crawfords Metal Detectors: The UK's Premier Metal Detecting Specialists
 
@@ -52,10 +53,10 @@ In addition to our wide range of metal detectors stocked in the UK, we also have
 
 [Review of the Minelab Equinox](/minelab-equinox/)
 
-[![crawfords metal detectors blue light and nhs discount code](/img/WEB_AD2026a.webp) ](http://bit.ly/2VcUX0q)
+![crawfords metal detectors blue light and nhs discount code](/img/WEB_AD2026a.webp "Crawfords Metal Detectors Discount Code") 
 
 #### CRAWFORDS METAL DETECTORS
 
 ### Where to Find Us
 
-Industrial Park, 11 Weaver Court Sawcliff, Scunthorpe DN15 8RN
+Industrial Park, 11 Weaver Court Sawcliffe, Scunthorpe DN15 8RN
