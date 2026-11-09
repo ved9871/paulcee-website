@@ -34,6 +34,66 @@ Plus you have a **wide search coil choice**, the Vanquish 60 series will work wi
 
 [BUY Minelab Vanquish 360](https://crawfordsmd.com/minelab-vanquish-360?tracking=fa202437c9) [Buy Minelab Vanquish 460](https://crawfordsmd.com/minelab-vanquish-460?tracking=fa202437c9) [Buy Minelab Vanquish 560](https://crawfordsmd.com/minelab-vanquish-560?tracking=fa202437c9) [Buy Minelab Vanquish 560 Pro](https://crawfordsmd.com/minelab-vanquish-560-pro?tracking=fa202437c9)
 
+## The Budget Warrior: Minelab X-Terra Pro
+
+<strong>The Verdict:</strong> The undisputed ruler of the budget category if you don’t need Multi-Frequency.
+
+- <strong>Best For:</strong> Freshwater, Parks, Budget Hunters
+- <strong>Waterproof:</strong> Yes (5m)
+- <strong>Tech:</strong> Pro-Switch (Single Frequency)
+
+<strong>Why buy it?</strong> It is the most affordable way to get a rugged, fully waterproof machine. It feels professional in the hand and offers high-frequency switching for small targets.
+
+![Minelab X-Terra Pro budget waterproof metal detector with backlit display](/img/top5-xterra-pro.webp)
+
+[BUY Minelab X Terra Pro](https://crawfordsmd.com/minelab-x-terra-pro-bundle?tracking=fa202437c9)
+
+## The Sweet Spot: Minelab X-Terra Elite
+
+<strong>The Verdict:</strong> The perfect middle-ground. It has the rugged body of the Pro but the Multi-IQ engine of the Equinox.
+
+- <strong>Best For:</strong> Serious Hobbyists
+- <strong>Waterproof:</strong> Yes (5m)
+- <strong>Tech:</strong> Multi-IQ
+
+<strong>Why buy it?</strong> If the Vanquish feels too “plasticky” for you, but if the Equinox 900 is above your Budget, this is the machine to get. It accepts **Equinox coils** and handles salt sand brilliantly.
+
+![Minelab X-Terra Elite metal detector featuring Multi-IQ simultaneous multi-frequency technology.](/img/top5-xterra-elite.webp)
+
+[Buy Minelab X-Terra Elite](https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9)
+
+## The Workhorse: Minelab Equinox 700/900
+
+<strong>The Verdict:</strong> The proven professional standard. Reliable, deep, and sensitive.
+
+- <strong>Best For:</strong> Relic Hunters &amp; Gold Prospecting
+- <strong>Waterproof:</strong> Yes (5m)
+- <strong>Tech:</strong> Multi-IQ
+
+<strong>Why buy it?</strong> It offers **better target separation** and **sensitivity** than the models below it. A good choice of **Minelab And Coiltek Search Coils**, making it a complete package for serious hunters to **adapt** to detecting any terrain or land.
+
+[COMPARE MODELS](/minelab-equinox/)
+
+![Minelab Equinox 900 professional metal detector with carbon fiber shaft and 11-inch coil.](/img/top5-equinox-900.webp)
+
+[Buy Minelab Equinox 700](https://crawfordsmd.com/minelab-equinox-700?tracking=fa202437c9) [Buy Minelab Equinox 900](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
+
+## The Beast: Minelab Manticore
+
+<strong>The Verdict:</strong> The most advanced VLF machine on the market with a 2D identification screen.
+
+- <strong>Best For:</strong> Experts &amp; Tech Geeks
+- <strong>Waterproof:</strong> Yes (5m)
+- <strong>Tech:</strong> Multi-IQ+ (High Power)
+
+<strong>Why buy it?</strong> The 2D Target Trace screen allows you to “see” the shape of the signal, helping you identify iron masking that other machines miss. It is the deepest machine on this list.
+
+[A Choice of search coils to adapt your detecting to any terrain or land.](/manticore-m8-vs-m9-coil/)
+
+![Minelab Manticore high-performance metal detector showing 2D Target Trace ID map screen.](/img/top5-manticore.webp)
+
+[Buy Minelab Manticore](https://crawfordsmd.com/minelab-manticore?tracking=fa202437c9)
+
 [ 🛒 Check Current Prices at Crawfords MD ](https://crawfordsmd.com/metal-detectors/minelab)
 
 Authorized Minelab Dealer • UK Stock • Free Delivery over £50

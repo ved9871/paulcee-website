@@ -60,6 +60,8 @@ const ROUTES = createRoutes({
   redirects: fs.existsSync(path.join(ROOT, 'content/redirects.json')) ? read('content/redirects.json') : {},
   url, pageUrl,
 });
+// Optional topic descriptions (edited in the CMS) shown as the lede of each topic page
+const TOPIC_DESC = Object.fromEntries(fs.readdirSync(path.join(ROOT, 'content/topics')).filter(f => f.endsWith('.json')).map(f => { const j = read(`content/topics/${f}`); return [j.key, String(j.description || '').trim()]; }));
 const fixOrigin = s => String(s).replace(/https?:\/\/192\.168\.\d+\.\d+(:\d+)?\//g, ORIGIN + '/').replace(/"(thumbnailUrl|url)":"(images\/[^"]+)"/g, `"$1":"${ORIGIN}/$2"`);
 const firstImage = r => (r.blocks.find(b => b.t === 'figure' && /@img:/.test(b.html) && !/WEB_AD/.test(b.html))?.html.match(/@img:([^"]+)/) || [])[1];
 
@@ -205,11 +207,15 @@ function footer() {
 </footer>`;
 }
 
-function head({ seo = {}, title, description, canonical, ogImage, jsonld = [], extra = '' }) {
+function head({ seo = {}, title, description, canonical, legacy, ogImage, jsonld = [], extra = '' }) {
   const t = seo.title || title; const d = seo.description || description || '';
   const og = seo.og || {}; const tw = seo.twitter || {};
   const ogImg = og.image || ogImage || `${ORIGIN}/images/2026-thumb.jpg`;
-  const ld = jsonld.length ? `<script type="application/ld+json">${fixOrigin(JSON.stringify(jsonld.length === 1 ? jsonld[0] : jsonld))}</script>` : '';
+  // In production the canonical is the new address; structured data copied from the old site still names the
+  // old address, so swap it for the canonical there too.
+  let ldJson = jsonld.length ? fixOrigin(JSON.stringify(jsonld.length === 1 ? jsonld[0] : jsonld)) : '';
+  if (ldJson && PROD && legacy && legacy !== canonical) ldJson = ldJson.split(legacy).join(canonical);
+  const ld = ldJson ? `<script type="application/ld+json">${ldJson}</script>` : '';
   const v = seo.verification || {};
   return `<!doctype html><html lang="en-GB"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -323,7 +329,7 @@ function renderHome() {
   <ul class="ticks"><li><a href="${pageUrl('detecting-rallies-2026')}">Detecting rallies 2026</a></li><li><a href="${pageUrl('minelab-500-rally')}">The Minelab 500 Rally</a></li><li><a href="${pageUrl('detectival')}">Detectival</a></li></ul>
   <div class="newsletter"><h3>${HOME.newsletter.heading}</h3><p>${HOME.newsletter.body}</p><a class="btn btn--ghost" href="${LINKS.newsletter}" rel="sponsored noopener" target="_blank">Join the Crawfords mailing list ${icon.ext}</a></div></div>
 </div></section>`;
-  writeFile('index.html', doc({ seo: r.seo, canonical: r.liveUrl, jsonld: r.seo.jsonld }, body, ''));
+  writeFile('index.html', doc({ seo: r.seo, canonical: PROD ? `${ORIGIN}/` : r.liveUrl, legacy: r.liveUrl, jsonld: r.seo.jsonld }, body, ''));
 }
 
 function renderVideos() {
@@ -373,7 +379,7 @@ function renderPage(r) {
 ${ytGroup && ytGroup.key !== 'more' ? watchSection(ytGroup.re, `Paul’s ${ytGroup.title} videos`, ytGroup.key) : ''}
 ${relPosts.length ? `<section class="section section--tint"><div class="wrap"><div class="section__head"><p class="eyebrow mono">From the blog</p><h2>Related articles</h2></div><div class="grid-4">${relPosts.map(p => postCard(p)).join('')}</div></div></section>` : ''}
 <div id="disclosure"></div>`;
-  writeFile(`${r.slug}/index.html`, doc({ seo: r.seo, canonical: r.liveUrl, jsonld: r.seo.jsonld }, body, r.slug));
+  writeFile(`${r.slug}/index.html`, doc({ seo: r.seo, canonical: PROD ? `${ORIGIN}/${r.slug}/` : r.liveUrl, legacy: r.liveUrl, jsonld: r.seo.jsonld }, body, r.slug));
 }
 
 // Render content blocks -> HTML, collecting headings for a table of contents
@@ -406,12 +412,16 @@ function renderBlocks(blocks, { toc = [] } = {}) {
   return out;
 }
 
-const contactForm = () => `<form class="form" onsubmit="event.preventDefault();this.querySelector('.form__note').hidden=false">
+// Contact form. With FORM_KEY set (a Web3Forms access key, safe to publish) the form posts to Web3Forms, which
+// emails Paul and sends the visitor back to the contact page with #sent. Without it the form is preview-only.
+const FORM_KEY = process.env.FORM_KEY || '';
+const contactForm = () => `<form class="form" ${FORM_KEY ? `action="https://api.web3forms.com/submit" method="POST"` : `onsubmit="event.preventDefault();this.querySelector('.form__note').hidden=false"`}>
+  ${FORM_KEY ? `<input type="hidden" name="access_key" value="${esc(FORM_KEY)}"><input type="hidden" name="subject" value="New message from paulcee.co.uk"><input type="hidden" name="from_name" value="paulcee.co.uk contact form"><input type="hidden" name="redirect" value="${ORIGIN}/contact/#sent"><input type="checkbox" name="botcheck" class="visually-hidden" tabindex="-1" autocomplete="off">` : ''}
   <div class="field"><label for="cf-name">Your name</label><input id="cf-name" name="name" autocomplete="name" required></div>
   <div class="field"><label for="cf-email">Email address</label><input id="cf-email" name="email" type="email" autocomplete="email" required></div>
   <div class="field"><label for="cf-msg">How can Paul help?</label><textarea id="cf-msg" name="message" rows="5" required></textarea><p class="hint">Detector set-up questions, rally enquiries or collaborations.</p></div>
   <button class="btn" type="submit">Send message</button>
-  <p class="form__note" role="status" hidden>Preview only. On launch this form will deliver to Paul’s inbox.</p>
+  ${FORM_KEY ? `<p class="form__note" role="status" hidden>Thanks, your message is on its way to Paul.</p><script>if(location.hash==='#sent'){var n=document.currentScript.previousElementSibling;n.hidden=false;n.scrollIntoView()}</script>` : `<p class="form__note" role="status" hidden>Preview only. On launch this form will deliver to Paul’s inbox.</p>`}
 </form>`;
 
 function renderPost(p, i) {
@@ -445,7 +455,7 @@ function renderPost(p, i) {
   </aside>
 </div>
 ${related.length ? `<section class="section section--tint"><div class="wrap"><div class="section__head"><p class="eyebrow mono">${esc(p.topic.label)}</p><h2>Keep reading</h2></div><div class="grid-3">${related.map(x => postCard(x)).join('')}</div></div></section>` : ''}`;
-  writeFile(`blog/${p.slug}/index.html`, doc({ seo: { ...p.seo, og: { ...p.seo.og, type: 'article' } }, canonical: p.liveUrl, jsonld: p.seo.jsonld.flat() }, body, 'blog/'));
+  writeFile(`blog/${p.slug}/index.html`, doc({ seo: { ...p.seo, og: { ...p.seo.og, type: 'article' } }, canonical: PROD ? `${ORIGIN}/blog/${p.slug}/` : p.liveUrl, legacy: p.liveUrl, jsonld: p.seo.jsonld.flat() }, body, 'blog/'));
 }
 
 function renderBlogIndex(list, { topic } = {}) {
@@ -453,7 +463,7 @@ function renderBlogIndex(list, { topic } = {}) {
   const body = `
 <div ${photoHead('photos/paul-minelab-shirt-beach.jpg')}><div class="wrap">${crumbs(topic ? [[url('blog/'), 'Blog'], ['', topic.label]] : [['', 'Blog']])}
   <h1 class="page-title">${topic ? esc(topic.label) : 'The Paul Cee blog'}</h1>
-  <p class="page-lede">${topic ? `${list.length} articles on ${esc(topic.label.toLowerCase())} from Paul Cee.` : `Settings, reviews, field reports and finds. ${posts.length} articles since 2017.`}</p>
+  <p class="page-lede">${topic ? esc(TOPIC_DESC[topic.key] || `${list.length} articles on ${topic.label.toLowerCase()} from Paul Cee.`) : `Settings, reviews, field reports and finds. ${posts.length} articles since 2017.`}</p>
   ${chips}
 </div></div>
 <div class="wrap">
@@ -527,6 +537,60 @@ for (const [from, to] of Object.entries(ROUTES.active)) {
 }
 fs.mkdirSync(path.join(ROOT, 'docs'), { recursive: true });
 fs.writeFileSync(path.join(ROOT, 'docs/redirects.csv'), rows.map(r => r.map(c => `"${String(c).replace(/"/g, '""')}"`).join(',')).join('\n'));
+
+// ---------- production extras: sitemap, 301 redirects (Cloudflare Pages) ----------
+if (PROD) {
+  const today = new Date().toISOString().slice(0, 10);
+  const indexable = r => !/noindex/i.test(r.seo.robots || '');
+  const urls = [
+    [`${ORIGIN}/`, today],
+    ...Object.values(pages).filter(r => r.slug !== 'index' && indexable(r)).map(r => [`${ORIGIN}/${r.slug}/`, '']),
+    [`${ORIGIN}/videos/`, today], [`${ORIGIN}/blog/`, today],
+    ...TOPIC_LIST.map(t => [`${ORIGIN}/blog/topic/${t.key}/`, '']),
+    ...posts.filter(indexable).map(p => [`${ORIGIN}/blog/${p.slug}/`, String(p.dateModified || p.datePublished || '').slice(0, 10)]),
+  ];
+  fs.writeFileSync(path.join(DIST, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(([u, m]) => `  <url><loc>${esc(u)}</loc>${m ? `<lastmod>${m}</lastmod>` : ''}</url>`).join('\n')}\n</urlset>\n`);
+
+  // Old live addresses -> new paths. Keys keep the query string when the old address had one (the X5 blog used
+  // /blog/?<slug>). Cloudflare Pages' _redirects file ignores query strings, so _worker.js handles everything.
+  const map = {}, blog = {};
+  for (const [oldUrl, newPath] of rows.slice(1)) {
+    let u; try { u = new URL(oldUrl); } catch { continue; }
+    if (u.origin !== ORIGIN) continue;
+    const key = u.pathname + u.search;
+    if (key !== '/' && key !== newPath) map[key] = newPath;
+    const slug = /^\/blog\/?$/.test(u.pathname) && u.search.length > 1 ? decodeURIComponent(u.search.slice(1)).replace(/^slug=/, '').toLowerCase() : '';
+    if (slug) blog[slug] = newPath;
+  }
+  for (const [from, to] of Object.entries(ROUTES.active)) if (from.startsWith('blog/')) blog[from.slice(5).toLowerCase()] = ROUTES.href(to);
+  // The X5 site served pages as /slug.html or /slug.php; catch every variant, and bare /slug, for current and redirected pages
+  const pageTargets = { ...Object.fromEntries(Object.keys(pages).filter(s => s !== 'index').map(s => [s, `/${s}/`])), ...Object.fromEntries(Object.entries(ROUTES.active).filter(([f]) => !f.includes('/')).map(([f, t]) => [f, ROUTES.href(t)])) };
+  for (const [slug, target] of Object.entries(pageTargets)) for (const ext of ['.php', '.html', '.htm', '']) { const k = `/${slug}${ext}`; if (!(k in map) && k !== target) map[k] = target; }
+  for (const k of ['/index.php', '/index.html', '/home.php', '/home.html']) map[k] = '/';
+  fs.writeFileSync(path.join(DIST, '_redirects'), Object.entries(map).filter(([k]) => !k.includes('?')).map(([k, v]) => `${k} ${v} 301`).join('\n') + '\n');
+  fs.writeFileSync(path.join(DIST, '_worker.js'), `// Generated by src/build.mjs: 301s from the old WebSite X5 addresses, apex -> www, then static assets.
+const R = ${JSON.stringify(map)};
+const RL = Object.fromEntries(Object.entries(R).map(([k, v]) => [k.toLowerCase(), v]));
+const BLOG = ${JSON.stringify(blog)};
+const WWW = ${JSON.stringify(new URL(ORIGIN).hostname)};
+export default {
+  async fetch(request, env) {
+    const u = new URL(request.url);
+    if (u.hostname === WWW.replace(/^www\\./, '') && WWW.startsWith('www.')) { u.hostname = WWW; return Response.redirect(u.href, 301); }
+    const full = u.pathname + u.search;
+    const hit = R[full] || RL[full.toLowerCase()] || R[u.pathname] || RL[u.pathname.toLowerCase()];
+    if (hit) return Response.redirect(u.origin + hit, 301);
+    if (/^\\/blog\\/?(index\\.php)?$/i.test(u.pathname) && u.search.length > 1) {
+      let s = ''; try { s = decodeURIComponent(u.search.slice(1)); } catch { s = u.search.slice(1); }
+      s = s.replace(/^slug=/, '').split(/[&=]/)[0].toLowerCase();
+      return Response.redirect(u.origin + (BLOG[s] || '/blog/'), 301);
+    }
+    return env.ASSETS.fetch(request);
+  }
+};
+`);
+  console.log(`Production extras: sitemap ${urls.length} URLs · ${Object.keys(map).length} old-address redirects (${Object.keys(blog).length} blog slugs) in _worker.js`);
+}
 const inv = [['url', 'title', 'meta_description', 'canonical', 'jsonld_types', 'ad_slots', 'affiliate_links', 'videos']];
 [...Object.values(pages), ...posts].forEach(r => inv.push([r.liveUrl, r.seo.title, r.seo.description, fixOrigin(r.seo.canonical), [...new Set(r.seo.jsonld.flat().map(x => x['@type']))].join(' '), r.adSlots.join(' '), r.affiliateLinks.map(l => crawfords(l) || l).join(' '), r.videos.join(' ')]));
 fs.writeFileSync(path.join(ROOT, 'docs/seo-inventory.csv'), inv.map(r => r.map(c => `"${String(c ?? '').replace(/"/g, '""')}"`).join(',')).join('\n'));
