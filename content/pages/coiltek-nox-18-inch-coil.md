@@ -1,12 +1,13 @@
 ---
 title: Coiltek Nox 18 inch coil
+noindex: false
 seo:
   title: Coiltek Nox 18 inch coil
   description: Coilteks biggest search coil for the Minelab Equinox and X-Terra Pro detectors the NOX 18, waterproof to 5 Mtr, deep search coil with fantastic ground coverage
   keywords: coiltek nox 18, x-terra pro coil, minelab equinox coil, deepest seach coil, minelab equinox, minelab x-terra pro, metal detector coil, best search coil.
 ---
 
-[![In-depth review of the Coiltek 18-inch NOX Coil for Minelab Detectors. We test depth, weight, and separation to see if this massive deep-seeking coil is worth the upgrade for relic and beach hunters](/img/nox-18_Review.webp) ](https://crawfordsmd.com/coiltek-nox18?tracking=fa202437c9)
+[![In-depth review of the Coiltek 18-inch NOX Coil for Minelab Detectors. We test depth, weight, and separation to see if this massive deep-seeking coil is worth the upgrade for relic and beach hunters](/img/nox-18_Review.webp "Coiltek Nox 18 inch coil review") ](https://crawfordsmd.com/coiltek-nox18?tracking=fa202437c9)
 
 ## Review: Coiltek 18" NOX Coil for Minelab Equinox 900
 
@@ -48,7 +49,7 @@ Surprisingly, despite its size, the coil remains sensitive to small targets. It 
 
 ## Head-to-Head: Coiltek 18" vs Minelab 15"
 
-<div class="table-wrap"><table><tr><th>Feature</th><th>Minelab EQX 15</th><th>Coiltek 18" NOX</th></tr><tr><td><strong>Shape</strong></td><td>Elliptical (Football shape)</td><td>Round</td></tr><tr><td><strong>Weight</strong></td><td>~660g</td><td>~980g</td></tr><tr><td><strong>Pinpointing</strong></td><td>Good</td><td>Difficult</td></tr><tr><td><strong>Best Use</strong></td><td>General Detecting / Some Trash</td><td>Deep Cache / Clean Fields</td></tr></table></div>
+<div class="table-wrap"><table><tr><th>Feature</th><th>Minelab EQX 15</th><th>Coiltek 18" NOX</th></tr><tr><td><strong>Shape</strong></td><td>Elliptical (Football shape)</td><td>Round</td></tr><tr><td><strong>Weight</strong></td><td>\~660g</td><td>\~980g</td></tr><tr><td><strong>Pinpointing</strong></td><td>Good</td><td>Difficult</td></tr><tr><td><strong>Best Use</strong></td><td>General Detecting / Some Trash</td><td>Deep Cache / Clean Fields</td></tr></table></div>
 
 ## The Verdict
 
