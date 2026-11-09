@@ -1,12 +1,13 @@
 ---
 title: Minelab Manticore | The Ultimate Metal Detector Guide & Settings
+noindex: false
 seo:
   title: Minelab Manticore | The Ultimate Metal Detector Guide & Settings
   description: Complete guide to the Minelab Manticore.  Advanced ferrous limits settings, recovery speed tutorials for relic and beach hunting, 2D Screen, with vidoes
   keywords: Minelab Manticore, Manticore settings, Multi-IQ plus, 2D ID Map, Manticore depth settings, relic hunting, beach metal detecting, Minelab Manticore coils, recovery speed, manticore gold mode
 ---
 
-[![Minelab Manticore Headphones, how to connect and pair Manticore wireless headphones and WM09 Module](/img/headphones1_xdmsr7n5.webp)](https://youtu.be/euB3aMoG_N0)
+[![Minelab Manticore Headphones, how to connect and pair Manticore wireless headphones and WM09 Module](/img/headphones1_xdmsr7n5.webp "Minelab Manticore Headphones, how to connect and pair and WM09 Module")](https://youtu.be/euB3aMoG_N0)
 
 Pairing ML-105 Headphones
 
@@ -60,4 +61,4 @@ Check out some of the Manticore videos, Minelab and CMD created to help with you
 
 {{youtube id="VimSTbHMGi4" title="How to pair Manticore Headphones, what problems and how to solve them"}}
 
-[![Minelab Manticore Settings, help and tutorials for the minelab manticore](/img/WEB_AD2026a.webp) ](https://bit.ly/CMDMDUK)
+[![Minelab Manticore Settings, help and tutorials for the minelab manticore](/img/WEB_AD2026a.webp "Minelab Manticore Settings, help and tutorials for the minelab manticore") ](https://bit.ly/CMDMDUK)
