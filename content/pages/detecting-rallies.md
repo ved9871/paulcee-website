@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /detecting-rallies-2026/
 title: Metal Detecting Rallies | UK & World Events Guide
 noindex: false
 seo:
