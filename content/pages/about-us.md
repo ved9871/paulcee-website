@@ -1,12 +1,13 @@
 ---
 title: About Us
+noindex: false
 seo:
   title: About Us
   description: Paul cee metal detecting about us
   keywords: metal detecting, minelab detexpert, crawfords metal detectors, minelab electronics, minelab metal detectors, minelab manticore
 ---
 
-![paul cee minelab](/img/detexpert-logosml_4m9sb6tk.webp "small")
+![paul cee minelab](/img/detexpert-logosml_4m9sb6tk.webp "paul cee metal detecting")
 
 ## About Paul Cee metal Detecting
 
