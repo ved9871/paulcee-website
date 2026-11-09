@@ -1,6 +1,8 @@
 ---
 title: EmiteR sandscoops
 datePublished: 2021-01-09T18:54:00
+draft: false
+noindex: false
 topic: coils-and-gear
 tags:
   - emiteR
@@ -22,7 +24,7 @@ seo:
   keywords: Emiter, cheap, sandscoop, beach, detecting, metal
 ---
 
-[![EmiteR sandscoops budget beach metal detecting sandscoops](/img/emite-r-scoops_gmdrae2v.webp)](https://crawfordsmd.com/sandscoop-s150?tracking=fa202437c9)
+[![EmiteR sand scoops budget beach metal detecting sand scoops](/img/emite-r-scoops_gmdrae2v.webp "Cheap Sand scoop for metal detecting")](https://crawfordsmd.com/sandscoop-s150?tracking=fa202437c9)
 
 ## EMITE-R Sand scoops
 
