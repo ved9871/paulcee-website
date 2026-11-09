@@ -7,11 +7,11 @@ seo:
   keywords: Minelab Manticore M8, Minelab Manticore M9, Manticore sniper coil, M8 vs M9 coil, Manticore small coil comparison, Manticore trashy sites, elliptical vs round search coil, Manticore M8 review, Manticore M9 review, metal detecting iron separation
 ---
 
-[![Which coil is the best for the minelab manticore m8 or m9 coil](/img/m8.webp) ](https://crawfordsmd.com/minelab-m8?tracking=fa202437c9)
+[![Which coil is the best for the minelab manticore m8 or m9 coil](/img/m8.webp "Which coil is the best for the minelab manticore m8 or m9 coil") ](https://crawfordsmd.com/minelab-m8?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-m8?tracking=fa202437c9" class="btn">Buy Now</a>
 
-[![Which coil is the best for the minelab manticore m8 or m9 coil](/img/m9-web.webp) ](https://crawfordsmd.com/minelab-m9?tracking=fa202437c9)
+[![Which coil is the best for the minelab manticore m8 or m9 coil](/img/m9-web.webp "Which coil is the best for the minelab manticore m8 or m9 coil") ](https://crawfordsmd.com/minelab-m9?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-m9?tracking=fa202437c9" class="btn">Buy Now</a>
 
