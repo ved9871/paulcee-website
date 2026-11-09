@@ -1,5 +1,6 @@
 ---
 title: Privacy
+noindex: true
 seo:
   title: privacy
   description: Welcome to Paul Cee Metal Detecting, we take privacy seriously. Explore our privacy policy to learn how we handle and protect your personal information.
