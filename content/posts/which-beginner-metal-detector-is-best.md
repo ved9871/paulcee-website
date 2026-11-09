@@ -1,6 +1,8 @@
 ---
 title: which beginner metal detector is best
 datePublished: 2021-02-18T17:24:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - Minelab
@@ -18,7 +20,7 @@ seo:
   keywords: Vanquish metal detector, metal detecting for beginners, learning to metal detect, minelab vanquish 540, vanquish 440, vanquish 340
 ---
 
-[![the Minelab Vanquish is the best metal detector for beginners](/img/340c_Final_web.webp)](/minelab-vanquish-60-series/)
+[![the Minelab Vanquish is the best metal detector for beginners](/img/340c_Final_web.webp "the Minelab Vanquish is the best metal detector for beginners")](/minelab-vanquish-60-series/)
 
 ## Why is the Minelab Vanquish so good for your 1st Metal Detector
 
