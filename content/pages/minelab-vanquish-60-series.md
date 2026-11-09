@@ -21,6 +21,8 @@ Minelab has officially listened to the community. The new "60-Series" (replacing
 
 Let's dive into the specs, features, and performance.
 
+{{youtube id="u4WKMaN1cNs" title="Minelab Vanquish Tutorials"}}
+
 Comparison Chart Vanquish 360 Vanquish 460 Vanquish 560
 
 ### Series Comparison
@@ -120,7 +122,7 @@ If you buy the Vanquish 560 Pro-Pack, you generally get two coils out of the box
 
 <strong>V8X (8" x 5" DD):</strong> For trashy parks and tight spaces. Plus, it usually includes the new ML60 wireless headphones.
 
-![a user guide for the minelab vanquish 560 in the uk](/img/560-web.webp)
+![a user guide for the minelab vanquish 560 in the uk](/img/560-web.webp "a user guide for the minelab vanquish 560 in the uk")
 
 ### Performance in the Field
 
@@ -138,7 +140,7 @@ With the new Iron Bias control and faster processor, the 560 feels snappier. In 
 
 The 560 retains the collapsible shaft system, making it perfect for travel. It shrinks down to pack into a backpack, but now feels sturdier with the new waterproofing seals.
 
-![best metal detector for a beginner in 2026](/img/560-web1.webp)
+![best metal detector for a beginner](/img/560-web1.webp "best metal detector for a beginner")
 
 ### Who is the Vanquish 560 For?
 
@@ -180,4 +182,4 @@ Click on the button below to buy the minelab vanquish 60 series
 
 {{youtube id="nrMw2oEBDyQ" title="how good is the minelab vanquish 560"}}
 
-{{youtube id="2blmefyIcgo" title="best new metal detector for a beginner in 2026"}}
+{{youtube id="2blmefyIcgo" title="best new metal detector for a beginner"}}
