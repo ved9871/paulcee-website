@@ -11,15 +11,15 @@ seo:
 
 ### Built for the Beach. Engineered to Last.
 
-![The best sand scoop for metal detecting in the uk](/img/swagier-2.webp "The best sand scoop for metal detecting in the uk")
+[![The best sand scoop for metal detecting in the uk](/img/swagier-2.webp "The best sand scoop for metal detecting in the uk")](https://swagierscoop.com/)
 
 Stop replacing cheap sand scoops. Swagier sand scoops are crafted from marine-grade stainless steel to handle the toughest wet sand, clay, and rocky shorelines. Whether you are hunting for rings in the surf or coins in the dry sand, Swagier offers the professional reliability you need at a price you can afford.
 
-![what are the best sand scoops in the Uk](/img/swagier1.webp "what are the best sand scoops in the Uk")
+[![what are the best sand scoops in the Uk](/img/swagier1.webp "what are the best sand scoops in the Uk")](https://swagierscoop.com/)
 
 ### Swagier Scoops built to last
 
-![the V2 Sito scoop from Swagier scoops](/img/v2-sito.webp "the V2 Sito scoop from Swagier scoops")
+[![the V2 Sito scoop from Swagier scoops](/img/v2-sito.webp "the V2 Sito scoop from Swagier scoops")](https://swagierscoop.com/)
 
 ### 1. Marine-Grade Durability
 
@@ -37,7 +37,7 @@ Meet the Line up
 
 ### The "Tank": Swagier V5
 
-![the best heavy duty sand scoop in the uk for HEAVY SAND beach detecting, and fast target recovery](/img/swagier-V5.webp "Swagier Sand scoop, heavy duty")
+[![the best heavy duty sand scoop in the uk for HEAVY SAND beach detecting, and fast target recovery](/img/swagier-V5.webp "Swagier Sand scoop, heavy duty")](https://swagierscoop.com/)
 
 <strong>Best For: Deep water wading, wet heavy sand, and rocky bottoms.</strong>
 
@@ -55,7 +55,7 @@ Weight 1700gr
 
 ### The "Sniper": Swagier V2 (Sito)
 
-![the swagier Sito V2 sand scoop ideal for dry sand beach detecting](/img/v2-sito1.webp "Swagier Sand scoop Uk")
+[![the swagier Sito V2 sand scoop ideal for dry sand beach detecting](/img/v2-sito1.webp "Swagier Sand scoop Uk")](https://swagierscoop.com/)
 
 <strong>Best For: Dry Sand, Coins, Micro-jewellery, stud earrings, and fine chains.</strong>
 
