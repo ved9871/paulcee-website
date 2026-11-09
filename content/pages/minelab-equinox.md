@@ -7,9 +7,9 @@ seo:
   keywords: Minelab Equinox 800, Equinox 900 vs 800, Multi-IQ technology, Equinox 700 review, Coiltek NOX coils, beach metal detector, Equinox waterproof, Minelab Equinox coils
 ---
 
-[![Minelab Equinox comparisons, between the Equinox 600, 700, 800 and 900](/img/nox-compare.webp) ](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
+[![Minelab Equinox comparisons, between the Equinox 600, 700, 800 and 900](/img/nox-compare.webp "Minelab Equinox comparisons, between the Equinox 600, 700, 800 and 900") ](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
 
-[![how good is the Minelab Equinox 900 on the beach](/img/nox-900_web.webp) ](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
+[![how good is the Minelab Equinox 900 on the beach](/img/nox-900_web.webp "how good is the Minelab Equinox 900 on the beach") ](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9" class="btn">Buy Equinox</a>
 
