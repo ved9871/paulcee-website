@@ -2,6 +2,12 @@
 
 Step-by-step for launch day. Ved drives; Claude prepares and verifies. Tick each step before the next.
 
+## Status 9 Nov 2026
+
+- Cloudflare Pages project `paulcee-website` (account 5c13ba68…) built from `main`; live at https://paulcee-website.pages.dev. Env: `NODE_VERSION=22`, `FORM_KEY` (Web3Forms).
+- Zone `paulcee.co.uk` added (Free). Nameservers `kai.ns.cloudflare.com` / `rita.ns.cloudflare.com` set at IONOS 9 Nov; mail records (MX mx00/mx01.ionos.co.uk, SPF, DMARC, autodiscover) kept DNS-only. SSL mode Full.
+- Sign-in helper `ALLOWED_DOMAINS` includes pages.dev and paulcee.co.uk.
+
 ## 0. Already done in the repository
 
 - Production build mode: `MODE=production BASE=/ SITE_URL=https://www.paulcee.co.uk node src/build.mjs` writes real AdSense and GA4 tags, indexable robots, canonicals on the new addresses, `sitemap.xml`, `ads.txt`, `_redirects`, and `_worker.js` (301s for every old WebSite X5 address, `/blog/?slug` included, plus apex to www).
