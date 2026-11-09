@@ -1,5 +1,6 @@
 ---
 title: Must have Metal Detecting Accessories
+noindex: false
 seo:
   title: Metal Detecting cheap accessories
   description: The must-have cheap detecting accessories. From budget pinpointers to tough digging tools, get essential gear to upgrade your hunt without breaking the bank.
@@ -64,7 +65,7 @@ Exclusive CMD products
 
 <a href="https://crawfordsmd.com/minelab-wm09?tracking=fa202437c9" class="btn">Buy WM09 Module</a>
 
-[![the wm09 minelab wireless module, lets you connect your favourite headphones to the new range of minelab metal detectors](/img/wm09.webp)](https://crawfordsmd.com/minelab-wm09?tracking=fa202437c9)
+[![the wm09 minelab wireless module, lets you connect your favourite headphones to the new range of minelab metal detectors](/img/wm09.webp "Minelab WM09 Wireless Module Uk")](https://crawfordsmd.com/minelab-wm09?tracking=fa202437c9)
 
 #### Minelab WM 09 Wireless Audio Unit
 
@@ -98,7 +99,7 @@ A small spray bottle that can be easily carried in your pocket or pouch while me
 
 <a href="https://crawfordsmd.com/rnb-power-x?tracking=fa202437c9" class="btn">BUY POWER X</a>
 
-[![Rnb Power X high performance power pack for metal detectors](/img/pwr_x.webp)](https://crawfordsmd.com/rnb-power-x?tracking=fa202437c9)
+[![Rnb Power X high performance power pack for metal detectors](/img/pwr_x.webp "Minelab RNB Power Pack for Metal Detecting")](https://crawfordsmd.com/rnb-power-x?tracking=fa202437c9)
 
 #### RNB Power-X – 10Ah Battery Pack for Metal Detecting
 
