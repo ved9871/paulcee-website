@@ -1,7 +1,13 @@
 ---
 title: Minelab Equinox Discrimination
 datePublished: 2021-02-23T19:23:00
+draft: false
+noindex: false
 topic: minelab-equinox
+tags:
+  - minelab Equinox
+  - Minelab Equinox Settings
+  - Tutorial
 cover: /img/b-missing-segments_web.webp
 heroVideo: 44kWHDVk55I
 summary: Minelab Equinox Discrimination settings
@@ -11,7 +17,7 @@ seo:
   keywords: minelab equinox, discrimination settings, equinox settings, restore settings, messed up settings
 ---
 
-![how to restore missing minelab equinox discrimination settings](/img/missing-segments_web.webp)
+![how to restore missing minelab equinox discrimination settings](/img/missing-segments_web.webp "how to restore missing minelab equinox discrimination settings")
 
 you have missing discrimination segments on your minelab equinox screen, quick and easy way to restore them, easy walk through tutorial
 
