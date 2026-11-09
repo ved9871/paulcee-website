@@ -47,7 +47,9 @@ CNAME=new.paulcee.co.uk node src/build.mjs   # custom subdomain (writes dist/CNA
 
 ## Deploy
 
-`.github/workflows/pages.yml` runs `npm ci`, the unit tests, the build and the link/SEO check on every push to `main` or `cms`. Pushes to `cms` build and test only; pushes to `main` also deploy to GitHub Pages. A daily 06:00 UK rebuild (cron 05:00 UTC, so 05:00 in winter) publishes scheduled posts: a post goes live on the morning of its publish date.
+**Production** (since 9 Nov 2026) is Cloudflare Pages project `paulcee-website`, built from `main` with `npm ci && npm test && MODE=production BASE=/ SITE_URL=https://www.paulcee.co.uk node src/build.mjs && node src/check.mjs`, output `dist`. It serves https://www.paulcee.co.uk (apex redirects to www) and https://paulcee-website.pages.dev. The production build also writes `sitemap.xml`, `ads.txt`, `_redirects` and `_worker.js` (301s for every old WebSite X5 address). Env vars: `NODE_VERSION=22`, `FORM_KEY` (Web3Forms contact form). See `docs/LAUNCH-RUNBOOK.md`.
+
+**Preview**: `.github/workflows/pages.yml` runs `npm ci`, the unit tests, the build and the link/SEO check on every push to `main` or `cms`. Pushes to `cms` build and test only; pushes to `main` also deploy to GitHub Pages. A daily 06:00 UK rebuild (cron 05:00 UTC, so 05:00 in winter) publishes scheduled posts: a post goes live on the morning of its publish date.
 
 ## Editing content (CMS)
 
