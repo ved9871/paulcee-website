@@ -86,7 +86,9 @@ Pages are the fixed parts of the site: the detector guides, About, Contact, the 
 2. Edit the text the same way as a post.
 3. Press **Save**.
 
-Don't change a page's title casually: the detector guides are linked from the menus and from Crawfords. Ask Ved if a page needs renaming or removing.
+Renaming a page is safe: the old address forwards to the new one automatically, and the menus follow. The detector guides are also linked from Crawfords, so tell Ved when you rename one of those.
+
+**Rallies and events page.** The upcoming and past events list appears on whichever page has the **Show the rallies & events list on this page** box ticked (currently the Detecting Events page). Tick it on one page only.
 
 **Deleting a page or post.** The site copes: menu entries to it disappear and any links to it in other articles turn into plain text. But its old web address stops working, and at launch the old paulcee.co.uk address will too, so tell Ved which pages you've removed so he can point the old addresses somewhere sensible.
 
