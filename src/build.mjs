@@ -39,7 +39,17 @@ const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').re
 const strip = s => String(s ?? '').replace(/<[^>]+>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const slugify = s => strip(s).toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
 const url = p => BASE + String(p).replace(/^\//, '');
-const pageUrl = slug => slug === 'index' ? url('') : url(slug + '/');
+// Links the templates make by page slug. Editors rename and delete pages in the CMS, so a slug that no longer
+// exists follows its redirect/alias when there is one, otherwise points home with a warning: never a dead link.
+const missingFixed = new Set();
+const pageUrl = slug => {
+  if (slug === 'index') return url('');
+  if (pages[slug]) return url(slug + '/');
+  const r = typeof ROUTES !== 'undefined' ? ROUTES.resolve(slug) : null;
+  if (r?.href) return r.href;
+  if (!missingFixed.has(slug)) { missingFixed.add(slug); console.warn(`WARN template link: page "${slug}" no longer exists and has no redirect; linking to the home page instead`); }
+  return url('');
+};
 const img = (rel, alt = '', { cls = '', sizes = '', eager = false, maxw } = {}) => {
   const m = RES.resolve(rel); if (!m) return '';
   const style = maxw ? ` style="max-width:min(100%,${maxw}px)"` : '';
@@ -57,7 +67,12 @@ const ROUTES = createRoutes({
   posts: new Map(posts.map(p => [p.slug, p.title])),
   allPosts: new Set(fs.readdirSync(path.join(ROOT, 'content/posts')).filter(f => f.endsWith('.md')).map(f => f.slice(0, -3))),
   topics: TOPIC_LIST.map(t => t.key),
-  redirects: fs.existsSync(path.join(ROOT, 'content/redirects.json')) ? read('content/redirects.json') : {},
+  // content/redirects.json plus the old addresses the CMS records on each entry when its slug is changed
+  redirects: {
+    ...Object.fromEntries(posts.flatMap(p => p.aliases.map(a => [a.replace(/^\/+|\/+$/g, ''), `blog/${p.slug}`]))),
+    ...Object.fromEntries(Object.values(pages).flatMap(r => r.aliases.map(a => [a.replace(/^\/+|\/+$/g, ''), r.slug]))),
+    ...(fs.existsSync(path.join(ROOT, 'content/redirects.json')) ? read('content/redirects.json') : {}),
+  },
   url, pageUrl,
 });
 // Optional topic descriptions (edited in the CMS) shown as the lede of each topic page
@@ -198,7 +213,7 @@ function footer() {
     <div class="footer__grid">
       <div class="footer__brand"><a class="brand brand--footer" href="${url('')}"><span class="brand__mark" aria-hidden="true">PC</span><span class="brand__text"><span class="brand__name">Paul Cee</span><span class="brand__sub mono">Minelab Detexpert</span></span></a><p class="footer__tag">${esc(TAGLINE)}</p><p>Official Minelab Detexpert and Crawfords Metal Detectors ambassador, sharing settings, reviews and finds from UK beaches and fields.</p>
       <p class="footer__social"><a href="${YT.subscribeUrl}" rel="noopener" target="_blank">${icon.yt} YouTube</a> <a href="${url('videos/')}">Videos</a> <a href="${pageUrl('social-sites')}">Newsletter</a> <a href="${pageUrl('contact')}">Contact</a></p>
-      <div class="footer__partners">${img(BRAND.minelab, 'Minelab', { cls: 'logo--light' })}${img(BRAND.detexpertShield, 'Minelab Detexpert')}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--light' })}${img(BRAND.coiltek, 'Coiltek', { cls: 'logo--light' })}</div></div>
+      <div class="footer__partners">${img(BRAND.minelab, 'Minelab', { cls: 'logo--light' })}${img(BRAND.detexpertShield, 'Minelab Detexpert')}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--light' })}${img(BRAND.coiltek, 'Coiltek', { cls: 'logo--light' })}${img(BRAND.swagier, 'Swagier Sand Scoops', { cls: 'logo--light' })}</div></div>
       ${cols}
     </div>
     <p class="footer__disclosure"><strong>Affiliate disclosure.</strong> ${esc(DISCLOSURE)}</p>
@@ -285,7 +300,7 @@ function renderHome() {
   <figure class="hero__photo hero__photo--left">${img('photos/paul-beach-minelab.jpg', '', { eager: true, sizes: '(min-width: 900px) 40vw, 100vw' })}${img(BRAND.detexpertShield, 'Minelab Detexpert', { cls: 'hero__shield' })}<figcaption class="mono">Paul Cee · Minelab Detexpert</figcaption></figure>
 </div></section>
 
-<section class="creds" aria-label="Partners"><div class="wrap creds__row"><p class="creds__label"><span class="mono">Brands Paul works with</span></p><div class="creds__logos">${img(BRAND.minelab, 'Minelab', { cls: 'logo--tall' })}${img(BRAND.detexpertWord, 'Minelab Detexpert', { cls: '' })}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--wide' })}${img(BRAND.coiltek, 'Coiltek')}</div></div></section>
+<section class="creds" aria-label="Partners"><div class="wrap creds__row"><p class="creds__label"><span class="mono">Brands Paul works with</span></p><div class="creds__logos">${img(BRAND.minelab, 'Minelab', { cls: 'logo--tall' })}${img(BRAND.detexpertWord, 'Minelab Detexpert', { cls: '' })}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--wide' })}${img(BRAND.coiltek, 'Coiltek')}${img(BRAND.swagier, 'Swagier Sand Scoops', { cls: 'logo--wide' })}</div></div></section>
 
 <section class="section" id="detectors" aria-labelledby="det-h"><div class="wrap">
   <div class="section__head section__head--photo"><div><p class="eyebrow mono">Find your detector</p><h2 id="det-h">Settings and user guides by detector</h2><p class="section__lede">Pick your machine for Paul’s set-up guides, beach and field settings, and the coils that suit it.</p></div>${img('photos/paul-vanquish-screen.jpg', '', { cls: 'section__photo' })}</div>
@@ -326,7 +341,7 @@ function renderHome() {
   <figure class="rally-photo">${img('images/DSC00062-copy.jpg', 'Paul Cee helping a detectorist with settings at a metal detecting rally')}</figure>
   <div><p class="eyebrow mono">Rallies &amp; events</p><h2 id="rally-h">Find Paul at a rally</h2><p>At rallies Paul sets up test lanes where you can try the latest Minelab machines and ask about your settings. Bring your own detector.</p>
   ${EVENTS.upcoming.length ? `<ul class="ticks">${EVENTS.upcoming.slice(0, 3).map(e => `<li><strong>${esc(fmtRange(e))}</strong>&nbsp;${esc(e.name)}${e.venue ? `, ${esc(e.venue)}` : ''}</li>`).join('')}</ul>` : ''}
-  <ul class="ticks"><li><a href="${pageUrl('detecting-rallies-2026')}">Detecting rallies 2026</a></li><li><a href="${pageUrl('minelab-500-rally')}">The Minelab 500 Rally</a></li><li><a href="${pageUrl('detectival')}">Detectival</a></li></ul>
+  <ul class="ticks"><li><a href="${pageUrl('detecting-rallies')}">Detecting Events</a></li><li><a href="${pageUrl('minelab-500-rally')}">The Minelab 500 Rally</a></li><li><a href="${pageUrl('detectival')}">Detectival</a></li></ul>
   <div class="newsletter"><h3>${HOME.newsletter.heading}</h3><p>${HOME.newsletter.body}</p><a class="btn btn--ghost" href="${LINKS.newsletter}" rel="sponsored noopener" target="_blank">Join the Crawfords mailing list ${icon.ext}</a></div></div>
 </div></section>`;
   writeFile('index.html', doc({ seo: r.seo, canonical: PROD ? `${ORIGIN}/` : r.liveUrl, legacy: r.liveUrl, jsonld: r.seo.jsonld }, body, ''));
@@ -366,7 +381,7 @@ function renderPage(r) {
   ${r.affiliateLinks.length || gear.length ? `<p class="disclosure-inline"><span class="mono">Affiliate links</span> Product links go to Crawfords Metal Detectors and earn Paul a commission at no extra cost to you. <a href="#disclosure">Details below</a>.</p>` : ''}
 </div></div>
 <div class="wrap layout">
-  <article class="prose">${r.slug === 'detecting-rallies-2026' ? eventsBlock() : ''}${content}${r.slug === 'about-us' ? gallery() : ''}
+  <article class="prose">${r.showEvents ? eventsBlock() : ''}${content}${r.slug === 'about-us' ? gallery() : ''}
     ${gear.length ? `<div class="gear-strip"><h2>Gear mentioned in this guide (Crawfords MD)</h2><div class="gear-strip__grid">${gear.map(p => productBox(p)).join('')}</div></div>` : ''}
   </article>
   <aside class="sidebar">

@@ -46,6 +46,7 @@ export const BRAND = {
   detexpertWord: 'images/Detexpert-Header1.png',
   detexpertShield: 'images/detexpert-logosml.png',
   coiltek: 'images/CoiltekLogo.png',
+  swagier: '/img/swagier-sand-scoops.webp', // gold wordmark on transparent, from Paul's supplied logo (Nov 2026)
   paulBadge: 'images/YT-thumb_2020.png',
   paulPhoto: 'images/2026-thumb.jpg',
 };

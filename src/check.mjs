@@ -2,7 +2,16 @@
 import fs from 'node:fs'; import path from 'node:path';
 const DIST = path.resolve('dist'); const BASE = (process.env.BASE || '/');
 // Redirect pages the build writes for removed paths (content/redirects.json keys) are exempt from the article SEO rules.
-const REDIRECT_PAGES = new Set(fs.existsSync('content/redirects.json') ? Object.keys(JSON.parse(fs.readFileSync('content/redirects.json', 'utf8'))).map(k => path.join(k, 'index.html')) : []);
+const redirectKeys = fs.existsSync('content/redirects.json') ? Object.keys(JSON.parse(fs.readFileSync('content/redirects.json', 'utf8'))) : [];
+// ...plus the old addresses recorded as `aliases` in page/post front matter when an editor renamed an entry
+for (const [dir, prefix] of [['content/pages', ''], ['content/posts', 'blog/']]) {
+  if (!fs.existsSync(dir)) continue;
+  for (const f of fs.readdirSync(dir).filter(n => n.endsWith('.md'))) {
+    const head = fs.readFileSync(path.join(dir, f), 'utf8').split(/^---\s*$/m)[1] || '';
+    for (const m of head.matchAll(/^(?:aliases:\s*|\s*-\s*)["']?(\/[^"'\s]+)["']?\s*$/gm)) redirectKeys.push(m[1].replace(/^\/+|\/+$/g, ''));
+  }
+}
+const REDIRECT_PAGES = new Set(redirectKeys.map(k => path.join(k, 'index.html')));
 const files = []; const walk = d => fs.readdirSync(d, { withFileTypes: true }).forEach(e => { const p = path.join(d, e.name); e.isDirectory() ? (e.name !== 'admin' && walk(p)) : p.endsWith('.html') && files.push(p); });
 walk(DIST);
 const exists = u => { let p = decodeURIComponent(u.split('#')[0].split('?')[0]); if (!p.startsWith(BASE)) return true; p = path.join(DIST, p.slice(BASE.length)); return fs.existsSync(p) && (fs.statSync(p).isFile() || fs.existsSync(path.join(p, 'index.html'))); };

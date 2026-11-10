@@ -3,6 +3,7 @@ aliases:
   - /detecting-rallies-2026/
 title: Metal Detecting Rallies | UK & World Events Guide
 noindex: false
+showEvents: true
 seo:
   title: Detecting Rallies & Events
   description: Discover the Best Metal Detecting Rallies in the UK and worldwide. Get the latest dates for major events like the Minelab 500, list your event for free

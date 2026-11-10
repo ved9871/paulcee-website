@@ -69,6 +69,7 @@ collections:
     fields:
       - { name: title, label: Page heading, widget: string, required: false }
       - { name: noindex, label: "Hide from Google search", widget: boolean, default: false, required: false, hint: "Tick to keep this page out of search results. It stays visible on the site." }
+      - { name: showEvents, label: "Show the rallies & events list on this page", widget: boolean, default: false, required: false, hint: "Tick on the events page only. Upcoming and past events from Rallies & events appear above the text." }
       - { name: body, label: Content, widget: markdown, modes: [rich_text, raw] }
       - name: seo
         label: SEO (Google)

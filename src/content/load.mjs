@@ -56,7 +56,7 @@ export function loadPosts(root, { resolver, now = new Date(), onProblem }) {
     if (!Array.isArray(seo.jsonld) || !seo.jsonld.length) seo.jsonld = [{ '@type': 'BlogPosting', '@context': 'https://schema.org', headline: title, description: seo.description, datePublished: date, author: { '@type': 'Person', name: 'Paul Cee' }, mainEntityOfPage: liveUrl }];
     const cover = data.cover ? (resolver.keyForFile(String(data.cover)) || String(data.cover)) : null;
     out.push({
-      type: 'post', slug, liveUrl, title, seo, datePublished: date, dateModified: meta.dateModified || date,
+      type: 'post', slug, liveUrl, title, seo, aliases: aliasesOf(data), datePublished: date, dateModified: meta.dateModified || date,
       author: meta.author || 'Paul Cee', category: meta.category || '', categorySlug: meta.categorySlug || '',
       tags: data.tags || [], readTime: 'readTime' in meta ? meta.readTime : Math.max(1, Math.round(words(blocks) / 200)),
       summary: data.summary || '', cover, heroVideo: data.heroVideo ? youtubeId(data.heroVideo) : null,
@@ -65,6 +65,9 @@ export function loadPosts(root, { resolver, now = new Date(), onProblem }) {
   }
   return out.sort((a, b) => (b.datePublished || '').localeCompare(a.datePublished || ''));
 }
+
+// Old addresses of a renamed entry. Sveltia writes `aliases: ["/old-slug/"]` when an editor changes a slug.
+const aliasesOf = data => (Array.isArray(data.aliases) ? data.aliases : typeof data.aliases === 'string' ? [data.aliases] : []).map(a => String(a).trim()).filter(Boolean);
 
 export function loadPages(root, { resolver, onProblem }) {
   const pages = {};
@@ -78,7 +81,7 @@ export function loadPages(root, { resolver, onProblem }) {
     const seo = { canonical: liveUrl, jsonld: [], ...(meta.seo || {}), ...(data.seo || {}) };
     seo.title ||= data.title || slug; seo.description ||= excerpt(blocks);
     if (data.noindex) seo.robots = 'noindex, follow';
-    pages[slug] = { type: 'page', slug, liveUrl, h1: data.title || '', seo, adSlots: meta.adSlots || [], blocks, ...derive(blocks) };
+    pages[slug] = { type: 'page', slug, liveUrl, h1: data.title || '', seo, adSlots: meta.adSlots || [], blocks, aliases: aliasesOf(data), showEvents: !!data.showEvents, ...derive(blocks) };
   }
   return pages;
 }

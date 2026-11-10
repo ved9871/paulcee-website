@@ -34,7 +34,7 @@ export const NAV = [
   },
   {
     label: 'Rallies', groups: [
-      { title: 'Events', items: [['detecting-rallies-2026', 'Detecting rallies 2026'], ['minelab-500-rally', 'Minelab 500 Rally'], ['detectival', 'Detectival']] },
+      { title: 'Events', items: [['detecting-rallies', 'Detecting Events'], ['minelab-500-rally', 'Minelab 500 Rally'], ['detectival', 'Detectival']] },
     ],
   },
   { label: 'Blog', href: 'blog/' },
@@ -70,7 +70,7 @@ export const HOME = {
     { label: 'New to detecting', body: 'Where to start, what to buy first, and how to get permission.', href: 'beginners-guide-to-metal-detecting', cta: 'Read the beginner’s guide' },
     { label: 'Choosing a detector', body: 'Paul’s top five Minelab machines for beginners, compared.', href: 'top-5-beginners-metal-detectors', cta: 'Compare the top 5' },
     { label: 'Hitting the beach', body: 'Reading cuts and washouts, sand scoops, and wet-sand settings.', href: 'blog/topic/beach-detecting/', cta: 'Beach detecting articles' },
-    { label: 'Finding a rally', body: 'Digs, weekends and day events across the UK. Updated when new dates come in.', href: 'detecting-rallies-2026', cta: 'See the 2026 rally list' },
+    { label: 'Finding a rally', body: 'Digs, weekends and day events across the UK. Updated when new dates come in.', href: 'detecting-rallies', cta: 'See the detecting events' },
   ],
   video: { id: 'nrMw2oEBDyQ', title: 'Minelab Vanquish 560: what’s new and how it performs', heading: 'A new video most weeks', body: 'Settings walk-throughs, coil tests and beach sessions, filmed in the field. Subscribe so you don’t miss the next one.' },
   newsletter: { heading: 'Crawfords mailing list', body: 'The Crawfords Metal Detectors mailing list covers new releases, offers and a free competition each month.' },

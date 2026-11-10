@@ -136,3 +136,17 @@ test('"Hide from Google" (noindex) sets a noindex robots rule on posts and pages
   assert.equal(pages.secret.seo.robots, 'noindex, follow');
   assert.equal(pages.about.seo.robots, undefined);
 });
+
+test('pages and posts expose aliases (old addresses after a rename) and the showEvents flag', () => {
+  const root = fixture();
+  fs.writeFileSync(path.join(root, 'content/pages/events.md'), '---\ntitle: Events\naliases:\n  - /detecting-rallies-2026/\nshowEvents: true\n---\n\nX\n');
+  fs.writeFileSync(path.join(root, 'content/posts/moved.md'), '---\ntitle: Moved\ndatePublished: "2026-01-03T09:00:00"\naliases: /blog/old-name/\n---\n\nX\n');
+  const resolver = createImageResolver(root, {});
+  const pages = loadPages(root, { resolver });
+  assert.deepEqual(pages.events.aliases, ['/detecting-rallies-2026/']);
+  assert.equal(pages.events.showEvents, true);
+  assert.deepEqual(pages.about.aliases, []);
+  assert.equal(pages.about.showEvents, false);
+  const moved = loadPosts(root, { resolver, now: new Date('2026-09-29') }).find(p => p.slug === 'moved');
+  assert.deepEqual(moved.aliases, ['/blog/old-name/']);
+});
