@@ -6,7 +6,7 @@ noindex: false
 showEvents: true
 seo:
   title: Detecting Rallies & Events
-  description: Discover the Best Metal Detecting Rallies in the UK and worldwide. Get the latest dates for major events like the Minelab 500, list your event for free
+  description: Discover the Best Metal Detecting Rallies in the UK and worldwide. Get the latest dates for major events like the Minelab 500 and Detectival, list your event for free
   keywords: Metal detecting rallies 2027, UK metal detecting events, detecting weekends, treasure hunting rallies, Minelab 500 rally, UK History Finders, metal detecting holidays, detecting digs UK
 ---
 
@@ -19,12 +19,11 @@ Discover the latest listings for metal detecting rallies, weekenders, and club d
 - **Diverse Digs:** Find everything from single-day local club searches to massive multi-day weekend rallies.
 - **Community-Sourced Events:** We show listings from independent groups, official organizations, and Facebook metal detecting clubs.
 - **Real-Time Updates:** Check back frequently for schedule changes, weather updates, and event cancellations, especially during the winter season when ground conditions or heavy storms can lead to short-notice postponements.
+- _Note: Winter weather and heavy winds can occasionally cause ground conditions to become unsafe for vehicles, resulting in advanced or last-minute cancellations. Always check our cancellation tracker for alternative dates before traveling._
 
 ### Are You a Metal Detecting Event Organizer?
 
 Promote your digs to thousands of active detectorists! Whether you are hosting a 1-day charity dig or a multi-day weekend rally, you can **list your event for free** by scrolling to the bottom of this page and filling out our submission form (\*conditions apply).
-
-_Note: Winter weather and heavy winds can occasionally cause ground conditions to become unsafe for vehicles, resulting in advanced or last-minute cancellations. Always check our cancellation tracker for alternative dates before traveling._
 
 ## Metal Detecting Rallies 2027
 
@@ -38,25 +37,9 @@ This event is perfect for both seasoned detectorists and newcomers looking to di
 
 <em>Full Listing on Minelab 500 event page!</em>
 
-### ⚠️ Important Rules &amp; Protocol
-
-Please report all finds of interest to your local <strong>Finds Liaison Officer (FLO)</strong>. Any hoards or treasure items must be reported to the event administration immediately—do not attempt removal without guidance.
-
-#### Organizing a Rally? Promote it here for free!
-
-Please fill out the form below to have your event listed on this page.
-
-<em>(Our admin team will verify the details and post it for you.)</em>
-
 ![Minelab 500 metal detecting rally in 2027](/img/500-2027.webp "what metal detecting weekends are on in 2027")
 
 {{youtube id="syIbMDl9ZiA" title="metal detecting rally, what happens at a metal detecting rally in 2027"}}
-
-🔄 Updates Frequently
-
-Daily and weekly metal detecting events and rallies are updated frequently. Please make sure you check this page often for event updates.
-
-👇 More Events Are Listed Below
 
 ### 🔥 Save MONEY on Accessories
 
@@ -67,9 +50,18 @@ PaulCee10
 <em>Valid Online, In-Store &amp; by Phone.\
 (Applies to accessories only. Excludes metal detectors.)</em>
 
-Searching for rallies...
+### ⚠️ Important Rules &amp; Protocol
+
+Please report all finds of interest to your local <strong>Finds Liaison Officer (FLO)</strong>. Any hoards or treasure items must be reported to the event administration immediately—do not attempt removal without guidance.
+
+#### Organizing a Rally or Detecting Event? Promote it here for free!
+
+Please fill out the form below to have your event listed on this page.
+
+<em>(Our admin team will verify the details and post it for you.)</em>
 
 {{embed src="https://docs.google.com/forms/d/e/1FAIpQLSdoh5FbuzdoyTtHN_o-nJm9TdbX2PbCBJtjDy0hVoEvPJ2-Ng/viewform?embedded=true" height="987"}}
+
 
 ⚠️ International Legal Notice
 
