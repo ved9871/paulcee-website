@@ -588,6 +588,7 @@ const R = ${JSON.stringify(map)};
 const RL = Object.fromEntries(Object.entries(R).map(([k, v]) => [k.toLowerCase(), v]));
 const BLOG = ${JSON.stringify(blog)};
 const WWW = ${JSON.stringify(new URL(ORIGIN).hostname)};
+const PAGES = ${JSON.stringify(Object.keys(pages).filter(s => s !== 'index'))};
 export default {
   async fetch(request, env) {
     const u = new URL(request.url);
@@ -599,6 +600,15 @@ export default {
       let s = ''; try { s = decodeURIComponent(u.search.slice(1)); } catch { s = u.search.slice(1); }
       s = s.replace(/^slug=/, '').split(/[&=]/)[0].toLowerCase();
       return Response.redirect(u.origin + (BLOG[s] || '/blog/'), 301);
+    }
+    // Any other old-style page address (.php/.html) that search engines still hold: send it to the page whose
+    // name matches best (e.g. metal-detecting-rallies.php -> /detecting-rallies/), otherwise to the home page.
+    const old = u.pathname.match(/^\\/([a-z0-9-]+)\\.(?:php|html?)$/i);
+    if (old) {
+      const want = new Set(old[1].toLowerCase().split('-').filter(Boolean));
+      let best = '', score = 0;
+      for (const slug of PAGES) { const have = slug.split('-'); const inter = have.filter(t => want.has(t)).length; const sc = inter / Math.max(want.size, have.length); if (sc > score) { score = sc; best = slug; } }
+      return Response.redirect(u.origin + (score >= 0.5 ? '/' + best + '/' : '/'), 301);
     }
     return env.ASSETS.fetch(request);
   }
