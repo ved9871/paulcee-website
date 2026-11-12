@@ -1,6 +1,8 @@
 ---
 title: Vanquish 340 Vs Simplex
 datePublished: 2026-01-09T08:48:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - minelab
@@ -18,12 +20,10 @@ seo:
   keywords: Minelab Vanquish, Nokta simplex, vs, best, beginner, detector
 ---
 
-[![nokta makro simplex or minelab vanquish](/img/vanq_simplex.webp)](http://bit.ly/2VcUX0q)
+[![nokta makro simplex or minelab vanquish](/img/vanq_simplex.webp "Minelab Vanquish vs Nokta Simplex")](https://youtu.be/uNVQcrNjyfY)
 
 ## Minelab vanquish vs nokta simplex
 
 OVER Very Mineralised soil with the Multi IQ Minelab Vanquish 340 and Nokta Makro Simplex + Test using a small silver hammered coin shows even a basic Minelab Vanquish 340 Multi IQ detects ground that single frequency detectors cant handle. a simplex metal detecting test you can try yourself..
 
-[Where to Buy Minelab Vanquish 340](http://bit.ly/CMDvanquish)
-
-[Minelab Vanquish Metal Detecting uk](http://bit.ly/mnlbVnqush)
+[Minelab Vanquish Metal Detecting uk](https://www.youtube.com/channel/UCAJhc7UhOgQaupZhJt42G7w)
