@@ -1,6 +1,8 @@
 ---
 title: vanquish vs simplex beach detecting
 datePublished: 2020-05-24T13:43:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - minelab
@@ -19,7 +21,7 @@ seo:
   keywords: minelab vanquish vs simplex, minelab vanquish beach, nokta simplex, multi iq, crawfords metal detectors, minelab multi iq
 ---
 
-![Nokta Macro Simplex Beach Metal Detecting](/img/simplex-wet-sand_1.webp)
+![Nokta Macro Simplex Beach Metal Detecting](/img/simplex-wet-sand_1.webp "Nokta Macro Simplex Beach Metal Detecting")
 
 ## Minelab Vanquish vs nokta makro simplex
 
