@@ -1,15 +1,16 @@
 ---
 title: Minelab Vanquish 60 Settings
 noindex: false
+showEvents: false
 seo:
   title: How to Set Up Minelab Vanquish 560
   description: Learn the best settings for your Minelab Vanquish 60 series. We cover sensitivity, discrimination, beach setups
   keywords: minelab Vanquish, minelab vanquish discrimination, minelab vanquish settings, minelab vanquish help, minelab vanquish pin point, minelab vanquish 560 discrimination, vanquish 560 pro, minelab vanquish uk, minelab metal detectors uk
 ---
 
-## How to Set Up Minelab Vanquish 60 Series: Expert Settings &amp; Guide (2026)
+## How to Set Up Minelab Vanquish 60 Series: Expert Settings &amp; Guide Tutorials
 
-<strong>Meta Description:</strong> Master your Minelab Vanquish 60 series with our 2026 setup guide. Learn the best sensitivity, discrimination, and Multi-IQ settings for beach, field, and relic hunting to maximize your depth and finds.
+<strong>Meta Description:</strong> Master your Minelab Vanquish 60 series with our setup tutorial guide. Learn the best sensitivity, discrimination, and Multi-IQ settings for beach, field, and relic hunting to maximize your depth and finds.
 
 ![How to Set Up Minelab Vanquish 560 from the 60 series of detectors](/img/2026-thumb_fi4vubdi.webp "How to Set Up Minelab Vanquish 560 from the 60 series")
 
@@ -37,11 +38,16 @@ The Multi-IQ engine handles different grounds automatically, but your mode selec
 
 ### By Paul Cee  Crawfords Metal Detectors UK
 
-Welcome to the definitive guide for the Minelab Vanquish 560. Whether you are unboxing your machine for the first time or looking to sharpen your field skills, this guide—created by Minelab Detexpert **Paul Cee**—is designed to turn confusing numbers into treasure in your pouch.
+Welcome to the definitive guide for the Minelab Vanquish 60. Whether you are unboxing your machine for the first time or looking to sharpen your field skills, this guide—created by Minelab Detexpert **Paul Cee**—is designed to turn confusing numbers into treasure in your pouch.
 
 ### 💡 Paul Cee’s Golden Rule
 
 "A quiet machine is always more efficient than a noisy one. Never chase high sensitivity if it causes chatter—you’ll only end up missing the very targets you're looking for."
+
+This Series of Tutorial Videos for the Minelab Vanquish is in Several Parts, Covering everything, to get you started with a Vanquish 60 series, or if you run into a settings issue and need a solution.
+
+{{youtube id="u4WKMaN1cNs" title="Minelab Vanquish 60 Beginners Guide, All you need to know. V360 v460 and v560"}}
+
 
 ### 📊 Sensitivity
 
