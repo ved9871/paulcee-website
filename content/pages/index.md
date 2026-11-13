@@ -1,6 +1,7 @@
 ---
 title: ''
 noindex: false
+showEvents: false
 seo:
   title: Paul Cee Metal Detecting
   description: The UK's home for expert Minelab advice. Tutorials, detector settings, and reviews from Paul Cee, Minelab Detexpert and Crawfords Product Specialist.
@@ -9,7 +10,7 @@ seo:
 
 ## Master Your Minelab Metal Detector. Expert settings, reviews, and field tests from an official Minelab Detexpert.
 
-### Explore for [metal detecting rallies and weekends](/detecting-rallies-2026/) or day detecting events, this list is updated every week and includes the popular detecting digs and weekends.
+### Explore for [metal detecting rallies and weekends](/detecting-rallies/) or day detecting events, this list is updated every week and includes the popular detecting digs and weekends.
 
 #### If your a beginner and looking for [metal detecting advice](/minelab-vanquish-60-settings/) or settings we got you covered.
 
