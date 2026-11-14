@@ -1,8 +1,12 @@
 ---
 title: metal detector large case
 datePublished: 2024-01-02T11:15:00
+draft: false
+noindex: false
 topic: coils-and-gear
+tags: []
 cover: /img/b-cmd-case_900.webp
+heroVideo: ''
 summary: CMD LARGE Detector carry case
 seo:
   title: metal detector large case - Blog
@@ -36,7 +40,7 @@ charging leads, power pack, gloves or other stuff you carry about.
 
 Pocket size 330mm (13 inch) x 400mm (15 3/4 inch)
 
-![large case to carry metal detectors](/img/cmd-case_molle.webp)
+![large case to carry metal detectors](/img/cmd-case_molle.webp "Backpack case for a metal detector")
 
 The Front of the CMD Large case
 
@@ -44,16 +48,16 @@ is Fitted with MOLLE style fittings
 
 which allow for fitting a water bottle holder, 1st aid kit and more
 
-![metal detector large carry case](/img/cmd-case_shoulder-straps.webp)
+![metal detector large carry case](/img/cmd-case_shoulder-straps.webp "Large case for a Minelab Metal Detector")
 
 Along with the top edge carry handles there are also 2 over shoulder fully adjustable straps to use the carry case as a ruck sack,
 
 so you can setup your detector where you park and carry all the needed coils, cables and shafts with you
 
-![how big is the CMD large carry case](/img/cmd-case_size.webp)
+![how big is the CMD large carry case](/img/cmd-case_size.webp "Carry case for a Minelab Metal detector")
 
 Approximate sizes of the CMD large detector case are 800mm (31 inch) x 540mm (21 inch)
 
 Made from tough padded 800 Denier water resistant material.
 
-[BUY THE CMD BACKPACK HERE](https://bit.ly/cmdbackpack)
+[BUY THE CMD BACKPACK HERE](https://crawfordsmd.com/minelab-backpack?tracking=fa202437c9)
