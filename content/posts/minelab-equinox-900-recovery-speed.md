@@ -3,7 +3,7 @@ title: Minelab Equinox 900 Recovery speed
 datePublished: 2026-01-09T08:59:00
 draft: false
 noindex: false
-topic: minelab-equinox
+topic: equinox-settings
 tags: []
 cover: /img/b-equinox-900-tutorials_recovery-speed.webp
 heroVideo: 50zg6rWQwFA
