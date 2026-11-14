@@ -4,7 +4,7 @@ noindex: false
 showEvents: false
 seo:
   title: Paul Cee Metal Detecting
-  description: The UK's home for expert Minelab advice. Tutorials, detector settings, and reviews from Paul Cee, Minelab Detexpert and Crawfords Product Specialist.
+  description: The home for expert Minelab advice. Tutorials, detector settings, and reviews from Paul Cee, Minelab Detexpert and Crawfords Product Specialist.
   keywords: Paul Cee Metal Detecting, Minelab Detexpert, Crawfords Metal Detectors, Product Specialist, Minelab Manticore Settings, Minelab Equinox 900, Minelab Vanquish, Metal Detecting Rally, Beach Detecting Settings, Metal Detecting Tutorials
 ---
 
