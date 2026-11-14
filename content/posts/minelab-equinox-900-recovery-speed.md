@@ -1,7 +1,10 @@
 ---
 title: Minelab Equinox 900 Recovery speed
 datePublished: 2026-01-09T08:59:00
+draft: false
+noindex: false
 topic: minelab-equinox
+tags: []
 cover: /img/b-equinox-900-tutorials_recovery-speed.webp
 heroVideo: 50zg6rWQwFA
 summary: Minelab Equinox 900 recovery speed explained
@@ -11,11 +14,11 @@ seo:
   keywords: equinox 900, nox recovery speed, equinox settings, minelab equinox recovery speed, best settings.
 ---
 
-![setting the recovery speed on the minelab equinox 900 and equinox 700](/img/equinox-900-tutorials_recovery-speed.webp "small")
+![setting the recovery speed on the minelab equinox 900 and equinox 700](/img/equinox-900-tutorials_recovery-speed.webp "Minelab Equinox 900 Recovery Speed")
 
-![setting up the recovery speed on the equinox 900 and 700](/img/YT-thumb_2020_y4rdmhjv.webp "small")
+![setting up the recovery speed on the equinox 900 and 700](/img/2026-thumb_0bwkmdko.webp "Paul Cee Minelab Equinox Tutorial")
 
-![minelab Equinox 900 beach settings](/img/detexpert-logosml_5xwnzzpx.webp "small")
+![minelab Equinox 900 beach settings](/img/detexpert-logosml_5xwnzzpx.webp "Minelab Detexpert uk")
 
 ## Minelab Equinox 900 Recovery Speed Explained
 
