@@ -3,7 +3,7 @@ title: Minelab Equinox 900 and 700 RESET
 datePublished: 2023-12-31T17:14:00
 draft: false
 noindex: false
-topic: minelab-equinox
+topic: equinox-settings
 tags:
   - equinox
   - '900'
