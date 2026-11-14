@@ -21,9 +21,9 @@ seo:
   keywords: equinox 900 reset, factory reset equinox, equinox 900 settings, equinox 700, equinox 900, Best settings, Equinox 900 help, minelab equinox reset.
 ---
 
-![minelab equinox settings looking at reset one profile or full factory reset](/img/equinox-900-tutorials.webp "minelab equinox settings looking at reset one profile or full factory reset")
+![minelab equinox settings looking at reset one profile or full factory reset](/img/equinox-900-tutorials.webp "minelab equinox factory reset")
 
-![minelab equinox 900 settings in the Uk looking at factory reset or single profile reset](/img/2026-thumb_0bwkmdko.webp "minelab equinox 900 settings in the Uk looking at factory reset or single profile reset")
+![minelab equinox 900 settings in the Uk looking at factory reset or single profile reset](/img/2026-thumb_0bwkmdko.webp "minelab equinox 900 settings")
 
 ![minelab equinox factory or soft reset and how to do it](/img/detexpert-logosml_7oqjwpja.webp "minelab equinox factory or soft reset and how to do it")
 
