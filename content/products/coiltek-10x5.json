@@ -5,6 +5,6 @@
   "cat": "coil",
   "img": "/img/10x5_web.webp",
   "compare": [],
-  "match": "coil",
-  "order": 0
+  "match": "coil|Equinox|Vanquish",
+  "order": 1
 }
