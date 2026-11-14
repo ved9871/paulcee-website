@@ -1,7 +1,10 @@
 ---
 title: why detectors miss targets
 datePublished: 2023-12-13T17:46:00
-topic: detecting
+draft: false
+noindex: false
+topic: finds
+tags: []
 cover: /img/b-101223_manticore1.webp
 heroVideo: a23x4dUgTg8
 summary: what they missed was shocking
@@ -11,7 +14,7 @@ seo:
   keywords: metal detecting, crawfords metal detectors, minelab, manricore, equinox 900, rally 24
 ---
 
-![crawfords metal detecting uk discount code](/img/YT-thumb_2020_1mwc8qn1.webp "small")
+![crawfords metal detecting uk discount code](/img/2026-thumb_0bwkmdko.webp "Metal Detector Tutorials")
 
 ## metal detectorists miss targets
 
@@ -21,19 +24,19 @@ but sometimes their excitement can lead them to go too fast. It's no secret that
 
 heres is what we found detecting where all the other 80 metal detectorists started, how could anybody actually miss some of these targets..
 
-![a bag seal found with a metal detector](/img/Untitled.webp "small")
+![a bag seal found with a metal detector](/img/Untitled.webp "Bag Seal")
 
 Not sure if this is a Bag seal or a something similar
 
-![metal detecting find is a cut quarter hammered coin](/img/P1010738.webp "small")
+![metal detecting find is a cut quarter hammered coin](/img/P1010738.webp "Hammered coin Metal Detecting Find")
 
 1/4 cut hammered coin unknown date
 
-![1911 Silver sixpence from king george V](/img/P1010734.webp "small")
+![1911 Silver sixpence from king george V](/img/P1010734.webp "Silver coin metal detecting find")
 
 1911 silver sixpence from King George V
 
-![king george copper half penny 1932](/img/P1010743.webp "small")
+![king george copper half penny 1932](/img/P1010743.webp "Copper coin metal detecting")
 
 1932 Copper half penny king george
 
