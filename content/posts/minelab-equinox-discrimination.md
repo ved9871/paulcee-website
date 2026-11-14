@@ -3,7 +3,7 @@ title: Minelab Equinox Discrimination
 datePublished: 2021-02-23T19:23:00
 draft: false
 noindex: false
-topic: minelab-equinox
+topic: equinox-settings
 tags:
   - minelab Equinox
   - Minelab Equinox Settings
