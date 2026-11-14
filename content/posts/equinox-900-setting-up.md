@@ -3,7 +3,7 @@ title: equinox 900 setting up
 datePublished: 2023-01-29T18:50:00
 draft: false
 noindex: false
-topic: minelab-equinox
+topic: equinox-settings
 tags:
   - Metal
   - Detecting
