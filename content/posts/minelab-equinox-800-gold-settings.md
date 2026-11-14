@@ -3,7 +3,7 @@ title: Minelab Equinox 800 Gold Settings
 datePublished: 2018-11-18T16:04:00
 draft: false
 noindex: false
-topic: minelab-equinox
+topic: equinox-settings
 tags:
   - Minelab
   - equinox
