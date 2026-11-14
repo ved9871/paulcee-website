@@ -3,11 +3,12 @@ title: minelab manticore recovery speed
 datePublished: 2023-12-30T08:41:00
 draft: false
 noindex: false
-topic: minelab-manticore
+topic: manticore-settings
 tags:
   - manticore
   - recovery
   - speed
+  - tutorial
 cover: /img/b-manticore-recovery-speed.webp
 heroVideo: nP16m-fupVE
 summary: Manticore recovery speed
