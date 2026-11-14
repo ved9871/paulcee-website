@@ -16,7 +16,7 @@ cover: /img/b-m8-coil.webp
 heroVideo: sWPF6cSswbM
 summary: Discover the exceptional capabilities of the Minelab Manticore M8 Coil in the world of metal detecting in the UK. Uncover hidden treasures and enhance your metal detecting experience with this powerful and innovative coil.
 seo:
-  title: Unveiling the Power of the Minelab Manticore M8 Coil Metal Detecting - Blog
+  title: Minelab Manticore M8 Coil Metal Detecting - Blog
   description: Discover the exceptional capabilities of the Minelab Manticore M8 Coil. Uncover its cutting-edge technology and unparalleled performance
   keywords: Metal Detecting UK, Minelab Manticore M8 Coil, metal detecting, UK, manticore coils, minelab coils, manticore coil uk.
 ---
