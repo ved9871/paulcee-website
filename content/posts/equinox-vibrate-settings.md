@@ -3,7 +3,7 @@ title: Equinox Vibrate Settings
 datePublished: 2024-01-01T10:57:00
 draft: false
 noindex: false
-topic: minelab-equinox
+topic: equinox-settings
 tags:
   - Minelab Equinox settings
   - Minelab Equinox uk
