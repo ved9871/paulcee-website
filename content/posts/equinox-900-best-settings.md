@@ -3,7 +3,7 @@ title: Equinox 900 best settings
 datePublished: 2024-01-01T14:08:00
 draft: false
 noindex: false
-topic: minelab-equinox
+topic: equinox-settings
 tags:
   - settings
   - tutorial
