@@ -9,8 +9,6 @@ tags:
   - vanquish
   - iron
   - volume
-  - update
-  - uk
   - metal
   - detector
 cover: /img/b-iron-volume_web.webp
