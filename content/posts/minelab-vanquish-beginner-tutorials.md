@@ -1,6 +1,8 @@
 ---
 title: Minelab Vanquish Tutorials
 datePublished: 2022-06-25T16:59:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - minelab
@@ -25,7 +27,7 @@ seo:
 
 Congratulations on buying your Minelab Vanquish metal detector, with the Minelab multi I-Q technology.
 
-![metal detecting for beginners the minelab vanquish ultimate guide](/img/ultimate-guide_web.webp)
+![metal detecting for beginners the minelab vanquish ultimate guide](/img/ultimate-guide_web.webp "Minelab Vanquish Beginner Tutorials Help")
 
 Scott had never used a metal detector before getting the minelab vanquish so his skill level was basically zero.
 
