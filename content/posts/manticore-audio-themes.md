@@ -3,8 +3,12 @@ title: Minelab Manticore Audio themes
 datePublished: 2023-12-31T11:33:00
 draft: false
 noindex: false
-topic: minelab-manticore
-tags: []
+topic: manticore-settings
+tags:
+  - Minelab Manticore
+  - Minelab Tutorial
+  - Settings
+  - Manticore tutorial
 cover: /img/b-manticore-audio.webp
 heroVideo: LCpycVN4Edg
 summary: Minelab Manticore Audio themes Explained
