@@ -6,7 +6,7 @@ noindex: false
 showEvents: true
 seo:
   title: Detecting Rallies & Events
-  description: Discover the Best Metal Detecting Rallies in the UK and worldwide. Get the latest dates for major events like the Minelab 500 and Detectival, list your event for free
+  description: Find the Best Metal Detecting Rallies in the UK and worldwide. Get the latest dates for major events like the Minelab 500 and Detectival
   keywords: Metal detecting rallies 2027, UK metal detecting events, detecting weekends, treasure hunting rallies, Minelab 500 rally, UK History Finders, metal detecting holidays, detecting digs UK
 ---
 
