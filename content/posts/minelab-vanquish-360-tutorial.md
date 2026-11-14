@@ -1,7 +1,7 @@
 ---
 title: Minelab Vanquish 360 Tutorial
-datePublished: 2026-11-15T08:35:00
-draft: true
+datePublished: 2026-11-14T09:31:00
+draft: false
 noindex: false
 topic: beginners
 tags:
@@ -10,7 +10,7 @@ tags:
   - Minelab Vanquish tutorial
   - tutorial
   - Settings
-cover: /img/360-simple_web.webp
+cover: /img/360-simple.webp
 heroVideo: https://youtu.be/TctUfPNIq4I
 summary: Minelab Vanquish 360 Tutorial for a Beginner, Learn All the settings, Button functions And all about the search profiles
 seo:
