@@ -1,17 +1,17 @@
 ---
 title: equinox 900 setting up
 datePublished: 2023-01-29T18:50:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - Metal
   - Detecting
-  - UK
   - Equinox
-  - "900"
+  - '900'
   - Setting
-  - Up
   - Minelab
-  - Buttons.
+  - Equinox Tutorial
 cover: /img/b-eqx-900-buttons.webp
 heroVideo: Q1jp2mquvGk
 summary: In this post, we'll be talking about the buttons on the Minelab equinox 900 metal detector. We'll go over how to properly set up your detector for the best results. So, if you're a metal detecting enthusiast in the UK, keep reading!
@@ -23,7 +23,7 @@ seo:
 
 ## What do the buttons on the Equinox 900 do
 
-![what do the buttons on the equinox 900 do and how they change settings](/img/eqx-900-buttons.webp)
+![what do the buttons on the equinox 900 do and how they change settings](/img/eqx-900-buttons.webp "Minelab Equinox Tutorial")
 
 This time we look at all the button functions of the Minelab equinox 900, and what they change on the metal detector.
 
