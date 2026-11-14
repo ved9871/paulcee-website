@@ -1,14 +1,15 @@
 ---
 title: Minelab Vanquish software update
 datePublished: 2020-08-03T20:27:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - Minelab
   - vanquish
   - update
   - software
-  - pro
-  - pack
+  - Tutorial
 cover: /img/b-vanquish-update.webp
 heroVideo: 03cvE-6ng0c
 summary: Vanquish software update latest
@@ -18,7 +19,7 @@ seo:
   keywords: minelab Vanquish update, how, minelab vanquish software update, latest vanquish software version
 ---
 
-[![how to update minelab vanquish software](/img/vanquish-update.webp)](http://bit.ly/mnlbVnqush)
+![how to update minelab vanquish software](/img/vanquish-update.webp "how to update minelab vanquish software")
 
 ## Minelab VANQUISH SOFTWARE UPDATE
 
@@ -38,7 +39,7 @@ Detecting in heavy iron trash is enhanced with the new Iron Volume Control featu
 
 The upgrade also includes improved battery handling capability for all models, as well as a new low battery alert
 
-[Download the Vanquish Update](<https://www.minelab.com/__files/d/436006/Minelab%20Update%20Utility%20-%20Vanquish%20Upgrade%201.1%20(Windows).exe>)
+[Download the Vanquish Update](https://www.minelab.com/__files/d/436006/Minelab%20Update%20Utility%20-%20Vanquish%20Upgrade%201.1%20\(Windows\).exe)
 
 ### Note
 
