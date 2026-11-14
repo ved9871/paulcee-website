@@ -4,7 +4,10 @@ datePublished: 2024-01-01T14:08:00
 draft: false
 noindex: false
 topic: minelab-equinox
-tags: []
+tags:
+  - settings
+  - tutorial
+  - Minelab Equinox
 cover: /img/b-equinox-900-tutorials_search-profile.webp
 heroVideo: gK9kbAqI62w
 summary: Best settings for you
