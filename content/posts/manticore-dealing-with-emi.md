@@ -7,6 +7,7 @@ topic: manticore-settings
 tags:
   - Minelab Manticore Settings
   - Minelab Manticore
+  - Tutorial
 cover: /img/b-manticore_emi.webp
 heroVideo: FKQsXUGtfuc
 summary: how do you deal with interference on a minelab manticore or minelab equinox metal detector, electric fences and phone mast can cause problems
@@ -18,7 +19,7 @@ seo:
 
 ## Minelab Manticore Setting for EMI Interference
 
-![minelab manticore settings to help deal with interference](/img/YT-thumb_2020_h3v355op.webp "minelab manticore settings to help deal with interference")
+![minelab manticore settings to help deal with interference](/img/2026-thumb_0bwkmdko.webp "minelab manticore settings to help deal with interference")
 
 ![settings to help deal with EMI on a minelab metal detector](/img/detexpert-logosml_0e0vdxkk.webp "settings to help deal with EMI on a minelab metal detector")
 
