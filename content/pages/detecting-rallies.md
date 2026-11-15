@@ -39,7 +39,7 @@ This event is perfect for both seasoned detectorists and newcomers looking to di
 
 ![Minelab 500 metal detecting rally in 2027](/img/500-2027.webp "what metal detecting weekends are on in 2027")
 
-{{youtube id="syIbMDl9ZiA" title="metal detecting rally, what happens at a metal detecting rally in 2027"}}
+{{youtube id="_3l6_dv-6M8" title="Minelab 500 metal detecting rally Hoard of Saxon Coins"}}
 
 ### 🔥 Save MONEY on Accessories
 
@@ -61,7 +61,6 @@ Please fill out the form below to have your event listed on this page.
 <em>(Our admin team will verify the details and post it for you.)</em>
 
 {{embed src="https://docs.google.com/forms/d/e/1FAIpQLSdoh5FbuzdoyTtHN_o-nJm9TdbX2PbCBJtjDy0hVoEvPJ2-Ng/viewform?embedded=true" height="987"}}
-
 
 ⚠️ International Legal Notice
 
