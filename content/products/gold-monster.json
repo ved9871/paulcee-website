@@ -1,9 +1,9 @@
 {
+  "name": "Minelab Gold Monster 2000",
   "key": "gold-monster",
-  "name": "Minelab Gold Monster 1000",
   "path": "/minelab-gold-monster-2000",
   "cat": "detector",
-  "img": "",
+  "img": "/img/pasted-image-1794734661116.webp",
   "compare": [],
   "match": "gold monster|gold panning|prospect",
   "order": 8
