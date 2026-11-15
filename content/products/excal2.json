@@ -1,0 +1,10 @@
+{
+  "name": "Minelab Excalibur 2",
+  "key": "excal2",
+  "path": "/minelab-Excalibur-II",
+  "cat": "detector",
+  "img": "/img/excal.webp",
+  "compare": [],
+  "match": "excallibur",
+  "order": null
+}
