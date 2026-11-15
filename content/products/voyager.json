@@ -1,0 +1,10 @@
+{
+  "name": "minelab Voyager",
+  "key": "voyager",
+  "path": "/minelab-x-terra-voyager-tactical",
+  "cat": "detector",
+  "img": "/img/b-voyager-screen.webp",
+  "compare": [],
+  "match": "beginner",
+  "order": null
+}
