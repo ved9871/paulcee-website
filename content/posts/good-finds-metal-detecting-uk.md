@@ -1,6 +1,8 @@
 ---
 title: good finds metal detecting uk
 datePublished: 2020-05-10T16:25:00
+draft: false
+noindex: false
 topic: finds
 tags:
   - metal
@@ -12,6 +14,7 @@ tags:
   - minelab
   - detectors
 cover: /img/b-finds-3a.webp
+heroVideo: R_ATJpsPW0w
 summary: amazing metal detecting finds on the beach
 seo:
   title: good finds metal detecting uk - Blog
@@ -19,12 +22,10 @@ seo:
   keywords: metal detecting finds, crawfords metal detectors, minelab equinox 800 settings, minelab vanquish settings
 ---
 
-[![beach metal detecting uk](/img/finds-3a.webp)](http://bit.ly/2VcUX0q)
+![beach metal detecting uk](/img/finds-3a.webp "beach metal detecting uk")
 
-## Metal detecting finds uk
+## Metal detecting finds Uk
 
-You really do find some amazing finds metal detecting on the beach, from gold and silver to the bizzare.
+You really do find some amazing finds metal detecting on the beach, from gold and silver to the bizarre.
 
 another compilation of amazing metal detecting finds.
-
-&lt;iframe width="450" height="315" src="https://www.youtube.com/embed/R\_ATJpsPW0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
