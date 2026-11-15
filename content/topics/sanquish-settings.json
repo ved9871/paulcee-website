@@ -1,0 +1,7 @@
+{
+  "label": "Minelab Vanquish Settings",
+  "key": "sanquish-settings",
+  "description": "Settings for the Minelab Vanquish Metal Detectors",
+  "match": "vanquish",
+  "order": null
+}
