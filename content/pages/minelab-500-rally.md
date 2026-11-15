@@ -3,7 +3,7 @@ title: Minelab 500 Rally 2027
 noindex: false
 showEvents: false
 seo:
-  title: Minelab 500 Rally 2026
+  title: Minelab 500 Weekender Rally
   description: Minelab 500 Metal Detecting Rally, where and when will this metal detecting weekend be held in the Uk
   keywords: metal, detecting, rally, near, me, CMD, Minelab, weekend, rally dates
 ---
