@@ -1,7 +1,9 @@
 ---
 title: Minelab Vanquish dig less iron
 datePublished: 2022-06-25T16:42:00
-topic: minelab-vanquish
+draft: false
+noindex: false
+topic: sanquish-settings
 tags:
   - minelab
   - vanquish
