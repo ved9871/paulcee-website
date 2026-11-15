@@ -1,0 +1,10 @@
+{
+  "name": "Coiltek 10x5 Search Coil",
+  "key": "coiltek10x5",
+  "path": "/coiltek-nox10",
+  "cat": "coil",
+  "img": "/img/10x5_web-1.webp",
+  "compare": [],
+  "match": "coiltek",
+  "order": 25
+}
