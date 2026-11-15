@@ -2,6 +2,7 @@
 title: Ultimate X Terra Elite Guide
 datePublished: 2025-01-05T12:31:00
 draft: false
+noindex: false
 topic: minelab-x-terra
 tags:
   - Minelab X Terra
@@ -72,7 +73,7 @@ If you plan on detecting on a beach then a [sand-scoop](https://www.crawfordsmd.
 
 For Extended time metal detecting or for a rally use the [RNB POWER X Battery](https://www.crawfordsmd.com/metal-detecting-accessories/power-accessories/rnb-power-x) pack this will also work on many other metal detectors that can be charged with a power bank
 
-A range of coils are available for minelab X-Terra including the V8X, V10X and V12X are the standard coils, but you can also use the search coils for the [minelab Equinox](https://www.crawfordsmd.com/metal-detectors/minelab/minelab-equinox-900) series which go from the [6 inch round coil](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/equinox-6-inch-coil) all the way up to the [coiltek Nox 18](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek/coiltek-nox18). you have a huge coil choice for virtually every scenario.
+A range of coils are available for minelab X-Terra including the V8X, V10X and V12X are the standard coils, but you can also use the search coils for the [minelab Equinox](https://www.crawfordsmd.com/metal-detectors/minelab/minelab-equinox-900) series which go from the [6 inch round coil](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/equinox-6-inch-coil) all the way up to the CoilTek[ Nox 18](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek/coiltek-nox18). you have a huge coil choice for virtually every scenario.
 
 <strong><em>A Discount on accessories is available at the CMD checkout.. Use The CODE "paulcee10"</em></strong>
 
@@ -128,7 +129,7 @@ Understanding the Basic Controls:
 
 <strong>Manual Ground Balance:</strong> Allows for more control, especially in highly mineralized areas. Unless the ground is highly mineralized. Always perform manual ground balance over clean ground with no signals under the search coil. Really this is only for more experienced users.
 
-### 4. Advanced Settings: Sensitivity
+#### 4. Advanced Settings: Sensitivity
 
 <strong>Sensitivity:</strong> Adjust based on your detecting environment.
 
@@ -294,6 +295,6 @@ Adjust Settings:
 
 how good is the minelab X Terra Elite metal detecting on the beach here are some of the finds
 
-[![finds made metal detecting on the beach with the Minelab X Terra](/img/xte-coinshooting.webp "Minelab X Terra Elite Beach Detecting")](https://www.youtube.com/playlist?list=PLOcWea3AAxcMp_Rkb7nnpdrWNhmvxx59n)
+![finds made metal detecting on the beach with the Minelab X Terra](/img/xte-coinshooting.webp "Minelab X Terra Elite Beach Detecting")
 
-[Check out the X-Terra Elite Settings videos](https://www.youtube.com/playlist?list=PLOcWea3AAxcMp_Rkb7nnpdrWNhmvxx59n)
+Check out the [X-Terra Elite Settings](https://www.paulcee.co.uk/minelab-x-terra/) videos
