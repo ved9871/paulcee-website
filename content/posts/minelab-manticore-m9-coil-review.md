@@ -100,6 +100,6 @@ With it being 2" smaller than a stock coil, it has less ground coverage
 
 Final Thoughts:
 
-The [Minelab Manticore M9 search coil](https://www.crawfordsmd.com/minelab-m9) is a top-notch choice for anyone serious about metal detecting. Its combination of performance, durability, and ease of use makes it a valuable addition to any metal detectorist's toolkit. While it may come with a higher price tag, the investment is justified by its high-quality features and reliability. This M9 coil will quickly become your coil of choice for the Manticore. For a visual demonstration of the Manticore M9 coil in action, check out [Paul Cee on YouTube.](https://www.youtube.com/channel/UCAJhc7UhOgQaupZhJt42G7w)
+The [Minelab Manticore M9 search coil](https://www.crawfordsmd.com/minelab-m9) is a top-notch choice for anyone serious about metal detecting. Its combination of performance, durability, and ease of use makes it a valuable addition to any metal detectorist's toolkit. While it may come with a higher price tag, the investment is justified by its high-quality features and reliability. This M9 coil will quickly become your coil of choice for the Manticore. For a visual demonstration of the Manticore M9 coil in action, check out Paul Cee on YouTube.
 
 {{product key="m9-coil"}}
