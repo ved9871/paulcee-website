@@ -1,35 +1,39 @@
 ---
 title: Minelab Vanquish 340 Discrimination settings
 datePublished: 2020-05-18T19:17:00
-topic: minelab-vanquish
+draft: false
+noindex: false
+topic: sanquish-settings
 tags:
   - minelab
   - vanquish
-  - "340"
+  - '340'
   - metal
   - detector
   - discrimination
   - settings
 cover: /img/b-vanq_tutorials_discrim_web.webp
 heroVideo: hqBnFZE2Q80
-summary: Minelab Vanquish 340 Discrimination Settings for effective beach metal detecting
+summary: Minelab Vanquish 340 Discrimination Settings for effective metal detecting
 seo:
   title: Minelab Vanquish 340 Discrimination settings - Blog
   description: how to use and set up discrimination on a minelab vanquish metal detector
   keywords: minelab vanquish, discrimination settings, how to, help, metal detector, uk settings
 ---
 
-[![Discrimination settings on minelab Vanquish 340 metal detector](/img/vanquish_discrim.webp)](http://bit.ly/2VcUX0q)
+![How to set up and use a minelab Vanquish Metal Detector](/img/2026-thumb_0bwkmdko.webp "Minelab Vanquish Discrimination settings")
+
+![Discrimination settings on minelab Vanquish 340 metal detector](/img/vanquish_discrim.webp "Minelab Vanquish Discrimination settings")
 
 ## Minelab Vanquish 340 discrimination
 
 is simple to setup for effective beach metal detecting.
 
-The first pre set program on the [Minelab VANQUISH](/minelab-vanquish-40-series/) 340 is coin mode, this has a larger amount of discrimination from 0-9, this mode has a slightly lower recover speed but eliminates olwer conductive targets that could be desirable targets you can find on the beach.
+The first pre set program on the [Minelab VANQUISH](/minelab-vanquish-40-series/) 340 is coin mode, this has a larger amount of discrimination from 0-9, this mode has a slightly lower recover speed but eliminates other conductive targets that could be desirable targets you can find on the beach.
 
 The Second preset search mode of the [Vanquish 340](http://bit.ly/mnlbVnqush) is Jewellery mode a faster pre set recovery speed and less discrimination from 0-40, this is the mode that is most suitable for quick effective beach detecting.
 
-The Third Preset mode is all metal mode in which there is no discrimination of any metal Ferrous or Non Ferrous, for the beginner to metal detecting this can be slightly overwhelming as the Vanquish 340 has the possibilty of sounding off all of the time if there are metal targets below the search coil
+The Third Preset mode is all metal mode in which there is no discrimination of any metal Ferrous or Non Ferrous, for the beginner to metal detecting this can be slightly overwhelming as the Vanquish 340 has the possibility of sounding off all of the time if there are metal targets below the search coil
 
 join us next time for [Minelab Vanquish 540 setting](/minelab-vanquish-60-settings/) and beach settings
 
