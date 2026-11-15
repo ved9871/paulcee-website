@@ -3,7 +3,7 @@ title: Minelab Vanquish Iron Volume
 datePublished: 2020-08-07T17:33:00
 draft: false
 noindex: false
-topic: minelab-vanquish
+topic: sanquish-settings
 tags:
   - minelab
   - vanquish
