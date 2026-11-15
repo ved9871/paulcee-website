@@ -21,12 +21,12 @@ seo:
 
 ![Good Minelab CTX 3030 beach settings](/img/120317.webp "Minelab CTX 3030 beach settings")
 
-![minelab beach](/img/deep-beach.webp "small")
+![minelab CTX 3030 beach Settings](/img/deep-beach.webp "minelab CTX 3030 beach Settings")
 
 Back out on the wet sand where all the old coins and relics are to be found, nice old coins and what i think is a silver plated sugar or teapot lid, it has hallmarks in it, fancy a go a cracking the code and telling me, feel free. you can see the Hallmark just on the image below
 
-![silver relic](/img/resize--11-of-13-.webp)
+![silver relic](/img/resize--11-of-13-.webp "Silver Relic Metal Detecting Find")
 
-![hallmark old](/img/resize--12-of-13-.webp)
+![hallmark old](/img/resize--12-of-13-.webp "An OLD HALLMARK")
 
 {{youtube id="q9KCE5MA3Ek"}}
