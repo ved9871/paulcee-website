@@ -26,4 +26,8 @@ In this blog post, we will guide you on how to set up and use the Minelab Voyage
 
 We go through Everything from Assembling for the First time, fitting the search coil, fitting the batteries in the Voyager. Target Id For gold rings, hammered coins and Much More.
 
+{{product key="pro-spade"}}
+
+{{product key="pro-pouch"}}
+
 ![Minelab X Terra Voyager review and tutorial](/img/WEB_AD---Copy_etaapn92.webp "Minelab X Terra Voyager review and tutorial")
