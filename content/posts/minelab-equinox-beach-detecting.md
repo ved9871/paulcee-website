@@ -1,15 +1,18 @@
 ---
 title: Minelab Equinox Beach Detecting
 datePublished: 2018-02-23T19:34:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - Minelab
   - Equinox
-  - "800"
+  - '800'
   - metal
   - detecting
   - beaches
 cover: /img/b-vs180221-001.webp
+heroVideo: ''
 summary: Beach Metal Detecting Uk, Tones and TID Display of the Minelab Equinox 800
 seo:
   title: Minelab Equinox Beach Detecting - Blog
@@ -23,4 +26,4 @@ Review of tones and TID on the beach metal detecting, Standard Setting beach pro
 
 no adjustment to the Iron Bias or Recovery speed, only tones and sensitivity changed on the beach detecting session
 
-{{youtube id="dWssiiW5bxI"}}
+{{youtube id="dWssiiW5bxI" title="Minelab Equinox Beach Detecting"}}
