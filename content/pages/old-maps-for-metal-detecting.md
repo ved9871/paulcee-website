@@ -30,6 +30,10 @@ The footprints of lost towns and villages.
 
 Hidden earthworks and ancient settlements.
 
+[**TRY THE ARCHIUK Maps**](https://www.archiuk.com/)
+
+[![Old Maps For Metal Detecting Research ARCHIUK is one of the best](/img/archiuk.webp "ARCHIUK Research maps for metal detecting")](https://www.archiuk.com/)
+
 **Step-by-Step Guide: Finding the Best Places to Metal Detect**
 
 Whether you are field walking looking for pottery scatters or using the best metal detector to scan for artifacts, preparation is key. We guide you through using paid and free maps to plan your quest effectively.
