@@ -1,16 +1,19 @@
 ---
 title: Minelab Ctx 3030 Ring on the beach
 datePublished: 2018-01-26T19:11:00
+draft: false
+noindex: false
 topic: ctx-3030
 tags:
   - minelab
   - Paul
   - Cee
   - ctx
-  - "3030"
+  - '3030'
   - Cleethorpes
   - beach
 cover: /img/b-070118.webp
+heroVideo: ''
 summary: Detecting on the beach with Custom Settings for Deep Targets, rewarded with a Ring Find and Coins
 seo:
   title: Minelab Ctx 3030 Ring on the beach - Blog
@@ -18,8 +21,8 @@ seo:
   keywords: metal, detector, cleethorpes, beach, detecting, accessories
 ---
 
-![cleethorpes beach](/img/070118.webp)
+![Cleethorpes beach Metal Detecting](/img/070118.webp "Cleethorpes beach Metal Detecting")
 
-Beach Metal Detecting Uk with the [Minelab CTX 3030](/ctx3030/), a very cabable beach detector, in my opinion the Best detector for beach detecting, today we get plenty of Old Cons and an old ring
+Beach Metal Detecting Uk with the [Minelab CTX 3030](/ctx3030/), a very capable beach detector, in my opinion the Best detector for beach detecting, today we get plenty of Old Coins and an old ring
 
-{{youtube id="eix0VzuC_6o"}}
+{{youtube id="eix0VzuC_6o" title="Deep Beach Metal Detecting"}}
