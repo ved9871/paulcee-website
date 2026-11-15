@@ -1,18 +1,19 @@
 ---
 title: Minelab Equinox 800 4 tone set up
 datePublished: 2018-12-03T17:43:00
-topic: minelab-equinox
+draft: false
+noindex: false
+topic: equinox-settings
 tags:
   - Equinox
-  - "800"
+  - '800'
   - tone
-  - "4"
-  - pitch
   - setup
   - settings
   - how
   - to
 cover: /img/b-4-tones.webp
+heroVideo: ''
 summary: How to Set 4 Tones Minelab Equinox 800
 seo:
   title: Minelab Equinox 800 4 tone set up - Blog
@@ -20,17 +21,17 @@ seo:
   keywords: minelab, equinox 800, tones, settings, beach to land settings, crawfords metal detectors, paul cee minelab
 ---
 
-![crawfords metal detectors](/img/detexpert-logosml_aok62ui8.webp)
+![Minelab Equinox Settings](/img/2026-thumb_0bwkmdko.webp "Minelab Equinox Settings")
+
+![Paul Cee Crawfords Metal Detectors](/img/detexpert-logosml_aok62ui8.webp "Paul Cee Crawfords Metal Detectors")
 
 ## Minelab Equinox 4 tone settings
 
-After reading a comment on Pauls Youtube channel, he mentioned to somebody about
-
-Setting up a 4 Tone Detecting method.. A Reply came about that the [Equinox 800](/minelab-equinox/) has only 2 tones, 3 tones, 5 tones and 50 tones.
+After reading a comment on Pauls YouTube channel, he mentioned to somebody about Setting up a 4 Tone Detecting method.. A Reply came about that the [Equinox 800](/minelab-equinox/) has only 2 tones, 3 tones, 5 tones and 50 tones.
 
 <em>So where does the 4 tones come from? The Answer is very simple.</em>
 
-[![equinox tone settings](/img/4-tones.webp)](/crawfords-metal-detectors/)
+[![Minelab Equinox tone settings](/img/4-tones.webp "Minelab Equinox tone settings")](/crawfords-metal-detectors/)
 
 Its all to do with how you set the Tones in the Equinox settings.
 
