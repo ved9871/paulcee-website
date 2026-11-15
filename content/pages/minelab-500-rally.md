@@ -16,4 +16,6 @@ Buy Tickets
 
 The Minelab 500 in 2027 will be a premier metal detecting rally held in the UK, designed to be much more than just a treasure hunt — it’s a full-on festival for detectorists.
 
+{{youtube id="_3l6_dv-6M8" title="Saxon Hoard of coins from the Minelab 500"}}
+
 ![where and when will the minelab 500 metal detecting weekend rally be held](/img/WEB_AD2026a.webp "Minelab 500 Metal Detecting Rally")
