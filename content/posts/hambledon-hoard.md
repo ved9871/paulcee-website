@@ -33,9 +33,9 @@ Initially one gold coin was found and then silver hammered coins and then more g
 
 How they got there and why they were left is still going to be found out, but this has sure turned into an epic weekend of metal detecting.. Roll on the Summer Detectival..
 
-[![gold hoard coins found metal detecting](/img/hoard_4.webp "gold hoard coins found metal detecting")](http://bit.ly/2VcUX0q)[![when a hoard is found metal detecting](/img/hoard1.webp "when a hoard is found metal detecting")](http://bit.ly/2VcUX0q)
+[![gold hoard coins found metal detecting](/img/hoard_4.webp "gold hoard coins found metal detecting")](https://youtu.be/49lbEIUvU3c)[![when a hoard is found metal detecting](/img/hoard1.webp "when a hoard is found metal detecting")](https://youtube.com/live/vauNSRHsiMk)
 
-[![silver coin from Hambledon hoard Uk](/img/hoard_3.webp "silver coin from Hambledon hoard Uk")](http://bit.ly/2VcUX0q)[![hoard of gold found metal detecting](/img/hoard_2.webp "hoard of gold found metal detecting")](http://bit.ly/2VcUX0q)
+![silver coin from Hambledon hoard Uk](/img/hoard_3.webp "silver coin from Hambledon hoard Uk")[![hoard of gold found metal detecting](/img/hoard_2.webp "hoard of gold found metal detecting")](https://youtu.be/49lbEIUvU3c)
 
 This was a live feed from when the coins were first discovered at Spring Detectival
 
