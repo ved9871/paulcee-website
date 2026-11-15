@@ -1,11 +1,11 @@
 ---
 title: Minelab Equinox 6 small coil
 datePublished: 2018-10-10T18:37:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - minelab
-  - "6"
-  - inch
   - coil
   - Equinox
   - metal
@@ -20,9 +20,9 @@ seo:
   keywords: minelab, equinox, x terra, elite, search coil, small coil, accessories
 ---
 
-![minelab coil small](/img/071018.webp)
+[![minelab coil small on the Minelab Equinox](/img/071018.webp "Small coil for a minelab Equinox")](https://crawfordsmd.com/equinox-6-inch-coil?tracking=fa202437c9)
 
-## Metal Detecting lincolnshire UK,
+## Metal Detecting Lincolnshire UK,
 
 with the [Minelab Equinox 800](/minelab-equinox/) Stock Coil and small Coil.
 
@@ -36,4 +36,4 @@ If you have any tips for this beach detectorist please feel free to leave a comm
 
 make sure you have [Subscribed on YOUTUBE](/social-sites/) to follow our adventures
 
-Intrested in the Minelab Equinox and Coils that are available please give [Crawfords Metal Detecting](/crawfords-metal-detectors/) a visit
+Interested in the Minelab Equinox and Coils that are available please give [Crawfords Metal Detecting](/crawfords-metal-detectors/) a visit
