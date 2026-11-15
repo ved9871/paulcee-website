@@ -1,15 +1,18 @@
 ---
 title: Minelab Equinox V3 UPDATE 2020 4khz added
 datePublished: 2020-07-25T09:20:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - minelab
   - equinox
   - update
-  - "2020"
+  - '2020'
   - how
   - to
 cover: /img/b-update-v3.webp
+heroVideo: ''
 summary: Minelab Equinox update V3 2020 how to download and install
 seo:
   title: Minelab Equinox V3 UPDATE 2020 4khz added - Blog
@@ -17,7 +20,7 @@ seo:
   keywords: Metal, Detecting, UK, Crawfords metal detectors, minelab metal detectors, metal detector tutorial, minelab vanquish, minelab manticore, minelab equinox, minelab detexpert
 ---
 
-[![4khz added to the minelab equinox what other features have been added](/img/update-v3.webp)](http://bit.ly/2VcUX0q)
+![4khz added to the minelab equinox what other features have been added](/img/update-v3.webp "Latest Minelab Equinox Update")
 
 ## Minelab Equinox Update latest version
 
