@@ -1,12 +1,14 @@
 ---
 title: Emite R Sand Scoops
+noindex: false
+showEvents: false
 seo:
   title: Emite R Sand Scoops
   description: Emite R sand scoops for beach metal detecting, cheap sand scoops for beach metal detecting in the UK
   keywords: Emiter scoops, Beach sand scoop, emiteR beach sand scoop, cheap sand scoop uk, sand scoops for metal detecting, sand sifter for metal detecting
 ---
 
-![Cheap Beach Sand Scoop Review Emite R made in Poland](/img/emite-r-scoops.webp)
+![Cheap Beach Sand Scoop Review Emite R made in Poland](/img/emite-r-scoops.webp "Cheap Sand scoop for metal detecting")
 
 ## EmiteR sand scoops
 
@@ -21,3 +23,5 @@ For the Full range of Emite-R Scoops and Digging tools
 The Video Below Reviews the Dry Sand Scoop and also a scoop for dry sand and water hunting.
 
 {{youtube id="5-17EpIFG0M" title="Sand scoops from EmiteR and Crawfords metal detectors"}}
+
+If you are looking for a [High End Pro Scoop](https://www.paulcee.co.uk/swagier-scoop/) Check Out [SWAGIER SCOOPS and Digging Tools](https://swagierscoop.com/)
