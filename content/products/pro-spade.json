@@ -1,9 +1,9 @@
 {
-  "key": "pro-spade",
   "name": "Minelab Pro Spade",
+  "key": "pro-spade",
   "path": "/minelab-pro-spade",
   "cat": "digging",
-  "img": "/img/cmd-spades.webp",
+  "img": "/img/pasted-image-1794735365906.webp",
   "compare": [],
   "match": "pro spade|\\bspade",
   "order": 19
