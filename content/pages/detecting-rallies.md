@@ -6,13 +6,13 @@ noindex: false
 showEvents: true
 seo:
   title: Detecting Rallies & Events
-  description: The Best Metal Detecting Rallies and events in the UK and worldwide. The latest dates updates
+  description: The Best Metal Detecting Rallies and Weekend Detecting events in the UK and worldwide. The latest dates updates
   keywords: Metal detecting rallies 2027, UK metal detecting events, detecting weekends, treasure hunting rallies, Minelab 500 rally, UK History Finders, metal detecting holidays, detecting digs UK
 ---
 
 **Welcome to the Ultimate Guide for Metal Detecting Events & Rallies**
 
-Discover the latest listings for metal detecting rallies, weekenders, and club digs across the UK, Europe, and worldwide. Whether you are looking for a casual 1-day club dig or a full-scale detecting weekender complete with camping, catering, and evening entertainment, our directory is updated regularly as organizers release new dates.
+Discover the latest listings for metal detecting rallies, Metal Detecting weekenders, and club digs across the UK, Europe, and worldwide. Whether you are looking for a casual 1-day club dig or a full-scale detecting weekender complete with camping, catering, and evening entertainment, our directory is updated regularly as organizers release new dates.
 
 ### What to Expect from Our Event Listings
 
@@ -20,6 +20,7 @@ Discover the latest listings for metal detecting rallies, weekenders, and club d
 - **Community-Sourced Events:** We show listings from independent groups, official organizations, and Facebook metal detecting clubs.
 - **Real-Time Updates:** Check back frequently for schedule changes, weather updates, and event cancellations, especially during the winter season when ground conditions or heavy storms can lead to short-notice postponements.
 - _Note: Winter weather and heavy winds can occasionally cause ground conditions to become unsafe for vehicles, resulting in advanced or last-minute cancellations. Always check our cancellation tracker for alternative dates before traveling._
+- _If You Do Join A Metal Detecting Group, please mention us when you join._
 
 ### Are You a Metal Detecting Event Organizer?
 
