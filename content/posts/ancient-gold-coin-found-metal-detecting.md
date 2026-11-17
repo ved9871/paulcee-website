@@ -20,7 +20,7 @@ seo:
 
 ## Ancient Gold Coin found with a metal detector
 
-Travelling to lincolnshire for a small weekend away metal detecting, we had the minelab manticore detector for the weekend. the journey was only short so arrived at the site know for its rich history from iron age occupation through the roman period right up to modern day habitation, so finds could be absolulty anything.
+Travelling to Lincolnshire for a small weekend away metal detecting, we had the minelab manticore detector for the weekend. the journey was only short so arrived at the site know for its rich history from iron age occupation through the roman period right up to modern day habitation, so finds could be absolulty anything.
 
 We set up the Manticore to suit where we was detecting, checking ground balance and recovery speed and also where the iron in the ground was falling in the ferrous limits area of the Manticore 2D screen so we could adjust if needed.
 
@@ -28,9 +28,9 @@ The 1st day was digging just general junk (foil, and bits of tin can) along with
 
 ### Old Maps and Lidar
 
-Day 2 started out pretty much the same, but then i remebered to use the ARCHI UK app to look at old maps and Lidar.
+Day 2 started out pretty much the same, but then i remembered to use the ARCHI UK app to look at old maps and Lidar.
 
-I noticed that the 2 trees that were in the middle of the fields were once along a field boundary with a track (obsereved on lidar) through the middle, not having found much of interest i decided to give this area a go. Well I took about 20 steps and there was a signal, it wasnt deep and read about 56/57 on the manticore 2D screen. I hadnt had a signal in that target id range this weekend so wasnt sure if it was going to be another copper coin or more tin-can, so in went the spade to dig out the target.
+I noticed that the 2 trees that were in the middle of the fields were once along a field boundary with a track (observed on lidar) through the middle, not having found much of interest i decided to give this area a go. Well I took about 20 steps and there was a signal, it wasnt deep and read about 56/57 on the manticore 2D screen. I hadnt had a signal in that target id range this weekend so wasnt sure if it was going to be another copper coin or more tin-can, so in went the spade to dig out the target.
 
 ![gold stater found with a metal detector](/img/IMG-20230614-WA0007.webp "gold stater found with a metal detector")
 
