@@ -41,6 +41,12 @@ The new site uses clean URLs (`/minelab-manticore/`, `/blog/minelab-manticore-se
 
 If Paul prefers zero URL change, WordPress can keep the `.html` paths instead. Either way, no URL is ever left without a destination.
 
+## Keeping search engines up to date
+
+- **Sitemap.** The production build writes `/sitemap.xml` (every indexable page, posts with their last-modified date). It is referenced from `robots.txt` and should be submitted once in Google Search Console and Bing Webmaster Tools; after that nothing needs resubmitting. Google only reads this file, there is no push channel for ordinary pages.
+- **IndexNow (Bing, Yandex, Naver, Seznam, Yep).** Each Cloudflare production build hashes every indexable page it wrote and publishes the map as `/indexnow-state.json`. It fetches the live copy, diffs the two, and POSTs the changed or removed URLs to `api.indexnow.org` (`src/indexnow.mjs`). The key is `INDEXNOW_KEY` in `src/site.config.mjs`, served at `/<key>.txt`; it is public by design. The first build only records the state; a failed ping is logged and never fails the deploy. Set `INDEXNOW=0` in the Pages environment to switch it off. Preview builds (GitHub Pages, non-`main` branches) never submit.
+- **Verification codes.** Google and Bing meta tags come from `verification` in `content/settings.json` (editable in the CMS under Settings) and are emitted on every page; a per-page code from the old export still wins on that page.
+
 ## Launch checklist (summary)
 
 1. Freeze content on X5; take a final crawl and snapshot of Search Console.

@@ -6,12 +6,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { ORIGIN, LINKS, DISCOUNT, NAV, HUBS, HOME, DISCLOSURE, TAGLINE, TOPICS } from './site.config.mjs';
+import { ORIGIN, LINKS, DISCOUNT, NAV, HUBS, HOME, DISCLOSURE, TAGLINE, TOPICS, VERIFICATION, INDEXNOW_KEY } from './site.config.mjs';
 import { CMD, TRACKING, cmdUrl, LINK_MAP, PRODUCTS, SHOP_CATS, BRAND, YT } from './commerce.config.mjs';
 import { loadPages, loadPosts, loadEvents } from './content/load.mjs';
 import { withPlaylistTitles } from './content/videos.mjs';
 import { createRoutes } from './content/routes.mjs';
 import { createImageResolver } from './content/images.mjs';
+import { hashHtml, notifyIndexNow } from './indexnow.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'dist');
@@ -231,7 +232,8 @@ function head({ seo = {}, title, description, canonical, legacy, ogImage, jsonld
   let ldJson = jsonld.length ? fixOrigin(JSON.stringify(jsonld.length === 1 ? jsonld[0] : jsonld)) : '';
   if (ldJson && PROD && legacy && legacy !== canonical) ldJson = ldJson.split(legacy).join(canonical);
   const ld = ldJson ? `<script type="application/ld+json">${ldJson}</script>` : '';
-  const v = seo.verification || {};
+  // Site-wide codes from Settings; a per-page code carried over from the old site's export still wins on that page
+  const v = { ...VERIFICATION, ...Object.fromEntries(Object.entries(seo.verification || {}).filter(([, x]) => x)) };
   return `<!doctype html><html lang="en-GB"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(t)}</title>
@@ -565,6 +567,12 @@ if (PROD) {
     ...posts.filter(indexable).map(p => [`${ORIGIN}/blog/${p.slug}/`, String(p.dateModified || p.datePublished || '').slice(0, 10)]),
   ];
   fs.writeFileSync(path.join(DIST, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(([u, m]) => `  <url><loc>${esc(u)}</loc>${m ? `<lastmod>${m}</lastmod>` : ''}</url>`).join('\n')}\n</urlset>\n`);
+
+  // IndexNow (Bing & co): publish the key and a hash of every indexable page, then submit whatever changed since the live build
+  fs.writeFileSync(path.join(DIST, INDEXNOW_KEY + '.txt'), INDEXNOW_KEY);
+  const pageState = Object.fromEntries(urls.map(([u]) => { const f = path.join(DIST, decodeURIComponent(new URL(u).pathname), 'index.html'); return [u, fs.existsSync(f) ? hashHtml(fs.readFileSync(f, 'utf8')) : '']; }));
+  fs.writeFileSync(path.join(DIST, 'indexnow-state.json'), JSON.stringify(pageState));
+  await notifyIndexNow({ origin: ORIGIN, key: INDEXNOW_KEY, state: pageState, branch: process.env.CF_PAGES_BRANCH, enabled: process.env.INDEXNOW !== '0' && !!process.env.CF_PAGES });
 
   // Old live addresses -> new paths. Keys keep the query string when the old address had one (the X5 blog used
   // /blog/?<slug>). Cloudflare Pages' _redirects file ignores query strings, so _worker.js handles everything.

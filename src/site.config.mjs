@@ -17,6 +17,10 @@ export const LINKS = {
 };
 
 export const DISCOUNT = SETTINGS.discount;
+// Search-engine verification codes (Google Search Console / Bing Webmaster Tools), editable in the CMS under Site settings.
+export const VERIFICATION = SETTINGS.verification || {};
+// IndexNow key: public by design (it is published at /<key>.txt); see src/indexnow.mjs.
+export const INDEXNOW_KEY = '6caa6f402d3b3db49c0108222a67890d';
 
 export const NAV = [
   {

@@ -98,11 +98,31 @@ Renaming a page is safe: the old address forwards to the new one automatically, 
 
 ## Products
 
-**Products** is the list that the "Product box" picks from. Each one has the name, the Crawfords page it links to, a one-line blurb and the picture. You only need to come here when Crawfords adds a new detector or changes an address. The tracking code is added by the site; don't type it into the address.
+**Products** is the list that the "Product box" picks from. You only need to come here when Crawfords adds a new detector or accessory, or changes an address.
+
+To add one, press **New** and fill in:
+
+- **Product name.** As it should read on the buy button, e.g. "Minelab Excalibur II".
+- **Short ID.** Lower-case letters, numbers and dashes only, e.g. `excalibur-2`. It becomes the file name, so pick it once and leave it.
+- **Crawfords page path.** Only the part after `crawfordsmd.com`, starting with a slash: `/minelab-excalibur-ii`, not the full address. The tracking code is added by the site; don't type it in.
+- **Category.** Detector, pinpointer, coil, accessory or digging.
+- **Image.** Optional. Upload a product photo or pick one already on the site.
+- **Show on pages whose title matches.** Optional. A word (or words separated by `|`) that makes the site offer this product automatically on any page whose title contains it, e.g. `excalibur` or `gold monster|prospect`. Leave it blank if you only want to place it by hand with the Product box.
+- **Order.** Optional. Lower numbers come first in lists. Leave it blank for "doesn't matter".
+
+Press **Save**. The product is in the Product box list straight away, in any post you open or are editing. The box itself appears on the site after the usual rebuild.
 
 ## Settings
 
 **Settings** holds the bits that appear everywhere: the discount code and where it applies, the affiliate disclosure line, the homepage headline, and the subscriber and video counts shown in the header. Edit, save, and they update across the site.
+
+**Search engine verification codes** (at the bottom of Settings) hold the Google Search Console and Bing Webmaster Tools codes. They are already filled in from the old site, so both tools stay verified. Only touch them if Google or Bing asks you to verify the site again: paste just the code from inside `content="..."` of the tag they give you.
+
+## Telling Google and Bing about changes
+
+You don't have to. After every save the site pings Bing (and the other search engines that use the same "IndexNow" system) with the list of pages that changed, and Google follows the sitemap, which is updated on every save too. New or changed pages normally show up in Google within a few days and in Bing within hours.
+
+If a particular page matters and you want Google to look at it sooner, open Search Console, paste the page's address into the search bar at the top (URL Inspection) and press **Request indexing**. That is the only manual step there is, and it's optional.
 
 ## Pictures and files
 

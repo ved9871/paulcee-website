@@ -1,4 +1,5 @@
-// Editor buttons for the Markdown body. The build injects PRODUCT_OPTIONS from content/products.
+// Editor buttons for the Markdown body. The product picker reads the Products collection live (relation widget), so a
+// product saved a moment ago is already in the list; PRODUCT_OPTIONS (injected by the build) only labels the preview.
 const PRODUCT_OPTIONS = /*__PRODUCT_OPTIONS__*/[];
 const ytId = s => (String(s).match(/(?:v=|youtu\.be\/|embed\/|shorts\/)([A-Za-z0-9_-]{11})/) || [, String(s).trim()])[1];
 const attr = s => String(s || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;');
@@ -16,7 +17,7 @@ CMS.registerEditorComponent({
 
 CMS.registerEditorComponent({
   id: 'product', label: 'Product box (Crawfords)',
-  fields: [{ name: 'key', label: 'Product', widget: 'select', options: PRODUCT_OPTIONS }],
+  fields: [{ name: 'key', label: 'Product', widget: 'relation', collection: 'products', value_field: 'key', display_fields: ['name'], search_fields: ['name', 'key'] }],
   pattern: /^\{\{product key="([^"]*)"\}\}$/,
   fromBlock: m => ({ key: m[1] }),
   toBlock: d => `{{product key="${d.key}"}}`,

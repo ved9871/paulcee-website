@@ -159,6 +159,15 @@ collections:
               - { name: terms, label: Terms, widget: text }
           - { name: disclosure, label: Affiliate disclosure, widget: text }
           - { name: tagline, label: Footer tagline, widget: string }
+          - name: verification
+            label: Search engine verification codes
+            widget: object
+            required: false
+            collapsed: true
+            hint: "Only needed if Google Search Console or Bing Webmaster Tools asks you to verify the site again: paste just the code from inside content=\"...\" of the HTML tag they give you. You never need to tell Google or Bing about an edit. The site pings Bing itself after every save, and Google follows the sitemap."
+            fields:
+              - { name: google, label: Google Search Console code, widget: string, required: false }
+              - { name: bing, label: Bing Webmaster Tools code, widget: string, required: false }
           - name: home
             label: Homepage
             widget: object
