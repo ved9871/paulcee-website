@@ -32,7 +32,7 @@ The Multi-IQ engine handles different grounds automatically, but your mode selec
 
 <strong>In the Fields:</strong> Learn how to set up for Relic Hunting, allowing you to hear deep silver and brass targets that other modes might mask out.
 
-## VANQUISH 560
+## Minelab VANQUISH 60 Series
 
 ## The Ultimate Beginner’s Field Guide
 
