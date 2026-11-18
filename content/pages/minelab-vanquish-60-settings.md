@@ -38,7 +38,7 @@ The Multi-IQ engine handles different grounds automatically, but your mode selec
 
 ### By Paul Cee  Crawfords Metal Detectors UK
 
-Welcome to the definitive guide for the Minelab Vanquish 60. Whether you are unboxing your machine for the first time or looking to sharpen your field skills, this guide—created by Minelab Detexpert **Paul Cee**—is designed to turn confusing numbers into treasure in your pouch.
+Welcome to the definitive guide for the Minelab Vanquish 60. Whether you are unboxing your machine for the first time or looking to sharpen your field skills, this guide—created by Minelab Detexperts **Paul Cee and Luc Van Assche**—is designed to turn confusing numbers into treasure in your pouch.
 
 ### 💡 Paul Cee’s Golden Rule
 
@@ -47,7 +47,6 @@ Welcome to the definitive guide for the Minelab Vanquish 60. Whether you are unb
 This Series of Tutorial Videos for the Minelab Vanquish is in Several Parts, Covering everything, to get you started with a Vanquish 60 series, or if you run into a settings issue and need a solution.
 
 {{youtube id="u4WKMaN1cNs" title="Minelab Vanquish 60 Beginners Guide, All you need to know. V360 v460 and v560"}}
-
 
 ### 📊 Sensitivity
 
@@ -65,17 +64,15 @@ The main digital readout. Silver and coins show higher numbers.
 
 Shows how deep you need to dig. Fewer arrows mean a shallower find.
 
-### The 7-Step Logic
+This Tutorial Video will show you all About.
 
-#### Settings Navigator
+1. What Are Target Id's
+2. How to use Sensitivity
+3. What Headphones you can use with the Vanquish 60 Series
+4. How to pair and connect Bluetooth headphones
+5. Connecting Underwater (Waterproof Headphones)
 
-Vol Disc Bias Light Torch Vibe Pair
-
-🔊
-
-#### Master Volume
-
-Adjust overall loudness (1–10). Hold Horseshoe here for Iron Volume.
+{{youtube id="HqnuQtYPjlw" title="Minelab Vanquish Tutorial, What Are Target Id's and sensitivity"}}
 
 ### Your Setup Checklist
 
