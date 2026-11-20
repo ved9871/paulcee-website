@@ -24,6 +24,6 @@ seo:
 
 Get the best results beach metal detecting, find all the gold that other people leave behind, where are the best places to metal detect on beach, we try all parts of the beach for the best results
 
-[Buy the best metal detectors here](http://bit.ly/CMDMDUK)
+[Buy the best metal detectors here](https://crawfordsmd.com/)
 
 We think the Gold brooch buster Found is the front part of the one i found a couple of years ago, but we have yet to put the 2 together as the lockdown prevents us, but in the future we hope they are both from the same brooch
