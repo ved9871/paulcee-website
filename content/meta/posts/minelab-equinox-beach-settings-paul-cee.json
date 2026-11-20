@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-beach-settings-paul-cee",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Minelab Equinox Settings",
   "categorySlug": "Minelab_Equinox_Settings",
   "readTime": 2,
@@ -39,7 +39,7 @@
         "dateModified": "2018-11-28T14:19:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Minelab Equinox Beach Settings paul cee",
         "description": "Setting up the Equinox 800 for beach metal detecting",
@@ -138,8 +138,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

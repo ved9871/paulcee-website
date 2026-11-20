@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-depth",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Equinox detecting",
   "categorySlug": "Equinox_detecting",
   "readTime": 1,
@@ -39,7 +39,7 @@
         "dateModified": "2018-10-24T16:28:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Minelab Equinox Depth",
         "description": "How deep will the Minelab Equinox hit a target",
@@ -117,8 +117,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

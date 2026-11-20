@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-update-2019-test",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Equinox detecting",
   "categorySlug": "Equinox_detecting",
   "readTime": 2,
@@ -39,7 +39,7 @@
         "dateModified": "2019-09-30T18:38:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Equinox Update 2019 test",
         "description": "Minelab Equinox Update V2.0 TEST\nBeach and land",
@@ -117,8 +117,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

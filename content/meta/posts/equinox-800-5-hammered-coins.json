@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?equinox-800-5-hammered-coins",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Equinox detecting",
   "categorySlug": "Equinox_detecting",
   "readTime": 1,
@@ -39,7 +39,7 @@
         "dateModified": "2019-08-28T19:52:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Equinox 800 5 hammered coins",
         "description": "5 hammered coins found metal detecting uk",
@@ -118,8 +118,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

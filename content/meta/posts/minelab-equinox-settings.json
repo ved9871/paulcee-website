@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-settings",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Minelab Equinox Settings",
   "categorySlug": "Minelab_Equinox_Settings",
   "readTime": 1,
@@ -39,7 +39,7 @@
         "dateModified": "2019-05-23T17:42:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Minelab Equinox Settings",
         "description": "what do you learn at a Minelab Equinox masterclass.",
@@ -120,8 +120,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

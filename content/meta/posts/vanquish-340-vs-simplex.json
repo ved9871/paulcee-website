@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?vanquish-340-vs-simplex",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Minelab Vanquish",
   "categorySlug": "Minelab_Vanquish",
   "readTime": 1,
@@ -39,7 +39,7 @@
         "dateModified": "2026-01-09T08:48:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Vanquish 340 Vs Simplex",
         "description": "Minelab Vanquish 340 vs Nokta/Makro simplex + over mineralised soil and small hammered coin",
@@ -117,8 +117,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

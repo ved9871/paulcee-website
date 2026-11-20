@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?electrolysis-coin-cleaning",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "coin cleaning",
   "categorySlug": "coin_cleaning",
   "readTime": 1,
@@ -39,7 +39,7 @@
         "dateModified": "2021-04-23T17:14:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Electrolysis coin cleaning",
         "description": "Clean coins with electrolysis",
@@ -114,8 +114,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

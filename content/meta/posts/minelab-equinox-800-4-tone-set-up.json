@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?minelab-equinox-800-4-tone-set-up",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Minelab Equinox Settings",
   "categorySlug": "Minelab_Equinox_Settings",
   "readTime": 1,
@@ -39,7 +39,7 @@
         "dateModified": "2018-12-03T17:43:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Minelab Equinox 800 4 tone set up",
         "description": "How to Set 4 Tones Minelab Equinox 800",
@@ -118,8 +118,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

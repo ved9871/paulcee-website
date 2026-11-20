@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?celtic-silver-coin",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Minelab Equinox Settings",
   "categorySlug": "Minelab_Equinox_Settings",
   "readTime": 2,
@@ -39,7 +39,7 @@
         "dateModified": "2019-09-02T15:34:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Celtic Silver coin",
         "description": " Iceni Bury diadenum unit (gallo belgic) 65 bc - 1ad First coin like this for me ",
@@ -123,8 +123,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {

@@ -1,6 +1,6 @@
 {
   "liveUrl": "https://www.paulcee.co.uk/blog/?cut-hammered-coins",
-  "author": "David Wallace",
+  "author": "Paul Cee",
   "category": "Minelab Equinox Settings",
   "categorySlug": "Minelab_Equinox_Settings",
   "readTime": 1,
@@ -39,7 +39,7 @@
         "dateModified": "2019-09-04T19:10:00",
         "author": {
           "@type": "Person",
-          "name": "David Wallace"
+          "name": "Paul Cee"
         },
         "headline": "Cut Hammered coins",
         "description": "cut 1/4 hammered and Roman coins found metal detecting with the Equinox 800\n",
@@ -118,8 +118,8 @@
           },
           {
             "@type": "ListItem",
-            "name": "David Wallace",
-            "item": "https://www.paulcee.co.uk/blog/?author=David Wallace",
+            "name": "Paul Cee",
+            "item": "https://www.paulcee.co.uk/blog/?author=Paul Cee",
             "position": 2
           },
           {
