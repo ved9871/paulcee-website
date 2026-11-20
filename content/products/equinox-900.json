@@ -1,9 +1,9 @@
 {
-  "key": "equinox-900",
   "name": "Minelab Equinox 900",
+  "key": "equinox-900",
   "path": "/minelab-equinox-900",
   "cat": "detector",
-  "img": "/img/eqx-900-beach_ybg5c3oj.webp",
+  "img": "/img/nox900_web.webp",
   "compare": [
     {
       "path": "/blog/minelab-equinox-900-vs-800",
