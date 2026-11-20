@@ -26,14 +26,20 @@ seo:
 
 ![Blue Coiltek Nox coil and Equinox control box lying on sand](/img/coiltek-nox-18a.webp "Coiltek Nox 18 gives big coverage on the Equinox and X-Terra Pro")
 
-Today, we're diving into the world of coiltek coils with a special focus on the Coiltek Nox 18 Coil. If you're looking to take your metal detecting game to the next level, this is for you. We'll be exploring the features, performance, and overall value of this coil.
+Today, we're diving into the world of CoilTek coils with a special focus on the Coiltek Nox 18 Coil. If you're looking to take your metal detecting game to the next level, this is for you. We'll be exploring the features, performance, and overall value of this coil.
 
-This is the largest search coil available for Minelab Equinox and X-Terra Pro metal detectors. When you need maximum ground coverage or the greatest depth, this is going to be a coil of choice. Ideal for locating deep hoards where nothing shall be missed.
+## Which Detector is this Coiltek Coil For?
 
-The coil is Fully submersible to 5 meters\* (16 feet). This is only for the Equinox 700 and equinox 900 and the X-Terra Pro, the Minelab Equinox 600 and Equinox 800 are limited to 3 Mtr.
+This is the largest search coil available for Minelab Equinox and X-Terra Pro, Elite And Vanquish 60 Series metal detectors. When you need maximum ground coverage or the greatest depth, this is going to be a coil of choice. Ideal for locating deep hoards where nothing shall be missed.
+
+The coil is Fully submersible to 5 meters\* (16 feet). This is only for the Equinox 700 and equinox 900 and the X-Terra Pro, the Minelab Equinox 600 and Equinox 800 are limited to 3 mtr.
 
 Coiltek are Endorsed by Minelab and manufacture the highest quality search coils for many Minelab Detectors.
 
 The coil is compliant with Multi-IQ technology and is rigorously tested to the highest standards Includes a two year warranty and coil cover.
 
-[Find out More about the Coiltek 18 inch coil.](https://bit.ly/NOX18)
+This Coil is Compatible with the Minelab Equinox, Minelab X-Terra Pro, X-Terra Elite and Vanquish 60 Series
+
+Find out More about the Coiltek 18 inch coil.
+
+{{product key="nox18"}}
