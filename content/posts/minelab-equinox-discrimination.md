@@ -23,4 +23,6 @@ you have missing discrimination segments on your minelab equinox screen, quick a
 
 Let us know Below if you found this tip useful..
 
-[ Crawfords Metal Detectors Discount](http://bit.ly/CMDMDUK) Use CODE "PaulCee10" in one of the Crawfords Metal Detectors Showrooms over the phone, or online to grab some money off your purchase (some items not included).
+ Crawfords Metal Detectors Discount Use CODE "PaulCee10" in one of the Crawfords Metal Detectors Showrooms over the phone, or online to grab some money off your purchase (some items not included).
+
+![A discount code for metal detector store in the uk](/img/b-WEB_AD2026a.webp "crawfords Metal detectors discount code that is valid")
