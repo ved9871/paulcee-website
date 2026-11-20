@@ -1,6 +1,8 @@
 ---
 title: beach metal detecting tips uk
 datePublished: 2021-01-25T17:48:00
+draft: false
+noindex: false
 topic: beach-detecting
 tags:
   - Beach
@@ -32,6 +34,6 @@ These Hints and tips for successful beach detecting have been used with great su
 
 Stay Tuned for even more UPDATES on the SECRETS Of Beach Metal Detecting.
 
-To Buy a Beach Metal Detector [Visit Our Main Website ](http://bit.ly/CMDMDUK) or Drop into one of our [2 Showrooms based in Lincolnshire and Dorset](/crawfords-metal-detectors/).
+To Buy a Beach Metal Detector [Visit Our Main Website ](http://bit.ly/CMDMDUK) or Drop into one of our [Showroom based in Lincolnshire](/crawfords-metal-detectors/).
 
 We Have a [CRAWFORDS METAL DETECTORS DISCOUNT CODE](/crawfords-metal-detectors/) for you to use.
