@@ -106,7 +106,8 @@ To add one, press **New** and fill in:
 
 - **Product name.** As it should read on the buy button, e.g. "Minelab Excalibur II".
 - **Short ID.** Lower-case letters, numbers and dashes only, e.g. `excalibur-2`. It becomes the file name, so pick it once and leave it.
-- **Crawfords page path.** Only the part after `crawfordsmd.com`, starting with a slash: `/minelab-excalibur-ii`, not the full address. The tracking code is added by the site; don't type it in.
+- **Crawfords page path.** Only the part after `crawfordsmd.com`, starting with a slash: `/minelab-excalibur-ii`. The tracking code is added by the site, so don't type it in. (If you paste the full address from your browser by mistake, the site now tidies it up, but the short form is what the box expects.)
+- **Crawfords comparison articles.** Optional links shown under the buy button. Same rule: paths only, e.g. `/blog/minelab-equinox-900-vs-minelab-manticore` or `/minelab-vanquish-560`, with a short label such as "Vanquish 560".
 - **Category.** Detector, pinpointer, coil, accessory or digging.
 - **Image.** Optional. Upload a product photo or pick one already on the site.
 - **Show on pages whose title matches.** Optional. A word (or words separated by `|`) that makes the site offer this product automatically on any page whose title contains it, e.g. `excalibur` or `gold monster|prospect`. Leave it blank if you only want to place it by hand with the Product box.

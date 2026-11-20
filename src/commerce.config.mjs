@@ -9,7 +9,14 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 export const CMD = 'https://www.crawfordsmd.com';
 export const TRACKING = 'fa202437c9';
-export const cmdUrl = p => `${CMD}${p.startsWith('/') ? p : '/' + p}${p.includes('?') ? '&' : '?'}tracking=${TRACKING}`;
+// Accepts a path ("/minelab-vanquish-560") or a full Crawfords address pasted from the browser, with or without a
+// tracking code already on it; always returns one canonical www link with Paul's tracking code exactly once.
+export const cmdUrl = p => {
+  let s = String(p || '').trim().replace(/^https?:\/\/(?:www\.)?crawfordsmd\.com/i, '');
+  s = s.replace(/([?&])tracking=[^&#]*&?/gi, '$1').replace(/[?&]$/, '');
+  if (!s.startsWith('/')) s = '/' + s;
+  return `${CMD}${s}${s.includes('?') ? '&' : '?'}tracking=${TRACKING}`;
+};
 
 // Old-site links that now point at Crawfords (short links, Amazon, bare Crawfords URLs).
 export const LINK_MAP = {

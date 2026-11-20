@@ -1,21 +1,21 @@
 {
   "name": "Vanquish 60 series",
   "key": "vanquish60",
-  "path": "vanquish-360-bundle?tracking=fa202437c9",
+  "path": "/vanquish-360-bundle",
   "cat": "detector",
   "img": "/img/van60_web.webp",
   "compare": [
     {
-      "path": "https://crawfordsmd.com/minelab-vanquish-460?tracking=fa202437c9",
-      "label": "vanquish 460"
+      "path": "/minelab-vanquish-460",
+      "label": "Vanquish 460"
     },
     {
-      "path": "https://crawfordsmd.com/minelab-vanquish-560?tracking=fa202437c9",
-      "label": "vanquish 560"
+      "path": "/minelab-vanquish-560",
+      "label": "Vanquish 560"
     },
     {
-      "path": "https://crawfordsmd.com/minelab-vanquish-560-pro?tracking=fa202437c9",
-      "label": "vanquish 560 pro"
+      "path": "/minelab-vanquish-560-pro",
+      "label": "Vanquish 560 Pro-Pack"
     }
   ],
   "match": "vanquish.?(560|60|460|360)|60 series",
