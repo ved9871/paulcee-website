@@ -15,33 +15,33 @@ seo:
   keywords: minelab, coiltek, manticore, search, coil, equinox, vanquish, xTerra pro, cmd
 ---
 
-![Two search coils of different sizes on a beach under the words does size matter](/img/coil-size.webp "and large coils each have their place on the beach")
+[![Two search coils of different sizes on a beach under the words does size matter](/img/coil-size.webp "and large coils each have their place on the beach")](https://crawfordsmd.com/search-coils)
 
-![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/2026-thumb_0bwkmdko.webp "Paul Cee explains why one search coil is never enough")
+[![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/2026-thumb_0bwkmdko.webp "Paul Cee explains why one search coil is never enough")](https://crawfordsmd.com/search-coils)
 
 ## Why you need different search coils for a metal detector?
 
-<strong>Size and Depth Range:</strong> Larger coils can cover more ground quickly but are less sensitive to small targets and may not reach great depths. Smaller coils are more sensitive to small objects and can reach deeper, but they cover less ground at a time.
+<strong>Size and Depth Range:</strong> Larger coils can cover more ground quickly but are less sensitive to small targets and may not reach great depths. Smaller coils are more sensitive to small objects and cant Detect deeper, but they cover less ground at a time so covering less ground.
 
 ### Why is a smaller coil on a metal detector more advantageous
 
-![Small Minelab 6 inch DD search coil on a patch of short grass](/img/minelab-6inch.webp "A 6 inch coil is light and picks out small targets in trash")
+[![Small Minelab 6 inch DD search coil on a patch of short grass](/img/minelab-6inch.webp "A 6 inch coil is light and picks out small targets in trash")](https://crawfordsmd.com/search-coils)
 
 <strong>Sensitivity to Small Targets:</strong> Smaller coils are generally more sensitive to smaller objects. This means they can detect tiny or low-conductivity targets that might be missed by a larger coil due to target masking.
 
-<strong>Target Separation:</strong> Smaller coils are better at distinguishing between closely spaced targets. This is important in areas where multiple objects are concentrated, such as in trashy or heavily littered areas.
+<strong>Target Separation:</strong> _Smaller coils are better_ at distinguishing between closely spaced targets. This is important in areas where multiple objects are concentrated, such as in trashy or heavily littered areas.
 
-<strong>Navigating Tight Spaces:</strong> In areas with obstacles, like rocks, bushes, or structures, a smaller coil can maneuver more easily. It allows you to search in places where a larger coil might struggle to fit.
+<strong>Navigating Tight Spaces:</strong> In areas with obstacles, like rocks, bushes, or structures, a smaller coil can manoeuvre more easily. It allows you to search in places where a larger coil might struggle to fit.
 
 <strong>Reduced Ground Interference:</strong> Smaller coils have a smaller electromagnetic field, which can result in less interference from the ground or nearby objects. This can lead to cleaner signals and better target identification.
 
-![Minelab Vanquish V8 oval search coil with cable seen from above on a wooden surface](/img/vanquish-V8.webp "The Vanquish V8 coil is small, light and good in trashy ground")
+[![Minelab Vanquish V8 oval search coil with cable seen from above on a wooden surface](/img/vanquish-V8.webp "The Vanquish V8 coil is small, light and good in trashy ground")](https://crawfordsmd.com/search-coils)
 
 <strong>Weight and Comfort:</strong> Smaller coils are lighter, making the detector more comfortable to carry for extended periods. This can be especially important for long days of detecting.
 
 #### Using a large search coil on a metal detector offers several advantages
 
-![Coiltek Nox 18 inch round search coil lying on sand beside a scoop](/img/coiltek-nox-18-web.webp "The 18 inch coil covers more ground in open areas")
+[![Coiltek Nox 18 inch round search coil lying on sand beside a scoop](/img/coiltek-nox-18-web.webp "The 18 inch coil covers more ground in open areas")](https://crawfordsmd.com/search-coils)
 
 <strong>Increased Ground Coverage:</strong> Larger coils can cover more ground in a single sweep. This makes them efficient for searching open areas or fields where you want to cover as much ground as possible in a shorter amount of time.
 
@@ -49,7 +49,7 @@ seo:
 
 <strong>Enhanced Sensitivity to Larger Objects:</strong> Larger coils are better at detecting larger targets. They can pick up signals from larger items like coins, relics, or caches at greater depths more effectively than smaller coils.
 
-![Large Minelab Manticore M15 search coil standing upright on beach sand](/img/m15-beach.webp "The M15 sweeps wide swathes of open beach quickly")
+[![Large Minelab Manticore M15 search coil standing upright on beach sand](/img/m15-beach.webp "The M15 sweeps wide swathes of open beach quickly")](https://crawfordsmd.com/search-coils)
 
 <strong>Efficiency in Low-Trash Areas:</strong> In areas with fewer obstacles or trash, using a larger coil can be more efficient. It allows you to cover more ground quickly without being impeded by obstacles.
 
@@ -61,7 +61,7 @@ Coil Types.
 
 <strong>Target Specificity:</strong> Some coils are designed to be more specialised for specific types of targets using just a single frequency like on the Minelab XTerra-Pro.
 
-For example, a small, high-frequency coil might be used for finding small gold nuggets, while a larger, lower-frequency coil might be better for larger objects like coins or relics.
+For example, a small, high-frequency coil might be used for finding small gold nuggets, while a larger, lower-frequency coil might be better for larger objects like Hoards Of coins or Relics.
 
 <strong>Search Pattern:</strong> Some coils are designed for specific search patterns (like concentric, double-D or (Mono-loop We wont cover these in this article) which can affect how they respond to different types of targets.
 
@@ -73,13 +73,13 @@ Also, in highly mineralized ground they might experience some interference.
 
 On the plus side they are usually deeper than a DD search coil as the transmit/receive field is a Cone shape.
 
-DD Search Coils for the Minelab Manticore, Equinox and XTerra Pro
+DD Search Coils for the Minelab Manticore, Equinox and X-Terra Pro
 
-![Coiltek Nox 14x9 DD coil on grass, suited to the Equinox and X-Terra Pro](/img/coiltek-14x9.webp "A 14x9 inch DD coil is a good all-round upgrade for Equinox and X-Terra Pro")
+[![Coiltek Nox 14x9 DD coil on grass, suited to the Equinox and X-Terra Pro](/img/coiltek-14x9.webp "A 14x9 inch DD coil is a good all-round upgrade for Equinox and X-Terra Pro")](https://crawfordsmd.com/search-coils)
 
 A DD coil short for "Double-D coil" is a type of search coil used in metal detectors. Unlike concentric coils, DD coils have two overlapping wire loops that are shaped like the letter "D" in cross-section, hence the name.
 
-They excel in separating targets in trashy or highly mineralized areas,as the receive field is along the centre-line of the search coil like a knife edge.
+They excel in separating targets in trashy or highly mineralized areas, as the receive field is along the centre-line of the search coil like a knife edge.
 
 DD coils can handle challenging environments where multiple targets are closely packed together, providing better discrimination between different types of metals.
 
@@ -87,12 +87,10 @@ DD coils can handle challenging environments where multiple targets are closely 
 
 Overall, choosing the right coil for you Minelab Metal Detector, depends on what you're trying to find and the specific conditions of the area you're searching.
 
-On the Minelab Manticore, minelab Equinox, minelab vanquish and XTerra-Pro coils are only available in DD configurations.
+On the Minelab Manticore, minelab Equinox, minelab vanquish and X Terra-Pro coils are only available in DD configurations.
 
-All the Minelab Equinox Search Coils are compatible with the XTerra Pro, but not with the Minelab Vanquish.
+## Which Minelab Detectors are Coil Compatible to swap over
 
-The M15 and M8 Manticore search coils are only compatible with the Manticore as it uses Multi IQ+.
+All the Minelab Equinox Search Coils are compatible with the X Terra Pro,  X-Terra Elite And Vanquish 60 Series (360, 460 and 560) but not with the Minelab Vanquish 40 Series (340, 440, 540.
 
-[LOOK FOR COILTEK COILS](https://bit.ly/CoiltekCoils)
-
-[LOOK FOR MINELAB COILS](https://bit.ly/CMDMDUK)
+The M15 and M8, M9 And Coiltek Mythtek 18 Manticore search coils are only compatible with the Manticore as it uses Multi IQ+.
