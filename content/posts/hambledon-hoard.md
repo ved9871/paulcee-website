@@ -21,7 +21,7 @@ seo:
   keywords: gold, coins, hoard, metal, detecting, amazings, finds, detectival, paul cee
 ---
 
-![Paul Cee, Minelab Detexpert, smiling with arms folded in a Detexpert shirt](/img/2026-thumb_0bwkmdko.webp "Paul Cee reports on the Hambledon Hoard find")
+[![Paul Cee, Minelab Detexpert, smiling with arms folded in a Detexpert shirt](/img/2026-thumb_0bwkmdko.webp "Paul Cee reports on the Hambledon Hoard find")](/detecting-rallies/)
 
 ## Hambledon Hoard DETECTIVAL
 
