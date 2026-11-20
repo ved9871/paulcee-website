@@ -1,6 +1,8 @@
 ---
 title: ctx3030 beach detecting deep old coins and ring
 datePublished: 2019-08-28T19:55:00
+draft: false
+noindex: false
 topic: ctx-3030
 tags:
   - minelab
@@ -8,7 +10,7 @@ tags:
   - metal
   - detector
   - ctx
-  - "3030"
+  - '3030'
   - program
 cover: /img/b-2026-thumb.webp
 heroVideo: 7xNb0-7CUPs
@@ -19,7 +21,7 @@ seo:
   keywords: minelab ctx 3030 uk, metal detector uk, new minelab metal detector,metal detecting rally, metal detector shop
 ---
 
-[![Old ring with a red stone on the Minelab CTX 3030 control panel on sand](/img/resize--18-of-53-.webp "Old ring with a red stone, found on a Lincolnshire beach")](http://bit.ly/2xJ0AJW)
+![Old ring with a red stone on the Minelab CTX 3030 control panel on sand](/img/resize--18-of-53-.webp "Old ring with a red stone, found on a Lincolnshire beach")
 
 Metal Detecting Lincolnshire Beaches once again, early morning, plenty of trash, but amongst it there were plenty of old coins and a nice old ring with a red stone, coins from queen Victoria to George vi and some modern coins..
 
