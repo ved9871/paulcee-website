@@ -18,7 +18,7 @@ tags:
   - metal
   - detecting
   - uk
-cover: /img/b-45-mm-stickerWeb.webp
+cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: JmUwDtWLrZo
 summary: beach detecting with the CTX 3030 and 6 inch minelab coil
 seo:
