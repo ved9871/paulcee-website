@@ -23,7 +23,7 @@ seo:
 
 ## Minelab Manticore Best Settings
 
-Dont get caught up in the Best settings saga for the Minelab Manticore or Equinox.
+Don't get caught up in the Best settings saga for the Minelab Manticore or Equinox.
 
 What we have seen over and over is people using other peoples settings in the Manticore whether its beach or land, learning to adjust the settings and what the settings do is a real game changer for your detecting experience.
 
@@ -41,4 +41,4 @@ Whether you're a seasoned detectorist or just starting out, getting the manticor
 
 Get ready to take your metal detecting game to the next level with the Minelab Manticore!
 
-Sign up to the [News Letter](https://bit.ly/CMD_Maling) to get informed when these Videos from MINELAB and CMD drop.
+[Sign up to the News Letter](/social-sites/) to get informed when these Videos from MINELAB and CMD drop.
