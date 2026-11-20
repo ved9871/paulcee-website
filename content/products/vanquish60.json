@@ -18,6 +18,6 @@
       "label": "vanquish 560 pro"
     }
   ],
-  "match": "vanquish",
+  "match": "vanquish.?(560|60|460|360)|60 series",
   "order": 12
 }
