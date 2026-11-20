@@ -1,17 +1,19 @@
 ---
 title: ctx3030 6 inch coil beach detecting
 datePublished: 2019-08-28T18:37:00
+draft: false
+noindex: false
 topic: ctx-3030
 tags:
   - ctx
-  - "3030"
-  - "6"
+  - '3030'
+  - '6'
   - inch
   - coil
   - mals
   - surffones
   - ctx
-  - "3030"
+  - '3030'
   - headphones
   - metal
   - detecting
@@ -27,7 +29,7 @@ seo:
 
 ![Title graphic for CTX 3030 6 inch coil on an iron covered beach with coins and a relic](/img/080117.webp "Coins and relics from an iron-littered beach with the 6 inch coil")
 
-![Paul Cee round badge with Minelab Equinox, CTX 3030, Vanquish and CMD logos](/img/YT-thumb_2020_7dv464sn.webp "small: Paul Cee and Crawfords Metal Detectors")
+![Paul Cee round badge with Minelab Equinox, CTX 3030, Vanquish and CMD logos](/img/2026-thumb_0bwkmdko.webp "small: Paul Cee and Crawfords Metal Detectors")
 
 ![Detexpert shield logo with the Minelab emblem](/img/detexpert-logosml.webp "small: Paul Cee, Minelab Detexpert")
 
