@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /blog/unveiling-the-power-of-the-minelab-manticore-m8-coil/
 title: Minelab Manticore M8 Coil in Metal Detecting UK
 datePublished: 2023-09-06T17:13:00
 draft: false
