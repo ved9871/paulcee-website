@@ -1,8 +1,11 @@
 ---
 title: good gold ring beach metal detect
 datePublished: 2019-08-28T18:20:00
+draft: false
+noindex: false
 topic: ctx-3030
-cover: /img/b-45-mm-stickerWeb.webp
+tags: []
+cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: 84Nvuph0aBQ
 summary: Rare gold find beach metal detecting uk
 seo:
