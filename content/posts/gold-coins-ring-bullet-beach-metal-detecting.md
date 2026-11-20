@@ -9,9 +9,9 @@ tags:
   - Metal Detecting
   - CTX 3030
   - Beach
-cover: /img/b-pdc-sticker_sml.webp
+cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: NRxKYIGG8aM
-summary: ctx 3030 Cleethorpes beach metal detecting
+summary: Minelab Ctx 3030 Cleethorpes beach metal detecting
 seo:
   title: beach metal detecting gold - Blog
   description: metal detecting uk beach finding gold
