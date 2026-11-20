@@ -11,16 +11,16 @@ tags:
   - Event
 cover: /img/b-detectival_hammered.webp
 heroVideo: 48yqxdN2hi8
-summary: Metal Detecting Spring Detectival
+summary: Metal Detecting Spring Detectival Hambledon Hoard
 seo:
   title: Spring Detectival
   description: this is the rally where the Hambledon hoard is found, crawfords and minelab were in attendance with test lanes and actually did some metal detecting
   keywords: detectival, hambledon hoard, minelab equinox, metal, detector, crawfords metal detectors
 ---
 
-![Smiling detectorist in headphones holding up a coin on Detectival day 1](/img/detectival_hammered.webp "Day 1 at Spring Detectival with a coin in hand")
+[![Smiling detectorist in headphones holding up a coin on Detectival day 1](/img/detectival_hammered.webp "Day 1 at Spring Detectival with a coin in hand")](/detecting-rallies/)
 
-![Paul Cee smiling with folded arms in a field, wearing a Detexpert shirt](/img/2026-thumb.webp "Paul Cee, Minelab Detexpert and Crawfords team member")
+[![Paul Cee smiling with folded arms in a field, wearing a Detexpert shirt](/img/2026-thumb.webp "Paul Cee, Minelab Detexpert and Crawfords team member")](/detecting-rallies/)
 
 ## Spring Detectival in the UK.
 
