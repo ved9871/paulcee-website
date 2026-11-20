@@ -14,9 +14,9 @@ tags:
   - detecting
   - uk
   - beach
-cover: /img/b-45-mm-stickerWeb.webp
+cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: ''
-summary: ctx 3030 beach find a ring
+summary: Minelab Ctx 3030 Cleethorpes beach finds a ring
 seo:
   title: metal detecting on cleethorpes beach - Blog
   description: when you just get lucky metal detecting cleethorpes beaches
