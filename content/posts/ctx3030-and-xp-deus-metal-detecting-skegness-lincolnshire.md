@@ -1,8 +1,11 @@
 ---
 title: Ctx3030 and Xp Deus metal Detecting Skegness Lincolnshire
 datePublished: 2019-08-28T17:33:00
+draft: false
+noindex: false
 topic: ctx-3030
-cover: /img/b-pdc-sticker_sml.webp
+tags: []
+cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: M9lUGX1PJH0
 summary: Skegness metal detecting CTX 3030 and Deus
 seo:
