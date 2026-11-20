@@ -1,7 +1,10 @@
 ---
 title: coil strengtheners 3d printed
 datePublished: 2024-01-07T13:21:00
+draft: false
+noindex: false
 topic: coils-and-gear
+tags: []
 cover: /img/b-coil-strengthener1.webp
 heroVideo: ZaJimpj9WwI
 summary: are they any good
@@ -15,9 +18,9 @@ seo:
 
 ## ARE Coil Strengtheners any good?
 
-Generally they are not needed but some people seem to have jumped on a small issue with a very few coil lugs breaking, and selling 3d printed lug strengtheners to try an eliviate the problem, 90% of the time it is lack of maintenance on the small teardrop washers on the lower shaft where the coil conncts, once worn then the user just keeps on tightening until the inevitable is going to happen, for a small cost of new teardrop washers every few months to keep them fresh you can buy them [HERE](https://crawfordsmd.com/minelab-teardrop-washers?tracking=fa202437c9).
+Generally they are not needed but some people seem to have jumped on a small issue with a very few coil lugs breaking, and selling 3d printed lug strengtheners to try an eliviate the problem, 90% of the time it is lack of maintenance on the small teardrop washers on the lower shaft where the coil connects, once worn then the user just keeps on tightening until the inevitable is going to happen, for a small cost of new teardrop washers every few months to keep them fresh you can buy them [HERE](https://crawfordsmd.com/minelab-teardrop-washers?tracking=fa202437c9).
 
-if you do decide you NEED one them please make sure they are manufactured properly, also fitting these could harm your warranty, then you will have either a new coil purchase or a repair which can be done by [Crawfords Metal Detectors](https://bit.ly/coil_repair) or a kit to do it yourself.
+if you do decide you NEED one them please make sure they are manufactured properly, also fitting these could harm your warranty, then you will have either a new coil purchase or a repair which can be done by Crawfords Metal Detectors or a kit to do it yourself.
 
 These are appearing for most brands of metal detectors and cheaply made.
 
