@@ -27,4 +27,4 @@ seo:
 
 metal detecting GOLD And Big silver...what a day.... not been to the beach for around a month so managed to get the [Minelab ctx 3030](/ctx3030/) loaded and hit the beach nice low tides and plenty of time. got myself a pretty cool 9k rose gold ring and a purse with 3 half crowns a shilling and a sixpence, along with the usual pre-decimal pennies in great condition
 
-JOIN US At [MINELAB IN DEPTH](http://bit.ly/2FsdkJD)
+[JOIN US At MINELAB IN DEPTH](/links)
