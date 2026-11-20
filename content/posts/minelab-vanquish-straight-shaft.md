@@ -1,6 +1,8 @@
 ---
 title: Minelab Vanquish Straight Shaft
 datePublished: 2021-07-03T14:29:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - Minelab
@@ -24,4 +26,4 @@ seo:
 
 from the standard shaft, this method is free and is a step by step tutorial only using 2 allen keys and takes only a few minutes to complete.
 
-If you would like a complete carbon straight minelab vanquish shaft and conversion kit, FIND OUT MORE [HERE](https://bit.ly/VanquishShaft)
+If you would like a complete carbon straight minelab vanquish shaft and conversion kit,[ FIND OUT MORE HERE](https://crawfordsmd.com/vanquish-straight-shaft)
