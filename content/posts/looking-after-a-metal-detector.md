@@ -23,6 +23,6 @@ seo:
 
 can be overlooked, but in the long run could end up costing quite alot of money just for the sake of a few minutes and a couple of pounds.
 
-One of the least things to check on a metal detector after a session is the "[Coil Lug Washers](https://bit.ly/buywashers)". these small rubber washers which fit between the lower shaft and the coil lugs are easily checked and replaced.
+One of the least things to check on a metal detector after a session is the "Coil Lug Washers". these small rubber washers which fit between the lower shaft and the coil lugs are easily checked and replaced.
 
 <strong>"Metal Detector Maintenance Made Easy:</strong> Keep Your Detector in Top Shape for Treasure Hunting in the UK"
