@@ -1,10 +1,12 @@
 ---
 title: beach metal detecting lincolnshire
 datePublished: 2019-08-28T05:03:00
+draft: false
+noindex: false
 topic: ctx-3030
 tags:
   - ctx
-  - "3030"
+  - '3030'
   - vs
   - xp
   - deus
@@ -31,4 +33,4 @@ Another Fantastic weekend metal detecting on the beach with the [minelab ctx 303
 
 Xp Deus not too good and Skegness beach was a fail.
 
-But a large ampunt of sand was removed in one place on cleethorpes beach and the CTX managed to winkle out plenty of [coins and relics](/beginners-guide-to-metal-detecting/)
+But a large amount of sand was removed in one place on cleethorpes beach and the CTX managed to winkle out plenty of [coins and relics](/beginners-guide-to-metal-detecting/)
