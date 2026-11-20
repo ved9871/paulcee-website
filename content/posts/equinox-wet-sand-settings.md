@@ -14,7 +14,7 @@ seo:
   keywords: minelab equinox 800, equinox 600, beach detecting, uk beach metal detecting, metal, detecting, beach, equinox 800
 ---
 
-[![Minelab Equinox 800 control box with wet sand settings: Beach 1, sensitivity 24, 50 tones](/img/nox_wetsettings.webp "Wet sand setup: manual GB, Iron Bias 3, Recovery Speed 4")](https://www.youtube.com/subscription_center?add_user=flash1968)
+![Minelab Equinox 800 control box with wet sand settings: Beach 1, sensitivity 24, 50 tones](/img/nox_wetsettings.webp "Wet sand setup: manual GB, Iron Bias 3, Recovery Speed 4")
 
 ## Deeper beach settings for the Minelab Equinox
 
