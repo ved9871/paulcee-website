@@ -1,13 +1,15 @@
 ---
 title: Equinox 800 5 hammered coins
 datePublished: 2019-08-28T19:52:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - minelab
   - equinox
   - uk
-  - "800"
-  - "600"
+  - '800'
+  - '600'
   - uk
   - metal
   - detecting
@@ -22,7 +24,7 @@ seo:
 
 [![Hand holding a Minelab Equinox 800 over a ploughed field beside a hammered silver coin](/img/5_hammeredweb.webp "Five hammered coins from one ploughed field")](/minelab-equinox/)
 
-[![Round blue paulcee.co.uk metal detecting badge with Minelab Equinox and CTX 3030 logos](/img/small-logo.webp "The paulcee.co.uk metal detecting badge")](http://bit.ly/2VcUX0q)
+![Round blue paulcee.co.uk metal detecting badge with Minelab Equinox and CTX 3030 logos](/img/2026-thumb_0bwkmdko.webp "The paulcee.co.uk metal detecting badge")
 
 ## Minelab Equinox hammered coins
 
