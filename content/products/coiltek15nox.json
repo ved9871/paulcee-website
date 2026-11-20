@@ -1,0 +1,10 @@
+{
+  "name": "coiltek 15 inch Nox Coil",
+  "key": "coiltek15nox",
+  "path": "/coiltek-nox15",
+  "cat": "accessory",
+  "img": "/img/nox-15_coiltek.webp",
+  "compare": [],
+  "match": "coiltek",
+  "order": 11
+}
