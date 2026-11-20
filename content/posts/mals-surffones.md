@@ -21,7 +21,7 @@ seo:
   keywords: Minelab, Equinox 800, Minelab ctx 3030, minelab Excallibur, Mals Surffones,metal detector uk, best headphones for metal detecting
 ---
 
-[![minelab headphones for the Vanquish, CTX 3030 or minelab Equinox minelab manticore and x terra metal detectors](/img/mal-surffones.webp)](https://www.youtube.com/subscription_center?add_user=flash1968)
+[![Mal's SurfFones headphones for the Minelab CTX 3030 with cord, padding and Minelab fitting](/img/mal-surffones.webp "Custom made by a detectorist, with a Minelab fitting and tough cord")](https://www.youtube.com/subscription_center?add_user=flash1968)
 
 ## Headphones for minelab metal detectors
 

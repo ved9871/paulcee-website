@@ -11,7 +11,7 @@ seo:
   keywords: Minelab, Vanquish, 540, best, price, metal, detector, uk
 ---
 
-![minelab vanquish best price](/img/340c_Final2offer.webp)
+![Detectorist in a blue jacket sweeping a Vanquish across a green field](/img/340c_Final2offer.webp "Summer offer on the Vanquish 540 Pro Pack")
 
 SUMMER OFFER for the Minelab Vanquish 540 Pro Pack.
 

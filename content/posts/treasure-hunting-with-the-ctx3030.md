@@ -21,6 +21,6 @@ seo:
   keywords: metal, detect, cleethorpes, beach, crawfords, detectors, uk
 ---
 
-![metal detecting on Cleethorpes beach](/img/100917a_7yhbupcd.webp "metal detecting on Cleethorpes beach")
+![metal detecting on Cleethorpes beach](/img/100917a_7yhbupcd.webp "A rare Victorian death pendant and live digs on a jumbled Lincolnshire beach")
 
 Back on the beaches of Lincolnshire with the [CTX3030](/ctx3030/) and to say what a jumbled up beach today, Sand had moved in a very small area, old finds new finds all jumbled together, just didnt really have a clue as to what to expect next, lots of old coins, plenty of new coins and a really nice quite rare Death Pendant, and somebody else also found the same one this weekend in a different part of the country, how strange was that. Feel free to Comment and subscribe for New Beach metal detecting videos, [hints and tips](/beginners-guide-to-metal-detecting/)

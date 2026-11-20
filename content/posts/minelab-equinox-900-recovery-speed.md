@@ -14,11 +14,11 @@ seo:
   keywords: equinox 900, nox recovery speed, equinox settings, minelab equinox recovery speed, best settings.
 ---
 
-![setting the recovery speed on the minelab equinox 900 and equinox 700](/img/equinox-900-tutorials_recovery-speed.webp "Minelab Equinox 900 Recovery Speed")
+![Minelab Equinox 900 tutorial thumbnail with the words recovery speed](/img/equinox-900-tutorials_recovery-speed.webp "Tutorial: what recovery speed does on the Equinox 900 and 700")
 
-![setting up the recovery speed on the equinox 900 and 700](/img/2026-thumb_0bwkmdko.webp "Paul Cee Minelab Equinox Tutorial")
+![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/2026-thumb_0bwkmdko.webp "Paul Cee walks through the Equinox recovery speed settings")
 
-![minelab Equinox 900 beach settings](/img/detexpert-logosml_5xwnzzpx.webp "Minelab Detexpert uk")
+![Minelab Detexpert shield logo with a red detector sweep](/img/detexpert-logosml_5xwnzzpx.webp "Settings and tutorials from Minelab Detexpert Paul Cee")
 
 ## Minelab Equinox 900 Recovery Speed Explained
 

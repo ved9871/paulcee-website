@@ -25,7 +25,7 @@ seo:
   keywords: minelab, ctx3030, gold, settings, bournemouth, beach, crawfords, metal, detectors
 ---
 
-![bournemouth beach gold](/img/GOPR0669_CTX.webp "bournemouth beach gold")
+![Gold ring lying on a Minelab CTX 3030 control box in the surf](/img/GOPR0669_CTX.webp "A 22K gold ring found on Bournemouth beach on a wet, windy day")
 
 Metal Detecting Bournemouth beach with the [Minelab CTX3030](/ctx3030/), a wet and windy day searching the beach for lost treasures and coins, Found today a superb 22K Gold ring.
 

@@ -20,7 +20,7 @@ seo:
   keywords: Minelab Manticore, 2D Screen, Target ID Map, gold detection, metal detecting, beginner guide, trash identification, treasure hunting, metal detector tips
 ---
 
-![Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.](/img/2026-thumb_8esxlmtp.webp "Minelab Manticore Tutorial")
+![Paul Cee smiling with arms folded in front of a green field](/img/2026-thumb_8esxlmtp.webp "Paul Cee's Minelab Manticore 2D screen tutorial")
 
 ## Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.
 
@@ -30,7 +30,7 @@ Every metal detectorist knows the feeling. You get a solid, target tone signal. 
 
 If you are looking at upgrading to the Minelab Manticore, you have likely heard about its "Beast" power. But the real game-changer isn't just the depth—it’s the screen.
 
-![Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.](/img/2d-screen.webp "Minelab Manticore 2D screen Tutorial")
+![Minelab Manticore screen showing Target ID 12 and the 2D target map above sandy ground](/img/2d-screen.webp "The 2D Target ID Map shows non-ferrous targets near the centre line")
 
 The Manticore uses a revolutionary 2D Target ID Map (also known as Target Trace) that gives you X-ray vision into the ground. But if you’ve never used a high-end Minelab machine, the screen can look like a confusing scattering of dots.
 
@@ -50,7 +50,7 @@ The Minelab Manticore doesn't just measure conductivity; it measures ferrous lim
 
 Here is the simple breakdown of the screen layout:
 
-![how to use the minelab manticore 2D screen in real world metal detecting](/img/2d-blog.webp "how to use the minelab manticore 2D screen")
+![Minelab Manticore held over wet sand with the screen showing Target ID 10](/img/2d-blog.webp "Reading the 2D map in real-world beach detecting")
 
 <strong>The Horizontal Line (Centre):</strong> This is the "Non-Ferrous" zone. Treasure lives here. Coins, silver, and copper usually appear as tight dots directly on or near this centre line.
 

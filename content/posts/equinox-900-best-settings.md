@@ -17,9 +17,9 @@ seo:
   keywords: equinox, 900, settings, best, beach, land, ancient, crawfords metal detectors
 ---
 
-![how to use a minelab equinox 900](/img/900-programs_dcv6mil9.webp "how to use a minelab equinox 900")
+![Minelab Equinox 900 screen over ploughed ground, titled Programs getting started](/img/900-programs_dcv6mil9.webp "Choosing a search program on the Equinox 900")
 
-![minelab equinox 900 settings for the Uk](/img/2026-thumb_0bwkmdko.webp "minelab equinox 900 settings for the Uk")
+![Paul Cee, Minelab Detexpert, smiling with arms folded in a Detexpert shirt](/img/2026-thumb_0bwkmdko.webp "Paul Cee shares his best Equinox 900 settings for UK ground")
 
 ## Best Settings for the Equinox
 

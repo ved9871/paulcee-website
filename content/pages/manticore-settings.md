@@ -7,7 +7,7 @@ seo:
   keywords: Minelab Manticore, Manticore settings, Multi-IQ plus, 2D ID Map, Manticore depth settings, relic hunting, beach metal detecting, Minelab Manticore coils, recovery speed, manticore gold mode
 ---
 
-[![Minelab Manticore Headphones, how to connect and pair Manticore wireless headphones and WM09 Module](/img/headphones1_xdmsr7n5.webp "Minelab Manticore Headphones, how to connect and pair and WM09 Module")](https://youtu.be/euB3aMoG_N0)
+[![Minelab wireless headphones with text on connecting to the Equinox 900](/img/headphones1_xdmsr7n5.webp "Pairing the ML-105 headphones with the WM09 module")](https://youtu.be/euB3aMoG_N0)
 
 Pairing ML-105 Headphones
 
@@ -61,4 +61,4 @@ Check out some of the Manticore videos, Minelab and CMD created to help with you
 
 {{youtube id="VimSTbHMGi4" title="How to pair Manticore Headphones, what problems and how to solve them"}}
 
-[![Minelab Manticore Settings, help and tutorials for the minelab manticore](/img/WEB_AD2026a.webp "Minelab Manticore Settings, help and tutorials for the minelab manticore") ](https://bit.ly/CMDMDUK)
+[![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Manticore deals at Crawfords: use code paulcee10") ](https://bit.ly/CMDMDUK)

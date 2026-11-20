@@ -10,9 +10,9 @@ seo:
   keywords: Equinox, cover, screen, cover, dust, protector, crawfords metal detectors, manticore, xterra
 ---
 
-[![minelab Equinox screen cover](/img/110318_sony-15.webp)](https://crawfordsmd.com/equinox-screen-protector-5pack?tracking=fa202437c9)
+[![Minelab Equinox control box held over beach sand beside a black CMD custom cover](/img/110318_sony-15.webp "CMD custom covers protect the Equinox screen and keys")](https://crawfordsmd.com/equinox-screen-protector-5pack?tracking=fa202437c9)
 
-[![minelab equinox settings for the uk](/img/YT-thumb_2020_qh38la42.webp "small")](/minelab-equinox/)
+[![Paul Cee round badge with Minelab Equinox, CTX 3030 and Vanquish logos](/img/YT-thumb_2020_qh38la42.webp "small: Equinox tips from Paul Cee")](/minelab-equinox/)
 
 ## Custom screen protector cover for the Minelab Equinox Metal Detector
 

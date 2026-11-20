@@ -34,7 +34,7 @@ The durability, weight, and price of your sand scoop depend heavily on the mater
 
 ### PLASTIC SCOOPS
 
-[![cheap sand scoop for metal detecting](/img/plastic-scoop.webp "cheap sand scoop for metal detecting")](https://crawfordsmd.com/nokta-plastic-sand-scoop?tracking=fa202437c9)
+[![Yellow plastic sand scoop with holes and Crawfords Metal Detectors branding](/img/plastic-scoop.webp "Budget plastic scoop, best on dry loose sand")](https://crawfordsmd.com/nokta-plastic-sand-scoop?tracking=fa202437c9)
 
 <strong>Best Use Case:</strong> Dry, loose sand with few shells or rocks.
 
@@ -54,7 +54,7 @@ The durability, weight, and price of your sand scoop depend heavily on the mater
 
 ### STAINLESS STEEL SCOOPS
 
-[![stainless steel cheap sand scoop](/img/emite-r-scoops_hxen9344.webp "stainless steel cheap sand scoop")](https://crawfordsmd.com/sandscoop-200?tracking=fa202437c9)
+[![Two emiteR stainless steel sand scoops lying on a sandy beach](/img/emite-r-scoops_hxen9344.webp "Stainless scoops cope with wet sand, shells and rocks")](https://crawfordsmd.com/sandscoop-200?tracking=fa202437c9)
 
 <strong>Best Use Case:</strong> All types of sand, including heavy wet sand and areas with large rocks.
 
@@ -76,7 +76,7 @@ The length of the handle determines the effort and posture required for digging.
 
 Short Handle Scoops (Knee-High)
 
-[![cheap sand scoop for metal detecting](/img/emiter-scoop.webp "cheap sand scoop for metal detecting")](https://crawfordsmd.com/sandscoop-s150?tracking=fa202437c9)
+[![Perforated stainless steel sand scoop on a long shaft with red grips](/img/emiter-scoop.webp "A long shaft saves bending when digging dry dunes")](https://crawfordsmd.com/sandscoop-s150?tracking=fa202437c9)
 
 **Best for: Hunting the dry sand dunes**.
 
@@ -86,7 +86,7 @@ Short Handle Scoops (Knee-High)
 
 #### Heavy Duty Long-Handle Sand Scoops
 
-[![best sand scoop for metal detecting](/img/swagier1_3oli0gss.webp "best sand scoop for Beach metal detecting")](https://swagierscoop.com/produkty/)
+[![Swagier stainless steel sand scoop shown close up beside a man on a beach](/img/swagier1_3oli0gss.webp "Heavy-duty Swagier scoop for wet sand and shallow water")](https://swagierscoop.com/produkty/)
 
 <strong>Best for:</strong> The serious detectorist targeting wet sand and water.
 
@@ -98,4 +98,4 @@ Short Handle Scoops (Knee-High)
 
 Choosing a good beach sand scoop is an investment that will dramatically increase your beach metal detecting finds. By quickly acquiring targets, you maximize your time hunting rather than digging.
 
-[![cheap sand scoops in the Uk, where to buy one](/img/WEB_AD2026a.webp "cheap sand scoops in the Uk, where to buy one")](https://crawfordsmd.com/digging-tools)
+[![Crawfords Metal Detectors discount code graphic showing the code paulcee10](/img/WEB_AD2026a.webp "Discount code for sand scoops and accessories at Crawfords")](https://crawfordsmd.com/digging-tools)

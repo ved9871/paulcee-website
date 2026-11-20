@@ -27,4 +27,4 @@ Today beach metal detecting with the [EQUINOX 800](/minelab-equinox/) i fortunat
 
 in this video i show which of the [Equinox 800](/crawfords-metal-detectors/) Factory Settings would actually pick out this Gold chain
 
-[![Minelab Equinox Gold Chain Settings, make sure you set up the detector correctly](/img/2026-thumb_0bwkmdko.webp "Minelab Equinox Gold Chain Settings")](http://bit.ly/2VcUX0q)
+[![Paul Cee, Minelab Detexpert, smiling with arms folded in a Detexpert shirt](/img/2026-thumb_0bwkmdko.webp "Paul Cee tests which Equinox 800 factory settings pick up a gold chain")](http://bit.ly/2VcUX0q)

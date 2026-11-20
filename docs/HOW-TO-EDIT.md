@@ -48,7 +48,9 @@ The article box works like a simple Word document. The preview on the right show
 
 - **Headings.** Click the paragraph symbol (¶) at the left of the toolbar and choose Heading 2 for main sections, Heading 3 for sub-sections. Don't use Heading 1: the title is already the Heading 1.
 - **Bold, italic, links.** Select the words, then use the toolbar. For links, paste the full address including `https://`.
-- **Pictures.** Click the picture icon. Upload from your computer or pick one already on the site. Photos are converted and shrunk automatically, so phone photos are fine. Add a short description in the "alt text" box: it's what Google and screen readers use.
+- **Pictures.** Click the picture icon. Upload from your computer or pick one already on the site. Photos are converted and shrunk automatically, so phone photos are fine. Fill in both boxes:
+  - **Alt text** is for Google and screen readers: say what is actually in the picture, in one plain sentence ("Minelab Manticore screen showing Beach General with sensitivity at 24", "Hammered silver penny found on a Lincolnshire field"). Every picture should have one.
+  - **Title** is the caption shown under the picture on the site. Keep it short and add something the alt text doesn't (where, when, the result). If you want a picture to show small, start the title with `small:` followed by the caption.
 - **Lists and quotes** are in the ¶ menu too.
 - **Enter** makes a new paragraph.
 

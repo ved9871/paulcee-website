@@ -19,6 +19,6 @@ seo:
   keywords: Vanquish uk, minelab vanquish, minelab bluetooth, how, to, connect
 ---
 
-![How to pair Minelab Vanquish headphones](/img/540-BT-headphones_web.webp "How to pair Minelab Vanquish headphones")
+![How to pair Minelab Vanquish headphones](/img/540-BT-headphones_web.webp "Pairing ML 80 Bluetooth headphones with the Vanquish 540")
 
 ## How to pair Minelab Headphones, a step by step guide to pairing, Minelab ML 80 Bluetooth headphones on the Minelab Vanquish 540

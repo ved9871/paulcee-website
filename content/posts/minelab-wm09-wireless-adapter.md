@@ -11,9 +11,9 @@ seo:
   keywords: minelab wm09, minelab manticore, minelab wireless, minelab, crawfords metal detectors, paul cee
 ---
 
-![Minelab WM09 wireless module connect and features](/img/detexpert-logosml_1s5gyj8v.webp "small")
+![Detexpert shield logo with the Minelab emblem](/img/detexpert-logosml_1s5gyj8v.webp "small: Paul Cee, Minelab Detexpert")
 
-![using and features of the Minelab wireless module](/img/20231217_112513.webp "small")
+![Minelab WM09 wireless module lying in grass](/img/20231217_112513.webp "small: The WM09 module links the detector to wireless headphones")
 
 ### Minelab WM 09 Wireless Module
 

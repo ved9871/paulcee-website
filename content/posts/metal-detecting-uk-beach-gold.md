@@ -21,7 +21,7 @@ seo:
   keywords: find, gold, metal, detector, settings, crawfords, detecting, detector
 ---
 
-![cleethorpes beach metal detecting uk](/img/050317.webp "Cleethorpes beach metal detecting")
+![Hand holding gold rings and chains, thumbnail titled On the beach topping up the gold bank](/img/050317.webp "Gold finds from a Cleethorpes beach session with the CTX 3030")
 
 ## Metal Detecting Beach 
 
@@ -29,4 +29,4 @@ gold after the lack of it for a while..And back using my Beach Detecting setting
 
 {{youtube id="mH5x66tqx78"}}
 
-![ctx 3030 beach settings](/img/deep-beach_u8bzu3a6.webp "Minelab CTX 3030 Settings")
+![Minelab CTX 3030 Edit Mode screen for a custom beach pattern with Pitch Hold and Seawater](/img/deep-beach_u8bzu3a6.webp "Paul's custom CTX 3030 beach mode with Recovery Deep and Seawater")

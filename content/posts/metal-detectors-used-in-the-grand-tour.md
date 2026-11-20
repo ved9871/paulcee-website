@@ -11,7 +11,7 @@ seo:
   keywords: metal detector, the grand tour, a massive hunt, what metal detector, new to metal detecting
 ---
 
-![what metal detectors were used in the grand tour](/img/Massive-hunt-web.webp)
+![Grand Tour Massive Hunt text over a blurred detector on a beach](/img/Massive-hunt-web.webp "Detectors used on the Grand Tour Massive Hunt")
 
 ## The Grand tour A MASSIVE HUNT
 

@@ -15,9 +15,9 @@ seo:
   keywords: Metal Detecting UK, Treasure Act 2023, Metal Detecting Permission, NCMD, UK Treasure Laws, Finds Liaison Officer, Metal Detecting Code of Conduct, Beginner Metal Detecting, UK History, Portable Antiquities Scheme
 ---
 
-![where is it legal to metal detect in England](/img/2026-thumb_0bwkmdko.webp "where is it legal to metal detect in England")
+![Paul Cee, Minelab Detexpert, smiling with arms folded in a field](/img/2026-thumb_0bwkmdko.webp "Your guide: Paul Cee on the rules and the reality of UK detecting")
 
-![where is it legal to metal detect in England, and how to get permission](/img/CRAWFORDS-2024-White_b0y4qkqf.webp "where is it legal to metal detect in England, and how to get permission")
+![Crawfords Metal Detectors white logo](/img/CRAWFORDS-2024-White_b0y4qkqf.webp "Crawfords Metal Detectors, the shop behind the discount code")
 
 ## Where Can i go metal detecting in England
 
@@ -29,7 +29,7 @@ But before you buy a machine and start digging, you need to navigate the unique 
 
 Unlike many other countries, you cannot just roam freely. Here is everything you need to know to stay legal and responsible.
 
-![where can you go metal detecting in England that is legal, is metal detecting legal on public footpaths](/img/2026-permission.webp "where can you go metal detecting in England that is legal, is metal detecting legal on public footpaths")
+![Police officer speaking to two detectorists in a park in front of a manor house](/img/2026-permission.webp "Where is it legal? Know who owns the land before you dig")
 
 \
 
@@ -43,7 +43,7 @@ In the UK, all land is owned by someone. There is no such thing as "ownerless" l
 
 <strong>Public Parks &amp; Commons:</strong> "Public" refers to access, not digging rights. Most councils have bylaws strictly prohibiting detecting to protect the ground.
 
-![is it legal to metal detect on a beach in the Uk](/img/2026-permission1.webp "is it legal to metal detect on a beach in the Uk")
+![Detectorist digging on a wet beach as a police officer runs over with a penalty notice](/img/2026-permission1.webp "Many beaches are Crown Estate foreshore, so check permit rules first")
 
 <strong>Beaches:</strong> Many beaches are owned by the Crown Estate.
 
@@ -59,7 +59,7 @@ You can often detect here, but you need to get a (free) permit from their websit
 
 If we want to keep this hobby alive, we have to respect the countryside.
 
-![metal detecting code of conduct](/img/2026-permission2.webp "metal detecting code of conduct")
+![Muddy detectorist sitting in a huge hole in a field with a beer can and spade](/img/2026-permission2.webp "Code of conduct: dig small holes, plug the turf and fill them in")
 
 <strong>Fill Your Holes:</strong> Never dig a messy hole. Cut a neat "plug" of turf, retrieve your target, and put the grass back exactly as you found it.
 
@@ -71,7 +71,7 @@ If we want to keep this hobby alive, we have to respect the countryside.
 
 You might have heard about the "300-year rule" or that only gold and silver count as treasure. That rule changed in 2023.
 
-![what happens if i find gold in the UK, do i have to report it](/img/2026-permission3.webp "what happens if i find gold in the UK, do i have to report it")
+![Delighted detectorist holding a gold goblet beside a chest of coins outside a manor house](/img/2026-permission3.webp "Might it be treasure? The 2023 rules cover more than gold and silver")
 
 To close loopholes, the law was updated to include a new definition of treasure based on "Significance."
 
@@ -89,7 +89,7 @@ If you are lucky enough to find something that might be Treasure, don't panic!
 
 There is a clear legal process to follow, and there are experts to help you.
 
-![where do you have to report treasure finds in the UK](/img/2026-permission4.webp "where do you have to report treasure finds in the UK")
+![Finds Liaison Officer looking at a museum case of gold coins, a goblet and a chain](/img/2026-permission4.webp "Next step: report your find to your local Finds Liaison Officer")
 
 <strong>Who is the FLO?</strong> Your first point of contact is your local Finds Liaison Officer (FLO).
 
@@ -99,7 +99,7 @@ There is a clear legal process to follow, and there are experts to help you.
 
 <strong>The Golden Rule:</strong> If you find something significant, contact your FLO. They will guide you through the next steps.
 
-![what happens to treasure finds found in the UK](/img/2026-permission5.webp "what happens to treasure finds found in the UK")
+![Courtroom with a coroner and barristers in wigs at a treasure inquest](/img/2026-permission5.webp "The coroner holds an inquest to decide if a find is treasure")
 
 **The Coroner &amp; The Inquest By law**, anyone who finds potential treasure must report it to the Coroner for the district where it was found within 14 days.
 
@@ -107,8 +107,8 @@ There is a clear legal process to follow, and there are experts to help you.
 
 <strong>The Inquest:</strong> If the FLO confirms your item might be treasure, the Coroner holds an inquest (a formal inquiry). This is just a meeting to legally determine if the item fits the definition of "Treasure" under the Act.
 
-![can you get rich metal detecting in the UK](/img/2026-permission6.webp "can you get rich metal detecting in the UK")
+![Landowner and detectorist shaking hands with banknotes flying outside a country house](/img/2026-permission6.webp "If declared treasure, museums can acquire it and pay a reward")
 
 <strong>The Outcome:</strong> If it is declared Treasure, it belongs to the Crown, and museums are given the chance to acquire it (paying you a reward). If it is not Treasure, it is usually returned to you and the landowner.
 
-![Metal detector shop discount code](/img/WEB_AD2026a.webp "Metal detector shop discount code")
+![Crawfords Metal Detectors banner with discount code paulcee10 and Paul Cee photo](/img/WEB_AD2026a.webp "Use code paulcee10 at crawfordsmd.com for a discount")

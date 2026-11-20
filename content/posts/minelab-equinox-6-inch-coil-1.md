@@ -19,7 +19,7 @@ seo:
   keywords: cleethorpes, beach, detecting, minelab, equinox, search, coil, small
 ---
 
-![cleethorpes beach metal detecting](/img/050918.webp)
+![Minelab Equinox small coil review thumbnail with a copper coin held up on a beach](/img/050918.webp "A small coil for trashy beach ground, tested on the East Coast")
 
 Metal Detecting the East coast of the Uk, with the [Minelab Equinox 800](/minelab-equinox/)
 

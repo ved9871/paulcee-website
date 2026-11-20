@@ -19,7 +19,7 @@ seo:
   keywords: sand scoop, sito scoops, Swagier scoops, evolution sand scoop, anderson neptune carbon shaft
 ---
 
-![Best sand scoops for beach metal detecting](/img/WEB_AD2026a.webp)
+![Crawfords Metal Detectors discount code graphic showing the code paulcee10](/img/WEB_AD2026a.webp "Discount code for scoops and shafts at Crawfords Metal Detectors")
 
 ## Review of which sand scoops and shafts are the best for beach metal detecting.
 
@@ -27,6 +27,6 @@ whether you are a beginner at metal detecting or a seasoned detectorist on the b
 
 stainless steel Sands scoops and carbon fibre shafts, and what metal shafts to use
 
-![what is the best sand scoop for beach detecting ](/img/P1050147b.webp)
+![Five stainless steel sand scoops and a carbon fibre shaft with D handle on grass](/img/P1050147b.webp "Scoops and shafts compared, with the D handle in front")
 
 D HANDLE FOR SAND SCOOP SHAFT

@@ -19,7 +19,7 @@ seo:
   keywords: detect Ed, minelab equinox shaft, carbon nox shaft, CMD carbon shaft, tele knox shaft, nox 800 shaft. shaft wobble
 ---
 
-![detect ed red belly shaft](/img/detect-ed-shaft.webp)
+![Detect-Ed Red Belly LS carbon shaft on a Minelab Equinox over sandy ground](/img/detect-ed-shaft.webp "A lightweight carbon shaft reviewed on the Equinox")
 
 ## Detect Ed Red Belly Minelab Equinox Carbon Shaft Review.
 

@@ -11,7 +11,7 @@ seo:
   keywords: Minelab, Equinox, gold, chain, tones, vdi, beach, detecting, metal
 ---
 
-![equinox 800 gold chain](/img/181118_chain.webp)
+![Fine gold chain lying on the screen of a Minelab Equinox 800 on a sandy beach](/img/181118_chain.webp "Proof the Equinox finds fine gold chains, not just thick ones")
 
 internet theories and beliefs that the [Minelab Equinox](/minelab-equinox/) will only find THICK gold chains..
 
@@ -19,4 +19,4 @@ Depending on which settings you choose to use, as reported in an earlier post yo
 
 watch the video
 
-[![Minelab Equinox thin gold chain finding and how to find one](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/)
+[![Crawfords Metal Detectors banner with discount code paulcee10 and Detexpert logo](/img/WEB_AD2026a.webp "Money off Equinox gear at Crawfords with code paulcee10")](https://crawfordsmd.com/)

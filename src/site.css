@@ -305,6 +305,7 @@ svg { width: 1.25em; height: 1.25em; fill: none; stroke: currentColor; stroke-wi
 .prose figure { margin: var(--s-5) 0; }
 .prose figure img { border-radius: var(--r-2); }
 .prose figure a { display: inline-block; }
+.prose figcaption { font-size: .8125rem; color: var(--muted); margin-top: 6px; line-height: 1.4; }
 .prose ul, .prose ol { padding-left: 1.3em; }
 .prose .btn { color: var(--red-ink); text-decoration: none; }
 .cta-row { margin: var(--s-5) 0; }

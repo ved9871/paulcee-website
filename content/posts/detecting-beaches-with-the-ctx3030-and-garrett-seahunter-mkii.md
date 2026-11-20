@@ -23,6 +23,6 @@ seo:
   keywords: seahunter mk2 uk, garrett metal detectors uk, best garrett metal detector for beach, ctx 3030 uk
 ---
 
-[![metal detecting on cleethorpes beach](/img/45-mm-stickerWeb_8dfs91aj.webp)](http://bit.ly/2VcUX0q)[![garrett seahunter mk2 uk metal detecting on cleethorpes beach](/img/010614.webp)](http://bit.ly/32hjeGL)
+[![Round blue paulcee.co.uk sticker with Minelab Equinox and CTX 3030 logos](/img/45-mm-stickerWeb_8dfs91aj.webp "East coast beach trip with the CTX 3030 and Garrett Sea Hunter Mk II")](http://bit.ly/2VcUX0q)[![Garrett Sea Hunter Mk2 control box with Beach Metal Detecting text](/img/010614.webp "Cleethorpes beach with the Garrett Sea Hunter Mk II")](http://bit.ly/32hjeGL)
 
 Latest trip to the beaches of East Uk, pre-decimal coins, some spendables, an iPhone and a silver plated pendant

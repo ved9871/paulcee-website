@@ -20,7 +20,7 @@ seo:
   keywords: metal, detecting, beach, uk, hints, tips, tricks, treasure, best, finds
 ---
 
-![Where and How to metal detect on a beach hints and tips](/img/beach-research-1.webp)
+![How to read a beach thumbnail with a detectorist on wet sand](/img/beach-research-1.webp "Reading the beach to find where the finds collect")
 
 ## Beach Metal Detecting Tips
 

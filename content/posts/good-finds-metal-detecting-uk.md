@@ -22,7 +22,7 @@ seo:
   keywords: metal detecting finds, crawfords metal detectors, minelab equinox 800 settings, minelab vanquish settings
 ---
 
-![beach metal detecting uk](/img/finds-3a.webp "beach metal detecting uk")
+![Gold chain on the screen of a Minelab detector on a beach with The Good Times text](/img/finds-3a.webp "Gold chain and more from a good day of beach detecting")
 
 ## Metal detecting finds Uk
 

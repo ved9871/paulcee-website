@@ -15,10 +15,10 @@ The 15x12" eliptical Double-D accessory coil for the [Minelab Equinox Series](/m
 
 Using this on a Deep iron infestest beach with superb results finding Silver coins and gold.
 
-[![minelab 15 inch search coil review](/img/IMG_20181104_073523.webp)](/crawfords-metal-detectors/)
+[![Minelab Equinox with a 15 inch coil on wet beach sand and a gold ring on the screen](/img/IMG_20181104_073523.webp "A gold ring from an iron-infested beach with the 15x12 coil")](/crawfords-metal-detectors/)
 
 More Extensive use in the coming weeks.
 
 Equinox settings used are in the Video
 
-[![Minelab Equinox coil review](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/minelab-equinox-15inch-coil?tracking=fa202437c9)
+[![Crawfords Metal Detectors banner with discount code paulcee10 and Paul Cee photo](/img/WEB_AD2026a.webp "Use paulcee10 at Crawfords for money off Minelab coils")](https://crawfordsmd.com/minelab-equinox-15inch-coil?tracking=fa202437c9)

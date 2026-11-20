@@ -22,7 +22,7 @@ seo:
 
 The tele-knox folding handle for the Minelab Equinox is also available for the minelab Vanquish and other metal detectors with the correct shaft size.
 
-![minelab equinox tele knox shaft fitting guide](/img/tele-knox_weba.webp)
+![Minelab Equinox with a folding Tele-Knox handle lying on a beach](/img/tele-knox_weba.webp "The Tele-Knox handle lets the Equinox fold down for transport")
 
 The folding Tele-Knox handle allows it to fold down into the arm cup and this makes the equinox more suitable for transporting, if you have one of the tele-knox telescopic detector shafts then this will allow the detector to fold down to around 22 inch.
 

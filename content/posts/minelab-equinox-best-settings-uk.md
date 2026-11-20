@@ -16,7 +16,7 @@ seo:
   keywords: Minelab, equinox, settings, best, beach, land, beginner, detecting, metal, uk
 ---
 
-![set up the minelab Equinox and get best results for beach and land detecting](/img/bournemouth1a.webp "set up the minelab Equinox and get best results for beach and land detecting")
+![Detectorist at the water edge on a sandy beach with an Equinox and sand scoop](/img/bournemouth1a.webp "Equinox 800 settings I use on beaches like Bournemouth")
 
 ## Minelab Equinox 800 Settings
 

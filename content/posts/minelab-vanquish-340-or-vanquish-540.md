@@ -20,9 +20,9 @@ seo:
 
 ## What is the Difference between the Minelab Vanquish 340 and the Minelab Vanquish 540
 
-[![minelab vanquish 540 and 340 review and compare the features](/img/comparison.webp)](http://bit.ly/2VcUX0q)
+[![Minelab Vanquish 340 and 540 side by side on grass with a What is the difference caption](/img/comparison.webp "Vanquish 340 and 540 compared, both using Multi-IQ technology")](http://bit.ly/2VcUX0q)
 
-![minelab vanquish settings for the uk](/img/detexpert-logosml_hqje2q23.webp "small")
+![Minelab Detexpert shield logo with red detector silhouette](/img/detexpert-logosml_hqje2q23.webp "small: Minelab Detexpert advice on Vanquish settings")
 
 Comparing the Vanquish 340 and 540 side by side and what features and settings the Minelab Vanquish 540 has that the vanquish 340 doesnt have, both use the same multi iq technology from Minelab as in the minelab Equinox
 

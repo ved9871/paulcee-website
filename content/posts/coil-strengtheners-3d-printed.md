@@ -11,7 +11,7 @@ seo:
   keywords: minelab coil lugs, coil strengthener, 3d printed, minelab coil, minelab coil lugs, minelab equinox, minelab manticore, accessories
 ---
 
-![are 3d printed coil lug strengtheners any good for a metal detector](/img/coil-strengthener1.webp "small")
+![Red 3D printed lug strengthener fitted to a metal detector coil](/img/coil-strengthener1.webp "small: A good print clamps the lug and stops the coil cracking")
 
 ## ARE Coil Strengtheners any good?
 
@@ -39,7 +39,7 @@ MOST of these 3d printed products are made by people just wanting to get some mo
 
 <strong>Poor Layer Adhesion:</strong> If the printer settings or the material used are not suitable, it can result in weak layer adhesion, making the strengthener less durable.
 
-![why a wrongly printed coil strenghtener is worthless](/img/coil-strengthener.webp)
+![Close-up of a red 3D printed strengthener clamped round a coil lug on a carbon shaft](/img/coil-strengthener.webp "Layer direction and print settings decide how strong the part is")
 
 <strong>Incorrect Orientation:</strong> Printing orientation matters. Printing the strengthener in the wrong orientation might weaken its structural integrity or compromise its fit.
 

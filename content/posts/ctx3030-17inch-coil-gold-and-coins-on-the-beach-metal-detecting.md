@@ -17,8 +17,8 @@ seo:
   keywords: minelab,ctx3030,gold,settings,beach,metal,detecting,joan,allen
 ---
 
-![cleethorpes beach detecting](/img/050317_90lodw8c.webp)
+![Hand holding gold chains and rings found on the beach with the Minelab CTX 3030](/img/050317_90lodw8c.webp "Topping up the gold bank with the CTX 3030 and 17 inch coil")
 
 Beach Metal Detecting uk with the [Minelab CTX 3030](/ctx3030/) and 17" coil nice very deep targets including gold,silver and plenty of coins, only one modern penny so that was a result.
 
-[![cleethorpes beach metal detecting](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/)
+[![Crawfords Metal Detectors discount code graphic showing the code paulcee10](/img/WEB_AD2026a.webp "Use code paulcee10 at crawfordsmd.com")](https://crawfordsmd.com/)

@@ -18,7 +18,7 @@ seo:
   keywords: beach, minelab, ctx 3030, treasure, hunt, uk, beach, crawfords metal detectors
 ---
 
-![metal detecting cleethorpes beach](/img/191117b.webp)
+![Detectorist in a cap on a beach, silver again with the CTX 3030](/img/191117b.webp "Silver again from a big beach with the CTX 3030")
 
 Another Chilly early morning start, [metal detecting on the beaches of the UK](/), this time we go to a quieter
 

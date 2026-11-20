@@ -19,11 +19,11 @@ seo:
   keywords: minelab, vanquish, metal, detector, tips, guide, how, to, use
 ---
 
-![minelab vanquish user guide, on how to metal detect](/img/vanquish-small.webp "minelab vanquish user guide, on how to metal detect")
+![Minelab Vanquish banner reading Simple. Yet powerful. with the Multi-IQ logo](/img/vanquish-small.webp "Minelab Vanquish: simple, yet powerful metal detecting")
 
-![how to use a minelab vanquish metal detector](/img/detexpert-logosml_l9aop9jz.webp "how to use a minelab vanquish metal detector")
+![Detexpert Minelab shield logo with a red detector icon](/img/detexpert-logosml_l9aop9jz.webp "Paul Cee is a Minelab Detexpert")
 
-![where to buy a minelab vanquish](/img/CRAWFORDS-2024-White.webp "where to buy a minelab vanquish")
+![Crawfords Metal Detectors logo](/img/CRAWFORDS-2024-White.webp "Buy your Vanquish from Crawfords, an authorised UK dealer")
 
 ## HOW to Use A Minelab Vanquish
 
@@ -53,7 +53,7 @@ To switch on your Vanquish, press and hold the power button. The detector will p
 
 **This guide will help you understand all the available options**.
 
-![minelab vanquish settings](/img/VANQUISH-340-User-Interface-Gallery.webp "minelab vanquish settings")
+![Minelab Vanquish 340 control box with labelled buttons and the screen showing 23](/img/VANQUISH-340-User-Interface-Gallery.webp "Control box layout of the Vanquish 340 and what each button does")
 
 <strong>Basic Controls and Interface:</strong> Familiarise yourself with the buttons on your control box:
 
@@ -79,7 +79,7 @@ For detailed instructions and specific button layouts, always refer to your offi
 
 This is where the magic happens! Understanding and adjusting your settings to suit the ground and your target desires is key to successful detecting.
 
-![minelab vanquish frequency how multi frequency works on a metal detector](/img/vanquish-mutli-iq.webp "minelab vanquish frequency how multi frequency works on a metal detector")
+![Minelab Vanquish Multi-IQ graphic showing several frequencies reaching targets in the ground](/img/vanquish-mutli-iq.webp "Multi-IQ sends several frequencies into the ground at once")
 
 <strong>The Magic of Multi-IQ Technology:</strong> Let's talk about Multi-IQ technology.
 
@@ -109,7 +109,7 @@ Unlike single-frequency detectors that operate on one frequency at a time, Multi
 
 #### Minelab Vanquish Key Settings Explained:
 
-![minelab vanquish sensitivity settings](/img/340-sens.webp "minelab vanquish sensitivity settings")
+![Minelab Vanquish 340 control box with the sensitivity setting showing on screen](/img/340-sens.webp "Sensitivity setting on the Vanquish display")
 
 <strong>Sensitivity:</strong> This controls how responsive your detector is to targets.
 
@@ -119,7 +119,7 @@ Unlike single-frequency detectors that operate on one frequency at a time, Multi
 
 <strong>Tip:</strong> Always run your Sensitivity as high as possible without getting too much false chatter. If your detector is noisy, reduce sensitivity first.
 
-![how to use discrimination on a minelab vanquish](/img/340-discrim.webp "how to use discrimination on a minelab vanquish")
+![Minelab Vanquish control box with the discrimination segments highlighted on screen](/img/340-discrim.webp "Discrimination segments on the Vanquish screen")
 
 <strong>Discrimination/Target ID:</strong> This is your tool for ignoring unwanted metallic trash.
 
@@ -157,7 +157,7 @@ While optimal settings vary by location, here are some starting points, as there
 
 Having the right settings is only half the battle. Your technique can significantly impact your success.
 
-![how to use a minelab vanquish](/img/vanquish-discrim.webp "how to use a minelab vanquish")
+![Detectorist in a field using a Minelab Vanquish with the Vanquish logo overlay](/img/vanquish-discrim.webp "Good coil control means low, level, overlapping sweeps")
 
 Proper Coil Control:
 
@@ -181,7 +181,7 @@ Proper Coil Control:
 
 \
 
-![minelab vanquish target ID](/img/vanquish-coinshoot.webp "minelab vanquish target ID")
+![Minelab Vanquish screen showing Target ID 22 on a coin signal in dry ground](/img/vanquish-coinshoot.webp "A solid, repeatable Target ID of 22 on a good coin signal")
 
 <strong>• Solid, Repeatable Signal:</strong> This is what you want! A strong, consistent tone and a stable VDI number (e.g., a solid 28 for a coin) usually indicates a good target.
 
@@ -209,31 +209,31 @@ Beyond the core functions, there are ways to optimise your setup and maintain yo
 
 <strong>Minelab Vanquish Accessories:</strong> Investing in quality accessories can significantly improve your detecting experience:
 
-[![what search coils can be used on a minelab vanquish](/img/V8-01.webp "what search coils can be used on a minelab vanquish")](https://crawfordsmd.com/v8-coil?tracking=fa202437c9)
+[![Minelab V8 search coil for the Vanquish on a dark background](/img/V8-01.webp "The small V8 coil suits trashy ground and tight spots")](https://crawfordsmd.com/v8-coil?tracking=fa202437c9)
 
 <strong>• Search Coils:</strong> Different sizes offer different benefits. A larger coil (e.g., V12) provides more depth and ground coverage for open areas, while a smaller coil (e.g., V8) is excellent for trashy sites or tight spaces, offering better target separation.
 
-[![minelab vanquish headphones, that are cheap and good](/img/GOPR0131.webp "minelab vanquish headphones, that are cheap and good")](https://crawfordsmd.com/v8-coil?tracking=fa202437c9)
+[![Red and black wired headphones beside a Minelab Vanquish control box](/img/GOPR0131.webp "Cheap, good headphones that suit the Vanquish")](https://crawfordsmd.com/v8-coil?tracking=fa202437c9)
 
-![minelab vanquish headphone socket 3.5mm jack](/img/P1040957_a_rwwyufix.webp "minelab vanquish headphone socket 3.5mm jack")
+![Headphone socket on the Minelab Vanquish control box, a 3.5mm jack](/img/P1040957_a_rwwyufix.webp "The Vanquish 340 takes wired headphones or a Bluetooth transmitter")
 
 <strong>Headphones:</strong> Essential for hearing faint signals and blocking out environmental noise. The Vanquish 340 has 3.5mm audio socket for connecting wired headphones or even a Bluetooth audio transmitter.
 
 The Vanquish 440 comes with wired headphones, and the 540 with wireless.
 
-[![minelab profind 40 pinpointer uk](/img/pro-find-40-image-web_49bjvii4.webp "minelab profind 40 pinpointer uk")](https://crawfordsmd.com/minelab-pro-find-40?tracking=fa202437c9)• Pinpointers: A high-quality pinpointer (like the Minelab Pro-Find series) is an absolute must-have. It dramatically speeds up target recovery, saving you time and preventing damage to targets.
+[![Minelab Pro-Find 40 pinpointer lying in grass beside a detector control box](/img/pro-find-40-image-web_49bjvii4.webp "The Pro-Find 40 pinpointer speeds up target recovery")](https://crawfordsmd.com/minelab-pro-find-40?tracking=fa202437c9)• Pinpointers: A high-quality pinpointer (like the Minelab Pro-Find series) is an absolute must-have. It dramatically speeds up target recovery, saving you time and preventing damage to targets.
 
-[![crawfords metal detectors has a range of cheap and good digging tools for metal detecting](/img/cmd-spades.webp "crawfords metal detectors has a range of cheap and good digging tools for metal detecting")](https://crawfordsmd.com/minelab-pro-spade?tracking=fa202437c9)• Digging Tools: A sturdy digging trowel or spade suitable for the ground you detect in.
+[![Wall display of spades and digging tools at Crawfords Metal Detectors](/img/cmd-spades.webp "Digging tools from Crawfords for different soils")](https://crawfordsmd.com/minelab-pro-spade?tracking=fa202437c9)• Digging Tools: A sturdy digging trowel or spade suitable for the ground you detect in.
 
-[![cheap finds pouch for metal detecting](/img/finds-bag.webp "cheap finds pouch for metal detecting")](https://crawfordsmd.com/cmd-pro-pouch?tracking=fa202437c9)• Pouch: For storing finds and trash.
+[![Black Crawfords finds pouch lying on a sandy beach](/img/finds-bag.webp "A cheap finds pouch for coins and trash")](https://crawfordsmd.com/cmd-pro-pouch?tracking=fa202437c9)• Pouch: For storing finds and trash.
 
 Coin and Artifact cleaning kit
 
-![a cheap coin cleaning kit for metal detecting, with a squirt bottle and soft brush for finds cleaning](/img/cleaning-kit.webp "cheap finds pouch for metal detecting")
+![Coin cleaning kit with a squirt bottle and soft brush on a sandy beach](/img/cleaning-kit.webp "Gentle cleaning for coins and artefacts")
 
 For gentle cleaning of coins and your artifacts
 
-[![small metal detecting finds box](/img/finds-box.webp "small metal detecting finds box")](https://crawfordsmd.com/cmd-finds-box-medium?tracking=fa202437c9)Finds storage box
+[![Small black Crawfords finds box on the beach at sunset](/img/finds-box.webp "small: A hard case keeps your best finds safe")](https://crawfordsmd.com/cmd-finds-box-medium?tracking=fa202437c9)Finds storage box
 
 Ideal for keeping those worked hard for finds safe.
 
@@ -267,7 +267,7 @@ o Ensure batteries are inserted correctly.
 
 <strong>• Minelab Vanquish Error Codes:</strong> Refer to your manual if specific error codes appear on your display. They usually indicate a specific issue with the coil or internal system. A Usual error code could be CD which means the search coil is not connected correctly.
 
-![minelab vanquish battery life](/img/RNB-weight.webp "minelab vanquish battery life")
+![Minelab Vanquish RNB power bank on digital scales beside AA batteries](/img/RNB-weight.webp "Power bank weighed against AA batteries")
 
 <strong>Battery Life:</strong> Monitor your battery indicator. To maximise battery life, turn off the backlight (Vanquish 540) when not needed. Consider carrying spare batteries or a Minelab Vanquish RNB power bank for longer outings.
 
@@ -281,18 +281,18 @@ Minelab Vanquish Price/Where to Buy:
 
 The Minelab Vanquish price varies by model. <strong>_Always purchase from authorised dealers_</strong> (Crawfords Metal Detectors) in the U.K. to ensure you receive a genuine product and valid warranty. ALL reputable detecting shops, both online and physical, stock the Vanquish.
 
-![minelab vanquish vs simplex](/img/vanq_simplex_vhqpcfgl.webp "minelab vanquish vs simplex")
+![Detectorist holding a Minelab Vanquish on mineralised ground, thumbnail comparing Vanquish and Simplex+](/img/vanq_simplex_vhqpcfgl.webp "Vanquish against the Simplex+ on mineralised ground")
 
 <strong>Minelab Vanquish vs. [Other Detectors]:</strong> You might see discussions comparing the Minelab Vanquish vs. other detectors like the Nokta Legend or even Minelab's own Equinox series. The Vanquish stands out for its simplicity, Multi-IQ performance, and excellent value for money. It's often seen as the stepping stone into advanced detecting without the complexity or higher price tag of professional machines. If you love the Vanquish, you might consider an Equinox or X-Terra Elite down the line for even more advanced features, but the Vanquish will serve you exceptionally well for years to come.
 
 Conclusion: Get Out and Detect!
 
-![Minelab vanquish small gold](/img/buster_gold.webp "Minelab vanquish small gold")
+![Minelab Vanquish on sandy ground, thumbnail titled 1st Gold and all about the settings](/img/buster_gold.webp "Buster's first gold with the Vanquish")
 
 The Minelab Vanquish is a formidable tool in the right hands. By understanding its features, mastering your settings, and applying effective techniques, you'll be consistently unearthing history and treasures. Remember the nuances of small gold items and thin hammered coins sharing IDs with common trash and adjust your discrimination accordingly if those are your targets.
 
-![discount code for crawfords metal detectors that works](/img/WEB_AD---Copy_9i98cpn7.webp "discount code for crawfords metal detectors that works")
+![Crawfords Metal Detectors discount banner showing the code paulcee10](/img/WEB_AD---Copy_9i98cpn7.webp "Use the paulcee10 code at crawfordsmd.com")
 
 Grab a Gift card and give to the metal detectorist in your life, they will appreciate it.
 
-[![crawfords metal detectors gift card](/img/cmd-gift-card-1_k4f7dsq4.webp "crawfords metal detectors gift card")](https://crawfordsmd.com/cmd-gift-voucher?tracking=fa202437c9)
+[![Blue Crawfords Metal Detectors gift card resting on a palm leaf](/img/cmd-gift-card-1_k4f7dsq4.webp "A gift card makes a good present for a detectorist")](https://crawfordsmd.com/cmd-gift-voucher?tracking=fa202437c9)

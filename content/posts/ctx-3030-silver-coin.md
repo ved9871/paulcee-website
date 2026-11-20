@@ -19,7 +19,7 @@ seo:
   keywords: minelab, ctx 3030, uk, crawfords, metal detectors, code, discount, cleethorpes, beach
 ---
 
-![metal detecting Cleethorpes beach](/img/130118.webp "metal detecting Cleethorpes beach")
+![metal detecting Cleethorpes beach](/img/130118.webp "Silver and old coins from the wet sand with the CTX 3030")
 
 Metal Detecting on the beach with the [CTX 3030](/ctx3030/) metal detector from Minelab, a superb beach detector
 

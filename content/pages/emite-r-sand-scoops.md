@@ -8,7 +8,7 @@ seo:
   keywords: Emiter scoops, Beach sand scoop, emiteR beach sand scoop, cheap sand scoop uk, sand scoops for metal detecting, sand sifter for metal detecting
 ---
 
-![Cheap Beach Sand Scoop Review Emite R made in Poland](/img/emite-r-scoops.webp "Cheap Sand scoop for metal detecting")
+![EmiteR budget sand scoops, one round-holed and one square-holed, on beach sand](/img/emite-r-scoops.webp "Cheap, made in Poland and sold through Crawfords")
 
 ## EmiteR sand scoops
 

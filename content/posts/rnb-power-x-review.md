@@ -25,7 +25,7 @@ seo:
 
 <strong>RNB Power X Battery Pack Review:</strong> A Versatile Powerhouse
 
-![minelab manticore with the rnb power x has a better detecting time than just the standard battery in low frequency detecting modes](/img/powerx_review1.webp "minelab manticore with the rnb power x has a better detecting time than just the standard battery in low frequency detecting modes")
+![RNB Power X review thumbnail showing the 10Ah USB power pack](/img/powerx_review1.webp "Review: RNB Power X on the Manticore for long low-frequency sessions")
 
 The _RNB Power X battery pack_ is quickly become a favourite among metal detectorists, and for good reason. Its impressive capacity and lightweight design make it an ideal companion for long detecting sessions, especially when paired with power-hungry machines like the Minelab Manticore. Allowing in the <strong>_high power_</strong> detecting modes of the Minelab Manticore around 24 hours of use before a re-charge, and much much longer with the Equinox and X-Terra detectors.
 
@@ -37,7 +37,7 @@ _No Performance Drop-Off_: Even with the Manticore's demanding power requirement
 
 <strong>Lightweight and Convenient:</strong> Weighing only 234 grams, the Power X adds minimal weight to your setup, making it comfortable to carry even during extended hunts. Its compact size and easy-to-use mounting system make it a breeze to attach and detach from your detector.
 
-![when and how to use a POWER X Battery on a metal detector](/img/rnb-Power-x1.webp "when and how to use a POWER X Battery on a metal detector")
+![Review thumbnail showing a Minelab Manticore screen and a QR code](/img/rnb-Power-x1.webp "Power X keeps the Manticore running in its high-power modes")
 
 <strong>High-Power Output Modes:</strong> The Power X is particularly beneficial when using the Manticore in its high-power output low-frequency modes. It ensures you can utilise these powerful modes for extended periods without worrying about running out of battery, maximising your chances of finding valuable targets.
 
@@ -81,7 +81,7 @@ Important Considerations:
 
 <strong>Portability:</strong> The RNB Power X is designed for portability, weighing only _234 grams_.
 
-![minelab manticore best power pack uk](/img/rnb-manticore-battery_tewujcks.webp "minelab manticore best power pack uk")
+![RNB Power X battery pack with mounting clips on a white background](/img/rnb-manticore-battery_tewujcks.webp "Only 234 grams, so it adds little weight to the shaft")
 
 Compatibility: _Not all generic USB power banks_ are compatible with the Minelab Manticore or other detectors.
 
@@ -95,4 +95,4 @@ Use the Code "paulcee10" for some money off.
 
 The RNB Power X is also available to buy in Europe, Australia and the USA with more international outlets coming
 
-![Manticore Power X Best price in the UK](/img/WEB_AD---Copy_lrv66acy.webp "Minelab manticore power bank")
+![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD---Copy_lrv66acy.webp "Use code paulcee10 at Crawfords Metal Detectors for a discount")

@@ -45,7 +45,7 @@ Plus you have a **wide search coil choice**, the Vanquish 60 series will work wi
 
 <strong>Why buy it?</strong> It is the most affordable way to get a rugged, fully waterproof machine. It feels professional in the hand and offers high-frequency switching for small targets.
 
-![Minelab X-Terra Pro budget waterproof metal detector with backlit display](/img/top5-xterra-pro.webp "Minelab X-Terra Pro ideal first metal detector")
+![Minelab X-Terra Pro control box and coil on ploughed soil, target ID reading 15](/img/top5-xterra-pro.webp "Minelab X-Terra Pro ideal first metal detector")
 
 [BUY Minelab X Terra Pro](https://crawfordsmd.com/minelab-x-terra-pro-bundle?tracking=fa202437c9)
 
@@ -59,7 +59,7 @@ Plus you have a **wide search coil choice**, the Vanquish 60 series will work wi
 
 <strong>Why buy it?</strong> If the Vanquish feels too “plasticky” for you, but if the Equinox 900 is above your Budget, this is the machine to get. It accepts **Equinox coils** and handles salt sand brilliantly.
 
-![Minelab X-Terra Elite metal detector featuring Multi-IQ simultaneous multi-frequency technology.](/img/top5-xterra-elite.webp "Minelab X-Terra Elite best metal detector for a beginner")
+![Spanish one peseta coin held in a dirty hand with a Minelab X-Terra screen behind](/img/top5-xterra-elite.webp "Minelab X-Terra Elite best metal detector for a beginner")
 
 [Buy Minelab X-Terra Elite](https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9)
 
@@ -75,7 +75,7 @@ Plus you have a **wide search coil choice**, the Vanquish 60 series will work wi
 
 [COMPARE MODELS](/minelab-equinox/)
 
-![Minelab Equinox 900 professional metal detector with carbon fiber shaft and 11-inch coil.](/img/top5-equinox-900.webp "Minelab Equinox review")
+![Minelab Equinox 900 control box lying on grass showing a Multi-IQ screen](/img/top5-equinox-900.webp "Equinox 900: the all-round upgrade for beach and field")
 
 [Buy Minelab Equinox 700](https://crawfordsmd.com/minelab-equinox-700?tracking=fa202437c9) [Buy Minelab Equinox 900](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
 
@@ -91,7 +91,7 @@ Plus you have a **wide search coil choice**, the Vanquish 60 series will work wi
 
 [A Choice of search coils to adapt your detecting to any terrain or land.](/manticore-m8-vs-m9-coil/)
 
-![Minelab Manticore high-performance metal detector showing 2D Target Trace ID map screen.](/img/top5-manticore.webp "Minelab Manticore for beach metal detecting")
+![Minelab Manticore with a Coiltek coil on rippled wet sand at sunset](/img/top5-manticore.webp "Minelab Manticore for beach metal detecting")
 
 [Buy Minelab Manticore](https://crawfordsmd.com/minelab-manticore?tracking=fa202437c9)
 

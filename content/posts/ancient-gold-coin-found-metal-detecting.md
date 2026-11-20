@@ -16,7 +16,7 @@ seo:
   keywords: gold stater, metal detecting finds, metal, detecting, minelab manticore, metal detecting treasure, finders keepers tv, paul cee, crawfords metal detectors
 ---
 
-![ancient gold coin found with a metal detector](/img/gold-stater.webp "small")
+![Gold stater lying on the Minelab Manticore control box in a field](/img/gold-stater.webp "small: The stater on the Manticore, reading 56 to 57")
 
 ## Ancient Gold Coin found with a metal detector
 
@@ -32,9 +32,9 @@ Day 2 started out pretty much the same, but then i remembered to use the ARCHI U
 
 I noticed that the 2 trees that were in the middle of the fields were once along a field boundary with a track (observed on lidar) through the middle, not having found much of interest i decided to give this area a go. Well I took about 20 steps and there was a signal, it wasnt deep and read about 56/57 on the manticore 2D screen. I hadnt had a signal in that target id range this weekend so wasnt sure if it was going to be another copper coin or more tin-can, so in went the spade to dig out the target.
 
-![gold stater found with a metal detector](/img/IMG-20230614-WA0007.webp "gold stater found with a metal detector")
+![Catalogue entry for a Cunobelinus Plastic gold stater, ABC 2786](/img/IMG-20230614-WA0007.webp "Reference entry identifying the stater as Cunobelinus")
 
-![gold stater weight found metal detecting in the uk](/img/gold-stater3.webp "gold stater weight found metal detecting in the uk")
+![Ancient coin on a digital scale reading 5.38 grams](/img/gold-stater3.webp "Weighing the stater at 5.38 grams")
 
 ### About the CATUVELLAUNI CELTIC TRIBE
 

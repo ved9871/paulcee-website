@@ -19,9 +19,9 @@ The National Council for Metal Detecting has a written Constitution which is ava
 
 The NCMD have been great of late with getting the ban on metal detecting on the beach at cleethorpes lifted albeit temporarily.
 
-[![insurance for metal detecting in the uk ](/img/ncmd-logo.webp "insurance for metal detecting in the Uk the ncmd is just what you need") ](https://www.ncmd.co.uk/)
+[![NCMD National Council for Metal Detecting logo with map of the UK](/img/ncmd-logo.webp "NCMD offers insurance and represents UK detectorists") ](https://www.ncmd.co.uk/)
 
-[![portable antiquities scheme uk, and where metal detecting finds are recorded on a database, that can be searched for context](/img/logo-portable-antiquities-scheme.webp "portable antiquities scheme Uk") ](https://finds.org.uk/)
+[![Portable Antiquities Scheme logo with the finds.org.uk web address](/img/logo-portable-antiquities-scheme.webp "Record your finds on the Portable Antiquities Scheme database") ](https://finds.org.uk/)
 
 ## Portable Antiquities Scheme
 
@@ -29,7 +29,7 @@ The Portable Antiquities Scheme is a voluntary scheme to record archaeological o
 
 Their website provides background information on the Portable Antiquities Scheme, news articles, events listings and access to our database of objects and images of finds.
 
-[![Crown Estate Foreshore permit, where to metal detect legally on the beach](/img/logo-crown-estate.webp "Crown Estate Foreshore permit") ](https://www.thecrownestate.co.uk/rural-and-coastal/coastal/metal-detecting/metal-detecting-permit-application/terms-and-conditions/)
+[![The Crown Estate logo in green with a crown emblem](/img/logo-crown-estate.webp "Crown Estate foreshore permits cover many UK beaches") ](https://www.thecrownestate.co.uk/rural-and-coastal/coastal/metal-detecting/metal-detecting-permit-application/terms-and-conditions/)
 
 ### The crown estate foreshore permit for metal detecting on beaches
 
@@ -45,7 +45,7 @@ At present The Crown Estate does not grant permits for the sea bed as the Treasu
 
 Finds above the low water mark are generally the property of the landowner, unless classified as Treasure. Wreck on the seabed may still legally belong to a third party, therefore we recommend that any finds, particularly whilst you are diving or snorkelling, are not removed and are reported to English Heritage and the Receiver of Wreck.
 
-![Cleethorpes Beach Metal Detecting Permit, where to get the permit, and what could happen if you dont apply for the FREE Permit](/img/clee-beach.webp "Cleethorpes Beach Metal Detecting Permit")
+![Detectorist digging on a wet beach as a police officer runs over with a penalty notice](/img/clee-beach.webp "Cleethorpes beach: get the free permit before you detect")
 
 #### Cleethorpes beach Metal Detecting.
 

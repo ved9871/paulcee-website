@@ -20,7 +20,7 @@ seo:
 
 Minelab X-Terra Voyager Tutorial
 
-![how to use a minelab voyager](/img/2026-thumb_0bwkmdko.webp "how to use a minelab voyager")
+![Paul Cee, Minelab Detexpert, smiling with arms folded in a Detexpert shirt](/img/2026-thumb_0bwkmdko.webp "Paul Cee shows the Voyager's buttons and features")
 
 In this blog post, we will guide you on how to set up and use the Minelab Voyager metal detector. If you're a beginner or just curious as to what the buttons and features are for we are here to help show you, understanding the features and settings of this Entry Level detector is key to maximising your treasure hunting experience. Let's dive in and get you ready to uncover some hidden gems!
 
@@ -30,4 +30,4 @@ We go through Everything from Assembling for the First time, fitting the search 
 
 {{product key="pro-pouch"}}
 
-![Minelab X Terra Voyager review and tutorial](/img/WEB_AD---Copy_etaapn92.webp "Minelab X Terra Voyager review and tutorial")
+![Crawfords Metal Detectors discount banner showing the code paulcee10](/img/WEB_AD---Copy_etaapn92.webp "Use code paulcee10 at crawfordsmd.com for a discount")

@@ -21,7 +21,7 @@ seo:
 
 The New Gift card from Crawfords Metal Detectors.
 
-![cmd gift card, that can be topped up and used to buy metal detectors and accessories from crawfords metal detectors](/img/cmd-gift-card-1.webp "small")
+![Blue Crawfords Metal Detectors gift card resting on a palm leaf](/img/cmd-gift-card-1.webp "small: Top-up gift card for detectors and accessories")
 
 Is the ideal gift for the metal detectorist in your life, can be topped up with the unique code, and used as a savings plan for your next purchase. Whether that is a new metal detector or metal detecting accessories.
 

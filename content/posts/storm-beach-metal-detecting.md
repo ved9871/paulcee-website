@@ -15,7 +15,7 @@ seo:
   keywords: metal, detecting, tips, hints, how, to, beach, minelab, detectors
 ---
 
-![war relics hunting](/img/121217finala.webp)
+![Man pointing at the camera on a stormy beach, with text about war relics and coins](/img/121217finala.webp "Storms strip sand away and bring the coins up")
 
 When the storms arrive on the coast and the wind and tides are removing sand and moving sand about is the best time to detect, check the wind conditions and tide times, try to get to the beach at HIGH Tide and follow the tide out, working a small area at a time along the wave line, if your not picking up signals, move along looking for lower spots and areas that have washed out, your knowledge of the beach helps alot here....
 

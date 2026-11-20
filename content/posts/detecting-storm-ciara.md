@@ -20,7 +20,7 @@ seo:
   keywords: Metal, Detecting, UK, Crawfords metal detectors, minelab metal detectors, metal detector tutorial, minelab vanquish, minelab manticore, minelab equinox, minelab detexpert
 ---
 
-![Metal Detecting in a Storm](/img/09022020.webp "Metal Detecting in a Storm")
+![Metal Detecting in a Storm](/img/09022020.webp "Mother Nature versus detectorists in Storm Ciara")
 
 Possibly only the second worst time to be out metal detecting i have ever faced, rain coming in horiziontally and super strong gale force winds really did make it a struggle to stand up..
 

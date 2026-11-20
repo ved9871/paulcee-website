@@ -7,9 +7,9 @@ seo:
   keywords: minelab Pro find, Minelab profind help, Minelab pro find waterproof pinpointer, metal detecting probe, set up, settings, problems, manual,  instructions
 ---
 
-![how to use all the features on a minelab Go find 35 probe](/img/pro-find-web.webp "how to use all the features on a minelab Go find 35 probe")
+![Minelab Pro-Find 35 pinpointer with orange grip and the words User Guide](/img/pro-find-web.webp "Controls, set-up and tips for the Pro-Find 35")
 
-![how to use, set up and fault finding on a minelab 40 pro find](/img/pro-find-40-guide--WEB-_c4zg82n2.webp "how to use, set up and fault finding on a minelab 40 pro find")
+![Minelab Pro-Find 40 pinpointer with red grip lying in dry grass, titled User Guide](/img/pro-find-40-guide--WEB-_c4zg82n2.webp "Set-up and fault finding for the Pro-Find 40")
 
 ## The Minelab Pro Find Probe
 
@@ -45,4 +45,4 @@ For help setting up and using your Minelab PRO-FIND check out the videos...
 
 {{youtube id="fFCVaYQ1-uE" title="how to use a minelab profind 40. settings an fault finding"}}
 
-![minelab pro find User Guide](/img/WEB_AD2026a.webp "minelab pro find User Guide")
+![Crawfords Metal Detectors discount banner showing the code paulcee10](/img/WEB_AD2026a.webp "Save with the paulcee10 code at crawfordsmd.com")

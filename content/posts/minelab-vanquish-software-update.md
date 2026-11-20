@@ -19,7 +19,7 @@ seo:
   keywords: minelab Vanquish update, how, minelab vanquish software update, latest vanquish software version
 ---
 
-![how to update minelab vanquish software](/img/vanquish-update.webp "how to update minelab vanquish software")
+![Two Minelab Vanquish detectors with an update v1.1 banner](/img/vanquish-update.webp "Updating the Vanquish software to version 1.1")
 
 ## Minelab VANQUISH SOFTWARE UPDATE
 

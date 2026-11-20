@@ -19,15 +19,15 @@ seo:
 
 ## Crawfords Metal Detectors Training days what do you get to learn
 
-![Crawfords Metal Detecting Training days](/img/DSC00308-copy.webp)
+![Five people standing around a Nissan pickup truck in a green field](/img/DSC00308-copy.webp "The Crawfords training day team")
 
 Crawfords Metal Detectors north and south, join forces to hold metal detector training days.
 
-With A "Minelab Detexpert Paul Cee" ![Minelab Detexpert, Paul Cee explaining how to set up a minelab Equinox](/img/DSC00062-copy.webp)
+With A "Minelab Detexpert Paul Cee" ![Paul Cee in a Minelab top explaining detector settings to a woman at a field event](/img/DSC00062-copy.webp "Paul Cee demonstrating Equinox settings in the field")
 
 Gary Blackwell For Xp Metal Detectors.
 
-![Gary Blackwell Xp Metal detector Tutorials](/img/DSC00248-copy.webp)
+![Three men chatting on grass at a metal detecting training day with tents behind](/img/DSC00248-copy.webp "Hands-on practice rather than classroom talks")
 
 The Training days are not classroom based as we feel that just sat listening to people talk does not help a beginner to metal detecting figure out all the settings to get the best out of their metal detector.
 

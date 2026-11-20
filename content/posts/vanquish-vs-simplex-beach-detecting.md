@@ -21,7 +21,7 @@ seo:
   keywords: minelab vanquish vs simplex, minelab vanquish beach, nokta simplex, multi iq, crawfords metal detectors, minelab multi iq
 ---
 
-![Nokta Macro Simplex Beach Metal Detecting](/img/simplex-wet-sand_1.webp "Nokta Macro Simplex Beach Metal Detecting")
+![Man in a beanie holding a Nokta Simplex and a red Minelab Vanquish at sunset, titled Black sand testing](/img/simplex-wet-sand_1.webp "Black sand test: Vanquish against the Nokta Makro Simplex")
 
 ## Minelab Vanquish vs nokta makro simplex
 

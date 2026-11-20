@@ -20,7 +20,7 @@ seo:
   keywords: mionelab equinox settings, best equinox 800 settings, beach to land settings
 ---
 
-![minelab Equinox best beach settings](/img/240818_gold.webp "minelab Equinox best beach settings")
+![Detectorist pointing at a gold ring on a shiny surface, text reads Double gold and silver](/img/240818_gold.webp "Gold and silver found with custom Equinox settings")
 
 ## Custom settings on the Minelab Equinox
 

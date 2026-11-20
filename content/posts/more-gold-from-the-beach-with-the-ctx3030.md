@@ -18,7 +18,7 @@ seo:
   keywords: minelab, metal detector uk, minelab manticore, minelab equinox beach, minelab ctx 3030 settings
 ---
 
-[![ctx 3030 beach metal detector in the uk](/img/060118_a.webp)](/ctx3030/)
+[![Minelab CTX 3030 control box and coil on sand with CTX 3030 text](/img/060118_a.webp "The CTX GPS track helps grid out a big stretch of beach")](/ctx3030/)
 
 A Great Day On the beach 2 Gold bits, 1 Signet ring and an earing with pearls, a live round and some pre decimal coins, I covered alot of beach as you can see from the gps track on the screen of the CTX, which is a really helpful bonus when gridding out the beach.
 

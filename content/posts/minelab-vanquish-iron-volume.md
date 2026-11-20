@@ -20,7 +20,7 @@ seo:
   keywords: minelab vanquish iron volume, minelab vanquish settings, how to use a minelab vanquish, minelab vanquish update, minelab update utility
 ---
 
-![where to find minelab Vanquish iron volume](/img/iron-volume_web.webp "where to find minelab Vanquish iron volume")
+![Minelab Vanquish screen showing FE for the iron volume setting](/img/iron-volume_web.webp "Where to find and set iron volume on the Vanquish")
 
 ## HOW TO SET IRON VOLUME MINELAB VANQUISH
 

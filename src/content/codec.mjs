@@ -51,9 +51,12 @@ function imgToMd(a, { fileForKey, onMissingImage }) {
   const alt = escapeText(decodeAttr(a.alt || '')).replace(/\n/g, ' ');
   if (src.startsWith('@img:')) {
     const file = fileForKey(src.slice(5)); if (!file) { onMissingImage?.(src); return ''; }
-    return `![${alt}](${mdUrl(file)}${+a.width && +a.width <= 180 ? ' "small"' : ''})`;
+    const cap = decodeAttr(a.title || '').replace(/"/g, "'").trim();
+    const t = [+a.width && +a.width <= 180 ? 'small' : '', cap].filter(Boolean).join(': ');
+    return `![${alt}](${mdUrl(file)}${t ? ` "${t}"` : ''})`;
   }
-  return `![${alt}](${mdUrl(decodeAttr(src))})`;
+  const cap = decodeAttr(a.title || '').replace(/"/g, "'").trim();
+  return `![${alt}](${mdUrl(decodeAttr(src))}${cap ? ` "${cap}"` : ''})`;
 }
 
 const BREAK = '\u0000'; // placeholder for <br> until emphasis edges are settled; becomes "\\\n"
@@ -143,8 +146,10 @@ function imgToken(a, { resolve, keyForFile, onMissingImage }) {
   if (/^https?:/i.test(src)) return `<img src="${encodeAttr(src)}" alt="${alt}">`;
   const key = src.startsWith('@img:') ? src.slice(5) : (keyForFile(src) || src);
   const m = resolve(key); if (!m) { onMissingImage?.(src); return ''; }
-  const small = a.title === 'small' && m.w > 180;
-  return `<img src="@img:${key}" alt="${alt}" width="${small ? 180 : m.w}" height="${small ? Math.round(m.h * 180 / m.w) : m.h}">`;
+  const title = decodeAttr(a.title || '');
+  const small = /^small\b/i.test(title) && m.w > 180;
+  const caption = title.replace(/^small\b\s*[:|-]?\s*/i, '').trim();
+  return `<img src="@img:${key}" alt="${alt}"${caption ? ` title="${encodeAttr(caption)}"` : ''} width="${small ? 180 : m.w}" height="${small ? Math.round(m.h * 180 / m.w) : m.h}">`;
 }
 
 export function plainHtmlToToken(html, ctx) {

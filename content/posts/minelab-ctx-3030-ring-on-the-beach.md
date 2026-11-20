@@ -21,7 +21,7 @@ seo:
   keywords: metal, detector, cleethorpes, beach, detecting, accessories
 ---
 
-![Cleethorpes beach Metal Detecting](/img/070118.webp "Cleethorpes beach Metal Detecting")
+![Cleethorpes beach Metal Detecting](/img/070118.webp "Old coins and an old ring from the beach with the CTX 3030")
 
 Beach Metal Detecting Uk with the [Minelab CTX 3030](/ctx3030/), a very capable beach detector, in my opinion the Best detector for beach detecting, today we get plenty of Old Coins and an old ring
 

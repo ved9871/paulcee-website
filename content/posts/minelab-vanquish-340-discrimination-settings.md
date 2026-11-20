@@ -21,9 +21,9 @@ seo:
   keywords: minelab vanquish, discrimination settings, how to, help, metal detector, uk settings
 ---
 
-![How to set up and use a minelab Vanquish Metal Detector](/img/2026-thumb_0bwkmdko.webp "Minelab Vanquish Discrimination settings")
+![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/2026-thumb_0bwkmdko.webp "Paul Cee explains discrimination on the Vanquish 340")
 
-![Discrimination settings on minelab Vanquish 340 metal detector](/img/vanquish_discrim.webp "Minelab Vanquish Discrimination settings")
+![Detectorist on a sandy beach with a Minelab Vanquish 340 and a sand scoop](/img/vanquish_discrim.webp "Setting discrimination to skip junk on the beach")
 
 ## Minelab Vanquish 340 discrimination
 

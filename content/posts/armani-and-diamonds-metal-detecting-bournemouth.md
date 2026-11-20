@@ -19,7 +19,7 @@ seo:
   keywords: minelab, ctx 3030, uk, beach, detecting, metal, treasure, hunt
 ---
 
-![Devon Beach Metal Detect](/img/bourne-1_rcqvo5e2.webp "Bournemouth Beach Metal Detecting")
+![Detector coil and control box in clear shallow sea water at Bournemouth](/img/bourne-1_rcqvo5e2.webp "Detecting the shallows at Bournemouth and Sandbanks")
 
 ## Sandbanks and Bournemouth beach
 

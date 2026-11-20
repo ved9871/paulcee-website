@@ -17,7 +17,7 @@ seo:
   keywords: Equinox 800, minelab Equinox 800, wm08, headphones, waterproof earbuds, equinox waterproof headphones uk, metal detector uk
 ---
 
-[![Equinox WM08 make it waterproof](/img/vs180226-001a.webp)](http://bit.ly/2VcUX0q)
+[![Man holding the Minelab Equinox WM08 wireless module on a seafront](/img/vs180226-001a.webp "Making the Equinox WM08 module waterproof for beach and rain")](http://bit.ly/2VcUX0q)
 
 ## Minelab Equinox WM08 Module
 

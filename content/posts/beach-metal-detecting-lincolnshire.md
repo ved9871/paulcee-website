@@ -25,7 +25,7 @@ seo:
   keywords: metal, detecting, cleethorpes, beach, cmd discount code
 ---
 
-[![beach metal detecting lincolnshire, what can you find](/img/180916.webp)](http://bit.ly/2VcUX0q)
+[![Collage of coins, binoculars and a toy steam traction engine found on a Lincolnshire beach](/img/180916.webp "Coins, binoculars and a toy steam engine from the beach")](http://bit.ly/2VcUX0q)
 
 Another Fantastic weekend metal detecting on the beach with the [minelab ctx 3030](/ctx3030/)
 

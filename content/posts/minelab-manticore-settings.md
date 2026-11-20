@@ -17,9 +17,9 @@ seo:
   keywords: minelab, manticore, best, settings, best settings for a minelab manticore, freestyle, Beast settings
 ---
 
-![what are the best settings for a minelab manticore](/img/2026-thumb_0bwkmdko.webp "what are the best settings for a minelab manticore")
+![Paul Cee smiling with folded arms in a field, wearing a Detexpert shirt](/img/2026-thumb_0bwkmdko.webp "Paul Cee, Minelab Detexpert, with Crawfords Metal Detectors")
 
-![setting up a minelab manticore with the best settings for beach and fields](/img/detexpert-logosml_383z1pp5.webp "setting up a minelab manticore with the best settings for beach and fields")
+![Detexpert shield logo with the Minelab emblem](/img/detexpert-logosml_383z1pp5.webp "Manticore settings from a Minelab Detexpert")
 
 Minelab Manticore Best Settings
 

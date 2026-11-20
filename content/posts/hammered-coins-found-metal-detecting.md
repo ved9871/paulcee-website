@@ -11,7 +11,7 @@ seo:
   keywords: silver, hammered, coins, how, to, find, detector, detecting
 ---
 
-![treasure finds uk hammered coins found](/img/hammered_heaven1.webp)
+![Smiling detectorist in headphones holding a coin beside a hammered silver penny](/img/hammered_heaven1.webp "Hammered silver coins like this can turn up on modern detectors")
 
 When you go out treasure hunting looking for hammered coins, with a modern metal detector, these are the types of hammered coins that can be expected to be found.
 

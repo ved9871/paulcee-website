@@ -28,7 +28,7 @@ The coil configuation is a DD search coil, which is great as you get the huge gr
 
 this coiltek coil is also suitable for the Minelab X-Terra metal detectors
 
-![the Coiltek Nox 15 inch coil is super sensitive to small targets](/img/WEB.webp "Coiltek Nox 15 inch coil review")
+![Small cut quarter of a hammered coin found with the Coiltek Nox 15 inch coil](/img/WEB.webp "Proof the 15 inch coil still finds tiny targets at depth")
 
 Over the standard search area of the stock coil this coil seems huge, but it still has the super sensitivity that Coiltek are renound for, so missing small targets even at good depth is down to user error and not that the NOX 15 inch coil dosn't recieve a signal. It WILL Seek out super small target as the image above shows a cut 1/4 hammered coil, which are at best pretty hard to find
 

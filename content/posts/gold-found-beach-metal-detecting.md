@@ -22,7 +22,7 @@ seo:
   keywords: minelab, equinox 800, metal detector, beach, crawfords, metal, detectors
 ---
 
-![found gold detecting on the beach](/img/P1040494.webp "Cleethorpes beach Metal Detecting")
+![Small gold find lying on the Minelab Equinox 800 control panel on a beach at sunset](/img/P1040494.webp "More gold from Cleethorpes beach with the Equinox 800")
 
 ### More gold found with the Minelab Equinox 800
 

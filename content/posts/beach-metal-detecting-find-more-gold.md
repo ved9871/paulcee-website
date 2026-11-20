@@ -11,10 +11,10 @@ seo:
   keywords: metal, detect, beach, how, to, find, gold
 ---
 
-![tips to find gold metal detecting on the beach](/img/dodd_16.webp)
+![Paul Cee holding a handful of found rings on a beach beside a funfair](/img/dodd_16.webp "Episode 16 of Learning to Metal Detect: rings from the beach")
 
 ## Learning to metal detect beaches
 
 hints and tips to help you find more gold and jewellery, with the Minelab Equinox, setting up Detector tones, what targets come at which numbers, where on the beach to metal detect, learn to understand the metal detector
 
-[![Learn how to metal detect, with tips tricks and tutorials](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/)
+[![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD2026a.webp "More beach tips on YouTube, plus a Crawfords discount code")](https://crawfordsmd.com/)

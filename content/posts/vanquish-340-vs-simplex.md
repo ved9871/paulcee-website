@@ -20,7 +20,7 @@ seo:
   keywords: Minelab Vanquish, Nokta simplex, vs, best, beginner, detector
 ---
 
-[![nokta makro simplex or minelab vanquish](/img/vanq_simplex.webp "Minelab Vanquish vs Nokta Simplex")](https://youtu.be/uNVQcrNjyfY)
+[![Man in a cap holding a Minelab Vanquish in a field, titled Multi-IQ or Simplex on mineralised ground](/img/vanq_simplex.webp "Vanquish 340 against the Nokta Simplex on mineralised ground")](https://youtu.be/uNVQcrNjyfY)
 
 ## Minelab vanquish vs nokta simplex
 

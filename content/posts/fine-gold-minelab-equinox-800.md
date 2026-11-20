@@ -20,7 +20,7 @@ seo:
   keywords: Equinox,Gold,Chain,settings,help,beach,detecting,tones
 ---
 
-![Metal detecting cleethorpes beach finds gold](/img/240318.webp)
+![Minelab Equinox control box with a gold coin and Double Gold title text](/img/240318.webp "gold the Equinox 800 can find")
 
 ## Find small gold with a minelab equinox
 

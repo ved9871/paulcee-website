@@ -19,6 +19,6 @@ seo:
   keywords: Equinox,deep,settings,beach,hunting,surf,best,Minelab
 ---
 
-![minelab equinox depth](/img/211018_1.webp)
+![Detectorist in sunglasses holding up a silver coin on a beach at sunset](/img/211018_1.webp "My favourite coin, found in the black sand below the wet sand")
 
 Metal Detecting the beach, today with the [Minelab equinox 800](/minelab-equinox/) and deep setting i have had success with in the past outings, these are now my used settings on the wet sand, i Found my favorite coin in the black sand which is just below the wet sand and usually holds plenty of good finds, so long as the tide doesn't wash sand back on the beach

@@ -25,7 +25,7 @@ seo:
 
 ## Striking Gold in the UK: The Complete Guide to Gold Panning in Scotland &amp; Wales
 
-![Gold Panning with Minelab Gold pans In The Scottish Highlands](/img/gold-panning-web.webp "Gold Panning with Minelab Gold pans In The Scottish Highlands")
+![Family gold panning in a Scottish Highland river with Minelab gold pans](/img/gold-panning-web.webp "Gold panning makes a great family day out in Scotland and Wales")
 
 Few outdoor activities combine natural beauty, geological history, and the thrill of discovery quite like gold panning in the UK.
 
@@ -101,7 +101,7 @@ Recreational gold prospecting in the UK is strictly limited to non-mechanised ha
 
 ### _The Basic Starter Kit_
 
-[![find gold in the uk, a starter kit from Minelab and crawfords metal detectors](/img/pan-kit.webp "Gold Panning Kit For the Uk")](https://crawfordsmd.com/minelab-pro-gold?tracking=fa202437c9)
+[![Minelab Pro-Gold starter kit with blue gold pans, classifier, vials and drawstring bag](/img/pan-kit.webp "A Minelab starter kit from Crawfords is all you need to start panning")](https://crawfordsmd.com/minelab-pro-gold?tracking=fa202437c9)
 
 <strong>Plastic Gold Pan (10" to 14"):</strong> Modern lightweight plastic pans with moulded riffles (ridges) trap heavy gold while washing away lighter sand. Green, blue, or black pans provide the best visual contrast against yellow gold.
 
@@ -127,7 +127,7 @@ Recreational gold prospecting in the UK is strictly limited to non-mechanised ha
 
 <strong>_Waterproof Kneeling Mat_</strong>: Keeps your knees dry and comfortable when working low in shallow streams.
 
-![how gold gets trapped and settles in certain places in the flow of a river or stream in the uk](/img/find-gold.webp "Where to find Natural Gold in England")
+![Diagram showing gold settling on the inner bend of a river where the current slows](/img/find-gold.webp "Look for slow water, inner bends and bedrock where heavy gold drops out")
 
 ### _Step-by-Step Gold Panning Technique_
 
@@ -207,6 +207,6 @@ Ready to plan your next outdoor excursion? Bookmark this guide, check local esta
 
 Get some money off your gold panning equipment from Crawfords Metal Detectors, using the the code below. Put the code paulcee10 at checkout
 
-[![where to buy gold panning equipment in the uk, and where can you look for gold in england](/img/WEB_AD2026.webp "where to buy gold panning equipment in the UK, and where can you look for gold in England")](https://crawfordsmd.com/minelab-pro-gold?tracking=fa202437c9)
+[![Crawfords Metal Detectors banner with discount code paulcee10 and Detexpert logo](/img/WEB_AD2026.webp "Take money off panning gear at Crawfords with code paulcee10")](https://crawfordsmd.com/minelab-pro-gold?tracking=fa202437c9)
 
 I hope you enjoyed the read, and good luck on your gold panning adventure.

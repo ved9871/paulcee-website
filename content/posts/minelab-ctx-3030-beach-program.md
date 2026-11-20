@@ -20,7 +20,7 @@ seo:
   keywords: Metal, Detecting, UK, Crawfords metal detectors, minelab metal detectors, metal detector tutorial, minelab vanquish, minelab manticore, minelab equinox, minelab detexpert
 ---
 
-![cmd discount code for metal detecting](/img/profile-pic-2020_final.webp)
+![Paul Cee in front of a Union Jack carrying a Minelab detector](/img/profile-pic-2020_final.webp "Testing a CTX 3030 beach program to see if it finds more")
 
 I got sent a program for the Minelab CTX 3030 and told it would detect deeper and find me more than what i usually do..
 

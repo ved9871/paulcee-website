@@ -11,7 +11,7 @@ seo:
   keywords: metal, detector, detecting, best, finds, silver, coins, uk
 ---
 
-![treasure hunting finds, and what you could find with a metal detector](/img/finds_sorting.webp)
+![Trays and boxes of sorted metal detecting finds including coins and jewellery](/img/finds_sorting.webp "Sorting years of finds: coins, silver and relics")
 
 ## Metal detecting and treasure hunting finds in the uk.
 

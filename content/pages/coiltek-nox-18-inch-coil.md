@@ -7,7 +7,7 @@ seo:
   keywords: coiltek nox 18, x-terra pro coil, minelab equinox coil, deepest seach coil, minelab equinox, minelab x-terra pro, metal detector coil, best search coil.
 ---
 
-[![In-depth review of the Coiltek 18-inch NOX Coil for Minelab Detectors. We test depth, weight, and separation to see if this massive deep-seeking coil is worth the upgrade for relic and beach hunters](/img/nox-18_Review.webp "Coiltek Nox 18 inch coil review") ](https://crawfordsmd.com/coiltek-nox18?tracking=fa202437c9)
+[![Minelab X-Terra Pro screen beside a Coiltek 18 inch NOX coil on a beach](/img/nox-18_Review.webp "Coiltek 18 inch NOX coil review for the Equinox 900") ](https://crawfordsmd.com/coiltek-nox18?tracking=fa202437c9)
 
 ## Review: Coiltek 18" NOX Coil for Minelab Equinox 900
 

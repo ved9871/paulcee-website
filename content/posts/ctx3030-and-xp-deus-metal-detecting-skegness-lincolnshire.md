@@ -11,10 +11,10 @@ seo:
   keywords: ctx 3030 vs xp deus, best beach detector uk, new metal detector, metal detecting near me, minelab CTX 3030 beach detecting
 ---
 
-![Skegness beach metal detecting](/img/061016.webp)
+![Gloved hands holding a silver ring on Skegness beach with CTX 3030 and Deus logos](/img/061016.webp "A ring found on Skegness beach with the CTX 3030 and Deus")
 
 A Great Day Metal Detecting Skegness beach, with the minelab [ctx3030](/ctx3030/) and xp Deus, although there was a great deal of sand on the main beach the dry sand was more productive [coin shooting](/beginners-guide-to-metal-detecting/) with the Deus
 
 Follow my beach detecting adventures on [social media](/social-sites/)
 
-![Skegness beach Metal Detecting](/img/WEB_AD2026a.webp)
+![Crawfords Metal Detectors discount banner showing the code paulcee10](/img/WEB_AD2026a.webp "Use the paulcee10 code at Crawfords Metal Detectors")

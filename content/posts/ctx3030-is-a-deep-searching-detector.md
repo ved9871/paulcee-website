@@ -19,14 +19,14 @@ seo:
   keywords: beach metal detecting, uk beach metal detecting, metal detecting uk
 ---
 
-![Good Minelab CTX 3030 beach settings](/img/120317.webp "Minelab CTX 3030 beach settings")
+![Gloved fingers holding a worn old copper penny dug on the beach with the CTX 3030](/img/120317.webp "Deep old coins from the wet sand with the CTX 3030")
 
-![minelab CTX 3030 beach Settings](/img/deep-beach.webp "minelab CTX 3030 beach Settings")
+![minelab CTX 3030 beach Settings](/img/deep-beach.webp "A custom beach pattern in the CTX 3030 mode editor, set for seawater")
 
 Back out on the wet sand where all the old coins and relics are to be found, nice old coins and what i think is a silver plated sugar or teapot lid, it has hallmarks in it, fancy a go a cracking the code and telling me, feel free. you can see the Hallmark just on the image below
 
-![silver relic](/img/resize--11-of-13-.webp "Silver Relic Metal Detecting Find")
+![Tarnished silver-plated lid with a pointed finial and notch found on the beach](/img/resize--11-of-13-.webp "Silver plated sugar or teapot lid from the wet sand, with hallmarks")
 
-![hallmark old](/img/resize--12-of-13-.webp "An OLD HALLMARK")
+![Close-up of worn hallmarks stamped inside the old silver-plated lid](/img/resize--12-of-13-.webp "Can you read the hallmark? Paul would love to know the maker")
 
 {{youtube id="q9KCE5MA3Ek"}}

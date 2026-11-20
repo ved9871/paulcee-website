@@ -17,7 +17,7 @@ seo:
   keywords: metal detecting uk, minelab ctx 3030, beach metal detecting uk
 ---
 
-![beach metal detecting uk](/img/150117.webp "beach metal detecting uk")
+![Ring in the Scoop title graphic over a perforated sand scoop and two copper coins](/img/150117.webp "A ring turns up in the sand scoop with two old copper coins")
 
 ### Looking for gold on the beach
 

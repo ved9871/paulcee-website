@@ -19,8 +19,8 @@ seo:
   keywords: metal detecting, best beach metal detector uk, metal detector for gold, crawfords metal detectors
 ---
 
-[![find gold beach metal detecting cleethorpes metal detecting](/img/250515.webp)](http://bit.ly/2xJ0AJW)
+[![Gold rings, old pennies and a bullet laid out as a holiday weekend beach haul](/img/250515.webp "A holiday weekend haul from the East Coast with the CTX 3030")](http://bit.ly/2xJ0AJW)
 
 Beach Metal Detecting on the East Coast of England, Using the [Minelab](/ctx3030/) CTX3030, with the stock coil and 17" coil, some really deep targets [gold rings](/beginners-guide-to-metal-detecting/) and pre decimal coins.
 
-![Minelab CTX 3030 beach Detecting](/img/WEB_AD2026a.webp)
+![Crawfords Metal Detectors banner with discount code paulcee10 and Paul Cee photo](/img/WEB_AD2026a.webp "Code paulcee10 at crawfordsmd.com for money off")

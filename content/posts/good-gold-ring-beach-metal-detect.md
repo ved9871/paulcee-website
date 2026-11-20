@@ -11,13 +11,13 @@ seo:
   keywords: ww1 metal detecting finds, metal detecting uk, minelab ctx 3030 uk, ctx 3030 beach program
 ---
 
-![beach metal detecting](/img/resize--28-of-28-a.webp)
+![HMS Osiris II ring above a detector coil on rippled beach sand](/img/resize--28-of-28-a.webp "The Osiris II ring turned up on a New Year beach hunt")
 
 ## OLD Gold Submariners ring found with a metal detector
 
 Well good to be back Metal detecting on the beach with the [Minelab CTX 3030](/ctx3030/) and finding gold again, this time a nice gold ring that really is pretty cool, history of submariners on HMS Osiris II, not many old coins but some modern ones, good day when you get some sand movement, and then looking for the treasures its uncovered..
 
-![old gold ring found metal detecting](/img/resize--6-of-11-.webp)
+![Close-up of an old ring engraved with an anchor and HMS Osiris II](/img/resize--6-of-11-.webp "Submariners ring with the HMS Osiris II anchor crest")
 
 ### A Little bit about the HMS OSIRIS
 
@@ -43,4 +43,4 @@ She was decommissioned on 7 March 1945.
 
 Osiris was sold to be broken up for scrap in September 1945. She was scrapped at Durban, South Africa.
 
-![where is the best place to find gold](/img/WEB_AD2026a.webp)
+![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD2026a.webp "Buying kit? Use code paulcee10 at Crawfords Metal Detectors")

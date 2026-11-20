@@ -20,7 +20,7 @@ seo:
   keywords: minelab, equinox, x terra, elite, search coil, small coil, accessories
 ---
 
-[![minelab coil small on the Minelab Equinox](/img/071018.webp "Small coil for a minelab Equinox")](https://crawfordsmd.com/equinox-6-inch-coil?tracking=fa202437c9)
+[![minelab coil small on the Minelab Equinox](/img/071018.webp "small: A 1600 year old coin found in Lincolnshire with the small coil")](https://crawfordsmd.com/equinox-6-inch-coil?tracking=fa202437c9)
 
 ## Metal Detecting Lincolnshire UK,
 

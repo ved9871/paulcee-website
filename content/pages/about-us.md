@@ -7,7 +7,7 @@ seo:
   keywords: metal detecting, minelab detexpert, crawfords metal detectors, minelab electronics, minelab metal detectors, minelab manticore
 ---
 
-![paul cee minelab](/img/detexpert-logosml_4m9sb6tk.webp "paul cee metal detecting")
+![Detexpert Minelab shield logo with a red detector icon](/img/detexpert-logosml_4m9sb6tk.webp "Paul Cee is a Minelab Detexpert")
 
 ## About Paul Cee metal Detecting
 

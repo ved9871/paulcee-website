@@ -18,12 +18,12 @@ seo:
   keywords: detectival, hambledon hoard, minelab equinox, metal, detector, crawfords metal detectors
 ---
 
-![Metal Detecting at Detectival Rally in the Uk](/img/detectival_hammered.webp "metal detecting at Detectival Rally in the Uk")
+![Smiling detectorist in headphones holding up a coin on Detectival day 1](/img/detectival_hammered.webp "Day 1 at Spring Detectival with a coin in hand")
 
-![metal detecting rally in the uk](/img/2026-thumb.webp "Metal Detecting Rally Weekend")
+![Paul Cee smiling with folded arms in a field, wearing a Detexpert shirt](/img/2026-thumb.webp "Paul Cee, Minelab Detexpert and Crawfords team member")
 
 ## Spring Detectival in the UK.
 
 Already a hoard of Gold and silver coins has been found on the metal detecting rally but what will team Crawfords find with the Minelab Equinox
 
-![metal detecting rally](/img/WEB_AD2026a.webp "Metal Detecting Rally Uk")
+![Crawfords Metal Detectors discount advert with Paul Cee and Detexpert logos](/img/WEB_AD2026a.webp "Save at Crawfords with the paulcee10 code")

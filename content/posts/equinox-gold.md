@@ -23,7 +23,7 @@ seo:
   keywords: equinox 800 settings, equinox 800 gold, coinshooting, beach detecting, crawfords metal detectors
 ---
 
-![minelab equinox tones and beach settings](/img/20180804_055729.webp "minelab equinox tones and beach settings")
+![Gold ring on a Minelab Equinox control box with a beach and pier behind](/img/20180804_055729.webp "The Equinox 800 and the gold ring it found on the beach")
 
 ## Minelab Equinox 800 beach metal detecting Uk
 

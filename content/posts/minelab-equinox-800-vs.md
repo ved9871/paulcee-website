@@ -11,7 +11,7 @@ seo:
   keywords: minelab, equinox 800, garrett, seahunter, metal detector, equinox beach settings
 ---
 
-![Equinox 800 vs garrett seahunter](/img/buster-gold_web.webp)
+![Detectorist pointing at a detector with blue headphones on a beach, text reads Nox and Seahunter](/img/buster-gold_web.webp "Equinox 800 and Sea Hunter Mk2 compared on the beach")
 
 ## Beach metal detecting.
 

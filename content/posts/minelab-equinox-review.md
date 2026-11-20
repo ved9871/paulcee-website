@@ -19,7 +19,7 @@ seo:
   keywords: minelab equinox hammered coins, minelab equinox gold, minelab equinox 800 tones, minelab equinox settings
 ---
 
-![a look at what tones and target id come on the minelab equinox](/img/equinox1_final.webp "small")
+![Man in front of text on Equinox 800 tones and numbers for gold and silver](/img/equinox1_final.webp "small: Equinox tones and target IDs for gold and silver")
 
 ## Minelab Equinox tones and id for gold and silver
 

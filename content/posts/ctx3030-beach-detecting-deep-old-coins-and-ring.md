@@ -19,10 +19,10 @@ seo:
   keywords: minelab ctx 3030 uk, metal detector uk, new minelab metal detector,metal detecting rally, metal detector shop
 ---
 
-[![the best metal detector for finding gold](/img/resize--18-of-53-.webp)](http://bit.ly/2xJ0AJW)
+[![Old ring with a red stone on the Minelab CTX 3030 control panel on sand](/img/resize--18-of-53-.webp "Old ring with a red stone, found on a Lincolnshire beach")](http://bit.ly/2xJ0AJW)
 
 Metal Detecting Lincolnshire Beaches once again, early morning, plenty of trash, but amongst it there were plenty of old coins and a nice old ring with a red stone, coins from queen Victoria to George vi and some modern coins..
 
 If your new to metal detecting or still learning your metal detector tones there are some [metal detecting hints and tips](/beginners-guide-to-metal-detecting/) here
 
-[![minelab 15 inch search coil for an equinox](/img/DSC07547-copy.webp)](/crawfords-metal-detectors/)
+[![Detectorist in headphones silhouetted against the sky holding a large search coil](/img/DSC07547-copy.webp "Heading out for another session on the Lincolnshire beaches")](/crawfords-metal-detectors/)

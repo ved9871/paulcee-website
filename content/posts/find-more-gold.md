@@ -18,7 +18,7 @@ seo:
   keywords: equinox, 800, crawfords, metal, detectors, regton, detectors, best
 ---
 
-![Beach detecting uk](/img/2908gold.webp "Beach detecting uk")
+![Detectorist holding a gold find to the camera on a beach, Equinox Gold text](/img/2908gold.webp "areas worked slowly beat covering lots of beach quickly")
 
 More beach [metal detecting with the Minelab Equinox](/minelab-equinox/), using the factory beach 2 program and change the sensitivity, Detecting the slopes of the beach and detecting a small area at a time, so many times i see people walking and covering a large area of beach and then saying they haven't found much, you dont hear the quiet low tones if your swinging the detector fast... slow down
 

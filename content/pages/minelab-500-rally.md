@@ -8,7 +8,7 @@ seo:
   keywords: metal, detecting, rally, near, me, CMD, Minelab, weekend, rally dates
 ---
 
-![information on where and when the minelab 500 rally will be held in 2027](/img/500-2027.webp "information on where and when the minelab 500 rally will be held in 2027")
+![Detectorist walking green hills with a Minelab detector, Minelab 500 rally 2027 graphic](/img/500-2027.webp "Minelab 500 rally in 2027: scan the QR code for details")
 
 Buy Tickets
 
@@ -18,4 +18,4 @@ The Minelab 500 in 2027 will be a premier metal detecting rally held in the UK, 
 
 {{youtube id="_3l6_dv-6M8" title="Saxon Hoard of coins from the Minelab 500"}}
 
-![where and when will the minelab 500 metal detecting weekend rally be held](/img/WEB_AD2026a.webp "Minelab 500 Metal Detecting Rally")
+![Crawfords advert with paulcee10 discount code and a photo of Paul Cee](/img/WEB_AD2026a.webp "Save at Crawfords with code paulcee10")

@@ -25,7 +25,7 @@ In this Minelab Vanquish 360 tutorial you can learn as a beginner, how to turn o
 
 ## Frequently Asked Questions (FAQ)
 
-![The Minelab Vanquish 360 has an **IP68 rating**, making it completely waterproof and submersible up to **5 metres (16 ft)**. You can safely detect in heavy rain, rivers, shallow surf, and wet saltwater beaches without worrying about water damage to the control box or the included V10X coil.](/img/minelab-2026.webp "minelab vanquish 360 waterproof")
+![Detectorist wading waist-deep in the sea with a Minelab detector](/img/minelab-2026.webp "Waterproof to 5 metres: shallow surf is fine for the Vanquish 360")
 
 ### Is the Minelab Vanquish 360 fully waterproof?
 

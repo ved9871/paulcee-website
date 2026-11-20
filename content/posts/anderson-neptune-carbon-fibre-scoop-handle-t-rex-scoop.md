@@ -18,7 +18,7 @@ seo:
   keywords: anderson neptune, carbon sand scoop shaft, best sand scoop handle, sand scoop uk, sand scoop pull handle, sand scoop shaft, best scoop shaft
 ---
 
-![long handle sandscoop shaft](/img/Trex-and-shaft_sfohjvmf.webp)
+![Anderson carbon fibre shaft fitted to a T-Rex 8 inch stainless sand scoop on grass](/img/Trex-and-shaft_sfohjvmf.webp "A long carbon shaft and T-Rex scoop for beach recovery")
 
 ## [http://bit.ly/2VcUX0q](http://bit.ly/2VcUX0q)Anderson sand scoop shafts
 
@@ -34,6 +34,6 @@ Weight wise this is very light and also stiff, so im not sure how this is going 
 
 Not really a [cheap scoop Shaft](/sand-scoops-for-metal-detecting/) when you take into consideration the shipping costs, but hopefully this will stand the test..
 
-[![sand scoop for metal detecting](/img/trex_vk1sq3sz.webp "small")](/minelab-manticore-big-coils/)
+[![Stainless sand scoop with a long black handle lying on grass](/img/trex_vk1sq3sz.webp "small: Scoop head with holes that sift the sand away")](/minelab-manticore-big-coils/)
 
 for more info on sand scoops handle in the uk [click here](http://bit.ly/2G1BivI)

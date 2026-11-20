@@ -23,9 +23,9 @@ seo:
   keywords: metal detecting beaches, Uk metal detecting, minelab Uk, new metal detector, Anderson metal detector shaft
 ---
 
-[![beach detecting tips](/img/240916-ring.webp "Minelab CTX 3030 Beach Detecting")](/ctx3030/)
+[![Hands examining a ring on rough sand beside a Minelab detector screen and coil](/img/240916-ring.webp "Ring dug from a Lincolnshire beach with the CTX 3030")](/ctx3030/)
 
-![Crawfords Metal Detectors Discount Code](/img/2026-thumb_0bwkmdko.webp "Crawfords Metal Detectors Discount Code")
+![Paul Cee in a grey Crawfords Metal Detectors shirt with arms folded in a field](/img/2026-thumb_0bwkmdko.webp "Paul Cee, Minelab Detexpert and Crawfords ambassador")
 
 Just a short trip metal detecting the beach today, but still managed to pull out a ring amongst the pull tabs and bottle tops
 

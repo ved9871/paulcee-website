@@ -19,7 +19,7 @@ seo:
   keywords: minelab, vanquish, 440, cheap metal detector, beginner, how to
 ---
 
-![vanquish minelab 440 uk, learning to metal detect](/img/vanq440a.webp)
+![Man in a blue top and headphones holding a Vanquish 440 coil on a seafront beach](/img/vanq440a.webp "First time detecting with the Minelab Vanquish 440")
 
 ## minelab vanquish 440 beach detecting
 
@@ -27,4 +27,4 @@ Bought 1st Metal Detector a Minelab Vanquish 440 mainly for beach metal detectin
 
 #minelab #vanquish #multiiq #detexpert
 
-[![cheap minelab vanquish for a beginner](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/minelab-vanquish340?tracking=fa202437c9)
+[![Crawfords Metal Detectors discount code graphic showing the code paulcee10](/img/WEB_AD2026a.webp "Discount code for the Vanquish and accessories at Crawfords")](https://crawfordsmd.com/minelab-vanquish340?tracking=fa202437c9)

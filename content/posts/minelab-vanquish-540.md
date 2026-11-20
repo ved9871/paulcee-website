@@ -23,7 +23,7 @@ seo:
   keywords: minelab vanquish 540 uk, crawfords metal detectors, minelab vanquish settings
 ---
 
-![minelab vanquish roman brooch and settings](/img/Vanquish_roman.webp "Minelab Vanquish Settings")
+![Minelab Vanquish 540 screen with 1st Roman brooch going deep text](/img/Vanquish_roman.webp "A Roman brooch found going deep with the Vanquish 540")
 
 ## MINELAB VANQUISH METAL DETECTING
 

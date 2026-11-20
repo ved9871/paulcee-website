@@ -10,7 +10,7 @@ seo:
   keywords: EVO_6000, C-Scope, CScope, metal, detector, review
 ---
 
-![Review of the new metal detector C Scope Evo 6000 Uk](/img/evo6000.webp)
+![C-Scope Evo 6000 detector on a lawn with a close-up of its screen](/img/evo6000.webp "First look at the C-Scope Evo 6000 ahead of the full review")
 
 Coming Soon Keep Checking Back as the Full C-Scope EVO 6000 Review will be available only here.
 

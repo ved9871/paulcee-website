@@ -24,9 +24,9 @@ seo:
   keywords: ctx 3030 vs xp deus, best metal detector uk, new minelab metal detector, best dry sand metal detector
 ---
 
-[![cleethorpes beach detecting](/img/0117-googleplus.webp "cleethorpes beach detecting")](/social-sites/)
+[![Paul Cee Metal Detecting round badge with a beach reflected in sunglasses](/img/0117-googleplus.webp "Paul Cee Metal Detecting channel icon")](/social-sites/)
 
-![cleethorpes beach detecting](/img/181216.webp "Cleethorpes beach detecting")
+![Paul Cee looking surprised beside CTX 3030 and XP Deus text on a beach at low tide](/img/181216.webp "Beach detecting with the XP Deus and CTX 3030")
 
 Out on the beach metal detecting with the Xp deus and CTX3030. not much on the finds front once again but the update to the Ctx is a great addition..
 

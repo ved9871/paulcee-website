@@ -19,9 +19,9 @@ not knowing or struggling at making the metal detector run and detect quietly, w
 
 Having the Minelab Vanquish sensitivity to high will result in lots of FALSE SIGNALS and gives the user loss of being able to find small targets as the become hidden in the mass of noise that is coming from the detector that has the sensitivity set at a too high level.
 
-![minelab vanquish 340 sensitivity](/img/P1050232a.webp)
+![Minelab Vanquish 340 screen with sensitivity set to a high setting](/img/P1050232a.webp "Sensitivity too high: noisy, and small targets get lost")
 
-![minelab vanquish 340 sensitivity](/img/P1050229a.webp)
+![Minelab Vanquish 340 screen with sensitivity set to a low setting](/img/P1050229a.webp "Low sensitivity: quieter, but it can cost depth")
 
 ### To Adjust the SENSITIVITY
 

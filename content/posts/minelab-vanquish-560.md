@@ -29,17 +29,17 @@ seo:
 
 Minelab Vanquish 60 metal detector
 
-![minelab Vanquish and paul cee vanquish 560 metal detector](/img/detexpert-logosml_32gheh3w.webp "minelab Vanquish and paul cee vanquish 560 metal detector")
+![Detexpert shield logo with the Minelab emblem](/img/detexpert-logosml_32gheh3w.webp "Paul Cee is a Minelab Detexpert")
 
-![a review of the new minelab vanquish 60 metal detectors](/img/60-series-web.webp "a review of the new minelab vanquish 60 metal detectors")
+![Minelab Vanquish 60 series control box and shaft in close-up](/img/60-series-web.webp "A closer look at the Vanquish 60 series control box")
 
 ## The New Minelab Vanquish 560: A New Era for Entry-Level Power
 
 Minelab has officially unveiled the Vanquish 60 series, a powerful revamp to the highly successful Vanquish range. With useful upgrades and refinements, the 560 is poised to redefine what entry-level and mid-range detectorists can expect from their detectors along with the Minelab Multi IQ technology.
 
-![a review of the minelab vanquish 560 metal detector](/img/560-intro.webp "a review of the minelab vanquish 560 metal detector")
+![Paul Cee holding a Minelab Vanquish 60 series and a spade in a ploughed field](/img/560-intro.webp "Out testing the new Vanquish 60 series on a farm field")
 
-![a review of the new minelab vanquish metal detector](/img/60-uk.webp "a review of the new minelab vanquish metal detector")
+![Paul Cee swinging a Minelab Vanquish 560 over ploughed soil](/img/60-uk.webp "The 560 sits above the 360 and 460 in the new 60 series")
 
 The 560 is part of the Minelab '60-Series' which will eventually replace the '40-series'. This means the Vanquish, 340, 440 and 540, will now be replaced by the Vanquish 360, Vanquish 460, and Vanquish 560.
 
@@ -57,9 +57,9 @@ The Vanquish 560 detector is also aimed at those detectorists who are stepping u
 
 The 560 builds on the original Vanquish concept by incorporating smarter tech, better usability, and crucially fully waterproof to 5 metres. That alone opens up new ground (and water!) for many users. Add in improved discrimination, better target ID range, a torch and vibration function, and even compatibility with Minelab Equinox coils (EQX), and you’ve got a detector that punches way above its weight.
 
-![a review of the new minelab vanquish 560](/img/560-screen.webp "a review of the new minelab vanquish 560")
+![Minelab Vanquish 560 screen showing a target ID of minus 16](/img/560-screen.webp "Expanded target IDs give a more detailed read on each signal")
 
-![what settings are on the minelab vanquish 560](/img/560-vol.webp "what settings are on the minelab vanquish 560")
+![Minelab Vanquish 560 screen showing target ID 6 and the search mode icons](/img/560-vol.webp "Search modes now line up with the X-Terra and Equinox ranges")
 
 Search modes are now in-line with modes on more sophisticated machines such as X-TERRA and Equinox ranges, and target Id’s are also expanded for a more intricate description of targets.
 
@@ -155,11 +155,11 @@ Refreshed design, improved ergonomics
 
 One of the standout features of the minelab Vanquish 60 detectors is its coil compatibility with Equinox and Coiltek coils.
 
-![what coils can you use on a new minelab vanquish 60](/img/60-coils.webp "what coils can you use on a new minelab vanquish 60")
+![Equinox and Coiltek search coils that fit the Minelab Vanquish 60 series](/img/60-coils.webp "Coil choice is new for the Vanquish: Equinox and Coiltek coils fit")
 
 This is a first for the Vanquish line, and it opens up a world of flexibility. Detectorists can now experiment with different coil sizes and shapes depending on their site and targets—all without upgrading to a new detector. That means greater depth, better separation, or even better handling in iron-rich fields and beaches, just by swapping a coil. It won’t suit everyone, but some people will get more variation and options without having to spend on a more expensive machine. And, if you have one of the Vanquish 60 detectors, you can buy some coils, and then later upgrade to XTERRA or Equinox detector then you already have some accessories.
 
-Minelab Vanquish 560![where to buy a new minelab vanquish 560, 460 and 360](/img/60-pc.webp "where is the BEST place to buy a new minelab vanquish 560")
+Minelab Vanquish 560![Paul Cee walking a harvested stubble field with a Minelab Vanquish 60 series](/img/60-pc.webp "Paul Cee testing the Vanquish 60 series across a stubble field")
 
 ### A Word from Detexpert Paul Cee
 
@@ -167,9 +167,9 @@ Minelab Vanquish 560![where to buy a new minelab vanquish 560, 460 and 360](/img
 
 — Paul Cee, Minelab Detexpert
 
-![where can you use a minelab vanquish 60 metal detector](/img/560-beach.webp "where can you use a minelab vanquish 60 metal detector")
+![Minelab Vanquish 560 on a wooden groyne at sunset on a UK beach](/img/560-beach.webp "Waterproof to 5 metres, so beach and shallow water are fair game")
 
-![all about the new minelab vanquish metal detectors](/img/60-field.webp "all about the new minelab vanquish metal detectors")
+![Minelab Vanquish 560 resting on straw stubble in a field](/img/60-field.webp "Just as happy on dry fields as it is on the beach")
 
 ### Who Is the Vanquish 60 series For? The 560 is designed for:
 
@@ -187,8 +187,8 @@ The Minelab Vanquish 560 represents a thoughtful and exciting update to the Vanq
 
 Whether you're a seasoned detectorist looking for a backup detector, or a budding detectorist ready to take your next step into more advanced tech, the Vanquish 560 is well worth a closer look.
 
-![minelab vanquish 560 review](/img/60-release-date.webp "minelab vanquish 560 review")
+![Minelab Vanquish with its arm cuff resting on a wooden bench by woodland](/img/60-release-date.webp "A closer look at the Vanquish arm cuff and control box")
 
-![where to buy a minelab vanquish 560 metal detector](/img/WEB_AD---Copy_l6p98zfw.webp "where to buy a minelab vanquish 560 metal detector")
+![Crawfords Metal Detectors advert offering a discount with code paulcee10](/img/WEB_AD---Copy_l6p98zfw.webp "Use code paulcee10 at Crawfords for money off")
 
 Available soon from [Crawfords Metal Detectors](http://www.crawfordsmd.com)

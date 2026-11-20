@@ -17,7 +17,7 @@ seo:
   keywords: minelab ctx 3030 uk, minelab ctx 3030 uk, setting for beach detecting, crawfords metal detectors, minelab beach detectors
 ---
 
-![ctx3030 deep settings used for beach detecting with a minelab ctx 3030 metal detector](/img/241217_New.webp)
+![Minelab CTX 3030 control box with a gold ring on the screen, text reads Gold beach metal detecting](/img/241217_New.webp "Gold ring found on the CTX 3030 deep beach settings")
 
 ## Minelab ctx 3030 beach detector
 

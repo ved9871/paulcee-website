@@ -26,7 +26,7 @@ Whether you are a beginner looking for your first pasture or an experienced dete
 
 Approaching a busy farmer or estate manager cold without basic preparation is the fastest way to get turned down.
 
-![How to Get Permission to Metal Detect](/img/research.webp "How to Get Permission to Metal Detect on Land: The Complete Guide")
+![Woman at a laptop checking a land map beside paper maps and notes](/img/research.webp "Research who owns the land before you ask")
 
 <strong><em>Confirm land ownership:</em></strong> Use online council maps, local land registry checks, or agricultural map tools to find the actual owner or leaseholder rather than an agricultural contractor who lacks authority to grant access.
 
@@ -62,7 +62,7 @@ Different landowners respond to different communication styles. Here is a breakd
 
 <strong>Cons:</strong> Higher competition for finds; event-only access.
 
-![how to ask for permission to metal detect, who to ask and what to ask, in the uk](/img/ask-farmer.webp "how to ask for permission to metal detect")
+![Detectorist politely asking a farmer for permission in a farmyard](/img/ask-farmer.webp "Ask the landowner in person and have your pitch ready")
 
 #### What Every Landowner Wants to Know (Your 3-Point Pitch)
 
@@ -76,7 +76,7 @@ Different landowners respond to different communication styles. Here is a breakd
 
 <strong><em>Written Finds Agreement:</em></strong> Be transparent about how significant historical finds or items covered under the Treasure Act 1996 will be recorded and split (standard practice is a 50/50 division of value after reporting to the local Finds Liaison Officer / Portable Antiquities Scheme).
 
-![what you need to write in an agreement to metal detect on a farm in the uk](/img/contract.webp "what you need to write in an agreement to metal detect on a farm in the uk")
+![Written metal detecting permission agreement signed by landowner and detectorist](/img/contract.webp "A signed agreement protects both landowner and detectorist")
 
 #### Metal Detecting Permission Letter Template
 
@@ -114,7 +114,7 @@ Warm regards,
 
 \
 
-![what to do to gain metal detecting permission](/img/No-detecting.webp "what to do to gain metal detecting permission")
+![Detectorist showing a card to a farmer beside a no metal detecting sign](/img/No-detecting.webp "Rejection is normal: stay polite and ask elsewhere")
 
 <strong>_Rejection is a normal part of metal detecting_</strong>. Even veteran detectorists face rejection rates of <em>70% or higher.</em> What sets successful detectorists apart is how they manage a "<em>**NO**</em>."
 
@@ -160,4 +160,4 @@ I hope you find this information useful.
 
 Buy some accessories from Crawfords Metal Detectors and use the Discount below for some money off
 
-[![how to get metal detecting permission in the uk](/img/WEB_AD2026a.webp "how to get metal detecting permission in the uk")](http://www.crawfordsmd.com)
+[![Crawfords advert with discount code paulcee10 for detecting accessories](/img/WEB_AD2026a.webp "Use paulcee10 at Crawfords for money off accessories")](http://www.crawfordsmd.com)

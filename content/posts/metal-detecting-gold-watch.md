@@ -27,11 +27,11 @@ After a series of false alarms triggered by ring pulls and lost coins,
 
 Paul's excitement intensified when the Equinox emitted a distinct, promising tone very similar to a pop can. With precision, he pinpointed the spot and started digging with sand scoop. The sand yielded to reveal a metallic glimmer – it was the lost watch, nestled in a small depression beneath the surface.
 
-![gold watch found metal detecting on the beach](/img/P1010817.webp)
+![Ladies Michael Kors chronograph watch with a stone-set bezel found on the beach](/img/P1010817.webp "The rose gold Michael Kors watch lost on the beach")
 
-![gold watch found with a metal detector](/img/P1010822.webp)
+![Back of a rose gold Michael Kors watch with a metal link strap](/img/P1010822.webp "Case back and strap after being dug from the sand")
 
-![gold watch found metal detecting on the beach](/img/mk-watch.webp)
+![Recovered and returned thumbnail of a Michael Kors MK5263 rose gold watch, front and back](/img/mk-watch.webp "Reunited with its owner: Michael Kors MK5263 rose gold watch")
 
 Paul couldn't believe his luck and joy. The watch, slightly damp but otherwise unharmed, gleamed in the morning sunlight. Gratitude washed over him as he cradled the recovered timepiece in his hands. The Minelab Equinox 900 had proven its worth, turning what seemed like an impossible task into a triumphant success.
 

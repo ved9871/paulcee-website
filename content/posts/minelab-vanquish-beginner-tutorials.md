@@ -27,7 +27,7 @@ seo:
 
 Congratulations on buying your Minelab Vanquish metal detector, with the Minelab multi I-Q technology.
 
-![metal detecting for beginners the minelab vanquish ultimate guide](/img/ultimate-guide_web.webp "Minelab Vanquish Beginner Tutorials Help")
+![Two men in a wheat field, one holding a Minelab Vanquish, with Beginners Ultimate Guide text](/img/ultimate-guide_web.webp "Beginner Scott learns the Vanquish from scratch")
 
 Scott had never used a metal detector before getting the minelab vanquish so his skill level was basically zero.
 

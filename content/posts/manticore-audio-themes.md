@@ -18,9 +18,9 @@ seo:
   keywords: Minelab manticore, manticore audio, audio themes, manticore settings, manticore tones.
 ---
 
-![Explain audio themes on the minelab manticore](/img/2026-thumb_0bwkmdko.webp "Explain audio themes on the minelab manticore")
+![Paul Cee in a grey Crawfords Metal Detectors shirt with arms folded in a field](/img/2026-thumb_0bwkmdko.webp "Paul Cee explains the Manticore audio themes")
 
-![how to set up and choose the audio themes for minelab manticore](/img/detexpert-logosml_l5w8vdd6.webp "how to set up and choose the audio themes for minelab manticore")
+![Minelab Detexpert shield logo with a red detector graphic](/img/detexpert-logosml_l5w8vdd6.webp "Paul Cee is an official Minelab Detexpert")
 
 ## Minelab Manticore audio themes and threshold settings explained
 
@@ -30,7 +30,7 @@ to help you set up your minelab manticore.
 
 ### The Normal Audio Theme
 
-![which audio themes are used on the minelab manticore](/img/audio-mormal_gqt0mugx.webp "which audio themes are used on the minelab manticore")
+![Minelab Manticore screen showing the Normal audio theme on a beach with a pier behind](/img/audio-mormal_gqt0mugx.webp "Normal: the all-round audio theme for everyday detecting")
 
 Is a good choice for everyday detecting. It gives full sounding audio responses that vary in both pitch and volume.
 
@@ -42,7 +42,7 @@ With strong/shallow targets giving a louder response than a smaller or deeper ta
 
 #### Enhanced Audio Theme
 
-![setting for enhanced audio on a minelab manticore](/img/audio-enhanced_y6knf6sx.webp "setting for enhanced audio on a minelab manticore")
+![Minelab Manticore screen with the Enhanced audio theme selected on a beach](/img/audio-enhanced_y6knf6sx.webp "Enhanced: tuned for sites with lots of electrical interference")
 
 Is similar to Normal, but is optimised for detecting in high EMI scenarios.
 
@@ -72,7 +72,7 @@ This Theme uses a Reference threshold tone that blanks for rejected targets when
 
 The Depth Audio Theme.
 
-![minelab manticore audio theme depth setting](/img/audio-depth_nbx9sajt.webp "minelab manticore audio theme depth setting")
+![Minelab Manticore Audio Themes menu showing the Depth theme on a sandy beach](/img/audio-depth_nbx9sajt.webp "Depth: better target separation on iron-heavy land")
 
 Is useful for improved target separation at land sites that contain high amounts of ferrous content.
 
@@ -136,7 +136,7 @@ These Audio themes are NOT AVAILABLE in the prosecting mode.
 
 #### Prospecting Theme
 
-![using the prospecting theme on a minelab manticore](/img/audio-prospecting_prwmyzba.webp "using the prospecting theme on a minelab manticore")
+![Minelab Manticore Audio Themes menu with the Prospecting theme selected on the beach](/img/audio-prospecting_prwmyzba.webp "Prospecting: boosts weak targets such as fine gold and jewellery")
 
 Is useful when maximum sensitivity to weak targets is beneficial, such as for gold prospecting or hunting for fine jewellery at the beach.
 

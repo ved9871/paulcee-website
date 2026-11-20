@@ -18,7 +18,7 @@ seo:
   keywords: minelab ctx 3030, crawfords metal detectos, CMD Detectors, minelab uk, paul cee minelab
 ---
 
-[![ctx 3030 gold setting for metal detecting on the beach](/img/241217_New.webp)](/ctx3030/)
+[![Gold ring on the keypad of a Minelab CTX 3030, beach metal detecting](/img/241217_New.webp "Gold from the beach: the CTX 3030 settings I use")](/ctx3030/)
 
 ## Looking for gold on the beach
 

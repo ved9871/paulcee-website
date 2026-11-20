@@ -17,7 +17,7 @@ seo:
   keywords: minelab equinox, discrimination settings, equinox settings, restore settings, messed up settings
 ---
 
-![how to restore missing minelab equinox discrimination settings](/img/missing-segments_web.webp "how to restore missing minelab equinox discrimination settings")
+![Minelab Equinox screen with a finger on a button, titled Restore missing segments](/img/missing-segments_web.webp "Bringing back missing discrimination segments on the Equinox")
 
 you have missing discrimination segments on your minelab equinox screen, quick and easy way to restore them, easy walk through tutorial
 

@@ -20,7 +20,7 @@ seo:
   keywords: metal detecting uk, metal detecting beach uk, minelab ctx 3030
 ---
 
-![Beach Detecting uk](/img/081017b_bjdufqcv.webp "Beach Detecting uk")
+![Hand holding a silver coin in front of a CTX 3030 coil on the beach](/img/081017b_bjdufqcv.webp "Silver coins from a stormy beach session, part 2")
 
 [Beach Metal Detecting](/sand-scoops-for-metal-detecting/) in a Storm
 

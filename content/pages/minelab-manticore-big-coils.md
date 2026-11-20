@@ -60,10 +60,10 @@ You want a daily driver. If you want more coverage than the stock coil but don't
 <strong>Buy the Coiltek 18" Mythtek if:</strong>\
 You are a specialist. If you are chasing a specific deep hoard, clearing a clean pasture, or want to scour a massive beach at low tide, this is your heavy artillery. Just be prepared for the workout.
 
-[![Minelab Manticore 15 inch coil review](/img/manticore-15.webp "Minelab Manticore 15 inch coil review") ](https://crawfordsmd.com/minelab-m15?tracking=fa202437c9)
+[![Large 15 inch search coil for the Manticore resting on beach sand](/img/manticore-15.webp "The M15 covers wide stretches of beach quickly") ](https://crawfordsmd.com/minelab-m15?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-m15?tracking=fa202437c9" class="btn">Buy Now</a>
 
-[![Coiltek Mythtek 18 review](/img/mythtek-1.webp "Coiltek Manticore Mythtek 18 review") ](https://crawfordsmd.com/coiltek-mythtek18?tracking=fa202437c9)
+[![Minelab Manticore screen beside a large Coiltek Mythtek coil on rippled sand at sunset](/img/mythtek-1.webp "Coiltek Mythtek 18 at low tide: big coil, big workout") ](https://crawfordsmd.com/coiltek-mythtek18?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/coiltek-mythtek18?tracking=fa202437c9" class="btn">Buy Now</a>

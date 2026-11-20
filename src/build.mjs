@@ -125,7 +125,9 @@ function missingLink(target, why) {
 }
 
 const ytThumb = (id, q = 'hqdefault') => `https://i.ytimg.com/vi/${id}/${q}.jpg`;
-const video = (id, title = '', dur = '') => `<div class="yt" data-yt="${id}"><img src="${ytThumb(id)}" alt="" loading="lazy" width="480" height="360"><button type="button" class="yt__play" aria-label="Play video${title ? ': ' + esc(title) : ''}"><svg viewBox="0 0 68 48" aria-hidden="true"><path d="M66.5 7.7a8.5 8.5 0 0 0-6-6C55.2.3 34 .3 34 .3s-21.2 0-26.5 1.4a8.5 8.5 0 0 0-6 6C.1 13 .1 24 .1 24s0 11 1.4 16.3a8.5 8.5 0 0 0 6 6C12.8 47.7 34 47.7 34 47.7s21.2 0 26.5-1.4a8.5 8.5 0 0 0 6-6C67.9 35 67.9 24 67.9 24s0-11-1.4-16.3z" fill="currentColor"/><path d="M45 24 27 14v20z" fill="#fff"/></svg></button>${title ? `<span class="yt__title">${esc(title)}</span>` : ''}${dur ? `<span class="vid__dur">${esc(dur)}</span>` : ''}</div>`;
+// Thumbnail alt text: the component's title, else the title from the channel listing, so no video is a blank image for search engines or screen readers
+const videoTitle = (id, title) => title || (typeof videos !== 'undefined' && videos.find(v => v.id === id)?.title) || '';
+const video = (id, title = '', dur = '') => `<div class="yt" data-yt="${id}"><img src="${ytThumb(id)}" alt="${esc(videoTitle(id, title) ? 'Video: ' + videoTitle(id, title) : 'Paul Cee YouTube video')}" loading="lazy" width="480" height="360"><button type="button" class="yt__play" aria-label="Play video${title ? ': ' + esc(title) : ''}"><svg viewBox="0 0 68 48" aria-hidden="true"><path d="M66.5 7.7a8.5 8.5 0 0 0-6-6C55.2.3 34 .3 34 .3s-21.2 0-26.5 1.4a8.5 8.5 0 0 0-6 6C.1 13 .1 24 .1 24s0 11 1.4 16.3a8.5 8.5 0 0 0 6 6C12.8 47.7 34 47.7 34 47.7s21.2 0 26.5-1.4a8.5 8.5 0 0 0 6-6C67.9 35 67.9 24 67.9 24s0-11-1.4-16.3z" fill="currentColor"/><path d="M45 24 27 14v20z" fill="#fff"/></svg></button>${title ? `<span class="yt__title">${esc(title)}</span>` : ''}${dur ? `<span class="vid__dur">${esc(dur)}</span>` : ''}</div>`;
 
 // Ad units need an AdSense slot ID. Everything else is left to Google's Auto ads, exactly as on the
 // current live site, so a call without a slot renders nothing (preview and production alike).
@@ -411,7 +413,12 @@ function renderBlocks(blocks, { toc = [] } = {}) {
         out += `<${tag} id="${id}">${links(b.html)}</${tag}>`; break;
       }
       case 'p': out += `<p>${links(b.html)}</p>`; break;
-      case 'figure': { const h = links(b.html); const ws = [...h.matchAll(/max-width:min\(100%,(\d+)px\)/g)].map(m => +m[1]); out += `<figure${ws.length && Math.max(...ws) <= 180 ? ' class="fig--small"' : ''}>${h}</figure>`; break; }
+      case 'figure': {
+        // The image title (set in the editor's image dialog) is shown as a caption under the picture, not as a tooltip
+        const caps = []; const raw = b.html.replace(/<img\b[^>]*\btitle="([^"]*)"[^>]*>/g, tag => { const t = tag.match(/\btitle="([^"]*)"/)[1]; if (t.trim()) caps.push(t); return tag.replace(/\s*\btitle="[^"]*"/, ''); });
+        const h = links(raw); const ws = [...h.matchAll(/max-width:min\(100%,(\d+)px\)/g)].map(m => +m[1]);
+        out += `<figure${ws.length && Math.max(...ws) <= 180 ? ' class="fig--small"' : ''}>${h}${caps.length ? `<figcaption>${[...new Set(caps)].join(' · ')}</figcaption>` : ''}</figure>`; break;
+      }
       case 'cta': out += `<p class="cta-row">${links(b.html).replace(/class="aff"/, 'class="btn btn--buy"')}</p>`; break;
       case 'ul': case 'ol': out += `<${b.t}>${b.items.map(i => `<li>${links(i)}</li>`).join('')}</${b.t}>`; break;
       case 'table': out += `<div class="table-wrap"><table>${b.rows.map((r, i) => `<tr>${r.map(c => i === 0 ? `<th>${links(c)}</th>` : `<td>${links(c)}</td>`).join('')}</tr>`).join('')}</table></div>`; break;

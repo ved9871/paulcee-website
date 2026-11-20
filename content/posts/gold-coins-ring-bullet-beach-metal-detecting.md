@@ -18,9 +18,9 @@ seo:
   keywords: uk beach detecting, england, metal detecting uk, crawfords, detectors, regtons
 ---
 
-![metal detecting on Cleethorpes beach](/img/vs160807-002.webp "metal detecting on Cleethorpes beach")
+![metal detecting on Cleethorpes beach](/img/vs160807-002.webp "A plain silver ring dug on the Lincolnshire coast with the CTX 3030")
 
-![metal detecting on cleethorpes beach](/img/P7179334.webp "metal detecting on Cleethorpes beach")
+![Rose gold stone-set earrings found beach detecting, shown with a miniature figure](/img/P7179334.webp "9k rose gold bling from a good beach session at Cleethorpes")
 
 18k white gold wedding band and 9k rose gold bling and plenty of coins, beach detecting in the UK
 
@@ -28,4 +28,4 @@ beach metal detecting, on the wet and dry sand
 
 Feel free to [subscribe or follow us on social media](/social-sites/) with the beach detecting
 
-![what can you find with a metal detector](/img/WEB_AD2026a.webp "what can you find with a metal detector")
+![what can you find with a metal detector](/img/WEB_AD2026a.webp "Use code paulcee10 at Crawfords for money off")

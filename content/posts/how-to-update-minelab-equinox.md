@@ -21,7 +21,7 @@ seo:
   keywords: Minelab Equinox uk, how to update a minelab equinox, Minelab Update utility, equinox software version, new equinox update, rollback equinox updates, equinox detector update
 ---
 
-![Latest Minelab Equinox software update](/img/equinox-update.webp)
+![Equinox how to update and rollback software thumbnail](/img/equinox-update.webp "Updating the Equinox, and rolling back if you need to")
 
 ## How to Update the Minelab Equinox Metal detector to the Latest SOFTWARE Version
 

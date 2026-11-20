@@ -25,11 +25,11 @@ seo:
   keywords: ctx 3030 6 inch coil, 6 inch coil depth, minelab sniper coil, minelab metal detector uk
 ---
 
-![ctx 3030 fitted with the minelab ctx 3030 6 inch search coil](/img/080117.webp)
+![Title graphic for CTX 3030 6 inch coil on an iron covered beach with coins and a relic](/img/080117.webp "Coins and relics from an iron-littered beach with the 6 inch coil")
 
-![crawfords metal detectors](/img/YT-thumb_2020_7dv464sn.webp "small")
+![Paul Cee round badge with Minelab Equinox, CTX 3030, Vanquish and CMD logos](/img/YT-thumb_2020_7dv464sn.webp "small: Paul Cee and Crawfords Metal Detectors")
 
-![crawfords metal detectors for minelab detecting](/img/detexpert-logosml.webp "small")
+![Detexpert shield logo with the Minelab emblem](/img/detexpert-logosml.webp "small: Paul Cee, Minelab Detexpert")
 
 ## Minelab 6inch coil on the ctx 3030
 

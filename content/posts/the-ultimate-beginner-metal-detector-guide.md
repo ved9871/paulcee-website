@@ -59,7 +59,7 @@ Choosing the Right Technology:
 
 Operating Frequency:
 
-![Beginners guide to how a metal detector work, looking at frequncies](/img/multi-iq-Simplified-Curves.webp)
+![Minelab Multi-IQ chart showing simultaneous frequencies from 5 kHz to 40 kHz](/img/multi-iq-Simplified-Curves.webp "Multi-IQ runs 5 to 40 kHz at once, from large silver to small gold")
 
 <strong>• Low Frequency (3–10 kHz):</strong> Long wavelengths penetrate deep into clean soil, making them ideal for larger copper/silver coins and deep relics.
 
@@ -69,7 +69,7 @@ Operating Frequency:
 
 Discrimination &amp; Target ID (TID):
 
-![minelab vanquish 60 target id numbers](/img/560-vol_c8fhftm8.webp)
+![Minelab Vanquish 560 screen showing volume level 6 with a thumb on the buttons](/img/560-vol_c8fhftm8.webp "The Vanquish 560 shows target ID numbers along the top of the screen")
 
 Discrimination allows your detector to ignore unwanted trash like rusty nails, foil, and modern pull-tabs. The screen displays a numerical reference to identify what lies beneath the coil:
 
@@ -81,11 +81,11 @@ Discrimination allows your detector to ignore unwanted trash like rusty nails, f
 
 Ground Balancing &amp; Recovery Speed:
 
-![why and how should you ground balance a metal detector](/img/900-ground-balance_v7wbufjq.webp)
+![Minelab Equinox 900 tutorial thumbnail with the words how to ground balance](/img/900-ground-balance_v7wbufjq.webp "Ground balancing tunes the detector to the soil underfoot")
 
 <strong>• Ground Balance:</strong> Natural ground contains trace minerals that cause false signals. Automatic Ground Balance continuously monitors and tunes out soil chatter on the fly—making it ideal for beginners.
 
-![what does recovery speed do on a metal detector](/img/XTE-intro_WEB.webp)
+![Minelab X-Terra Elite getting started guide thumbnail with the control box on a beach](/img/XTE-intro_WEB.webp "Getting started with the X-Terra Elite Expedition Pack")
 
 <strong>• Recovery Speed:</strong> This measures how fast your machine resets between targets. A fast recovery speed lets you detect a silver coin lying just inches away from an iron nail without masking the good signal.
 
@@ -95,19 +95,19 @@ To browse beginner machines and starter kits, visit Crawfords Metal Detectors:
 
 ### 3. How Much Should You Spend?
 
-![minelab voyager is a good metal detector for beginners](/img/voyager-pack_w1lg3wcq.webp)
+![Minelab X-Terra Voyager kit with coil, headphones, spare batteries, backpack and spade](/img/voyager-pack_w1lg3wcq.webp "The X-Terra Voyager bundle is a ready-to-go starter kit")
 
 <strong>• Entry-Level (£120 – £350):</strong> Includes pre-set search modes, lightweight frames, single frequency, and basic iron discrimination. Best for first-time hobbyists wanting an intuitive, plug-and-play machine.
 
-![the minelab vanquish 60 is a great metal detector for beginners](/img/60-field_kb6gk9vb.webp)
+![Minelab Vanquish 60 series detector resting on a stubble field under a cloudy sky](/img/60-field_kb6gk9vb.webp "Light enough for a full day sweeping a stubble field")
 
-![minelab x terra elite is a good metal detector for beginners ](/img/XTE-intro.webp)
+![Minelab X-Terra Elite Expedition Pack control box on a sandy beach](/img/XTE-intro.webp "The X-Terra Elite is a capable beach machine at mid-range money")
 
 <strong>• Mid-Range (£400 – £850):</strong> Includes simultaneous multi-frequency, waterproof housings, fast recovery speeds, and custom audio. Best for dedicated beginners and intermediate users seeking all-terrain versatility.
 
-![minelab equinox for beginners at an entry level price](/img/nox-900a_30mpj44c.webp)
+![Minelab Equinox 900 control box lying over short green grass](/img/nox-900a_30mpj44c.webp "Equinox 900: waterproof multi-frequency detecting for beach and field")
 
-![minelab manticore for beginners, above an entry level pice but you wont need to upgrade for a long time](/img/manticore_webpage_w87pkd3e.webp)
+![Minelab Manticore leaning on a wooden groyne on a beach at sunrise](/img/manticore_webpage_w87pkd3e.webp "Early beach session with the Manticore, a detector you will not outgrow")
 
 <strong>• High-End (£900+):</strong> Delivers maximum detection depth, low-latency wireless audio, and advanced ground filtering. Best for experienced detectorists hunting difficult or worked-out historical sites.
 
@@ -115,15 +115,15 @@ To browse beginner machines and starter kits, visit Crawfords Metal Detectors:
 
 A detector alone is only half the kit. Equipping yourself with the right gear ensures smoother digs and protects your finds:
 
-![the minelab pro-find 40 is a great pinpointer for a beginner](/img/pro-find-40-image-web_9zwmcxnf.webp)
+![Minelab Pro-Find 40 pinpointer with its red grip on the grass beside a detector](/img/pro-find-40-image-web_9zwmcxnf.webp "A pinpointer speeds up every dig and protects your finds")
 
 <strong>• Handheld Pinpointer:</strong> A compact probe that pinpoints targets inside the dug plug, cutting recovery time in half and protecting delicate coins from trowel scratches.
 
-![a handheld digging tool for metal detecting](/img/20230422_064036.webp)
+![Two serrated stainless steel hand diggers in sheaths on a wall beside beach sand](/img/20230422_064036.webp "Serrated hand diggers cut clean plugs in turf and sand")
 
 <strong>• Specialist Digging Tool / Spade:</strong> A serrated hand trowel for clean cuts in turf, or a dedicated long-handled spade for ploughed pasture.
 
-![a finds pouch for putting metal detecting good finds and junk in, with a pinpointer holder](/img/cmd-pouch_vpw4m5nl.webp)
+![CMD finds pouch with a pinpointer in its holder lying on grass](/img/cmd-pouch_vpw4m5nl.webp "Two pockets keep good finds apart from rusty junk")
 
 <strong>• Finds Pouch:</strong> Dual-pocket carry bags keep valuable artefacts safe while keeping dug iron rubbish separated for disposal.
 

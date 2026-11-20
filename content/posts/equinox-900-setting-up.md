@@ -23,7 +23,7 @@ seo:
 
 ## What do the buttons on the Equinox 900 do
 
-![what do the buttons on the equinox 900 do and how they change settings](/img/eqx-900-buttons.webp "Minelab Equinox Tutorial")
+![Minelab Equinox 900 control box titled Buttons and what they do](/img/eqx-900-buttons.webp "What each Equinox 900 button changes on the detector")
 
 This time we look at all the button functions of the Minelab equinox 900, and what they change on the metal detector.
 

@@ -19,7 +19,7 @@ seo:
   keywords: Cleethorpes beach, metal detecting, minelab, equinox
 ---
 
-![Minelab Beach Detector settings](/img/300918_oldcoins.webp)
+![Detectorist pointing at the camera on a beach with a pier behind him](/img/300918_oldcoins.webp "A wet day on Cleethorpes beach turning up old coins")
 
 ## Another wet day beach metal Detecting Cleethorpes beach.
 

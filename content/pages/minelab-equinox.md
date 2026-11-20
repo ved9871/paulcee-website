@@ -7,9 +7,9 @@ seo:
   keywords: Minelab Equinox 800, Equinox 900 vs 800, Multi-IQ technology, Equinox 700 review, Coiltek NOX coils, beach metal detector, Equinox waterproof, Minelab Equinox coils
 ---
 
-[![Minelab Equinox comparisons, between the Equinox 600, 700, 800 and 900](/img/nox-compare.webp "Minelab Equinox comparisons, between the Equinox 600, 700, 800 and 900") ](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
+[![Minelab Equinox 900 control box with an orange backlit screen and a Compare label](/img/nox-compare.webp "Equinox 600, 700, 800 and 900 compared side by side") ](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
 
-[![how good is the Minelab Equinox 900 on the beach](/img/nox-900_web.webp "how good is the Minelab Equinox 900 on the beach") ](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
+[![Two detectorists chatting at a field event under an Equinox Compare banner](/img/nox-900_web.webp "Field feedback on how the Equinox 900 performs on the beach") ](https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-equinox-900?tracking=fa202437c9" class="btn">Buy Equinox</a>
 
@@ -87,7 +87,7 @@ The largest coil available. Strictly for deep hoard hunting or clean beaches.
 
 {{youtube id="o6n_H_onH3o" title="minelab equinox iron bias explained by Minelab enginners"}}
 
-[![Equinox 900/700 Getting Started](/img/900-programs_4vpc3sw8.webp "Minelab Equinox getting Started Tutorials")](https://youtu.be/gK9kbAqI62w)
+[![Minelab Equinox 900 held over a ploughed field with Programs Getting Started text](/img/900-programs_4vpc3sw8.webp "Getting started tutorial: the Equinox 900 field and park modes")](https://youtu.be/gK9kbAqI62w)
 
 For setting up your Equinox we look at the pre-set search modes on the equinox 900, the settings and what you can change, this one is about field and park modes.
 
@@ -97,4 +97,4 @@ Shop at Crawfords Metal detectors for The Minelab Equinox
 
 ### Use this discount code for your accessories
 
-![minelab equinox settings for the uk](/img/WEB_AD2026a.webp "Minelab Equinox Settings")
+![Crawfords Metal Detectors graphic offering discount code paulcee10 for Equinox accessories](/img/WEB_AD2026a.webp "Use code paulcee10 for Equinox accessories at Crawfords")

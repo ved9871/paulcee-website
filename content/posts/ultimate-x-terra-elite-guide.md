@@ -19,7 +19,7 @@ seo:
 
 ## Minelab X Terra Elite Metal Detector Guide
 
-![user guide for the Minelab X-Terra Elite](/img/XTE-intro_WEB.webp "Minelab X Terra Elite Settings and user guide")
+![User guide cover for the Minelab X-Terra Elite showing its screen on bare ground](/img/XTE-intro_WEB.webp "Complete X-Terra Elite setup and expert tips")
 
 ### Setup, Advanced Settings, and Expert Tips
 
@@ -295,6 +295,6 @@ Adjust Settings:
 
 how good is the minelab X Terra Elite metal detecting on the beach here are some of the finds
 
-![finds made metal detecting on the beach with the Minelab X Terra](/img/xte-coinshooting.webp "Minelab X Terra Elite Beach Detecting")
+![Collage of coins and rings found beach detecting with the Minelab X-Terra Elite](/img/xte-coinshooting.webp "A haul of coins and jewellery from the beach")
 
 Check out the [X-Terra Elite Settings](https://www.paulcee.co.uk/minelab-x-terra/) videos

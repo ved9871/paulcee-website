@@ -10,7 +10,7 @@ seo:
   keywords: diamond tester, metal detecting, crawfords metal detectors, paul cee, beach detecting uk, accessories
 ---
 
-[![a cheap diamond tester for checking the diamonds you have found are real](/img/diamond-tester.webp)](https://amzn.to/3RZE3Cu)
+[![Diamond Selector II tester units with a ring being tested](/img/diamond-tester.webp "Check whether a sparkling find is a real diamond")](https://amzn.to/3RZE3Cu)
 
 ## Cheap diamond tester that works for metal detecting
 

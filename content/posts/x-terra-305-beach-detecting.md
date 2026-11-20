@@ -11,7 +11,7 @@ seo:
   keywords: how to metal detect, metal detector for a beginner, minelab xterra, xterra metal detector, xterra 305, x terra metal detector
 ---
 
-![minelab x terra beach metal detecing](/img/xterra1_94oc4mbc.webp)
+![Silver florin coin under Minelab X-Terra 305 Ring and Silver Coins on the beach text](/img/xterra1_94oc4mbc.webp "Ring, earring and silver coins from a beach test of the X-Terra 305")
 
 We Have the[ Minelab Xterra 305](/minelab-x-terra/), initial set up Review and Field test, metal detecting on the beach plenty of silver coins one a really nice find and a ring and earing, a very capable [metal detector for beginners](/minelab-vanquish-60-series/), light weight easy to set up, mainly just switch on and go, but on the dry sand and slightly wet sand it really does perform well.
 

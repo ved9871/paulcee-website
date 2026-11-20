@@ -27,15 +27,15 @@ YEAR 1945
 
 MINTAGE 720,000
 
-![jersey liberation coin](/img/P1040914_a.webp)
+![Obverse of a Jersey one twelfth of a shilling coin showing Queen Elizabeth II](/img/P1040914_a.webp "Obverse: crowned portrait of Queen Elizabeth II")
 
-![jersey liberation coin](/img/P1040915_a.webp)
+![Reverse of a Jersey one twelfth of a shilling coin with three lions and 1660-1960](/img/P1040915_a.webp "Reverse of the Bailiwick of Jersey coin dated 1660 to 1960")
 
 The obverse depicts Cecil Thomas' famous crowned portrait of the H.M. Queen Elizabeth II. This design also appears on the coins from Belize, Bermuda, British Eastern Caribbean Territories, British Honduras, British West Africa, Cyprus, East Africa, Fiji, Ghana, Hong Kong, Jamaica, Malaya and British Borneo, Mauritius, Nigeria, and Seychelles. The obverse has a simple legend of “QUEEN ELIZABETH THE SECOND.” The reverse of each coin is a slight modification of Kruger-Gray's shield design.
 
-![jersey liberation coin](/img/P1040916_a.webp)
+![Obverse of a Jersey copper coin showing the crowned head of George VI](/img/P1040916_a.webp "George VI obverse, with Metcalfe's initials below the neck")
 
-![george v1 jersey coin](/img/P1040917_a.webp)
+![Reverse of a Jersey one twelfth of a shilling coin inscribed Liberated 1945](/img/P1040917_a.webp "The 1945 Liberation reverse with the Jersey lions shield")
 
 Both Edward VII and George V were shown on the previous coins of Jersey in full coronation regalia, whereas the George VI coins uses only a crowned head. Beneath the truncation, the initials of Percy Metcalfe, CVO, can be found. For the 1937, 1946, and the 1947 coins, the reverse design was a continuation of the last King's coinage and the George Kruger-Gray's initials can be found there. There were three types of coins issued during the reign of George VI, a half penny type and two different penny types. After the war, Jersey's first commemorative coin, a one twelfth of a shilling, was released in memory of the liberation of the island.
 

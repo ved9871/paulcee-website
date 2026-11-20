@@ -18,7 +18,7 @@ seo:
   keywords: minelab vanquish straight shaft, vanquish shaft conversion, minelab vanquish tutorial
 ---
 
-![how to convert minelab vanquish to a straight shaft](/img/vanquish-shaft1.webp)
+![Red Minelab Vanquish detector with a straight shaft lying on grass](/img/vanquish-shaft1.webp "A free conversion from the folding shaft to a straight shaft")
 
 ## How to convert a minelab Vanquish to a straight shaft
 

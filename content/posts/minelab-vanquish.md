@@ -18,10 +18,10 @@ seo:
   keywords: minelab vanquish review, minelab vanquish 440 uk, minelab vanquish 340 uk, minelab vanquish settings
 ---
 
-[![minelab Vanquish 440 uk test and review](/img/DSC01037.webp)](http://bit.ly/2VcUX0q)
+[![Man in a black Minelab shirt swinging a Vanquish detector at a busy field event](/img/DSC01037.webp "Hands-on testing of the Minelab Vanquish 440 at an event")](http://bit.ly/2VcUX0q)
 
 ## Minelab Vanquish UK
 
 Detectival 2019 saw the launch of the Minelab Vanquish series of metal detectors, we have tried and tested on test beds and in the field, astounding results against single frequency metal detectors which now have a good fight on their hands to stay popular with the well priced [minelab vanquish](http://bit.ly/CMDvanquish) which is going to be an ideal detector the beginner or as a back up detector, although not fully waterproof it is showerproof with the control box cover and has the same multi iq as the equinox detecotrs
 
-[![minelab vanquish 340 review](/img/20190914_114002.webp)](http://bit.ly/2VcUX0q)
+[![Minelab Vanquish 340 control box and raised coil over a field](/img/20190914_114002.webp "Early field test of the Vanquish 340 in September 2019")](http://bit.ly/2VcUX0q)

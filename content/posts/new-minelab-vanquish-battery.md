@@ -21,21 +21,21 @@ seo:
 
 The NEW high power Lithium battery for the [MINELAB Vanquish Metal Detectors](/minelab-vanquish-40-series/), will be available from [CRAWFORDS METAL DETECTORS](/crawfords-metal-detectors/) and Selected Minelab Dealers in the U.K.
 
-![RNB Innovations Battery for the Minelab Vanquish](/img/Image1_xsrqkb6r.webp "RNB Innovations Battery for the Minelab Vanquish")
+![RNB Innovations Battery for the Minelab Vanquish](/img/Image1_xsrqkb6r.webp "Fitted to the Vanquish shaft in place of the AA battery pack")
 
 ### Super High Powered Minelab Vanquish metal detector
 
 It is a built in solution for increasing your metal detecting time and does away with the original battery system.
 
-![RNB Minelab Vanquish replacement battery](/img/Image2.webp "RNB Minelab Vanquish replacement battery")
+![RNB Vanquish battery pack opened beside the original four AA battery compartment](/img/Image2.webp "Opened up: lithium pack on one side, the AA compartment on the other")
 
 designed to replace and fit the original aperture where the 4 AA batteries fit
 
-![charging minelab Vanquish with USB](/img/Image3.webp "charging minelab Vanquish with USB")
+![charging minelab Vanquish with USB](/img/Image3.webp "Charged over USB-C, so no more swapping AA batteries")
 
 The RNB Innovations Minelab Vanquish Battery is Designed to be Charged Via USB-C and comes complete with a USB charging cable
 
-![charging the Minelab Vanquish battery with a power bank](/img/Image4.webp "charging the Minelab Vanquish battery with a power bank")
+![charging the Minelab Vanquish battery with a power bank](/img/Image4.webp "A power bank and folding solar panels keep it topped up in the field")
 
 If your planning on metal detecting for a long period of time, like a weekend [metal detecting rally](https://www.paulcee.co.uk/detecting-rallies/) or other long event this is an ideal add on for you Minelab Vanquish and can also connect to a POWERBANK and top it up while you are resting or having a nap..
 

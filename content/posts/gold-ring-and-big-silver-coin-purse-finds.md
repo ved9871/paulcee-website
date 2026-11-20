@@ -21,7 +21,7 @@ seo:
   keywords: Uk beach detecting, metal detecting, crawfords metal detectors, minelab ctx 3030 UK
 ---
 
-![Metal Detecting on Cleethorpes Beach](/img/2026-thumb.webp "metal detecting on Cleethorpes beach")
+![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/2026-thumb.webp "A CTX 3030 beach day with gold and silver finds")
 
 ## minelab ctx 3030 gold and silver coins
 

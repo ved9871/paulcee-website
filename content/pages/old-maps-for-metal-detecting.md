@@ -10,7 +10,7 @@ seo:
 
 ## The Best Metal Detecting Research Maps
 
-[![The Best Maps For Metal Detecting Research, where to find them and how to use them](/img/old-maps.webp "Best Maps For Metal Detecting Research")](https://www.paulcee.co.uk/old-maps-for-metal-detecting/)
+[![Aerial view of an English village and farmland under the title The Best Old Maps](/img/old-maps.webp "Choosing the best maps for metal detecting research")](https://www.paulcee.co.uk/old-maps-for-metal-detecting/)
 
 On this page, we are diving deep into the fascinating world of old maps for metal detecting. If you are wondering about the best tools to use for your treasure hunting adventures, look no further. Whether you are a beginner looking for a step-by-step guide or a serious detectorist hunting for a hoard of treasure, successful research starts here.
 
@@ -18,7 +18,7 @@ From detailed **historical maps of old towns** to modern digital tools, we cover
 
 ### Why Use LiDAR Maps for Metal Detecting?
 
-[![Lidar Maps can Show outlines of old settlements and townships, footpaths and roads](/img/lidar.webp "lidar map to use for metal detecting")](https://www.paulcee.co.uk/old-maps-for-metal-detecting/)
+[![Illustration of turf-roofed settlement huts in a valley, titled Lidar will uncover settlements](/img/lidar.webp "LiDAR shows settlements, tracks and roads hidden under vegetation")](https://www.paulcee.co.uk/old-maps-for-metal-detecting/)
 
 We specifically explore the game-changing concept of LiDAR maps and how they can revolutionize your metal detecting research. LiDAR (Light Detection and Ranging) strips away vegetation to reveal the ground beneath, helping you uncover hidden gems that standard maps miss.
 
@@ -32,7 +32,7 @@ Hidden earthworks and ancient settlements.
 
 [**TRY THE ARCHIUK Maps**](https://www.archiuk.com/)
 
-[![Old Maps For Metal Detecting Research ARCHIUK is one of the best](/img/archiuk.webp "ARCHIUK Research maps for metal detecting")](https://www.archiuk.com/)
+[![Thumbnail blending an aerial landscape, LiDAR scan and historic map of a stone circle](/img/archiuk.webp "ArchiUK is a handy place to view old maps and LiDAR")](https://www.archiuk.com/)
 
 **Step-by-Step Guide: Finding the Best Places to Metal Detect**
 
@@ -138,7 +138,7 @@ Whether you are researching local parish history, planning a countryside walk, o
 
 ### Why does Lincolnshire have so many Viking place names?
 
-[![How towns and villages got their names](/img/place-names.webp "how towns and villages got their names")](https://www.paulcee.co.uk/old-maps-for-metal-detecting/)
+[![Illustration of a Viking-age village beside a stream, titled Ancient Place Names](/img/place-names.webp "Place names ending in -by and -thorpe point to Danish settlement")](https://www.paulcee.co.uk/old-maps-for-metal-detecting/)
 
 Lincolnshire sat at the geographic heart of the **Danelaw** following the late 9th-century Scandinavian settlement of eastern England. While Anglo-Saxons had already claimed the primary spring-line villages, Danish settlers established hundreds of new farmsteads (_-by_) and satellite hamlets (_-thorpe_) across the Wolds, heaths, and marsh margins, giving Lincolnshire the highest density of Scandinavian place names in Britain.
 
@@ -148,7 +148,7 @@ In Old Norse, **-by** (_býr_) referred to an independent farmstead or establish
 
 ### Why are there so few old villages directly on Ermine Street in Lincolnshire?
 
-[![Why are there so few old villages directly on Ermine Street in Lincolnshire](/img/villages.webp "where to find old villages on a map")](https://www.paulcee.co.uk/old-maps-for-metal-detecting/)
+[![Empty country road across moorland under heavy cloud, titled Why so few villages](/img/villages.webp "Why Ermine Street in Lincolnshire has so few old villages")](https://www.paulcee.co.uk/old-maps-for-metal-detecting/)
 
 North and south of Lincoln, Ermine Street runs along the highest, driest crest of the limestone plateau. Early medieval settlers avoided building directly on the road because reaching groundwater meant digging wells over 100 feet through solid limestone, and the exposed ridge offered no shelter from winter winds. Instead, villages were built at the sheltered spring-line below, using Ermine Street as a rear parish boundary.
 

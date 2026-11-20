@@ -7,9 +7,9 @@ seo:
   keywords: minelab uk, crawfords metal detector shop, regtons, spin a disc, metal detector shops uk, metal detectors ebay uk, crawfords discount code, metal detecting shops near me
 ---
 
-![crawfords metal detectors and paul cee metal detecting](/img/cmd-white-alpha.webp "crawfords metal detectors and paul cee metal detecting")
+![Crawfords Metal Detectors CMD logo in white](/img/cmd-white-alpha.webp "Crawfords Metal Detectors, the UK shop Paul Cee works with")
 
-[![paul cee and crawfords metal detectors, powered by minelab detecting](/img/2026-thumb_0bwkmdko.webp "Crawfords Metal Detectors and Paul Cee")](/crawfords-metal-detectors/)
+[![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/2026-thumb_0bwkmdko.webp "Crawfords Metal Detectors and Paul Cee")](/crawfords-metal-detectors/)
 
 ## Crawfords Metal Detectors: The UK's Premier Metal Detecting Specialists
 
@@ -53,7 +53,7 @@ In addition to our wide range of metal detectors stocked in the UK, we also have
 
 [Review of the Minelab Equinox](/minelab-equinox/)
 
-![crawfords metal detectors blue light and nhs discount code](/img/WEB_AD2026a.webp "Crawfords Metal Detectors Discount Code") 
+![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD2026a.webp "Use code paulcee10 at the Crawfords checkout for a discount") 
 
 #### CRAWFORDS METAL DETECTORS
 

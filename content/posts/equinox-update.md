@@ -16,7 +16,7 @@ seo:
   keywords: minelab equinox update, metal detector, equinox update latest, minelab settings, nox, 800, update
 ---
 
-![Minelab Equinox update](/img/single_freq.webp)
+![Equinox thumbnail asking if the single frequency option is missing in Beach mode](/img/single_freq.webp "Single frequency seems to have vanished from Beach mode")
 
 ## Minelab Equinox uk Settings
 
@@ -24,4 +24,4 @@ i use 99% of the time both of the beach program on the minelab [equinox 800](/mi
 
 Since the update the function seems to have gone..has anybody else noticed this or do i adjust to many settings while trying to metal detect. i like to see what works and what doesnt when [metal detecting beaches](/beginners-guide-to-metal-detecting/)..
 
-[![minelab equinox update](/img/pdc-sticker_sml_5yivp6k8.webp "small")](http://bit.ly/2VcUX0q)
+[![Round paulcee.co.uk sticker with CMD and Minelab Equinox logos](/img/pdc-sticker_sml_5yivp6k8.webp "small: Paul Cee metal detecting sticker")](http://bit.ly/2VcUX0q)

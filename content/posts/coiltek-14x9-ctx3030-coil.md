@@ -19,7 +19,7 @@ seo:
   keywords: Coiltek coils uk, best coil for a metal detector, metal detecting on the beach, minelab manticore beach
 ---
 
-![Minelab ctx3030 CoilTek coil](/img/CTX-14x9.webp "Minelab ctx3030 CoilTek coil")
+![Minelab ctx3030 CoilTek coil](/img/CTX-14x9.webp "Coiltek's 14 by 9 inch coil for the CTX 3030")
 
 
 ## 14" X 9" CoilTek CTX 3030 coil

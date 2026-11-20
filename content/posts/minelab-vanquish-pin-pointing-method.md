@@ -17,7 +17,7 @@ seo:
   keywords: minelab vanquish settings, minelab vanquish pinpoint, how to, metal detecto settings
 ---
 
-![How to pinpoint minelab Vanquish 340](/img/pinpoint.webp "How to pinpoint minelab Vanquish 340")
+![Detectorist on a beach with a Minelab Vanquish 340 and a long-handled scoop](/img/pinpoint.webp "Two easy pinpointing methods for the Vanquish 340")
 
 ## Minelab Vanquish 340 settings and help
 
@@ -27,4 +27,4 @@ Easy ways to pin point with a Minelab Vanquish metal detector, can be used metal
 
 2 Easy ways to find the location of the targets
 
-[![minelab vanquish help tutorials](/img/WEB_AD2026a.webp "minelab vanquish help tutorials")](/detecting-accessories/)
+[![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD2026a.webp "Use code paulcee10 at Crawfords Metal Detectors for a discount")](/detecting-accessories/)

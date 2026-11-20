@@ -22,7 +22,7 @@ seo:
   keywords: Lidar Map, Metal detecting research, old maps, treasure hunting map
 ---
 
-![old maps for metal detecting research](/img/research_web.webp "old maps for metal detecting research")
+![How to use old maps to find hidden treasure thumbnail with two gold coins over a field](/img/research_web.webp "Old maps help you pick productive fields before you dig")
 
 ## Metal Detecting Research old maps
 

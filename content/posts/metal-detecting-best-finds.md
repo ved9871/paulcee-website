@@ -20,7 +20,7 @@ seo:
   keywords: Minelab Detecting, metal detecting finds, best, detector, metal detecting for beginners, crawfords metal detectors, minelab finds
 ---
 
-![metal detecting best finds](/img/best-of-2.webp)
+![Detectorist with a scoop and detector on a rocky beach at low tide](/img/best-of-2.webp "A round-up of my most unforgettable finds")
 
 ## Metal detecting and treasure hunting uk
 

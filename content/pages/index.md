@@ -22,49 +22,49 @@ seo:
 
 And if you like [researching sites for metal detecting](/old-maps-for-metal-detecting/) we have a section on that also.
 
-[![Get the Minelab Manticore settings that will elevate your metal detecting to the next level](/img/MANTICORE-VIDEO_as2ycfdz.webp "Minelab Manticore Settings")](/blog/minelab-manticore-uk-beach-settings/)
+[![Minelab Manticore settings video title card with Unleash the Beast text](/img/MANTICORE-VIDEO_as2ycfdz.webp "Manticore settings for beaches and fields")](/blog/minelab-manticore-uk-beach-settings/)
 
 ## Minelab Manticore User Guide and settings
 
 Unleash the Beast, get the most out of your Minelab Manticore, setting up for beach detecting and Fields
 
-![how to set up and use a minelab equinox metal detector](/img/eqx-900-beach_ybg5c3oj.webp "Minelab Equinox Settings")
+![Minelab Equinox 900 beach settings video thumbnail with detectorist in the surf](/img/eqx-900-beach_ybg5c3oj.webp "Beach settings and user guide for the Equinox 900")
 
 ## Minelab Equinox User Guide And Settings
 
 Beginner Guides and settings for the Minelab Equinox
 
-[![Minelab X Terra Elite settings and user guide](/img/XTE-intro_WEB.webp "Minelab X-Terra Elite Settings")](/blog/ultimate-x-terra-elite-guide/)
+[![Minelab X-Terra Elite control box on sandy ground with getting started guide text](/img/XTE-intro_WEB.webp "Getting started with the X-Terra Elite")](/blog/ultimate-x-terra-elite-guide/)
 
 ## Minelab X-Terra Elite Settings
 
 User guide and settings for the minelab Xterra Elite, for beach detecting and fields
 
-[![Settings and user guide for the Minelab Vanquish 560 from the 60 Series vanquish](/img/560-web1_cr16wx23.webp "How to use a Minelab Vanquish 60 series")](/blog/minelab-vanquish-560/)
+[![Paul Cee sitting on a bench setting up a Minelab Vanquish 560 in a field](/img/560-web1_cr16wx23.webp "Paul Cee with the Vanquish 560 from the 60 Series")](/blog/minelab-vanquish-560/)
 
 ### Minelab Vanquish 560 Settings
 
 User Guide and Settings for the Minelab Vanquish 560 (60 Series) for metal detecting on beaches and fields
 
-[![how to set up and use the minelab vanquish metal detector](/img/vanquish-settings1.webp "How to use a Minelab Vanquish")](/blog/minelab-vanquish-how-to-use/)
+[![Young detectorist with a Minelab Vanquish 540 on a grass field beside a spade](/img/vanquish-settings1.webp "Learning the Vanquish 540 out in the field")](/blog/minelab-vanquish-how-to-use/)
 
 #### Minelab Vanquish User Guide
 
 User Guide and settings for the Minelab Vanquish 340, 440 and 540 for metal detecting on beaches and fields
 
-[![Minelab Xterra Pro User Guide, settings and Help](/img/xterra-pro-features.webp "Minelab X-Terra Pro Tutorial")](/blog/minelab-x-terra-pro/)
+[![Minelab X-Terra Pro on a shingle beach with the coil resting on driftwood](/img/xterra-pro-features.webp "X-Terra Pro features, functions and settings")](/blog/minelab-x-terra-pro/)
 
 ### Minelab X-Terra PRO Settings
 
 User Guide And Settings for the Minelab XTerra Pro, for metal detecting on beaches and fields
 
-[![Minelab Voyager user guide](/img/voyager-tutorial_uymn4p4k.webp "Minelab Voyager Tutorials")](/blog/minelab-voyager-how-to-use/)
+[![Minelab X-Terra Voyager control box on a field and on a beach at sunset](/img/voyager-tutorial_uymn4p4k.webp "Voyager set up guide: target IDs, discrimination, sensitivity")](/blog/minelab-voyager-how-to-use/)
 
 #### Minelab Voyager User Guide
 
 User Guide and Settings for the minelab Voyager
 
-[![Best Metal Detecting Accessories, for beginners, these are the essentials to get the most out of your day Detecting](/img/pwr_x_n529ai0y.webp "Power X Minelab Power Bank")](/detecting-accessories/)
+[![Minelab Power X power bank clipped to a metal detector](/img/pwr_x_n529ai0y.webp "Power X power bank for long days on the beach")](/detecting-accessories/)
 
 ## Metal Detecting Accessories
 

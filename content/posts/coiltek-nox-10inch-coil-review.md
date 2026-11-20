@@ -18,7 +18,7 @@ seo:
   keywords: Coiltek, minelab, Equinox, coil, metal, detecting, uk, Review
 ---
 
-![Review and Test of the Coiltek Nox 10x5 Equinox coil](/img/14th-feb_gold1_web.webp "Review and Test of the Coiltek Nox 10x5 Equinox coil")
+![Detectorist on a seafront beach using a Coiltek 10x5 coil, conditions perfect](/img/14th-feb_gold1_web.webp "On the beach with the Coiltek NOX 10x5 coil for the review")
 
 ## Test and REVIEW of the COILTEK NOX 10x5 inch coil.
 

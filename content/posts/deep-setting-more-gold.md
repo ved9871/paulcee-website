@@ -22,7 +22,7 @@ seo:
   keywords: minelab, equinox 800, beach, detecting, uk, paul cee, crawfords, metal, detectors
 ---
 
-[![minelab Equinox Deep Settings](/img/300918_gold.webp "minelab Equinox Deep Settings")](/minelab-equinox/)
+[![Smiling detectorist on a beach at sunset with a detector, text reads You beauty](/img/300918_gold.webp "A rainy day, but gold turned up on the deep settings")](/minelab-equinox/)
 
 Set up the Equinox with my deep beach settings, today a rainy day not to many finds but Gold was found
 

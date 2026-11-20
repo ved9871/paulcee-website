@@ -20,7 +20,7 @@ seo:
   keywords: metal detecting uk, minelab ctx 3030, treasure hunting uk
 ---
 
-![beach metal detecting uk with minelab metal detectors](/img/031017_zo3ya6jq.webp "CTX 3030 beach metal detecting")
+![CTX 3030 text over a hand holding old coins and a ring on a beach](/img/031017_zo3ya6jq.webp "Old coins and a ring from a tough North England beach")
 
 North England Metal detecting on the tough beaches that are reluctant to give up the Treasures, but the [Minelab Ctx3030](/ctx3030/) still manages to winkle out an old toy from around WW2, some coins and the remains of what at one time was somebodys precious belonging
 

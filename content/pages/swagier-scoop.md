@@ -11,15 +11,15 @@ seo:
 
 ### Built for the Beach. Engineered to Last.
 
-[![The best sand scoop for metal detecting in the uk](/img/swagier-2.webp "The best sand scoop for metal detecting in the uk")](https://swagierscoop.com/)
+[![Swagier hexagon-hole stainless steel sand scoop in wet sand beside a pier](/img/swagier-2.webp "Swagier scoops are made from marine-grade stainless steel")](https://swagierscoop.com/)
 
 Stop replacing cheap sand scoops. Swagier sand scoops are crafted from marine-grade stainless steel to handle the toughest wet sand, clay, and rocky shorelines. Whether you are hunting for rings in the surf or coins in the dry sand, Swagier offers the professional reliability you need at a price you can afford.
 
-[![what are the best sand scoops in the Uk](/img/swagier1.webp "what are the best sand scoops in the Uk")](https://swagierscoop.com/)
+[![Swagier sand scoops on wet sand beside a detectorist in a Swagier T-shirt](/img/swagier1.webp "Swagier scoops in the field: built for rocky, heavy sand")](https://swagierscoop.com/)
 
 ### Swagier Scoops built to last
 
-[![the V2 Sito scoop from Swagier scoops](/img/v2-sito.webp "the V2 Sito scoop from Swagier scoops")](https://swagierscoop.com/)
+[![Close-up of a polished Swagier V2 Sito stainless steel sand scoop with hexagon holes](/img/v2-sito.webp "The V2 Sito: polished stainless steel with a sharp, light profile")](https://swagierscoop.com/)
 
 ### 1. Marine-Grade Durability
 
@@ -37,7 +37,7 @@ Meet the Line up
 
 ### The "Tank": Swagier V5
 
-[![the best heavy duty sand scoop in the uk for HEAVY SAND beach detecting, and fast target recovery](/img/swagier-V5.webp "Swagier Sand scoop, heavy duty")](https://swagierscoop.com/)
+[![Swagier V5 heavy-duty sand scoop standing in wet sand with a pier behind](/img/swagier-V5.webp "The V5 Tank: for deep wading, heavy wet sand and rocky bottoms")](https://swagierscoop.com/)
 
 <strong>Best For: Deep water wading, wet heavy sand, and rocky bottoms.</strong>
 
@@ -55,7 +55,7 @@ Weight 1700gr
 
 ### The "Sniper": Swagier V2 (Sito)
 
-[![the swagier Sito V2 sand scoop ideal for dry sand beach detecting](/img/v2-sito1.webp "Swagier Sand scoop Uk")](https://swagierscoop.com/)
+[![Swagier V2 Sito scoop with dry sand next to a Minelab Vanquish 540](/img/v2-sito1.webp "The V2 Sito sifts dry sand fast for coins and fine jewellery")](https://swagierscoop.com/)
 
 <strong>Best For: Dry Sand, Coins, Micro-jewellery, stud earrings, and fine chains.</strong>
 
@@ -91,4 +91,4 @@ Weight. 1360 Gr
 
 <a href="https://swagierscoop.com" class="btn">Find out More</a>
 
-![the best sandscoops for beach detecting in the uk and where to buy](/img/WEB_AD2026a.webp "the best sandscoops for beach detecting in the uk and where to buy")
+![Crawfords Metal Detectors banner with discount code paulcee10 and Paul Cee photo](/img/WEB_AD2026a.webp "Use code paulcee10 at crawfordsmd.com when buying detectors and scoops")

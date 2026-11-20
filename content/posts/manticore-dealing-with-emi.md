@@ -19,11 +19,11 @@ seo:
 
 ## Minelab Manticore Setting for EMI Interference
 
-![minelab manticore settings to help deal with interference](/img/2026-thumb_0bwkmdko.webp "minelab manticore settings to help deal with interference")
+![Paul Cee, Minelab Detexpert, smiling with arms folded in a field](/img/2026-thumb_0bwkmdko.webp "Paul Cee explains how to tame interference on the Manticore")
 
-![settings to help deal with EMI on a minelab metal detector](/img/detexpert-logosml_0e0vdxkk.webp "settings to help deal with EMI on a minelab metal detector")
+![Minelab Detexpert shield logo with red detector silhouette](/img/detexpert-logosml_0e0vdxkk.webp "Minelab Detexpert guidance on handling EMI")
 
-[![minelab manticore tutorials in the uk from crawfords metal detectors](/img/cmd-white-alpha_l2pfxf7n.webp "minelab manticore tutorials in the uk from crawfords metal detectors")](/crawfords-metal-detectors/)
+[![Crawfords Metal Detectors white logo](/img/cmd-white-alpha_l2pfxf7n.webp "Crawfords Metal Detectors offer Manticore tutorials and training")](/crawfords-metal-detectors/)
 
 How do you deal with interference on a metal detector?.
 

@@ -14,7 +14,7 @@ seo:
   keywords: Equinox, 800, 600, water, Leaks, problem, help
 ---
 
-![minelab equinox salt water detecting](/img/waterhunt-01.webp "minelab equinox salt water detecting")
+![Minelab Equinox with a green coil swinging in shallow sea water](/img/waterhunt-01.webp "Waterproof test at Bournemouth: no leaks with the Equinox")
 
 ## Metal Detecting in the water on Bournemouth beach
 

@@ -17,11 +17,11 @@ seo:
   keywords: minelab equinox vibrate, vibrate handle settings, equinox 900 settings, equinox 700 settings, nox 900 settings, crawfords metal detectors
 ---
 
-![how to set the Minelab Equinox 900 to Vibrate on targets](/img/equinox-900-vibratea_8nruobap.webp "how to set the Minelab Equinox 900 to Vibrate on targets")
+![Equinox 900 video thumbnail on how to use the vibrate setting and set target ID](/img/equinox-900-vibratea_8nruobap.webp "Switching on vibrate for target alerts")
 
-![setting up the vibrate feature on the Minelab Equinox](/img/2026-thumb_0bwkmdko.webp "setting up the vibrate feature on the Minelab Equinox")
+![Round portrait of Paul Cee in a Crawfords polo shirt, arms folded](/img/2026-thumb_0bwkmdko.webp "Paul Cee, Minelab Detexpert")
 
-![Settings for the Vibrating handle on a Minelab Equinox in the uk](/img/detexpert-logosml_8rjvjmu6.webp "Settings for the Vibrating handle on a Minelab Equinox in the uk")
+![Minelab Detexpert shield badge with the Minelab logo and detector graphic](/img/detexpert-logosml_8rjvjmu6.webp "Vibrate on target detection on the Equinox")
 
 ## Minelab Equinox Vibrate Feature on target detection
 

@@ -24,7 +24,7 @@ seo:
   keywords: Emiter, cheap, sandscoop, beach, detecting, metal
 ---
 
-[![EmiteR sand scoops budget beach metal detecting sand scoops](/img/emite-r-scoops_gmdrae2v.webp "Cheap Sand scoop for metal detecting")](https://crawfordsmd.com/sandscoop-s150?tracking=fa202437c9)
+[![Two EmiteR stainless steel sand scoops with round and square holes on beach sand](/img/emite-r-scoops_gmdrae2v.webp "Budget Polish-made sand scoops with round and square holes")](https://crawfordsmd.com/sandscoop-s150?tracking=fa202437c9)
 
 ## EMITE-R Sand scoops
 

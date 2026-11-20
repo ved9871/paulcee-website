@@ -20,9 +20,9 @@ seo:
   keywords: equinox hammered coins, minelab equinox hammered coin settings, paul cee minelab equinox, crawfords metal detectors
 ---
 
-[![how to find hammered coins metal detecting](/img/5_hammeredweb.webp)](/minelab-equinox/)
+[![Hand holding a Minelab Equinox 800 over a ploughed field beside a hammered silver coin](/img/5_hammeredweb.webp "Five hammered coins from one ploughed field")](/minelab-equinox/)
 
-[![how to find hammered coins metal detecting](/img/small-logo.webp)](http://bit.ly/2VcUX0q)
+[![Round blue paulcee.co.uk metal detecting badge with Minelab Equinox and CTX 3030 logos](/img/small-logo.webp "The paulcee.co.uk metal detecting badge")](http://bit.ly/2VcUX0q)
 
 ## Minelab Equinox hammered coins
 

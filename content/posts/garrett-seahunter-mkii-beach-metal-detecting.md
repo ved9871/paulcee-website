@@ -11,7 +11,7 @@ seo:
   keywords: garrett seahunter mk2, beach, detecting, pulse, induction
 ---
 
-![garrett seahunter mk2](/img/070517.webp)
+![Garrett Sea Hunter Mk II coil on wet sand seen from above with the title text](/img/070517.webp "Sea Hunter Mk2 sweeping the beach")
 
 ## Beach metal detecting
 

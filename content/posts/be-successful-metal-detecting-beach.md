@@ -20,7 +20,7 @@ seo:
   keywords: beach detecting, minelab, crawfords, metal detector, uk, tutorial
 ---
 
-[![metal detecting for beginners](/img/best-of-5_final1.webp "metal detecting for beginners")](http://bit.ly/2VcUX0q)
+[![Smiling detectorist pointing at the beach, text reads Beach metal detecting success](/img/best-of-5_final1.webp "Tips for beach detecting success in the UK")](http://bit.ly/2VcUX0q)
 
 Get the best results beach metal detecting, find all the gold that other people leave behind, where are the best places to metal detect on beach, we try all parts of the beach for the best results
 

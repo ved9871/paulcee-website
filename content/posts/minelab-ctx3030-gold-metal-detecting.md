@@ -14,8 +14,8 @@ seo:
   keywords: Minelab, CTX3030, Beach, Metal, detecting, Gold, bournemouth, cleethorpes
 ---
 
-![Bournemouth beach metal detecting](/img/GOPR0669.webp "Bournemouth beach metal detecting")
+![Gold ring on a Minelab CTX 3030 control box in front of Bournemouth pier](/img/GOPR0669.webp "The 22k gold ring from the wet sand and slopes")
 
 Using my custom [CTX 3030](/ctx3030/) Beach program, metal detecting the wet sand and the Slopes on Bournemouth Beach pays off with a stunning 22k gold ring.
 
-[![metal detecting on bournemouth beach with a minelab ctx 3030](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/minelab-ctx3030?tracking=fa202437c9)
+[![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Crawfords discount: use code paulcee10")](https://crawfordsmd.com/minelab-ctx3030?tracking=fa202437c9)

@@ -20,7 +20,7 @@ seo:
   keywords: minelab equinox, Silver, coins, beach, metal, detecting
 ---
 
-![minelab equinox silver coin myth busted](/img/281018_coins.webp "minelab equinox silver coin myth busted")
+![Smiling bearded man in a cap on an east coast beach with Silver Coins title text](/img/281018_coins.webp "Silver coins at depth from an east coast beach with the Equinox 800")
 
 silver coins with the [Minelab Equinox](/minelab-equinox/) some at Depth metal detecting east coast beach. some say the minelab Equinox has lost depth and the EQUINOX will not detect silver coins, i Found plenty of copper pre decimal coins, all using the deep setting for the [minelab Equinox 800](/crawfords-metal-detectors/), on the sand slope of the beach.
 

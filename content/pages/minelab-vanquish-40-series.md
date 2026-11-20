@@ -8,11 +8,11 @@ seo:
   keywords: Minelab Vanquish, Vanquish 40 series, Vanquish 340, Vanquish 440, Vanquish 540, Multi-IQ technology, metal detector, best beginner metal detector, waterproof coil, beach detecting
 ---
 
-![minelab vanquish logo uk](/img/vanquish-logo-red.webp "minelab vanquish logo uk")
+![Red Minelab Vanquish logo on a transparent background](/img/vanquish-logo-red.webp "The Vanquish 40 Series logo")
 
 ## Minelab Vanquish 40 series
 
-![minelab vanquish a budget metal detector for beginners](/img/20190914_114002_pvnq70ue.webp "minelab vanquish a budget metal detector for beginners")
+![minelab vanquish a budget metal detector for beginners](/img/20190914_114002_pvnq70ue.webp "Vanquish 540 screen at a metal detecting rally")
 
 ## The Minelab Vanquish 40 Series: Proven Power, Unbeatable Value.
 
@@ -51,7 +51,7 @@ The unique collapsible shaft system of the Vanquish 40 series is still one of th
 
 - It shrinks down to <strong>76 cm (30 in)</strong> instantly.
 - It throws easily into a backpack or trunk.
-- No screw-lock shafts to jam up with sand. The simpler snap-lock system just works.![Minelab Vanquish 540 shaft and aftermarket straight shaft](/img/P1040950_a_flpaa5kp.webp "Minelab Vanquish 540 shaft and aftermarket straight shaft")
+- No screw-lock shafts to jam up with sand. The simpler snap-lock system just works.![Minelab Vanquish 540 shaft and aftermarket straight shaft](/img/P1040950_a_flpaa5kp.webp "Orange shaft clamp on the Vanquish 540")
 
 ### Which "Classic" is Right for You?
 
@@ -63,7 +63,7 @@ The unique collapsible shaft system of the Vanquish 40 series is still one of th
 ### Vanquish 440: The Value Sweet Spot
 
 - <strong>Why buy it now:</strong> It has the "Pinpoint" feature and finer sensitivity controls, making it the perfect everyday machine. It punches way above its weight class.
-- <strong>Key Stat:</strong> 12 Discrimination segments &amp; dedicated Pinpoint button![minelab vanquish 540 screen and buttons](/img/P1040953_a_rvgjjcyp.webp "minelab vanquish 540 screen and buttons")
+- <strong>Key Stat:</strong> 12 Discrimination segments &amp; dedicated Pinpoint button![Minelab Vanquish 540 control box with screen, target ID scale and buttons](/img/P1040953_a_rvgjjcyp.webp "Multi-IQ screen and buttons on the Vanquish 540")
 
 ### Vanquish 540: The Tech Heavyweight
 
@@ -76,11 +76,11 @@ New technology is flashy, but <strong>proven performance pays the bills.</strong
 
 <strong>Don't wait for the future. Start finding history today with the Vanquish 40 Series.</strong>
 
-![minelab vanquish 340 test bed for metal detecting beginners](/img/DSC01037_ejo2dtya.webp "minelab vanquish 340 test bed for metal detecting beginners")
+![Man testing a Minelab Vanquish at a metal detecting rally in a ploughed field](/img/DSC01037_ejo2dtya.webp "Putting the Vanquish through its paces at a rally")
 
 ### The BEST Metal detector for beginners and Kids out of the Box is a switch on and go metal detector that works on the beach or on land, ideal also as a back up metal detector. Super small compact design fits easily in a backpack.
 
-![minelab vanquish 540 battery in the uk](/img/P1040955_a_ncbv36py.webp "minelab vanquish 540 battery in the uk")
+![Four Energizer lithium AA batteries in the Minelab Vanquish 540 battery compartment](/img/P1040955_a_ncbv36py.webp "Runs on ordinary AA batteries")
 
 ### JUST NORMAL BATTERIES
 

@@ -21,8 +21,8 @@ seo:
 
 ### get on in reality?
 
-![minelab Vanquish 440 beach detecting uk](/img/vanquish_1.webp)
+![Minelab Vanquish control box with blue headphones hanging on the shaft at the beach](/img/vanquish_1.webp "Vanquish on the beach, a beginner story")
 
-![paul cee crawfords metal detectors](/img/YT-thumb_2020_oqjlxwup.webp "small")
+![Paul Cee round badge with Minelab Equinox and CTX 3030 logos](/img/YT-thumb_2020_oqjlxwup.webp "small: For a beginner it is about learning, and fun")
 
 for a beginner at metal detecting its not always about finding gold its learning what the metal detector is telling you, getting the settings right for where you are metal detecting, its also about having fun.

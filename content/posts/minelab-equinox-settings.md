@@ -21,11 +21,11 @@ seo:
   keywords: minelab equinox settings, minelab manticore settings, minelab vanquish settings, minelab x-terra pro settings
 ---
 
-[![how to get the best settings for a minelab equinox](/img/equinox_masterclassWEB.webp)](http://bit.ly/2VcUX0q)
+[![Minelab Equinox masterclass thumbnail with detectorist silhouette and Do you know text](/img/equinox_masterclassWEB.webp "Equinox masterclass: learn the best settings")](http://bit.ly/2VcUX0q)
 
-![minelab equinox crawfords metal detectors](/img/YT-thumb_2020_cevl2euy.webp "small")
+![Paul Cee round badge with Minelab Equinox and CTX 3030 logos](/img/YT-thumb_2020_cevl2euy.webp "small: Paul Cee at Crawfords Metal Detectors")
 
-![minelab metal detector settings](/img/detexpert-logosml_0uu4x349.webp "small")
+![Minelab Detexpert shield badge in red, black and white](/img/detexpert-logosml_0uu4x349.webp "small: Paul Cee is a Minelab Detexpert")
 
 ## You need to know how to get the best settings on a Minelab metal detectors.
 
@@ -39,4 +39,4 @@ A Short Video of what happens on the Equinox masterclass
 
 Sign up to the mailing list for Masterclass Dates and locations
 
-[![regtons metal detectors](/img/pdc-sticker_sml_t8pcf5r9.webp "small")](http://bit.ly/2VcUX0q)
+[![Round paulcee.co.uk metal detecting sticker with CMD and Minelab Equinox logos](/img/pdc-sticker_sml_t8pcf5r9.webp "small: The paulcee.co.uk masterclass sticker")](http://bit.ly/2VcUX0q)

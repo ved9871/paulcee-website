@@ -12,9 +12,9 @@ seo:
 
 <strong>Meta Description:</strong> Master your Minelab Vanquish 60 series with our setup tutorial guide. Learn the best sensitivity, discrimination, and Multi-IQ settings for beach, field, and relic hunting to maximize your depth and finds.
 
-![How to Set Up Minelab Vanquish 560 from the 60 series of detectors](/img/2026-thumb_fi4vubdi.webp "How to Set Up Minelab Vanquish 560 from the 60 series")
+![Paul Cee, Minelab Detexpert, smiling with arms folded in a field](/img/2026-thumb_fi4vubdi.webp "Paul Cee walks through the Vanquish 560 setup")
 
-![Minelab Vanquish 560 settings explained, Paul Cee explains the easy way to learn the minelab vanquish 60 series](/img/VANQUISH-560PROPACK-RED.webp "Minelab Vanquish 60 Series Settings")
+![Minelab Vanquish 560 Pro-Pack red logo](/img/VANQUISH-560PROPACK-RED.webp "The 560 Pro-Pack sits at the top of the 60 series")
 
 ### Minelab Vanquish 60 Series settings.
 

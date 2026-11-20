@@ -12,9 +12,9 @@ seo:
   keywords: minelab equinox uk, minelab equinox settings, paul cee, crawfords metal detectors
 ---
 
-![paul cee crawfords metal detectors](/img/YT-thumb_2020_yoz5yje9.webp "small")
+![Paul Cee round badge with Minelab Equinox, CTX 3030 and Vanquish logos](/img/YT-thumb_2020_yoz5yje9.webp "small: Paul Cee detecting channel badge")
 
-![paul cee crawfords metal detectors](/img/detexpert-logosml_mqph5bcu.webp "small")
+![Minelab Detexpert shield logo with a red detector sweep](/img/detexpert-logosml_mqph5bcu.webp "small: Minelab Detexpert Paul Cee")
 
 ## Minelab Equinox small hammered coins
 

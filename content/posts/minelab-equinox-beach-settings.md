@@ -20,7 +20,7 @@ seo:
   keywords: Minelab,equinox,beach,settings,best,deep,stable
 ---
 
-![Minelab Equinox beach program](/img/P1040528_sml.webp "Minelab Equinox beach program")
+![Small gold-coloured coin held between finger and thumb on a beach](/img/P1040528_sml.webp "find from a session with the Equinox beach program")
 
 ## Why do people go with settings from YouTube videos that are not tried and tested?
 

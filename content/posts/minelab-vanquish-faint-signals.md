@@ -21,7 +21,7 @@ seo:
   keywords: minelab vanquish settings, minelab vanquish uk, settings, tutorials, how to
 ---
 
-![metal detecting silver](/img/P1050312.webp)
+![Engraved silver signet ring held in fingers, found with the Minelab Vanquish 540](/img/P1050312.webp "A silver signet ring dug on the Vanquish in a garden bed")
 
 ## Minelab Vanquish beach metal detecting
 
@@ -29,4 +29,4 @@ Listening for very faint signals which can mean small items buried at depth, the
 
 With the [Minelab Vanquish](/minelab-vanquish-60-settings/) having only 5 tones you have to listen to the tones much more carefully as they can be scratchy and jump signals, have a liten to the signal from the Ring, if your metal detector is falsing alot you could easily miss this this target at depth. This was using a [faster recovery speed on the Vanquish 540](/minelab-vanquish-60-settings/)
 
-![minelab vanquish settings for depth, what to listen for when using a minelab vanquish for deeper targets](/img/WEB_AD2026a.webp)
+![Crawfords Metal Detectors advert with the paulcee10 discount code](/img/WEB_AD2026a.webp "Money off at Crawfords with the paulcee10 code")

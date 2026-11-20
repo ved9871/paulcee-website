@@ -7,9 +7,9 @@ seo:
   keywords: Paul Cee, Metal Detecting, Minelab, Vanquish 60, underwater detector, beach detector, waterproof, iron discrimination, water metal detectors, treasure hunting
 ---
 
-![all about the minelab vanquish 560 metal detector](/img/60-review.webp "all about the minelab vanquish 560 metal detector")
+![Paul Cee on a wooden bench in a Detexpert cap holding a Minelab Vanquish detector](/img/60-review.webp "Paul Cee setting up a Vanquish 60 series before a field session")
 
-![learn all about the new minelab vanquish 60 series metal detectors, in the UK](/img/VANQUISH-560-Colour.webp "learn all about the new minelab vanquish 60 series metal detectors, in the UK")
+![Minelab Vanquish 560 logo in red lettering](/img/VANQUISH-560-Colour.webp "The waterproof 560 tops the Vanquish 60 series")
 
 ## Minelab Vanquish 560 Review: The Waterproof "Multi-IQ" Beast We’ve Been Waiting For
 
@@ -64,9 +64,9 @@ The high-performance choice for maximum audio control and depth.
 - <strong>Ground Balance:</strong> Auto &amp; Tracking.
 - <strong>Coil:</strong> Large V12X for maximum depth.
 
-![all about the minelab vanquish 60 series metal detectors](/img/2026-thumb_fi4vubdi.webp "all about the minelab vanquish 60 series metal detectors")
+![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/2026-thumb_fi4vubdi.webp "Paul Cee, Minelab Detexpert, reviewing the 60 series")
 
-![what is new on the minelab vanquish 60 series and is it worth the upgrade](/img/560-screen_ddo1d1a6.webp "what is new on the minelab vanquish 60 series and is it worth the upgrade")
+![Minelab Vanquish 560 screen showing a target ID of minus 16 in a field](/img/560-screen_ddo1d1a6.webp "Iron shows as a negative number, so you can skip it quickly")
 
 ## What’s New? The "60 Series" Upgrades
 
@@ -112,7 +112,7 @@ Lighting Backlight only Backlight + Flashlight
 
 Ground Balance Fixed (Park/Field) Manual &amp; Auto
 
-![minelab vanquish 560 pro pack uk, what do you get that is extra](/img/VANQUISH-560PROPACK-RED_5inmo2cy.webp "Minelab Vanquish 560 Pro Pack")
+![Minelab Vanquish 560 Pro-Pack logo in red lettering](/img/VANQUISH-560PROPACK-RED_5inmo2cy.webp "The Pro-Pack bundles extra kit with the detector")
 
 ## The "Pro-Pack" Bonus
 
@@ -122,7 +122,7 @@ If you buy the Vanquish 560 Pro-Pack, you generally get two coils out of the box
 
 <strong>V8X (8" x 5" DD):</strong> For trashy parks and tight spaces. Plus, it usually includes the new ML60 wireless headphones.
 
-![a user guide for the minelab vanquish 560 in the uk](/img/560-web.webp "a user guide for the minelab vanquish 560 in the uk")
+![Paul Cee holding a Vanquish 560 and a spade on a freshly ploughed field](/img/560-web.webp "Ploughed field session with the Vanquish 560")
 
 ### Performance in the Field
 
@@ -140,7 +140,7 @@ With the new Iron Bias control and faster processor, the 560 feels snappier. In 
 
 The 560 retains the collapsible shaft system, making it perfect for travel. It shrinks down to pack into a backpack, but now feels sturdier with the new waterproofing seals.
 
-![best metal detector for a beginner](/img/560-web1.webp "best metal detector for a beginner")
+![Paul Cee sitting on a wooden bench with a Vanquish 560 across his knees](/img/560-web1.webp "The collapsible shaft adjusts quickly and packs away small")
 
 ### Who is the Vanquish 560 For?
 
@@ -150,7 +150,7 @@ The 560 retains the collapsible shaft system, making it perfect for travel. It s
 
 <strong>The Upgrader:</strong> If you own a Vanquish 340 or 440, the jump to the 560 is massive. If you own a 540, the upgrade is worth it only if you need waterproofing or want to use Equinox coils.
 
-![best review of the minelab vanquish 560](/img/560-web2.webp "Minelab Vanquish 60 Series Review")
+![Paul Cee sweeping a Vanquish 560 across a harvested stubble field](/img/560-web2.webp "Verdict time: the 560 working a stubble field")
 
 #### Verdict: The New King of Mid-Range Detectors?
 
@@ -178,7 +178,7 @@ Click on the button below to buy the minelab vanquish 60 series
 
 <a href="https://crawfordsmd.com/minelab-vanquish-560-pro?tracking=fa202437c9" class="btn">BUY VANQUISH 560</a>
 
-![best place to buy a minelab vanquish 60 series](/img/WEB_AD2026a.webp "best place to buy a minelab vanquish 60 series")
+![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD2026a.webp "Use code paulcee10 at Crawfords Metal Detectors for a discount")
 
 {{youtube id="nrMw2oEBDyQ" title="how good is the minelab vanquish 560"}}
 

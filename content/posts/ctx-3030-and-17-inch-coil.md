@@ -18,7 +18,7 @@ seo:
   keywords: ctx 3030 uk, best metal detector for the beach, minelab, crawfords, regton, detecting rally
 ---
 
-[![minelab ctx 3030 beach metal detector any good](/img/060118_a1.webp)](http://bit.ly/2VcUX0q)
+[![Minelab CTX 3030 held over beach sand with a 17 inch coil and a sand scoop below](/img/060118_a1.webp "A few coins from a day with the 17 inch coil")](http://bit.ly/2VcUX0q)
 
 Metal Detecting Beach with the Minelab 17 inch coil on the [minelab ctx 3030](/ctx3030/), to try and get at a few of the coins... well just a few coins found today
 

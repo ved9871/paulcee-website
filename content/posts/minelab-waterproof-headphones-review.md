@@ -11,7 +11,7 @@ seo:
   keywords: minelab, headphones, uk, review, metal, detecting
 ---
 
-[![Equinox waterproof buds](/img/200518.webp)](https://crawfordsmd.com/equinox-waterproof-headphones?tracking=fa202437c9)
+[![Man holding two yellow waterproof headphones on a beach at sunset, text reads Gold and Silver](/img/200518.webp "Koss waterproof headphones tested on the beach")](https://crawfordsmd.com/equinox-waterproof-headphones?tracking=fa202437c9)
 
 ## Minelab Koss Waterproof headphones
 
@@ -19,4 +19,4 @@ fitted to the [Equinox](/minelab-equinox/) for testing and review. But will also
 
 Rewarded today with Gold and silver finds beach metal detecting
 
-[![Minelab Waterproof headphones](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/equinox-waterproof-headphones?tracking=fa202437c9)
+[![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Get Minelab accessories at Crawfords with code paulcee10")](https://crawfordsmd.com/equinox-waterproof-headphones?tracking=fa202437c9)

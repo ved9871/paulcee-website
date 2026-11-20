@@ -7,11 +7,11 @@ seo:
   keywords: Minelab X-Terra Elite, Minelab X-Terra Pro, X-Terra Elite vs Pro, Minelab Equinox coils, Coiltek Nox coils, Multi-IQ detector, Pro-Switch technology, metal detector review, waterproof metal detector, X-Terra coil compatibility
 ---
 
-[![Minelab X Terra Elite Review](/img/XTE_web.webp "Minelab X Terra Elite Review") ](https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9)
+[![Minelab X-Terra Elite review with orange backlit screen on a beach with a pier](/img/XTE_web.webp "X-Terra Elite review on the beach") ](https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-x-terra-elite?tracking=fa202437c9" class="btn">Buy Elite</a>
 
-[![Minelab X-Terra Pro Review](/img/XTP_WEB.webp "Minelab X-Terra Pro Review") ](https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9)
+[![Minelab X-Terra Pro review with control box over a muddy field and large coil](/img/XTP_WEB.webp "X-Terra Pro with a large coil on ploughed soil") ](https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9)
 
 <a href="https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9" class="btn">Buy Pro</a>
 
@@ -103,4 +103,4 @@ Both machines give you the flexibility to upgrade your performance later by addi
 
 {{youtube id="LDcEDpRyk3c" title="using the Minelab X-Terra Pro, compare to the X-Terra Elite"}}
 
-![Minelab X-terra elite Vs Minelab X-Terra Pro](/img/WEB_AD2026a.webp "Minelab X-terra elite Vs Minelab X-Terra Pro")
+![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Buy the Elite or Pro at Crawfords with code paulcee10")

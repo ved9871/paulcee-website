@@ -21,7 +21,7 @@ seo:
   keywords: Minelab, tutorial, profind, tutorial, how to, pinpointer, problem, resolved
 ---
 
-![how to use and set up the Minelab Pro find pinpointer](/img/pro-find-web_cps5buhj.webp)
+![Minelab Pro-Find 35 pinpointer with orange grip and the words User Guide](/img/pro-find-web_cps5buhj.webp "How to use and set up the Pro-Find 35 pinpointer")
 
 ## MINELAB Pro Find
 

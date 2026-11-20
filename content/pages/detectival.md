@@ -7,7 +7,7 @@ seo:
   keywords: detectival, metal detecting, metal detecting events, metal detecting rally this year
 ---
 
-![What alternatives are there to Detectival Rally](/img/2026-thumb_fi4vubdi.webp "Detectival Metal Detecting Rally")
+![Paul Cee, Minelab Detexpert, smiling with arms folded in a field](/img/2026-thumb_fi4vubdi.webp "Paul Cee on the Detectival rally and where else to detect")
 
 Detectival 2027, location and dates, please note.
 
@@ -17,7 +17,7 @@ The BEST alternative this summer for a metal detecting rally will be the [MINELA
 
 The list has plenty of weekly club digs and also big detecting weekenders, so you should find and event to suit your needs
 
-![Details of Detectival 2026, the biggest and best metal detecting rally in Europe, and what is the best alternative](/img/detectival_2026.webp "Detectival Metal Detecting Rally")
+![Detectival logo with No event in 2026 text over a detectorist walking a hillside](/img/detectival_2026.webp "No Detectival in 2026, so see the list of other rallies and digs")
 
 ### DETECTIVAL Metal Detecting rally in the U.K
 
@@ -41,4 +41,4 @@ Details for Detectival 2026 coming soon.
 
 <strong>WATCH:</strong> The Hambledon Hoard Discovery LIVE 🎥 Relive the chaos and the glory of Detectival 2019. Watch the raw reaction footage as the "Hambledon Hoard" is unearthed—featuring the discovery of 12 Gold Coins and over 600 Silver Hammered Coins. This is what metal detecting is all about.
 
-![Detectival metal detecting rally details](/img/WEB_AD2026a.webp "Detectival metal detecting rally details")
+![Crawfords Metal Detectors banner with discount code paulcee10 and Paul Cee photo](/img/WEB_AD2026a.webp "Discount code paulcee10 at crawfordsmd.com")

@@ -16,7 +16,7 @@ seo:
   keywords: ashby, scunthorpe, ponds, steelworks, nature
 ---
 
-![Ashby Ville Ponds walk around](/img/P1050183.webp)
+![Reed bed on a lake at Lakeside Nature Reserve, Scunthorpe, with industry beyond](/img/P1050183.webp "Lakeside Nature Reserve in North Lincolnshire during lockdown")
 
 A Walk During The Corona Virus Lockdown to Lakeside Nature Reserve Scunthorpe North Lincolnshire.
 

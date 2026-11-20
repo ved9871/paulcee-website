@@ -20,7 +20,7 @@ seo:
   keywords: beach, metal, detecting, best finds, uk, crawfords, best metal detector finds, treasure hunter
 ---
 
-![best treasure hunting finds uk](/img/best-of-3a.webp)
+![Detectorist pointing at a gold ring on a Minelab control box at sunset](/img/best-of-3a.webp "Unforgettable finds from UK beaches and fields")
 
 More awesome metal detecting finds on uk beaches and fields, gold and silver coins and rings, using minelab metal detectors, the best metal detectors for treasure hunting on the beach.
 

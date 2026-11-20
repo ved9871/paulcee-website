@@ -11,7 +11,7 @@ seo:
   keywords: minelab manticore, metal detecting uk, metal detecting relics, minelab manticore search coils
 ---
 
-![paul cee minelab manticore settings](/img/YT-thumb_2020_0s3t4hli.webp "small")
+![Paul Cee sticker with Minelab Equinox, CTX 3030 and Vanquish logos](/img/YT-thumb_2020_0s3t4hli.webp "small: Searching a WW2 POW camp for traces of who lived there")
 
 ## Metal Detecting a ww2 POW CAMP
 

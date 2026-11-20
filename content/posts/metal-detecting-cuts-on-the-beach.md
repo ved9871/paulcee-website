@@ -17,10 +17,10 @@ seo:
   keywords: metal, detecting, beach, minelab, metal, detectors, uk
 ---
 
-![queen victoria half sovereign beach detecting](/img/171217_POW.webp)
+![Man holding up a Queen Victoria Prince of Wales model half sovereign on a beach](/img/171217_POW.webp "Queen Victoria half sovereign found on a UK beach cut")
 
 When the winter storms remove sand from the beach, usually called "Cuts" these can be very productive areas to search, when you start finding coins follow the coin line where they all drop..
 
 check out the video below
 
-[![Cleethorpes beach metal detecting](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/)
+[![Crawfords Metal Detectors discount code graphic showing the code paulcee10](/img/WEB_AD2026a.webp "Discount code for beach detecting kit at Crawfords")](https://crawfordsmd.com/)

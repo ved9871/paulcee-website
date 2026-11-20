@@ -21,7 +21,7 @@ seo:
   keywords: beach, metal, detecting, treasure, hunt, uk, minelab
 ---
 
-![where to metal detect on a beach](/img/060118.webp "where to metal detect on a beach")
+![Man talking to camera on a UK beach at sunrise asking if cuts in the sand are worth searching](/img/060118.webp "Washouts and cuts can release old finds after the surf")
 
 When you find a washout or cut metal detecting on the beach it is always worth detecting along the cut in the washouts and the sand area that has been removed by the surf and tides, gold and silver or coins are not always found in large quantities but sometimes what has built up over the summer could be released and picked up by the keen beach detectorist. here we explore a big cut on the beach with the Minelab CTX 3030
 

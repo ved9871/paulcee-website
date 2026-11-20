@@ -16,7 +16,7 @@ seo:
   keywords: minelab equinox iron bias, equinox iron bias setting, set up equinox metal detector, minelab equinox settings
 ---
 
-![minelab iron bias explained by minelab Engineers](/img/iron-bias-explained.webp "minelab iron bias explained by minelab Engineers")
+![Minelab engineer presenting iron bias to an audience beside a slide](/img/iron-bias-explained.webp "Minelab engineer explaining iron bias at Detectival")
 
 ## how do you set Iron Bias on the Minelab Equinox metal detector.
 
@@ -24,4 +24,4 @@ what is iron bias on the Equinox? We have a tech talk for Minelab Metal Detectin
 
 who sent the engineer who brought the Equinox to life to Detectival to do a tech talk on the equinox and how the iron bias works on the equinox metal detector
 
-![Minelab Equinox Iron Bias Explained](/img/WEB_AD2026a.webp "Minelab Equinox Iron Bias Explained")
+![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Equinox discount at Crawfords with code paulcee10")

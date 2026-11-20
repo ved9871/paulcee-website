@@ -13,7 +13,7 @@ Our collection of must-have cheap metal detecting accessories, features high-val
 
 <a href="https://crawfordsmd.com/cmd-pro-pouch?tracking=fa202437c9" class="btn">Buy CMD Finds Pouch</a>
 
-[![Cheap Metal Detecting finds pouch](/img/cmd-pouch.webp)](https://crawfordsmd.com/cmd-pro-pouch?tracking=fa202437c9)
+[![CMD finds pouch with a red pinpointer poking out, lying on grass](/img/cmd-pouch.webp "A budget pouch with separate pockets for finds and junk")](https://crawfordsmd.com/cmd-pro-pouch?tracking=fa202437c9)
 
 ### CMD Pro Finds Pouch
 
@@ -27,7 +27,7 @@ The pouch is held by an adjustable waist strap with a quick release buckle. All 
 
 <a href="https://crawfordsmd.com/field-multi-tool?tracking=fa202437c9" class="btn">Buy Cleaning Pencil</a>
 
-[![Coin and relic cleaning tool, for cleaning your finds on the go](/img/composite.webp)](https://crawfordsmd.com/field-multi-tool?tracking=fa202437c9)
+[![Pink Composite Cleaning Pencil field multi tool in front of a fairground wheel](/img/composite.webp "Brush grime off coins and relics in the field without scratching them")](https://crawfordsmd.com/field-multi-tool?tracking=fa202437c9)
 
 ### The Composite Cleaning Pencil Field Multi Tool
 
@@ -45,7 +45,7 @@ Brass Brush, for light abrasion cleaning to remove dirt and crust.
 
 <a href="https://crawfordsmd.com/cmd-gift-voucher?tracking=fa202437c9" class="btn">Buy Gift Card</a>
 
-[![Crawfords metal detectors gift card](/img/gift-card.webp)](https://crawfordsmd.com/cmd-gift-voucher?tracking=fa202437c9)
+[![Crawfords Metal Detectors gift card with a QR code lying on wet beach sand](/img/gift-card.webp "An easy present for any detectorist")](https://crawfordsmd.com/cmd-gift-voucher?tracking=fa202437c9)
 
 **Looking for the ultimate gift** for the metal detecting enthusiast in your life?
 
@@ -65,7 +65,7 @@ Exclusive CMD products
 
 <a href="https://crawfordsmd.com/minelab-wm09?tracking=fa202437c9" class="btn">Buy WM09 Module</a>
 
-[![the wm09 minelab wireless module, lets you connect your favourite headphones to the new range of minelab metal detectors](/img/wm09.webp "Minelab WM09 Wireless Module Uk")](https://crawfordsmd.com/minelab-wm09?tracking=fa202437c9)
+[![Minelab WM 09 wireless module held in a hand over a detector shaft on grass](/img/wm09.webp "Pair your own wireless headphones with compatible Minelab detectors")](https://crawfordsmd.com/minelab-wm09?tracking=fa202437c9)
 
 #### Minelab WM 09 Wireless Audio Unit
 
@@ -91,7 +91,7 @@ Includes a USB charge cable with magnetic connection.
 
 <a href="https://crawfordsmd.com/cmd-spray-bottle?tracking=fa202437c9" class="btn">Get Squirter</a>
 
-[![a coin cleaning set comprising of a soft brush and squirt bottle for cleaning liquid, to clean finds on the field](/img/squirter.webp "Coin Cleaning Brush and Kit")](https://crawfordsmd.com/cmd-spray-bottle?tracking=fa202437c9)
+[![Spray bottle and soft brush lying on beach sand for cleaning finds](/img/squirter.webp "Squirt, brush and rinse finds before you leave the beach")](https://crawfordsmd.com/cmd-spray-bottle?tracking=fa202437c9)
 
 ### CMD Spray Bottle
 
@@ -99,7 +99,7 @@ A small spray bottle that can be easily carried in your pocket or pouch while me
 
 <a href="https://crawfordsmd.com/rnb-power-x?tracking=fa202437c9" class="btn">BUY POWER X</a>
 
-[![Rnb Power X high performance power pack for metal detectors](/img/pwr_x.webp "Minelab RNB Power Pack for Metal Detecting")](https://crawfordsmd.com/rnb-power-x?tracking=fa202437c9)
+[![RNB Power-X 10Ah USB battery pack lying on its cable on beach sand](/img/pwr_x.webp "10Ah of extra power for long days on the beach")](https://crawfordsmd.com/rnb-power-x?tracking=fa202437c9)
 
 #### RNB Power-X – 10Ah Battery Pack for Metal Detecting
 

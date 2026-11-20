@@ -19,6 +19,6 @@ seo:
   keywords: ring, finder, lost, found, recovery, special, expensive, metal, detector
 ---
 
-![ring finder on Bournemouth Beach](/img/ring-recover_r9twm2pw.webp "ring finder on Bournemouth Beach")
+![Couple on Bournemouth beach, text reads They lost it, I found it, result](/img/ring-recover_r9twm2pw.webp "Reunited a couple with their lost wedding band")
 
 Called to look for a couples wedding band, lost in the dry sand, initially pointed in the wrong direction, but gridded out the area, and using the [GPS on the ctx3030](/ctx3030/), covered the area, nothing found but ring pulls and bottle tops, changed area gridded out again, 2nd signal Ring Recovered.. best wishes and a happy future for the couple.. Paul

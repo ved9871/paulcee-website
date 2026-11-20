@@ -23,7 +23,7 @@ seo:
   keywords: bournemouth, beach, metal, detecting, crawfords detecting, south
 ---
 
-![Bournemouth beach metal detecting](/img/GOPR0669_a45gpb98.webp)
+![Minelab CTX 3030 screen with a gold ring on top on a Bournemouth beach with the pier behind](/img/GOPR0669_a45gpb98.webp "Another gold ring turns up at Bournemouth beach")
 
 I Found more gold with the minelab ctx3030 beach metal detecting Bournemouth Beach in the uk
 

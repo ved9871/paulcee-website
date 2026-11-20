@@ -14,7 +14,7 @@ seo:
   keywords: Minelab, GPX, GPX 5000, metal, detecting, uk, beach
 ---
 
-![amazing WW1 cap badge found metal detecting on a beach with the minelab GPX 5000](/img/gpx-2.webp "WW1 Cap badge found metal detecting")
+![Man swinging a Minelab GPX 5000 on a muddy beach beside a WW1 cap badge](/img/gpx-2.webp "WW1 cap badge found metal detecting")
 
 ## Minelab GPX 5000 beach detecting uk
 

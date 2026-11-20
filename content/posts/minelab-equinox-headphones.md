@@ -24,7 +24,7 @@ seo:
 
 These are snug and cut down much of the external noise from wind and waves.
 
-![minelab headphones that are good](/img/nox_predator1.webp)
+![Rugged black headphones resting on a metal detector control box on a beach](/img/nox_predator1.webp "Snug headphones that cut wind and wave noise")
 
 Although not submersible these are ideal for wading and with the[ MINELAB HEADPHONE ADAPTOR](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/accessories-minelab-equinox/equinox-waterproof-adaptor) also allows the Equinox Control box to be submersed, unlike the EQUINOX WM08 module and bluetooth head phones which are not waterproof.
 
@@ -32,7 +32,7 @@ I have used the Predator headphones for many year on the Minelab Etrac and [CTX 
 
 [Minelab Equinox Waterproof headphone adaptor](https://www.crawfordsmd.com/metal-detecting-accessories/headphones/equinox-waterproof-adaptor)
 
-[![headphone connector for minelab metal detectors](/img/3011-0369-Headphone-Adaptor-Cable-EQUINOX-228x228.webp)](https://www.crawfordsmd.com/metal-detecting-accessories/headphones/equinox-waterproof-adaptor)
+[![Minelab Equinox waterproof headphone adaptor cable with 3.5mm plug and socket](/img/3011-0369-Headphone-Adaptor-Cable-EQUINOX-228x228.webp "Adaptor lets the control box be submersed with wired headphones")](https://www.crawfordsmd.com/metal-detecting-accessories/headphones/equinox-waterproof-adaptor)
 
 SPEC..
 

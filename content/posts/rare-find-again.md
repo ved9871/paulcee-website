@@ -20,7 +20,7 @@ seo:
   keywords: minelab ctx 3030 uk, metal detecting uk rivers, beach metal detecting uk
 ---
 
-![Cleethorpes beach Metal Detecting](/img/051117a.webp "Cleethorpes beach Metal Detecting")
+![Cleethorpes beach Metal Detecting](/img/051117a.webp "River detecting with the CTX 3030 on stock and 17 inch coils")
 
 first frost of the winter and detecting with the [Minelab CTX 3030 17"](https://crawfordsmd.com/Minelab-CTX3030-Special-pack?tracking=fa202437c9)[ and stock coils](/crawfords-metal-detectors/), Beach metal detecting in the river today, some old finds including my first harmonica thats almost complete, plus some old coins, the conditions on the beach are changing so much just lately sand getting pushed from offshore onto the beach and longshore drift also causing sanding in issues, so the choice to change to the larger CTX coil to try and get some extra depth and penetrate into the black sand, nice day but it were right cold. plenty of detectorists on the beach today all digging signals so hopefully they had more luck finding hidden treasure, than i did..
 

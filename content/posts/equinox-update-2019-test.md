@@ -20,7 +20,7 @@ seo:
   keywords: minelab, equinox, update, iron bias, settings, nox 800
 ---
 
-[![Minelab equinox update and what features does it have, looking at the new equinox update](/img/norfolk_AWEB.webp)](http://bit.ly/2VcUX0q)
+[![Minelab Equinox screen with FE-F2 test text over a stubble field](/img/norfolk_AWEB.webp "Testing the 2019 Equinox firmware update on beach and field")](http://bit.ly/2VcUX0q)
 
 ## The latest Minelab Equinox firmware Update
 

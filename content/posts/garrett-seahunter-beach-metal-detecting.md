@@ -19,7 +19,7 @@ seo:
   keywords: garrett metal detector uk, garrett seahunter mk2, seahunter metal detector
 ---
 
-![Garrett seahunter mk 2. uk beach detecting](/img/230917web_2o9ph9a1.webp "Garrett seahunter Mk 2")
+![Garrett seahunter mk 2. uk beach detecting](/img/230917web_2o9ph9a1.webp "A strange find on the beach with the pulse induction Sea Hunter MK2")
 
 water and [dry sand metal detecting](/beginners-guide-to-metal-detecting/) on the beach today, for a change with the Garrett Sea hunter MK2 Pulse (PI) some coins and a M&amp;M thing,
 

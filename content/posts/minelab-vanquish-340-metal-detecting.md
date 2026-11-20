@@ -21,7 +21,7 @@ seo:
   keywords: minelab vanquish 340, 340 vanquish uk, metal detecting at home, crawfords metal detectors, minelab uk
 ---
 
-![vanquish 340 metal detector uk, is ideal for beginners](/img/vanquish_garden1.webp)
+![Smiling man beside a Minelab Vanquish 340 screen, text reads I am in trouble](/img/vanquish_garden1.webp "Garden detecting with the Vanquish 340 in lockdown")
 
 ## Metal detecting in your garden
 

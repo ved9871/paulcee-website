@@ -18,7 +18,7 @@ seo:
   keywords: metal, detector, learning, beginner, minelab, vanquish, 540, 440, 340, best
 ---
 
-![Where and How to metal detect on a beach hints and tips](/img/beach-research-1_t2dj77qn.webp "Where and How to metal detect on a beach hints and tips")
+![Detectorist wading through a shallow tidal channel on a wide sandy beach](/img/beach-research-1_t2dj77qn.webp "Reading the beach: where and when to search")
 
 ## Beach Metal Detecting Tips
 

@@ -11,6 +11,6 @@ Contact us with email,
 
 For metal detecting help, setting up metal detectors etc
 
-[![how to contact us](/img/GOPR0979a.webp) 
+[![Paul Cee pointing at a sandy beach with groynes, contact thumbnail](/img/GOPR0979a.webp "Get in touch with Paul for detecting help and setup advice") 
 
 {{contactform}}

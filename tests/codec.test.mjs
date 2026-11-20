@@ -30,7 +30,7 @@ test('text that looks like Markdown is escaped', () => {
 
 test('figures keep the image, link and the small hint', () => {
   const out = rt([
-    { t: 'figure', html: '<img src="@img:images/logo.png" alt="Logo" title="x" width="60" height="89">' },
+    { t: 'figure', html: '<img src="@img:images/logo.png" alt="Logo" width="60" height="89">' },
     { t: 'figure', html: '<a href="https://crawfordsmd.com/x" data-kind="affiliate"><img src="@img:images/a.jpg" alt="A &quot;q&quot;" width="393" height="221"> </a>' },
   ]);
   assert.equal(out[0].t, 'figure'); assert.match(out[0].html, /^<img src="@img:images\/logo\.png" alt="Logo" width="60" height="89">$/);
@@ -171,4 +171,13 @@ test('an HTML code block (or a pasted whole web page) becomes a sandboxed embed 
   const [c] = markdownToBlocks('```\nSensitivity 22\nRecovery 5\n```', ctx);
   assert.equal(c.t, 'raw');
   assert.match(c.html, /^<pre><code>Sensitivity 22/);
+});
+
+test('image captions ride in the markdown title and survive the round trip', () => {
+  const big = { ...ctx, resolve: k => k === '/img/big.webp' ? { file: 'img/big.webp', w: 800, h: 600 } : null };
+  assert.equal(markdownToBlocks('![Big](/img/big.webp "Found on the wet sand")', big)[0].html, '<img src="@img:/img/big.webp" alt="Big" title="Found on the wet sand" width="800" height="600">');
+  assert.equal(markdownToBlocks('![Big](/img/big.webp "small: Found on the wet sand")', big)[0].html, '<img src="@img:/img/big.webp" alt="Big" title="Found on the wet sand" width="180" height="135">');
+  const [fig] = rt([{ t: 'figure', html: '<img src="@img:images/a.jpg" alt="A" title="Caption here" width="800" height="600">' }]);
+  assert.equal(fig.html, '<img src="@img:images/a.jpg" alt="A" title="Caption here" width="800" height="600">');
+  assert.equal(blocksToMarkdown([{ t: 'figure', html: '<img src="@img:images/logo.png" alt="Logo" width="60" height="89" title="Tiny">' }], ctx).trim(), '![Logo](/img/logo.webp "small: Tiny")');
 });

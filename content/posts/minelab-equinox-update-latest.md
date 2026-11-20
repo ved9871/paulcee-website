@@ -20,7 +20,7 @@ seo:
   keywords: minelab, equinox update, latest update, minelab equinox update, how good is the equinox update, equinox update, how to update minelab equinox, review minelab equinox update, minelab equinox software
 ---
 
-![minelab equinox review of update the latest version](/img/update_v3web.webp)
+![Minelab Equinox screen on wet sand with a gold ring on top, titled Update to V3](/img/update_v3web.webp "Why the V3 update is worth installing on your Equinox")
 
 ## Latest release of minelab equinox update.
 
@@ -42,4 +42,4 @@ So the verdict is if you havent Updated to the new minelab Equinox V3 software i
 
 HAVE YOU UPDATED?? let us know and how are you getting on with V3
 
-![Minelab Equinox Update](/img/WEB_AD2026a.webp)
+![Crawfords Metal Detectors discount banner showing the code paulcee10](/img/WEB_AD2026a.webp "Save on Minelab gear with the paulcee10 code")

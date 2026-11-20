@@ -17,7 +17,7 @@ seo:
   keywords: research, beach, metal, detecting, maps, online, ship, wrecks, admiralty
 ---
 
-![find the best places to metal detect beaches in the uk](/img/beach-research-maps.webp "find the best places to metal detect beaches in the uk")
+![Detectorist wading through shallow water carrying a scoop and a Minelab detector](/img/beach-research-maps.webp "Read the tide and the sand to find the best beach spots")
 
 ## Find the Best places to metal on beaches around the U.K.
 

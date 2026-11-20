@@ -22,9 +22,9 @@ seo:
   keywords: minelab go find, metal detector uk, best metal detector for kids
 ---
 
-[![cheap metal detector that works](/img/go-find-40-web_dnyoo56v.webp "cheap metal detector that works")](https://www.youtube.com/subscription_center?add_user=flash1968)
+[![Prototype Minelab Go-Find 40 metal detector shown from several angles on grass](/img/go-find-40-web_dnyoo56v.webp "Prototype Go-Find 40 sent out for testing and review")](https://www.youtube.com/subscription_center?add_user=flash1968)
 
-![Best metal detector for beginners](/img/2026-thumb_0bwkmdko.webp "Best metal detector for beginners")
+![Round portrait of Paul Cee smiling with arms folded](/img/2026-thumb_0bwkmdko.webp "Is the Go-Find 40 any good for beginners?")
 
 ## The go-find metal detector is it any good
 

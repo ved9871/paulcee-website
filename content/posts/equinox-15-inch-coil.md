@@ -20,11 +20,11 @@ seo:
   keywords: minelab equinox, minelab X-Terra Pro, elliptical, search, coil, crawfords metal detectors, paul cee minelab
 ---
 
-![minelab big coil](/img/equinox-15x12-coil-500x500.webp "small")
+![Minelab Equinox 15x12 search coil on a white background](/img/equinox-15x12-coil-500x500.webp "small: The big 15x12 coil adds depth and ground coverage")
 
-![minelab coils from crawfords metal detectors in the uk](/img/YT-thumb_2020_w49tsz7n.webp "small")
+![Paul Cee badge with Minelab Equinox, CTX 3030 and Vanquish logos](/img/YT-thumb_2020_w49tsz7n.webp "small: Paul Cee channel badge")
 
-![minelab coils for the minelab Equinox, minelab manticore](/img/cmd-white-alpha_8s9uj88j.webp "small")
+![Crawfords Metal Detectors white logo on a transparent background](/img/cmd-white-alpha_8s9uj88j.webp "small: Equinox and Manticore coils are stocked by Crawfords")
 
 ## Minelab Equinox 15" Search Coil
 

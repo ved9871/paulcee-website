@@ -19,7 +19,7 @@ seo:
   keywords: cleethorpes, metal detecting permit, ban on metal detecting, where to metal detect
 ---
 
-![metal detecting on the beach is now out its banned](/img/140320a.webp)
+![Masked man holding up a hand beside a beach detector setup, titled Last Outing](/img/140320a.webp "Last beach outing before detecting on the beach stopped")
 
 ## Cant detect on the beach no more
 

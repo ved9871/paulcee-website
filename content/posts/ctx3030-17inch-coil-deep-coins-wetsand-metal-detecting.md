@@ -18,7 +18,7 @@ seo:
   keywords: minelab, ctx3030, depth, still good, how deep, cmd uk
 ---
 
-![ctx 3030 deep settings](/img/300717.webp)
+![Hand holding a dug silver coin beside a CTX 3030 and pre-decimal coins](/img/300717.webp "Back on deep old coins on wet sand with the 17 inch coil")
 
 Out with the [CTX3030](/ctx3030/) and the 17" Coil today, back on the deeper old coins, while metal detecting on the wet sand, found a very small area producing just as the tide caught up with me and stopped the fun for another day, dont forget to [Subscribe](/social-sites/) and follow and share the videos, thanks and HH to you all.
 

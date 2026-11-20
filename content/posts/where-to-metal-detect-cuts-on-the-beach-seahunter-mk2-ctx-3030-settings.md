@@ -11,8 +11,8 @@ seo:
   keywords: seahunter mk2 uk, pulse induction for metal detecting beach, ctx 3030 beach program
 ---
 
-[![garrett seahunter mk2 uk cleethorpes beach](/img/050616.webp)](/social-sites/)
+[![Cuts on the beach produced two rings and lots of coins, CTX 3030 and Seahunter Mk2](/img/050616.webp "Two rings and lots of coins from freshly cut sand")](/social-sites/)
 
 Its been a while since there has been significant sand movement on the coast where i detect, and what a difference a day makes with the wind in the right direction with a full high tide.. Sand has moved giving up cuts in the sand and producing plenty of coins and 2 rings in todays session, with the [Minelab CTX 3030](/ctx3030/) and Garrett Seahunter Mk2... Feel free to subscribe and share.
 
-![Garrett Seahunter Mk2 Beach Detecting](/img/WEB_AD2026a.webp)
+![Crawfords advert with the paulcee10 discount code and Detexpert logo](/img/WEB_AD2026a.webp "Use paulcee10 at Crawfords for money off")

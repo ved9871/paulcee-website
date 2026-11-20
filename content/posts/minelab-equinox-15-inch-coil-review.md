@@ -19,8 +19,8 @@ seo:
   keywords: Equinox, 15inch, big coil, Equinox, minelab, search coil
 ---
 
-![minelab Equinox big coil review](/img/111118_silverWEB.webp)
+![Smiling detectorist in headphones holding a silver ring, titled EQX 15 coil](/img/111118_silverWEB.webp "Silver ring found with the Equinox 15 inch coil")
 
-![minelab big equinox coil](/img/IMG_20181104_073523_zqrrhr1q.webp "small")
+![Minelab Equinox control box with a ring on top and the large coil on the ground](/img/IMG_20181104_073523_zqrrhr1q.webp "small: Finds from the first outing with the big coil")
 
 Extremely sensitive as with the stock coil and slightly deeper than the stock coil, weight is not and issue although heavier than the stock coil a slight front heavy detector it now becomes, superb for clean sites and able to run at maximum sensitivity, but i am still going through settings to make this work out better for trashy beaches.

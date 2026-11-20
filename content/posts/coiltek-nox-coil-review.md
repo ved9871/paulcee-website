@@ -18,7 +18,7 @@ seo:
   keywords: Coiltek, Equinox, Nox, Review, Coil
 ---
 
-[![NOX 14x9 Coiltek Coil Review for the Minelab Equinox](/img/10x5_WEB1.webp)](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek)
+[![Coiltek NOX 14x9 coil on beach sand with Review text](/img/10x5_WEB1.webp "Coiltek NOX 14x9 coil tested on the Minelab Equinox")](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-coiltek)
 
 ## The Coiltek 14x9 NOX Coil
 

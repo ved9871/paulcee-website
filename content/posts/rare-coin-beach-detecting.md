@@ -11,8 +11,8 @@ seo:
   keywords: metal detecting uk, rare coin found metal detecting
 ---
 
-![metal detecting cleethorpes beach](/img/291017iyt.webp)
+![Detectorist selfie on wet beach sand with a Minelab CTX 3030](/img/291017iyt.webp "Old coins on the wet sand are not so rare anymore")
 
 Metal detecting on the wet sand with the [Minelab CTX 3030](/ctx3030/), digging deep and getting back on the old coins, another coin thats been rare find for me, guess not anymore, nice to be finding the older coins once again..
 
-[![metal detecting on a local beach](/img/WEB_AD2026a.webp)](https://crawfordsmd.com/)
+[![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD2026a.webp "More old coin finds on YouTube, plus a Crawfords discount code")](https://crawfordsmd.com/)

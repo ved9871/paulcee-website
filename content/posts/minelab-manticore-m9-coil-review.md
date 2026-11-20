@@ -30,7 +30,7 @@ seo:
 
 ## Minelab Manticore M9 Search Coil Review
 
-![a review of the M9 coil for the Minelab Manticore](/img/m9-review.webp "a review of the M9 coil for the Minelab Manticore")
+![Two rings resting on a Minelab Manticore M9 coil under the review title](/img/m9-review.webp "Rings found while testing the M9 coil")
 
 ### Best Selling
 

@@ -14,10 +14,10 @@ seo:
   keywords: bournemouth beach metal detecting, rings found metal detecting, metal detecting uk, ctx 3030 minelab, beach, detecting
 ---
 
-![Bournemouth beach metal detecting finding rings](/img/300817am.webp "Bournemouth beach metal detecting finding rings")
+![Bournemouth beach metal detecting finding rings](/img/300817am.webp "Two rings from Bournemouth beach with the CTX 3030 and XP Deus")
 
 ## metal detecting Bournemouth Beach
 
 Metal detecting, today 2 Rings and plenty more coins. the [Minelab CTX 3030](/ctx3030/) and xp Deus on both the dry sand and along the paddling line, cut kind of short as the beach is being remodelled for the upcoming Airshow, Subscribe for all the videos from this Bournemouth trip, which includes lots of gold and silver and coins.. and click the notifcations bell if your already [subscribed](/social-sites/)
 
-![metal detecting on Bournemouth beach](/img/WEB_AD2026a.webp "metal detecting on Bournemouth beach")
+![metal detecting on Bournemouth beach](/img/WEB_AD2026a.webp "Code paulcee10 gets money off at Crawfords Metal Detectors")

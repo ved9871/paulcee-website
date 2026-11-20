@@ -23,9 +23,9 @@ seo:
   keywords: how to clean old copper coins, how to clean corroded coins, how to clean coins in bulk, coins found with a metal detector, ultrasonic cleaner, clean coins in acid
 ---
 
-![how to clean copper coins](/img/2026-thumb_fi4vubdi.webp "how to clean copper coins")
+![Paul Cee smiling with folded arms in a field, wearing a Detexpert shirt](/img/2026-thumb_fi4vubdi.webp "Paul Cee shares how he cleans corroded finds")
 
-![how do you clean old coins](/img/tumbler_web.webp "how do you clean old coins")
+![Before and after of a corroded George VI penny cleaned back to bright copper](/img/tumbler_web.webp "From green corrosion to clear detail after tumbling")
 
 ## How to clean corroded copper coins
 

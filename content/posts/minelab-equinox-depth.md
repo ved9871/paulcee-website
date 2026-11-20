@@ -17,7 +17,7 @@ seo:
   keywords: minelab, equinox, nox, 800, beach, settings, uk
 ---
 
-![minelab equinox depth test](/img/nox_deepA.webp)
+![Smiling detectorist in sunglasses giving a thumbs up on a tidal flat](/img/nox_deepA.webp "Pushing the Equinox for maximum depth on a tidal flat")
 
 ## Set up the Minelab Equinox
 

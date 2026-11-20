@@ -23,7 +23,7 @@ The Minelab Manticore is already a beast of a machine right out of the box. But 
 
 If you are looking to streamline your setup for better portability and audio freedom, we are spotlighting two specific accessories today: the GOG Removable Folding Handle and the GOG Wireless Phones.
 
-![Minelab Manticore metal detector featuring GOG folding removable handle and GOG wireless headphones with WM09 module on the beach.](/img/20251207_082004.webp "Minelab Manticore, Removable Folding Handle")
+![Minelab Manticore with GOG removable folding handle and wireless headphones on the beach](/img/20251207_082004.webp "GOG folding handle and WM09 wireless headphones")
 
 ### 1. The GOG Manticore Removable Folding Handle
 

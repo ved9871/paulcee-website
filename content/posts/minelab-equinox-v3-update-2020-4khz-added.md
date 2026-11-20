@@ -20,7 +20,7 @@ seo:
   keywords: Metal, Detecting, UK, Crawfords metal detectors, minelab metal detectors, metal detector tutorial, minelab vanquish, minelab manticore, minelab equinox, minelab detexpert
 ---
 
-![4khz added to the minelab equinox what other features have been added](/img/update-v3.webp "Latest Minelab Equinox Update")
+![Minelab Equinox screen with 4kHz and Update V3 available now text](/img/update-v3.webp "V3 firmware adds 4kHz: how to download and install it")
 
 ## Minelab Equinox Update latest version
 

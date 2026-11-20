@@ -17,7 +17,7 @@ seo:
   keywords: equinox 800 uk, best metal detector for beginners, equinox 800 settings, beach detecting uk, minelab equinox 800, paul cee
 ---
 
-![what is the best metal detector for beach](/img/why-nox.webp)
+![Detectorist wading waist deep in the sea with a Minelab Equinox](/img/why-nox.webp "The Equinox is waterproof, so shallow water is no problem")
 
 ## Minelab Equinox 800 for my beach metal detecting
 
@@ -33,7 +33,7 @@ The Summer months life is so much easier warm weather and warm water, again for 
 
 Out of the box the Minelab Equinox is a turn on and go detector but as you advance on your knowledge the tweaks that are available and so easy to do, when you learn what the features are and the effects that happen when you make a change, when you understand this you will mange to get the best out of what the Equinox has to offer and with software and firmware updates from MINELAB you can be assured that it is always upto date.
 
-![minelab equinox settings for successful beach metal detecting](/img/optimal.webp)
+![Minelab Equinox control box showing its settings menu over a golden field](/img/optimal.webp "The optimal Equinox settings I use for beach detecting")
 
 Settings for dry sand beach metal detecting I use.
 

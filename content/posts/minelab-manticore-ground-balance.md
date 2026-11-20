@@ -21,11 +21,11 @@ seo:
   keywords: Minelab manticore ground balance, ground balance, minelab manticore settings, how to ground balance, minelab, manticore, settings
 ---
 
-![when and how to ground balance a minelab manticore](/img/manticore_ground-balance.webp "when and how to ground balance a minelab manticore")
+![Minelab Manticore tutorial thumbnail with the words ground balance](/img/manticore_ground-balance.webp "Manticore tutorial: ground balancing explained")
 
-![how to set up a minelab manticore ground balance](/img/b-png-logo-2025.webp "how to set up a minelab manticore ground balance")
+![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/b-png-logo-2025.webp "Paul Cee, Minelab Detexpert and Crawfords team member")
 
-![minelab manticore settings ground balance](/img/detexpert-logosml_bncw3e13.webp "minelab manticore settings ground balance")
+![Minelab Detexpert shield logo with a red detector sweep](/img/detexpert-logosml_bncw3e13.webp "Paul Cee is a Minelab Detexpert")
 
 ## Minelab Manticore Ground Balance
 
@@ -33,7 +33,7 @@ Ground balancing a metal detector in the UK (or anywhere else, for that matter) 
 
 The ground in different areas contains varying mineralisation levels, which can interfere with a metal detector's ability to accurately detect metal objects. By ground balancing the detector, you're essentially adjusting it to the specific mineral content of the soil. This adjustment helps eliminate false signals caused by mineralisation, allowing the detector to focus on detecting actual metal objects.
 
-![Minelab Manticore Ground balance settings](/img/manticore_web.webp "Minelab Manticore Ground balance settings")
+![Paul Cee crouching on a ploughed field beside a Minelab Manticore](/img/manticore_web.webp "Checking a signal in the plough soil with the Manticore")
 
 In the UK, where there's a lot of historical land and varied soil compositions due to different geological formations, ground balancing becomes particularly important. It ensures the metal detector is fine tuned to the specific ground conditions, increasing its accuracy and efficiency in detecting targets while reducing false readings caused by mineral content.
 
@@ -53,7 +53,7 @@ Multi IQ (in easy Terms) basically uses a frequency to look at the ground and co
 
 #### When to Ground Balance.
 
-![when and how to ground balance a minelab manticore](/img/manticore_ground-balance---Copy.webp "when and how to ground balance a minelab manticore")
+![Minelab Manticore screen showing a ground balance reading of 45 on wet sand](/img/manticore_ground-balance---Copy.webp "A reading like 45 means heavy mineralisation under the coil")
 
 When i first get to a new area of detecting, i do an initial ground balance (make sure there are NO TARGETS UNDER THE COIL) and if it comes up with a low number (MAX 20) i leave the detectors Multi IQ+ to do all the work and most of the time it is fine.
 

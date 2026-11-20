@@ -21,9 +21,9 @@ seo:
   keywords: minelab, equinox 800, tones, settings, beach to land settings, crawfords metal detectors, paul cee minelab
 ---
 
-![Minelab Equinox Settings](/img/2026-thumb_0bwkmdko.webp "Minelab Equinox Settings")
+![Round portrait of Paul Cee smiling with arms folded in front of a field](/img/2026-thumb_0bwkmdko.webp "Paul Cee shows how to set four tones on the Equinox 800")
 
-![Paul Cee Crawfords Metal Detectors](/img/detexpert-logosml_aok62ui8.webp "Paul Cee Crawfords Metal Detectors")
+![Paul Cee Crawfords Metal Detectors](/img/detexpert-logosml_aok62ui8.webp "Minelab Detexpert badge")
 
 ## Minelab Equinox 4 tone settings
 
@@ -31,7 +31,7 @@ After reading a comment on Pauls YouTube channel, he mentioned to somebody about
 
 <em>So where does the 4 tones come from? The Answer is very simple.</em>
 
-[![Minelab Equinox tone settings](/img/4-tones.webp "Minelab Equinox tone settings")](/crawfords-metal-detectors/)
+[![Minelab Equinox tone settings](/img/4-tones.webp "How the Equinox gets four tones from its tone settings")](/crawfords-metal-detectors/)
 
 Its all to do with how you set the Tones in the Equinox settings.
 

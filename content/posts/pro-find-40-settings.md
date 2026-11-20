@@ -18,9 +18,9 @@ seo:
   keywords: pro find 40, pro find 40 instructions, pro find minelab, pro find 40 guide, pro find 40 sound, pro find 40 problem, pro find 40 help, pro find 40 user guide, minelab pinpointer, crawfords metal detectors
 ---
 
-![Minelab Profind 40 settings](/img/detexpert-logosml.webp "Minelab Profind 40 settings")
+![Minelab Detexpert shield badge with the Minelab logo](/img/detexpert-logosml.webp "Pro-Find 40 guide from a Minelab Detexpert")
 
-![minelab pro find 40 help and settings for the minelab pinpointer](/img/2026-thumb_0bwkmdko.webp "minelab pro find 40 help and settings for the minelab pinpointer")
+![Round portrait of Paul Cee smiling with arms folded](/img/2026-thumb_0bwkmdko.webp "Pro-Find 40 user guide and instructions")
 
 ## Minelab Pro find 40 user guide
 
@@ -28,7 +28,7 @@ Minelab have re-invented their Pro-Find pin pointer to bring you their best pin-
 
 Now is the future of treasure hunting with Minelab's Pro Find 40 Pinpointer. Crafted for both the dedicated hobbyist and the veteran treasure seeker, this handheld tool embodies next-level precision, quickly identifying your target's exact location. As a new hallmark of Minelab’s pioneering range, the Pro Find 40 is the top dog for pinpointing excellence.
 
-![help and setting for the minelab pro find 40 pinpointer](/img/pro-find-40-image-web.webp "help and setting for the minelab pro find 40 pinpointer")
+![Minelab Pro-Find 40 pinpointer tip lying on grass beside a detector control box](/img/pro-find-40-image-web.webp "The Pro-Find 40 pinpointer finds targets precisely")
 
 ## Key Features of the Pro-Find 40
 

@@ -90,7 +90,7 @@ Finding an Edwardian long-cross penny is a milestone for any detectorist, but id
 
 Use this quick-reference guide to narrow down your find in the field.
 
-![how to identify a hammered coin](/img/hammie--id.webp)
+![Chart comparing Edward I, II and III silver pennies and their key features](/img/hammie--id.webp "Telling Edwardian pennies apart by portrait, crown and legend")
 
 1\. The Obverse Inscription (The King’s Title)
 
@@ -112,7 +112,7 @@ Edward III (1327–1377):
 
 The reverse of an Edwardian penny features a long cross with three pellets (dots) in each angle. The legend names the city or ecclesiastical mint where it was struck:
 
-![how to identify mint marks on a hammered coin](/img/mint-marks.webp)
+![Guide to medieval English mint marks and legends on long cross pennies](/img/mint-marks.webp "Reading the CIVITAS and VILLA legends to name the mint")
 
 CIVITAS LONDON — City of London (the most common mint)
 
@@ -130,7 +130,7 @@ VILLA BRISTOLLIE — Bristol
 
 <strong>*A Short Cross penny*</strong> is one of the most famous medieval English silver hammered coins, struck between 1180 and 1247.
 
-![how to identify a short cross and long cross hammered coin](/img/short-cross.webp)
+![Comparison of short cross, voided long cross and Edwardian long cross pennies](/img/short-cross.webp "How the cross design changes from Henry II to Edward III")
 
 Introduced by King Henry II during his major recoinage to replace the heavily clipped and degraded "Tealby" coinage, the design was so trusted and widely accepted across Europe that it was kept virtually unchanged through the reigns of four successive kings:
 
@@ -142,7 +142,7 @@ King John (1199–1216)
 
 Henry III (1216–1247)
 
-![how were cut half and quarter hammered coins used](/img/short-cross-id.webp)
+![Chart of short cross and long cross pennies with cut halves and quarters](/img/short-cross-id.webp "Cut halves and quarters were used as small change until 1279")
 
 ### *Key Visual Characteristics*
 
@@ -184,7 +184,7 @@ Buying basic everyday necessities—a loaf of bread, a pot of ale, a candle, or 
 
 <strong>Cutting coins had a major drawback:</strong> it made "clipping" (fraudulently trimming silver off the edges before passing the coin along) very easy to disguise. In 1279, King Edward I launched a massive recoinage that introduced officially minted round halfpennies and round farthings, as well as the larger four-pence groat. This made cutting coins unnecessary and eventually brought the practice of creating cut fractions to an end.
 
-![how to clean and preserve hammered coins](/img/squirter_mw1xznko.webp)
+![Crawfords squirter bottle and blue brush lying on beach sand at sunset](/img/squirter_mw1xznko.webp "A squirter bottle and soft brush: keep cleaning gentle")
 
 ### 4. <em>Pro Field Tip: Don't Over-Clean!</em>
 
@@ -200,4 +200,4 @@ If you enjoyed the read and have got this far,
 
 you can enjoy <strong>*some money off using the voucher code below*</strong>
 
-![all about hammered coins in the uk](/img/WEB_AD2026.webp)
+![Crawfords Metal Detectors advert with discount code paulcee10 and Detexpert logo](/img/WEB_AD2026.webp "Money off at Crawfords with the paulcee10 code")

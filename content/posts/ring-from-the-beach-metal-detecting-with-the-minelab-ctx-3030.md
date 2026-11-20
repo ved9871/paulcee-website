@@ -14,6 +14,6 @@ seo:
   keywords: metal detecting england, minelab ctx 3030 beach, paul cee
 ---
 
-[![metal detecting uk](/img/ctx-3030_WEB.webp "Minelab CTX 3030 Beach Metal Detecting")](/crawfords-metal-detectors/)
+[![Minelab CTX 3030 metal detector with the Crawfords Metal Detectors logo on a grey background](/img/ctx-3030_WEB.webp "A signet ring from the slope and wet sand at Cleethorpes with the CTX 3030")](/crawfords-metal-detectors/)
 
 Another day [Metal Detecting Cleethorpes beach](/beginners-guide-to-metal-detecting/) with the [Minelab CTX 3030](/ctx3030/) metal detector, and a signet ring metal detecting slope and wet sand
