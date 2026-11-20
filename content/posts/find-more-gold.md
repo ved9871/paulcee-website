@@ -26,6 +26,6 @@ watch the video
 
 {{youtube id="83aoC71wWPI" title="Find more Gold Metal Detecting"}}
 
-For more beach metal detecting videos make sure you check us out on youtube
+For more beach metal detecting videos make sure you check us out on YouTube
 
 Looking for a new metal detector check out [CRAWFORDS METAL DETECTORS](/crawfords-metal-detectors/)
