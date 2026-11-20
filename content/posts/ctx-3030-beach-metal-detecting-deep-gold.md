@@ -1,8 +1,11 @@
 ---
 title: ctx 3030 beach metal detecting deep gold
 datePublished: 2020-05-10T19:20:00
+draft: false
+noindex: false
 topic: ctx-3030
-cover: /img/b-45-mm-stickerWeb.webp
+tags: []
+cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: 4VpL9UetYJc
 summary: Iffy signal turn out to be gold beach detecting CTX 3030
 seo:
@@ -11,7 +14,7 @@ seo:
   keywords: beach detecting uk, minelab ctx3030, lp metal detectors, crawfords metal detectors, regton metal detectors
 ---
 
-![Two silver rings, one with a butterfly design, under CTX 3030 Deep Gold text](/img/250317a.webp "Deep, iffy beach signals that turned out to be rings")
+![Two silver rings, one with a butterfly design, CTX 30 30 Deep Gold](/img/250317a.webp "Deep, iffy beach signals that turned out to be rings")
 
 ## beach metal detecting uk for the deep iffy signals
 
