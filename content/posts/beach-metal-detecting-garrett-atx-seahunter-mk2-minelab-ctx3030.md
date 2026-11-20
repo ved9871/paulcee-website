@@ -17,4 +17,4 @@ seo:
 
 [![Silver ring with a clear stone resting on a Garrett ATX pulse induction detector](/img/9k-white.webp "A ring found with the Garrett ATX on the beach")](https://www.youtube.com/subscription_center?add_user=flash1968)
 
-3 metal detectors on the beach to have a look at which is the better, the Seahunter and Garrett ATX are both [Pulse Induction Detectors](/crawfords-metal-detectors/) and the [CTX3030](/) is a multi frequency detector, all 3 performed ok (ish) as the beach has alot of iron scrap on it, did manage to find a viccy halfpenny and a clip of live .303 rounds from the war.
+3 metal detectors on the beach to have a look at which is the better, the Garrett Seahunter Mk2 and Garrett ATX are both [Pulse Induction Detectors](/crawfords-metal-detectors/) and the [CTX3030](/) is a multi frequency detector, all 3 performed ok (ish) as the beach has alot of iron scrap on it, did manage to find a viccy halfpenny and a clip of live .303 rounds from the war.
