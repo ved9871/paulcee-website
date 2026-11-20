@@ -23,7 +23,7 @@ seo:
   keywords: minelab equinox settings, minelab manticore settings, minelab vanquish settings, minelab x-terra pro settings
 ---
 
-[![Minelab Equinox masterclass thumbnail with detectorist silhouette and Do you know text](/img/equinox_masterclassWEB.webp "Equinox masterclass: learn the best settings")](http://bit.ly/2VcUX0q)
+![Minelab Equinox masterclass thumbnail with detectorist silhouette and Do you know text](/img/equinox_masterclassWEB.webp "Equinox masterclass: learn the best settings")
 
 ![Paul Cee round badge Minelab Logo with paul stood in a field](/img/2026-thumb_0bwkmdko.webp "small: Paul Cee at Crawfords Metal Detectors")
 
