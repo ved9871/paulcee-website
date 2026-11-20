@@ -1,8 +1,12 @@
 ---
 title: Minelab X-Terra Voyager
 datePublished: 2023-11-24T17:41:00
+draft: false
+noindex: false
 topic: minelab-x-terra
+tags: []
 cover: /img/b-xterra-voyager.webp
+heroVideo: ''
 summary: New metal detector for beginners
 seo:
   title: Minelab X-Terra Voyager - Blog
@@ -16,9 +20,9 @@ seo:
 
 ![Detexpert shield logo with the Minelab emblem](/img/detexpert-logosml_vfaa8qet.webp "small: Paul Cee, Minelab Detexpert")
 
-![Paul Cee round badge with Minelab Equinox, CTX 3030 and CMD logos](/img/YT-thumb_2020_krf9oxd0.webp "small: Paul Cee and Crawfords Metal Detectors")
+![Paul Cee round badge with Minelab Logo, and CMD logos](/img/2026-thumb_0bwkmdko.webp "small: Paul Cee and Crawfords Metal Detectors")
 
-The Minelab X-Terra VOYAGER comes with high-quality wired headphones for target ID, a sturdy backpack to secure your essentials and a folding shovel to recover buried treasure including all the tools you need for detecting coins, jewellry and gold.
+The Minelab X-Terra VOYAGER comes with high-quality wired headphones for target ID, a sturdy backpack to secure your essentials and a folding shovel to recover buried treasure including all the tools you need for detecting coins, jewellery and gold.
 
 AUTOMATIC &amp; ACCURATE. Switch between search modes to find specific types of treasure. When you're zeroing in on one, switch to Pinpoint Mode for even greater precision. Distinct audio and visual alerts identify discoveries before you dig.
 
@@ -34,9 +38,9 @@ Minelab X-terra Voyager Spec
 
 ![Minelab X-Terra Voyager carried on a beach beside its compact and light spec panel](/img/voyager-spec.webp "Collapses to 28 in, light enough for all-day swings")
 
-7 discrimination segements
+7 discrimination segments
 
-99 Target I.d's
+99 Target ID's
 
 5 levels depth indicators
 
@@ -48,18 +52,18 @@ Search Modes All Metal, Jewellery, Custom and Learn
 
 ![Minelab X-Terra Voyager complete detecting kit with headphones, spade and backpack](/img/voyager-kit.webp "Headphones, folding spade and backpack all included")
 
-Collapsable to 28 in to fit in the included back-pack
+Collapsible to 28 in to fit in the included back-pack
 
-![Minelab X-Terra Voyager display showing target ID and the control buttons](/img/voyager-screen.webp "A simple screen and buttons that beginners pick up fast")
+[![Minelab X-Terra Voyager display showing target ID and the control buttons](/img/voyager-screen.webp "A simple screen and buttons that beginners pick up fast")](https://crawfordsmd.com/minelab-x-terra-voyager-tactical)
 
 Easy to use and understand screen
 
-![Minelab X-Terra Voyager waterproof search coil underwater, rated to one metre](/img/voyager-coil.webp "The coil is waterproof to 1 metre, so shallow water is fine")
+[![Minelab X-Terra Voyager waterproof search coil underwater, rated to one metre](/img/voyager-coil.webp "The coil is waterproof to 1 metre, so shallow water is fine")](https://crawfordsmd.com/minelab-x-terra-voyager-tactical)
 
 Waterproof Coil to 1mtr
 
 Search Coil 11"x8.5" double D
 
-Find out more and [where to buy a Minelab X-Terra Voyager](https://bit.ly/xterravoyager)
+Find out more and where to [Buy a Minelab X-Terra Voyager](https://crawfordsmd.com/minelab-x-terra-voyager-tactical)
 
-[![Red and black Minelab logo](/img/minelab-logo_fntjduex.webp "Minelab, maker of the X-Terra and Equinox ranges")](https://bit.ly/PC_Minelab)
+![Red and black Minelab logo](/img/minelab-logo_fntjduex.webp "Minelab, maker of the X-Terra and Equinox ranges")
