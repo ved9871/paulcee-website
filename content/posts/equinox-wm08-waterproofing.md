@@ -1,12 +1,14 @@
 ---
 title: Equinox WM08 waterproofing
 datePublished: 2018-02-26T20:16:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - Equinox
   - wm08
   - WM
-  - "08"
+  - '08'
   - waterproof
 cover: /img/b-vs180226-001a.webp
 heroVideo: yx1Qsg5shLg
@@ -17,7 +19,7 @@ seo:
   keywords: Equinox 800, minelab Equinox 800, wm08, headphones, waterproof earbuds, equinox waterproof headphones uk, metal detector uk
 ---
 
-[![Man holding the Minelab Equinox WM08 wireless module on a seafront](/img/vs180226-001a.webp "Making the Equinox WM08 module waterproof for beach and rain")](http://bit.ly/2VcUX0q)
+![Man holding the Minelab Equinox WM08 wireless module on a seafront](/img/vs180226-001a.webp "Making the Equinox WM08 module waterproof for beach and rain")
 
 ## Minelab Equinox WM08 Module
 
