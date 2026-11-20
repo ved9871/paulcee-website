@@ -1,5 +1,7 @@
 ---
 title: Metal Detecting on Facebook
+noindex: false
+showEvents: false
 seo:
   title: social sites
   description: Paul Cee, Metal Detecting facebook groups uk, crawfords metal detectors, metal detecting facebook, minelab owners, metal detector groups uk
@@ -8,7 +10,7 @@ seo:
 
 #### Crawfords Metal Detectors mailing list
 
-Stay up to date with everything Crawfords and metal Detecting. [Sign up to the Mailing list](https://bit.ly/CMD_Maling)
+Stay up to date with everything Crawfords and metal Detecting. [Sign up to the Mailing list](/social-sites/)
 
 Monthly **free competitions** for subscribers
 
