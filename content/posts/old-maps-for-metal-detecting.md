@@ -26,7 +26,7 @@ seo:
 
 ## Metal Detecting Research old maps
 
-to find treasure for metal detecting research and treasure hunting,find the best places to metal detect, using LIDAR, Old maps and side by side maps.
+to find treasure for metal detecting research and treasure hunting, find the best places to metal detect, using LIDAR, Old maps and side by side maps.
 
 Step by step of how to use old maps for researching metal detecting sites.
 
@@ -34,8 +34,8 @@ Whether your field walking and looking for pottery or a serious treasure hunter 
 
 Links
 
-[Archi uk Research maps](http://bit.ly/archiuk)
+Archi uk Research maps
 
-[What 3 Words](http://bit.ly/W3W_YT)
+What 3 Words
 
-[Lidar Maps](http://bit.ly/lidar_YT)
+Lidar Maps
