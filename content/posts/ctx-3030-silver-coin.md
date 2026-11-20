@@ -10,7 +10,7 @@ tags:
   - detecting
   - ctx
   - '3030'
-cover: /img/b-130118.webp
+cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: ''
 summary: Beach metal detecting with the minelab ctx 3030 and a nice Silver coin from the wet sand
 seo:
@@ -21,6 +21,6 @@ seo:
 
 ![metal detecting Cleethorpes beach](/img/130118.webp "Silver and old coins from the wet sand with the CTX 3030")
 
-Metal Detecting on the beach with the [CTX 3030](/ctx3030/) metal detector from Minelab, a superb beach detector
+Metal Detecting on Cleethorpes beach with the Minelab  [CTX 3030](/ctx3030/) metal detector, a superb beach detector that will find gold rings
 
 {{youtube id="jeSeD-hjloU"}}
