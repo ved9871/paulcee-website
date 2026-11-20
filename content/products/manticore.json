@@ -1,9 +1,9 @@
 {
-  "key": "manticore",
   "name": "Minelab Manticore",
+  "key": "manticore",
   "path": "/minelab-manticore",
   "cat": "detector",
-  "img": "/img/MANTICORE-VIDEO_as2ycfdz.webp",
+  "img": "/img/manticore_web1.webp",
   "compare": [
     {
       "path": "/blog/minelab-equinox-900-vs-minelab-manticore",
