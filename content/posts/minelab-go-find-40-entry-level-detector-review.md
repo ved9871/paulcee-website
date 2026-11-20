@@ -3,7 +3,7 @@ title: Minelab Go-find 40 Entry level detector review
 datePublished: 2019-08-27T10:16:00
 draft: false
 noindex: false
-topic: beginners
+topic: other-detectors
 tags:
   - Minelab
   - Go

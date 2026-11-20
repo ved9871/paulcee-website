@@ -1,0 +1,7 @@
+{
+  "label": "Other detectors",
+  "key": "other-detectors",
+  "description": "Posts about detectors other than the current Minelab range: E-Trac, GPX, XP Deus, Garrett, Evo and more.",
+  "match": "etrac|e-trac|gpx|deus|garrett|seahunter|sea hunter|atx|go-?find|evo 6000|c-scope|nokta|xp deus",
+  "order": 6
+}

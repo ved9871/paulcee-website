@@ -1,7 +1,7 @@
 ---
 title: Evo 6000 Review
 datePublished: 2021-04-19T18:13:00
-topic: ctx-3030
+topic: other-detectors
 cover: /img/b-evo6000.webp
 summary: C Scope Evo 6000 Review
 seo:

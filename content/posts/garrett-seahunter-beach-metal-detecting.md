@@ -3,7 +3,7 @@ title: Garrett Seahunter beach metal detecting
 datePublished: 2017-09-27T18:01:00
 draft: false
 noindex: false
-topic: ctx-3030
+topic: other-detectors
 tags:
   - garrett
   - seahunter

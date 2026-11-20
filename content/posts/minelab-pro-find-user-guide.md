@@ -3,7 +3,7 @@ title: Minelab Pro Find user guide
 datePublished: 2021-01-03T09:00:00
 draft: false
 noindex: false
-topic: beginners
+topic: coils-and-gear
 tags:
   - Minelab
   - profind

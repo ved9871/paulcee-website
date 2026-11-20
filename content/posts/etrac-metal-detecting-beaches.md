@@ -1,7 +1,7 @@
 ---
 title: Etrac metal detecting Beaches
 datePublished: 2017-10-18T17:38:00
-topic: ctx-3030
+topic: other-detectors
 cover: /img/b-etrac1a.webp
 heroVideo: U5-fqV1hrSk
 summary: Minelab Etrac beach Detecting

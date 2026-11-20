@@ -3,7 +3,7 @@ title: pro find 40 settings
 datePublished: 2023-11-27T18:50:00
 draft: false
 noindex: false
-topic: beginners
+topic: coils-and-gear
 tags:
   - pro find 40
   - minelab pinpointer

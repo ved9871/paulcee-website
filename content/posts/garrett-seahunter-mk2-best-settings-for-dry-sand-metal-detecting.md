@@ -3,7 +3,7 @@ title: Garrett Seahunter Mk2 best settings for dry sand metal detecting
 datePublished: 2019-08-27T12:56:00
 draft: false
 noindex: false
-topic: ctx-3030
+topic: other-detectors
 tags:
   - Garrett
   - seahunter

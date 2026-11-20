@@ -2,6 +2,6 @@
   "label": "Coils, tools & gear",
   "key": "coils-and-gear",
   "description": "Essential accessories for metal detecting, reviews, where to buy, everything from search coils to finds cleaning kit",
-  "match": "coil|nox|scoop|spade|shaft|headphone|accessor|wm0|power ?x|case|diamond tester|battery|power bank|armcup|cover|mals|surf",
-  "order": 6
+  "match": "coil|nox|scoop|spade|shaft|headphone|accessor|wm0|power ?x|case|diamond tester|battery|power bank|armcup|cover|mals|surf|pro-?find|pinpoint",
+  "order": 7
 }

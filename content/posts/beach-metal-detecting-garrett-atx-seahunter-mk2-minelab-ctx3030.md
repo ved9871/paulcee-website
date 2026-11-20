@@ -3,7 +3,7 @@ title: beach metal detecting Garrett ATX
 datePublished: 2019-08-27T18:28:00
 draft: false
 noindex: false
-topic: ctx-3030
+topic: other-detectors
 tags:
   - Garrett atx
 cover: /img/b-9k-white.webp

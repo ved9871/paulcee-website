@@ -1,7 +1,7 @@
 ---
 title: Garrett Seahunter MKII beach metal detecting
 datePublished: 2017-05-07T15:21:00
-topic: ctx-3030
+topic: other-detectors
 cover: /img/b-png-logo-2025.webp
 heroVideo: OvQ1MF8Jk6s
 summary: Garrett Seahunter beach metal detecting uk beaches

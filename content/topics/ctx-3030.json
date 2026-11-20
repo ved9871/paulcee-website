@@ -1,7 +1,7 @@
 {
-  "label": "CTX 3030 & other machines",
+  "label": "Minelab CTX 3030",
   "key": "ctx-3030",
   "description": "popular high end coin and treasure metal detectors",
-  "match": "ctx|etrac|gpx|deus|garrett|seahunter|atx|go-?find|evo 6000|c-scope|pro-?find",
+  "match": "ctx",
   "order": 5
 }
