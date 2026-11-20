@@ -1,11 +1,13 @@
 ---
 title: Minelab Vanquish 540 test
 datePublished: 2019-09-22T19:14:00
+draft: false
+noindex: false
 topic: minelab-vanquish
 tags:
   - minelab
   - vanquish
-  - "540"
+  - '540'
   - field
   - test
   - recovery
@@ -38,5 +40,3 @@ some images of headphone connections, batteries and shaft and camlocks.
 The 12 inch DD Coil available on the Vanquish 540 and in the 540 pro pack
 
 ![V12 12 inch DD search coil label on the Minelab Vanquish 540](/img/P1040952_a.webp "The 12 inch DD coil comes with the 540 and in the 540 Pro-Pack")
-
-Minelab Vanquish PRE ORDER [HERE](http://bit.ly/CMDvanquish)
