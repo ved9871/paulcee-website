@@ -11,14 +11,12 @@ tags:
   - beach
   - metal
   - detecting
-  - find
   - gold
   - metal
   - detecting
-  - uk
 cover: /img/b-GOPR0669_CTX.webp
 heroVideo: FAOkJMOb0RA
-summary: Metal detecting uk, super gold ring found Bournemouth beach
+summary: Beach Metal detecting, super gold ring found Bournemouth beach
 seo:
   title: CTX 3030 Finds gold - Blog
   description: minelab ctx 3030 beach metal detecting on bournemouth beach for gold
