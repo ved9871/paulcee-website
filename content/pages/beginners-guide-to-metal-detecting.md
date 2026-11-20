@@ -8,7 +8,7 @@ seo:
   keywords: how to metal detect, metal detector settings, set up metal detector, where to metal detect, minelab equinox settings, target id, beach detecting help, metal detector tones, metal detecting tips
 ---
 
-[![Two detectorists chatting at a rally campsite, one in a Minelab Detexpert T-shirt](/img/IMG_20220611_152449.webp "Learning from other detectorists at a rally is the quickest way to start") ](http://bit.ly/2VcUX0q)
+![Two detectorists chatting at a rally campsite, one in a Minelab Detexpert T-shirt](/img/IMG_20220611_152449.webp "Learning from other detectorists at a rally is the quickest way to start") 
 
 ![Paul Cee, Minelab Detexpert, smiling with arms folded in a field](/img/2026-thumb_fwz7ag9m.webp "Tutorials from Paul Cee, from first switch-on to advanced settings")
 
@@ -38,7 +38,7 @@ we use the [Minelab Manticore](/minelab-manticore/), [Minelab Equinox](/minelab-
 
 and see the target id numbers from the metal detector.
 
-you decide would you dig or leave the target behind, some of the targets will be good i.e Gold,silver, rings, jewellery and coins
+you decide would you dig or leave the target behind, some of the targets will be good i.e. Gold,silver, rings, jewellery and coins
 
 Some will be bottle tops, ring pull can slaw and the usual rubbish found beach metal detecting.
 
