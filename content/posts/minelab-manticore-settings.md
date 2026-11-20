@@ -21,15 +21,15 @@ seo:
 
 ![Detexpert shield logo with the Minelab emblem](/img/detexpert-logosml_383z1pp5.webp "Manticore settings from a Minelab Detexpert")
 
-Minelab Manticore Best Settings
+## Minelab Manticore Best Settings
 
 Dont get caught up in the Best settings saga for the Minelab Manticore or Equinox.
 
 What we have seen over and over is people using other peoples settings in the Manticore whether its beach or land, learning to adjust the settings and what the settings do is a real game changer for your detecting experience.
 
-You may find coins and relics using these settings but you are NOT using the PRO features of the Manticore to its full potential, some of the settings we will look at are like having a MINELAB Engineer working with you, you can change to suit the enviroment and gain full power in that area for the Manticore.
+You may find coins and relics using these settings but you are NOT using the PRO features of the Manticore to its full potential, some of the settings we will look at are like having a MINELAB Engineer working with you, you can change to suit the environment and gain full power in that area for the Manticore.
 
-These Video tutorials are Brought to you by Minelab Engineers and [Minelab Detexperts](https://bit.ly/detexpert) Luc Van Assche and Paul Cee so they are Not in this for a popularity vote or Money, they are here to help..
+These Video tutorials are Brought to you by Minelab Engineers and Minelab Detexperts Luc Van Assche and Paul Cee so they are Not in this for a popularity vote or Money, they are here to help..
 
 SO.....
 
