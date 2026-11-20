@@ -14,7 +14,7 @@ tags:
   - waterproof
   - detector
   - uk
-cover: /img/crawfords-2024-black-04.webp
+cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: ''
 summary: rings and coins At Cleethorpes Beach Metal Detecting
 seo:
@@ -27,6 +27,4 @@ seo:
 
 ![Paul Cee, Minelab Detexpert, smiling with arms folded in a Detexpert shirt](/img/2026-thumb_0bwkmdko.webp "Paul Cee detecting in the water with the CTX 3030")
 
-A Few Hours out metal detecting in the Water today With the[ Minelab CTX 3030](/ctx3030/), produces 2 old rings and pre- decimal coins. and the usual modern spendable coins. feel free to share and subscribe
-
-{{youtube id="nX88uQnHMiY" title="Cleethorpes Beach Metal Detecting"}}
+Metal detecting Cleethorpes Beach, in the Water today With the[ Minelab CTX 3030](/ctx3030/), produces 2 old rings and pre- decimal coins. and the usual modern spendable coins. {{youtube id="nX88uQnHMiY" title="Cleethorpes Beach Metal Detecting"}}
