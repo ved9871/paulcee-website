@@ -1,6 +1,7 @@
 ---
 title: Beginners Guide to Metal Detecting
 noindex: false
+showEvents: false
 seo:
   title: beginners guide to metal detecting
   description: Metal detecting for beginners, best metal detector for beginners, tips for beginners to metal detecting, beginner metal detecting, how to metal detect properly
@@ -12,8 +13,6 @@ seo:
 ![Paul Cee, Minelab Detexpert, smiling with arms folded in a field](/img/2026-thumb_fwz7ag9m.webp "Tutorials from Paul Cee, from first switch-on to advanced settings")
 
 ## Metal detecting for beginners.
-
-[http://bit.ly/2VcUX0q](http://bit.ly/2VcUX0q)
 
 1st thing Get some insurance from the [NCMD (National Council For Metal Detecting)](/links/)
 
@@ -41,7 +40,7 @@ and see the target id numbers from the metal detector.
 
 you decide would you dig or leave the target behind, some of the targets will be good i.e Gold,silver, rings, jewellery and coins
 
-Some will be bottletops, ring pull can slaw and the usual rubbish found beach metal detecting.
+Some will be bottle tops, ring pull can slaw and the usual rubbish found beach metal detecting.
 
 Of course if your a seasoned metal detectorist you can join in for fun
 
