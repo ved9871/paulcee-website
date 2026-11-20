@@ -1,6 +1,7 @@
 ---
 title: Minelab Manticore | The Ultimate Metal Detector Guide & Settings
 noindex: false
+showEvents: false
 seo:
   title: Minelab Manticore | The Ultimate Metal Detector Guide & Settings
   description: Complete guide to the Minelab Manticore.  Advanced ferrous limits settings, recovery speed tutorials for relic and beach hunting, 2D Screen, with vidoes
@@ -61,4 +62,4 @@ Check out some of the Manticore videos, Minelab and CMD created to help with you
 
 {{youtube id="VimSTbHMGi4" title="How to pair Manticore Headphones, what problems and how to solve them"}}
 
-[![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Manticore deals at Crawfords: use code paulcee10") ](https://bit.ly/CMDMDUK)
+[![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Manticore deals at Crawfords: use code paulcee10")
