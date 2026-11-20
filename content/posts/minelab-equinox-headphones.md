@@ -1,6 +1,8 @@
 ---
 title: minelab equinox headphones
 datePublished: 2018-11-14T17:36:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - Minelab
@@ -11,6 +13,7 @@ tags:
   - metal
   - detecting
 cover: /img/b-nox_predator1.webp
+heroVideo: ''
 summary: Aftermarket Minelab Equinox Headphones
 seo:
   title: minelab equinox headphones - Blog
@@ -42,13 +45,13 @@ are the best you can buy. High quality components are used to ensure durability 
 
 Features Include:
 
-Military specification curly cable - light, flexible and virtually indestructable. So strong there is no need for it to be detachable. (Unlike the cheap PVC leads fitted to all other metal detecting headphones we know of).
+Military specification curly cable - light, flexible and virtually indestructible. So strong there is no need for it to be detachable. (Unlike the cheap PVC leads fitted to all other metal detecting headphones we know of).
 
 Lightweight 80ohm mylar speakers driven by powerful cobalt magnets to deliver pitch perfect sound. Designed for mid-range audio they are perfect for your detector.
 
 Waterproof smooth action volume control
 
-High quality 'peltor' fold down ear defender.
+High quality 'Peltor' fold down ear defender.
 
 Reinforced &amp; water sealed jack plug.
 
