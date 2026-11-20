@@ -1,18 +1,20 @@
 ---
 title: Cut Hammered coins
 datePublished: 2019-09-04T19:10:00
+draft: false
+noindex: false
 topic: minelab-equinox
+tags: []
 cover: /img/b-P9020284_a.webp
 heroVideo: RpzLl8jU_bM
-summary: |
-  cut 1/4 hammered and Roman coins found metal detecting with the Equinox 800
+summary: cut 1/4 hammered and Roman coins found metal detecting with the Equinox 800
 seo:
   title: minelab equinox Cut Hammered coins - Blog
   description: find very small cur hammered silver coins with a minelab equinox and the correct settings for where you are detecting, not beach to land settings
   keywords: minelab equinox uk, minelab equinox settings, paul cee, crawfords metal detectors
 ---
 
-![Paul Cee round badge with Minelab Equinox, CTX 3030 and Vanquish logos](/img/YT-thumb_2020_yoz5yje9.webp "small: Paul Cee detecting channel badge")
+![Paul Cee round badge with Minelab Equinox, CTX 3030 and Vanquish logos](/img/2026-thumb_0bwkmdko.webp "small: Paul Cee detecting channel badge")
 
 ![Minelab Detexpert shield logo with a red detector sweep](/img/detexpert-logosml_mqph5bcu.webp "small: Minelab Detexpert Paul Cee")
 
@@ -24,6 +26,6 @@ Set up the Equinox in Field 1 and 50 tones manual Ground balance ( ground Balanc
 
 no real areas to call hot spots were found but once a decent target was found then an area of about 10 sq ft was gridded..
 
-Join at [MINELAB IN DEPTH](http://bit.ly/2FsdkJD) for all the latest news from minelab
+Join at MINELAB IN DEPTH for all the latest news from minelab
 
 for the latest news and information on the [MINELAB VANQUISH](/minelab-vanquish-40-series/)
