@@ -1,6 +1,8 @@
 ---
 title: Equinox EQX 15 DD smart coil
 datePublished: 2018-11-11T17:33:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - Minelab
@@ -22,7 +24,9 @@ seo:
 
 ![Smiling detectorist holding up a silver ring found with the EQX 15 coil](/img/111118_silver.webp "Silver ring from the beach with the 15 inch coil")
 
-Minelab Equinox beach detecting with the 15x12 dd smart coil, settings for the equinox and large coil still going under testing but what i am using at the minute are stable and quick in the deep iron and trash on the beach. following the tide out today looking for low spots and other areas that possibly hold the goodies, we pick up some silver pre-decimal coins and a .925 silver ring which is i think quite old..
+## Minelab Equinox beach detecting 
+
+Today Detecting with the Minelab 15x12 DD coil, settings for the equinox and large coil still going under testing but what i am using at the minute are stable and quick in the deep iron and trash on the beach. following the tide out today looking for low spots and other areas that possibly hold the goodies, we pick up some silver pre-decimal coins and a .925 silver ring which is i think quite old..
 
 Predator headphones on the Minelab Equinox
 
