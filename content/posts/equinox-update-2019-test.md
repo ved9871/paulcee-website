@@ -1,16 +1,19 @@
 ---
 title: Equinox Update 2019 test
 datePublished: 2019-09-30T18:38:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
   - Equinox
   - update
   - v2
   - minelab
-  - "800"
-  - "600"
+  - '800'
+  - '600'
   - test
 cover: /img/b-norfolk_AWEB.webp
+heroVideo: ''
 summary: |-
   Minelab Equinox Update V2.0 TEST
   Beach and land
@@ -20,7 +23,7 @@ seo:
   keywords: minelab, equinox, update, iron bias, settings, nox 800
 ---
 
-[![Minelab Equinox screen with FE-F2 test text over a stubble field](/img/norfolk_AWEB.webp "Testing the 2019 Equinox firmware update on beach and field")](http://bit.ly/2VcUX0q)
+![Minelab Equinox screen with FE-F2 test text over a stubble field](/img/norfolk_AWEB.webp "Testing the 2019 Equinox firmware update on beach and field")
 
 ## The latest Minelab Equinox firmware Update
 
@@ -40,10 +43,10 @@ We have started to test out the new UPDATE to find the most useable settings wit
 
 Some people are having difficulty working out what settings to use and saying they are finding more iron than before the update.
 
-Instead of using Mr Billy Bobs Find it all settings with regard to where you are detecting.. just have a play in the garden with some buried targets and change settings to see what happen to the responce..
+Instead of using Mr Billy Bobs Find it all settings with regard to where you are detecting.. just have a play in the garden with some buried targets and change settings to see what happen to the response..
 
 Here is a video of the 1st day of trials on BEACH and LAND, the beach has a lot of buried iron so this location is a great place for testing although Paul Has the 15" coil fitted..
 
-watch the vidoe
+watch the video
 
 {{youtube id="zMEnKwjsUvU"}}
