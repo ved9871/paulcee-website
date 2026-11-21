@@ -1,6 +1,6 @@
 ---
 title: minelab-vanquish-60-series-field-guide
-datePublished: 2026-11-21T11:00:00
+datePublished: 2026-11-21T09:55:00
 draft: false
 noindex: false
 topic: beginners
