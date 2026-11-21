@@ -33,7 +33,7 @@ Having worked with Minelab machines in the field for years as an official Minela
 
 Here is my practical, field-tested breakdown to help you **_START_** get the absolute **_best_** from your Vanquish 60 Series.
 
----
+***
 
 ## What Can You Actually Find with a Vanquish 60 Series?
 
@@ -54,7 +54,7 @@ If you are completely new to the hobby, start in your own back garden to learn h
 
 Always follow the **Code of Practice for Responsible Metal Detecting in England and Wales**. If you uncover anything that may qualify as treasure under the **Treasure Act 1996** (such as two or more precious metal coins over 300 years old, or single gold/silver artefacts of age), you have **14 days** to report it to your local **Finds Liaison Officer (FLO)** through the Portable Antiquities Scheme. Even for non-treasure historical finds, recording them helps build the archaeological map of our local landscapes.
 
----
+***
 
 ## Mastering Your Coil Swing Technique
 
@@ -65,7 +65,7 @@ Your settings only work as well as your swing. A motion detector needs steady mo
 3. **Slow down:** Covering an acre methodically beats sprinting across ten acres. If a site is littered with iron, slowing your sweep speed allows Multi-IQ to separate a good non-ferrous signal sitting right next to a rusty nail.
 4. **Secure your coil cable:** Wrap the cable snugly up the lower and middle shafts with zero slack at the bottom. A loose wire swinging near the search coil contains metal and will trigger phantom false signals.
 
----
+***
 
 ##  Understanding Target ID (VDI) Numbers
 
@@ -77,7 +77,7 @@ A detector does not read a coin in a vacuum; it reads the target **_PLUS_** the 
 
 > **Field Rule of Thumb:** Treat the Target ID screen as a secondary clue, not the final judge. If the audio tone is crisp, repeatable from two angles (the "90-degree turn test"), and pulls your attention—dig it, regardless of whether the number bounces slightly.
 
----
+***
 
 ## Setting Sensitivity for Ground Conditions
 
@@ -90,13 +90,13 @@ Sensitivity controls how strongly the Vanquish **_Amplifies weak signals_** comi
 
 **_How to tune it on THE FIELD:_** Start at the default setting. If the machine chatters constantly when the coil is held steady just above the ground, drop the sensitivity down one or two notches until the threshold settles into a calm, quiet hum. A quiet machine lets genuine targets jump out cleanly.
 
----
+***
 
 ## Headphones & Wireless Audio Setup
 
 Detecting through the built-in speaker is fine in a quiet garden or a quiet location, but wind noise and ambient sounds will easily **_mask faint, deep signals_** out in open fields or on the coast. Good headphones are essential.
 
-{{product key="coinpod"}}
+{{product key="loxleyheadphones"}}
 
 * **Wired Headphones (360, 460, and 560):** **Every Vanquish 60 Series model includes a standard 3.5 mm (1/8-inch) headphone jack (Located inside the screw on cover on the BACK of the CONTROL BOX)**, allowing you to plug in any reliable pair of wired headphones.
 * **Bluetooth LE Wireless Audio (460 and 560):** Both the 460 and 560 support low-latency Bluetooth LE wireless audio, freeing you from cables snagging on brambles or digging tools. **_(Note: The Vanquish 360 is wired-audio only)._**
@@ -105,21 +105,18 @@ Detecting through the built-in speaker is fine in a quiet garden or a quiet loca
 
 If you are using the \*\***Minelab ML-60 earbuds**\*\* (included with the Vanquish 560 or available separately for the 460):
 
-{{product key="pro-pouch"}}
+{{product key="ml60buds"}}
 
 1. Press and hold the power/pairing button on the earbuds until the LED flashes \*\*red and blue\*\*.
-
 2. On your Vanquish control box, press the \*\*Settings (cog) button\*\* until the \*\*headphones icon\*\* flashes on screen.
-
 3. Press the **Plus (+)** button and wait roughly **_7 seconds_**. Once paired, the flashing LEDs will settle and audio will route straight to your ears.
-
 4. To disconnect and return to speaker audio, navigate back to the headphones icon and press the **_Minus (-)_** button.
 
 ### A Note on Waterproof Detecting
 
 All three models in the Vanquish 60 Series carry an **IP68 waterproof rating down to 5 metres (16 feet)**, making them ideal for wet sand, shallow surf, and river wading. However, standard wireless earbuds and regular wired headphones are **_NOT SUBMERSIBLE_**. If you plan on submerging the control box, make sure you switch to dedicated waterproof headphones rated for underwater use and if you have removed the **Headphone Cover screw Then Replace it back in the opening**.
 
----
+***
 
 ## Frequently Asked Questions (FAQ)
 
@@ -139,7 +136,6 @@ Yes. The Vanquish 360, 460, and 560 are all fully waterproof to **5 metres (IP68
 
 No. The Vanquish 360 only supports wired headphones via its 3.5 mm audio socket. Built-in Bluetooth LE wireless audio is available on the **Vanquish 460** and **Vanquish 560**.{{product key="vanquish60"}}
 
-
----
+***
 
 Want to see the Vanquish 560 and Manticore in action out in the field? Head over to Our\*\*[Paul Cee Detecting YouTube Channel](https://www.youtube.com)\*\* for live digs, coil tests, and practical setup tips.\*
