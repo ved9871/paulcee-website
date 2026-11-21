@@ -11,8 +11,8 @@ tags:
   - Minelab Vanquish 560
   - Minelab Vanquish settings
   - Minelab Vanquish Tutorial
-cover: ''
-heroVideo: ''
+cover: /img/v60-series-1.webp
+heroVideo: https://youtu.be/u4WKMaN1cNs
 summary: Get the most out of your Minelab Vanquish 360, 460, or 560. As a Minelab Detexpert, we break down coil swing, Target ID behaviour, sensitivity settings, and headphone pairing.
 seo:
   title: minelab-vanquish-60-series-field-guide
@@ -41,12 +41,14 @@ A common question from new owners is whether an entry-to-mid-level machine can g
 
 On typical UK pasture or freshly rolled arable land, a properly swung Vanquish 60 Series is more than capable of uncovering:
 
+![Hammered Coins found with a minelab vanquish metal detector](/img/b-hammered-web.webp "can you find hammered coins with a minelab vanquish 360")
+
 1. Medieval **Hammered silver coins** and **Roman Coins**
 2. **Medieval belt buckles** and **Strap ends**
-3. **Lead pilgrim's ampullae**\*\* (Medieval vessels that once carried holy water)
-4. Crotal bells\*\* ("ringers") lost from livestock or carts 200–300 years ago
-5. Roman brooches
-6. And Anything Else Metal From Any Age
+3. **Lead pilgrim's ampullae** (Medieval vessels that once carried holy water)
+4. **Crotal bells** ("Ringers") lost from livestock or carts 200–300 years ago
+5. **Roman brooches**
+6. And **_Anything Else Metal From Any Age_**
 
 ### Where to Start & UK Legalities
 
@@ -58,6 +60,8 @@ Always follow the **Code of Practice for Responsible Metal Detecting in England 
 
 ## Mastering Your Coil Swing Technique
 
+![How to correctly swing a metal detector](/img/coil-swing.webp "Minelab Vanquish Coil Swing Properly")
+
 Your settings only work as well as your swing. A motion detector needs steady movement across the ground to generate a clean signal, and rushing your sweeps is the fastest way to walk straight over deeper targets with a faint audio sound.
 
 1. **Keep the coil parallel and low**: Keep the search coil skimming just above the grass or soil. Do not worry about scuffing the underside—that is precisely what the replaceable skid plate (coil cover) is designed to protect. Avoid "golf-swinging" (lifting the coil at the end of each arc), as you lose vital inches of depth at the edges of every pass.
@@ -68,6 +72,8 @@ Your settings only work as well as your swing. A motion detector needs steady mo
 ***
 
 ##  Understanding Target ID (VDI) Numbers
+
+![Minelab Vanquish Target Id Numbers explained](/img/v60_target-id.webp "Minelab Vanquish Target Id Numbers explained")
 
 Every target under the coil produces a **Target ID** number on the Vanquish screen (ranging from **-19 to 99**  on the 60 Series, with negative numbers indicating ferrous iron).
 
@@ -114,7 +120,11 @@ If you are using the \*\***Minelab ML-60 earbuds**\*\* (included with the Vanqui
 
 ### A Note on Waterproof Detecting
 
+![Minelab Detexpert Paul Cee Metal Detecting In The Sea](/img/water-detect.webp "Minelab Vanquish underwater metal detecting")
+
 All three models in the Vanquish 60 Series carry an **IP68 waterproof rating down to 5 metres (16 feet)**, making them ideal for wet sand, shallow surf, and river wading. However, standard wireless earbuds and regular wired headphones are **_NOT SUBMERSIBLE_**. If you plan on submerging the control box, make sure you switch to dedicated waterproof headphones rated for underwater use and if you have removed the **Headphone Cover screw Then Replace it back in the opening**.
+
+{{product key="yellowkoss"}}
 
 ***
 
@@ -138,4 +148,6 @@ No. The Vanquish 360 only supports wired headphones via its 3.5 mm audio socket.
 
 ***
 
-Want to see the Vanquish 560 and Manticore in action out in the field? Head over to Our\*\*[Paul Cee Detecting YouTube Channel](https://www.youtube.com)\*\* for live digs, coil tests, and practical setup tips.\*
+Want to see the Vanquish 560 and Manticore in action out in the field? 
+
+Head over to Our [Paul Cee Detecting YouTube Channel](https://www.youtube.com/show/VLPLOcWea3AAxcMYLalvV19JLAxkVKDE36Bc?sbp=QAE%3D) for Vanquish 60 practical setup and detecting tips.
