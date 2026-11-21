@@ -16,7 +16,7 @@ heroVideo: https://youtu.be/u4WKMaN1cNs
 summary: Get the most out of your Minelab Vanquish 360, 460, or 560. As a Minelab Detexpert, we break down coil swing, Target ID behaviour, sensitivity settings, and headphone pairing.
 seo:
   title: minelab-vanquish-60-series-field-guide
-  description: Get the most out of your Minelab Vanquish 360, 460, or 560. As a Minelab Detexpert, we break down coil swing, Target ID behaviour, sensitivity settings, and headphone pairing."
+  description: Get the Best Setup on your Minelab Vanquish 360, 460, or 560.
   keywords: Minelab Vanquish 60 Series, Minelab Vanquish 360, Minelab Vanquish 460, Minelab Vanquish 560, how to use Minelab Vanquish, Minelab Vanquish settings guide, Vanquish Target ID numbers, Minelab ML-60 earbuds pairing, beginner metal detecting tips UK
 ---
 
