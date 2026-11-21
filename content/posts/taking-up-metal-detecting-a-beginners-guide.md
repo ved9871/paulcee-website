@@ -42,7 +42,7 @@ The key is picking a machine that suits your budget and where you plan to search
 
 Minelab Vanquish 360 – Simple Controls, Multi-IQ Power If you want a detector you can switch on and swing with confidence from minute one, the **Minelab Vanquish 360** is hard to beat. Its biggest advantage is Minelab’s **Multi-IQ technology**, which runs multiple frequencies simultaneously rather than relying on a single frequency. In plain and simple terms, that means **_it will find_** Tiny low-conductive targets and deeper finds across both farmland, Pasture and the beach—without you needing to fiddle with frequency settings, which are all done automatically in the search profiles.
 
-* **Key features**: Park, Beach, and All Metal modes, built-in Pinpoint mode, Target ID scale from -19 to 99, built in rechargeable battery, and **IP68 waterproofing to 5 metres**.
+**Key features**: Park, Beach, and All Metal modes, built-in Pinpoint mode, Target ID scale from -19 to 99, built in rechargeable battery, and **IP68 waterproofing to 5 metres**.{{product key="vanquish60"}}
 
 ## Minelab X-Terra Elite 
 
