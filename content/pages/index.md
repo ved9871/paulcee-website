@@ -22,13 +22,13 @@ seo:
 
 And if you like [researching sites for metal detecting](/old-maps-for-metal-detecting/) we have a section on that also.
 
-[![Minelab Manticore settings video title card with Unleash the Beast text](/img/MANTICORE-VIDEO_as2ycfdz.webp "Manticore settings for beaches and fields")](/blog/minelab-manticore-uk-beach-settings/)
+[![Minelab Manticore settings video ](/img/manticore_web1.webp "Manticore settings for beaches and fields")](/blog/minelab-manticore-uk-beach-settings/)
 
 ## Minelab Manticore User Guide and settings
 
 Unleash the Beast, get the most out of your Minelab Manticore, setting up for beach detecting and Fields
 
-![Minelab Equinox 900 beach settings video thumbnail with detectorist in the surf](/img/eqx-900-beach_ybg5c3oj.webp "Beach settings and user guide for the Equinox 900")
+![Minelab Equinox 900 beach settings video thumbnail with detectorist in the surf](/img/nox900_web.webp "Beach settings and user guide for the Equinox 900")
 
 ## Minelab Equinox User Guide And Settings
 
@@ -64,7 +64,7 @@ User Guide And Settings for the Minelab XTerra Pro, for metal detecting on beach
 
 User Guide and Settings for the minelab Voyager
 
-[![Minelab Power X power bank clipped to a metal detector](/img/pwr_x_n529ai0y.webp "Power X power bank for long days on the beach")](/detecting-accessories/)
+[![Minelab Power X power bank clipped to a metal detector](/img/pwrx_web.webp "Power X power bank for long days on the beach")](/detecting-accessories/)
 
 ## Metal Detecting Accessories
 
