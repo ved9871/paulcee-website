@@ -20,7 +20,7 @@ seo:
   keywords: Minelab Vanquish 60 Series, Minelab Vanquish 360, Minelab Vanquish 460, Minelab Vanquish 560, how to use Minelab Vanquish, Minelab Vanquish settings guide, Vanquish Target ID numbers, Minelab ML-60 earbuds pairing, beginner metal detecting tips UK
 ---
 
-Getting a new metal detector out of the box and onto your first permission is always a start to a new adventure, whether you have picked up the \*\*Minelab Vanquish 360, 460, or 560\*\*. Because the 60 Series packs simultaneous Multi-IQ technology into an accessible, waterproof control box, it is ready to perform straight away—provided you get the fundamentals correct.
+Getting a new metal detector out of the box and onto your first permission is always a start to a new adventure, whether you have picked up the **Minelab Vanquish 360, 460, or 560**. Because the 60 Series packs simultaneous Multi-IQ technology into an accessible, waterproof control box, it is ready to perform straight away—provided you get the fundamentals correct.
 
 ![Paul Cee Minelab Detexpert](/img/2026-thumb_0bwkmdko.webp "Paul Cee Minelab Vanquish Tutorials")
 
@@ -54,7 +54,7 @@ On typical UK pasture or freshly rolled arable land, a properly swung Vanquish 6
 
 If you are completely new to the hobby, start in your own back garden to learn how the machine reacts to different metals and how to cut a neat plug. From there, look for permissions on local pasture, horse paddocks, or freshly ploughed and rolled arable fields.
 
-Always follow the **Code of Practice for Responsible Metal Detecting in England and Wales**. If you uncover anything that may qualify as treasure under the **Treasure Act 1996** (such as two or more precious metal coins over 300 years old, or single gold/silver artefacts of age), you have **14 days** to report it to your local **Finds Liaison Officer (FLO)** through the Portable Antiquities Scheme. Even for non-treasure historical finds, recording them helps build the archaeological map of our local landscapes.
+Always follow the **Code of Practice for Responsible Metal Detecting in England and Wales**. If you uncover anything that may qualify as treasure under the **Treasure Act 1996** (such as two or more precious metal coins over 300 years old, or single gold/silver artefacts of age), you have **14 days** to report it to your local [**Finds Liaison Officer (FLO)**](https://www.paulcee.co.uk/links/) through the [Portable Antiquities Scheme](https://www.paulcee.co.uk/links/). Even for non-treasure historical finds, recording them helps build the archaeological map of our local landscapes.
 
 ***
 
@@ -113,8 +113,8 @@ If you are using the \*\***Minelab ML-60 earbuds**\*\* (included with the Vanqui
 
 {{product key="ml60buds"}}
 
-1. Press and hold the power/pairing button on the earbuds until the LED flashes \*\*red and blue\*\*.
-2. On your Vanquish control box, press the \*\*Settings (cog) button\*\* until the \*\*headphones icon\*\* flashes on screen.
+1. Press and hold the power/pairing button on the earbuds until the LED flashes **Red and Blue.**
+2. On your Vanquish control box, press the **Settings (cog) button** until the **headphones icon** flashes on screen.
 3. Press the **Plus (+)** button and wait roughly **_7 seconds_**. Once paired, the flashing LEDs will settle and audio will route straight to your ears.
 4. To disconnect and return to speaker audio, navigate back to the headphones icon and press the **_Minus (-)_** button.
 
