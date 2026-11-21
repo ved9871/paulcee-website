@@ -1,0 +1,15 @@
+{
+  "name": "vanquish 360",
+  "key": "v360",
+  "path": "/vanquish-360-bundle",
+  "cat": "detector",
+  "img": "/img/blogs/vanquish-360.webp",
+  "compare": [
+    {
+      "path": "/minelab-vanquish-460?tracking=fa202437c9",
+      "label": "vanquish 460"
+    }
+  ],
+  "match": "vanquish",
+  "order": null
+}
