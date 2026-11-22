@@ -20,7 +20,7 @@ The ML-105 wireless headphones come included as standard with your Minelab Manti
 
 > 💡 **Troubleshooting Tip:** If the ML-105 headphones won't pair, perform a **Factory Reset**: with the headphones **OFF**, press and hold the Power button for 10 seconds until you hear 2 beeps and the LED flashes pink twice. Release the button and repeat steps 1 and 2.
 
----
+***
 
 ## Minelab Manticore All-Terrain Search Modes Explained
 
@@ -36,7 +36,7 @@ The ML-105 wireless headphones come included as standard with your Minelab Manti
 
 > **💡 Manticore Pro Tip**: Don't be afraid to switch modes mid-session! If you're detecting a field in **All-Terrain General** and hit a dense patch of iron trash, switch straight to **All-Terrain Fast** you'll instantly hear the target separation sharpen up. This can be done by having 2 profiles saved and switching between them.
 
----
+***
 
 Check out some of the Manticore videos, Minelab and CMD created to help with your Manticore.
 
@@ -56,4 +56,4 @@ Check out some of the Manticore videos, Minelab and CMD created to help with you
 
 {{youtube id="VimSTbHMGi4" title="How to pair Manticore Headphones, what problems and how to solve them"}}
 
-[![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Manticore deals at Crawfords: use code paulcee10")
+![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Manticore deals at Crawfords: use code paulcee10")
