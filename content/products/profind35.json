@@ -1,0 +1,15 @@
+{
+  "name": "profind35",
+  "key": "profind35",
+  "path": "/minelab-pro-find-35",
+  "cat": "pinpointer",
+  "img": "/img/profind-35.webp",
+  "compare": [
+    {
+      "path": "/minelab-pro-find-40",
+      "label": "profind40"
+    }
+  ],
+  "match": "pinpointer",
+  "order": null
+}
