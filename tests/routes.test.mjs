@@ -87,3 +87,12 @@ test('warnMissing reports each path once per reason', () => {
   assert.equal(warnings.length, 2);
   assert.match(warnings[1], /draft or scheduled/);
 });
+
+test('a typed link that cannot be an address is dropped, asset-like paths are left alone', () => {
+  const R = createRoutes({ pages: { 'minelab-vanquish-60-series': {} }, posts: new Map(), allPosts: new Map(), topics: [], redirects: {}, url: s => '/' + s, pageUrl: s => '/' + s + '/' });
+  assert.deepEqual(R.resolve('/blog/vanquish-60-series)'), { missing: 'invalid' });
+  assert.deepEqual(R.resolve('/minelab vanquish'), { missing: 'invalid' });
+  assert.equal(R.resolve('/img/photo.webp'), null);
+  assert.equal(R.resolve('/ads.txt'), null);
+  assert.deepEqual(R.resolve('/minelab-vanquish-60-series/'), { href: '/minelab-vanquish-60-series/' });
+});

@@ -66,7 +66,10 @@ export function createRoutes({ pages, posts, allPosts, topics, redirects = {}, u
     if (k === 'page' || k === 'post' || k === 'generated') return { href: href(p) };
     if (active[p]) return { href: href(active[p]) };
     if (k === 'unpublished') return { missing: 'unpublished' };
-    if (k === 'reserved' || !looksLikeRoute(p)) return null;
+    if (k === 'reserved') return null;
+    // a file-like path (/img/x.webp, /ads.txt) is an asset link: leave it alone; anything else that cannot be a
+    // page or post address (stray brackets, spaces, typos) is dropped so one bad link never blocks a deploy
+    if (!looksLikeRoute(p)) return /\.[a-z0-9]{2,5}$/i.test(p) ? null : { missing: 'invalid' };
     return { missing: 'deleted' };
   };
 
@@ -75,7 +78,9 @@ export function createRoutes({ pages, posts, allPosts, topics, redirects = {}, u
     const key = `${why}:${p}`; if (warned.has(key)) return; warned.add(key);
     warn(why === 'unpublished'
       ? `WARN link: "/${p}" is a draft or scheduled post; link text kept, link removed until it is published`
-      : `WARN link: "/${p}" no longer exists (deleted in the CMS?); link text kept, link removed`);
+      : why === 'invalid'
+        ? `WARN link: "/${p}" is not a valid address on this site (check the link in the editor); link text kept, link removed`
+        : `WARN link: "/${p}" no longer exists (deleted in the CMS?); link text kept, link removed`);
   };
 
   return { kind, exists, href, title, active, redirectHref, resolve, warnMissing, norm };

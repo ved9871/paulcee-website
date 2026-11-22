@@ -282,7 +282,7 @@ const eventLink = link => {
   const c = crawfords(s);
   return `<a class="btn btn--sm" href="${esc(c || s)}" rel="${c ? 'sponsored noopener' : 'noopener'}" target="_blank">Details &amp; tickets ${icon.ext}</a>`;
 };
-const eventCard = e => `<article class="event">${e.image ? img(e.image, e.name, { cls: 'event__img' }) : ''}<div class="event__body"><p class="mono event__date">${esc(fmtRange(e))}${e.venue ? ` · ${esc(e.venue)}` : ''}</p><h3 class="event__name">${esc(e.name)}</h3>${e.description ? `<p>${esc(strip(e.description).slice(0, 220))}</p>` : ''}${eventLink(e.link)}</div></article>`;
+const eventCard = e => `<article class="event">${e.image ? img(e.image, e.name, { cls: 'event__img' }) : ''}<div class="event__body"><p class="mono event__date">${esc(fmtRange(e))}${e.venue ? ` · ${esc(e.venue)}` : ''}</p><h3 class="event__name">${esc(e.name)}</h3>${e.description ? `<p>${esc(String(e.description).replace(/<[^>]+>/g, '')).trim().replace(/\s*\n+\s*/g, '<br>')}</p>` : ''}${eventLink(e.link)}</div></article>`;
 const eventsBlock = () => EVENTS.upcoming.length ? `<section class="events" aria-labelledby="ev-h"><h2 id="ev-h">Upcoming rallies &amp; events</h2><div class="events__list">${EVENTS.upcoming.map(eventCard).join('')}</div></section>` : '';
 
 // ---------- pages ----------

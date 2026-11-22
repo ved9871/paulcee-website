@@ -66,7 +66,7 @@ During warm weather, busy UK beaches replenish themselves daily with fresh drops
 
 - **Up Against Promenade Walls:** People sit leaning against sea walls all afternoon, and coins, keys, and lighters regularly slip out of shorts and trouser pockets. Because sea walls contain steel rebar that will overload your detector, **turn your sensitivity right down**. You are only looking for fresh surface drops, so low sensitivity lets you sweep right up to the concrete without picking up the internal steel.
 
-- **Wading in the Shallows:** If you are using a waterproof machine like a [[Minelab Manticore]](/blog/manticore-settings), Minelab Equinox, or CTX 3030, wading knee-to-chest deep where swimmers gather puts you over targets dry-sand detectorists cannot reach. Even with a splash-proof detector like the [[Minelab Vanquish 60 series]](/blog/vanquish-60-series\)), you can detect safely in the shallows.
+- **Wading in the Shallows:** If you are using a waterproof machine like a [[Minelab Manticore]](/blog/manticore-settings), Minelab Equinox, or CTX 3030, wading knee-to-chest deep where swimmers gather puts you over targets dry-sand detectorists cannot reach. Even with a splash-proof detector like the [Minelab Vanquish 60 series](/minelab-vanquish-60-series/), you can detect safely in the shallows.
 
 ---
 
