@@ -1,7 +1,9 @@
 ---
 title: Mals SurfFones
 datePublished: 2019-08-27T16:47:00
-topic: minelab-manticore
+draft: false
+noindex: false
+topic: coils-and-gear
 tags:
   - metal
   - detector
@@ -11,9 +13,10 @@ tags:
   - detecting
   - minelab
   - Equinox
-  - "800"
+  - '800'
   - uk
 cover: /img/b-mal-surffones.webp
+heroVideo: ''
 summary: Custom made headphones for the Minelab ctx 3030, Minelab Equinox and excalliber metal detectors
 seo:
   title: Mals SurfFones Minelab  - Blog
@@ -21,7 +24,7 @@ seo:
   keywords: Minelab, Equinox 800, Minelab ctx 3030, minelab Excallibur, Mals Surffones,metal detector uk, best headphones for metal detecting
 ---
 
-[![Mal's SurfFones headphones for the Minelab CTX 3030 with cord, padding and Minelab fitting](/img/mal-surffones.webp "Custom made by a detectorist, with a Minelab fitting and tough cord")](https://www.youtube.com/subscription_center?add_user=flash1968)
+![Mal's SurfFones headphones for the Minelab CTX 3030 with cord, padding and Minelab fitting](/img/mal-surffones.webp "Custom made by a detectorist, with a Minelab fitting and tough cord")
 
 ## Headphones for minelab metal detectors
 
