@@ -1,6 +1,7 @@
 ---
 title: Minelab Equinox Series Review | 600, 700, 800 & 900 Comparison
 noindex: false
+showEvents: false
 seo:
   title: Minelab Equinox Uk
   description: The complete guide to the Minelab Equinox. Compare the 600, 700, 800 and 900 models. Discover Multi-IQ technology and the best search coils for your detector
@@ -35,7 +36,7 @@ The Equinox is defined by its **Recovery Speed**. It is incredibly fast, allowin
 
 Minelab currently offers the older generation (600/800) and the upgraded generation (700/900).
 
-<div class="table-wrap"><table><tr><th>Feature</th><th>Equinox 600</th><th>Equinox 800</th><th>Equinox 700 (New)</th><th>Equinox 900 (New)</th></tr><tr><td><strong>Target ID Scale</strong></td><td>-9 to 40</td><td>-9 to 40</td><td>-19 to 99 (High Res)</td><td>-19 to 99 (High Res)</td></tr><tr><td><strong>Search Modes</strong></td><td>Park, Field, Beach</td><td>Park, Field, Beach, <strong>Gold</strong></td><td>Park, Field, Beach</td><td>Park, Field, Beach, <strong>Gold</strong></td></tr><tr><td><strong>Waterproof</strong></td><td>3m (10ft)</td><td>3m (10ft)</td><td><strong>5m (16ft)</strong></td><td><strong>5m (16ft)</strong></td></tr><tr><td><strong>Shaft System</strong></td><td>Standard Aluminum</td><td>Standard Aluminum</td><td>Collapsible Carbon Fiber</td><td>Collapsible Carbon Fiber</td></tr><tr><td><strong>Included Coils</strong></td><td>11" only</td><td>11" only</td><td>11" only</td><td><strong>11" Only</strong></td></tr></table></div>
+<div class="table-wrap"><table><tr><th>Feature</th><th>Equinox 600</th><th>Equinox 800</th><th>Equinox 700 (New)</th><th>Equinox 900 (New)</th></tr><tr><td><strong>Target ID Scale</strong></td><td>-9 to 40</td><td>-9 to 40</td><td>-19 to 99 (High Res)</td><td>-19 to 99 (High Res)</td></tr><tr><td><strong>Search Modes</strong></td><td>Park, Field, Beach</td><td>Park, Field, Beach, <strong>Gold</strong></td><td>Park, Field, Beach</td><td>Park, Field, Beach, <strong>Gold</strong></td></tr><tr><td><strong>Waterproof</strong></td><td>3m (10ft)</td><td>3m (10ft)</td><td><strong>5m (16ft)</strong></td><td><strong>5m (16ft)</strong></td></tr><tr><td><strong>Shaft System</strong></td><td>Standard Aluminium</td><td>Standard Aluminium</td><td>Collapsible Carbon Fibre</td><td>Collapsible Carbon Fibre</td></tr><tr><td><strong>Included Coils</strong></td><td>11" only</td><td>11" only</td><td>11" only</td><td><strong>11" Only</strong></td></tr></table></div>
 
 ### 💡 Key Difference: 600/800 vs 700/900
 
@@ -53,6 +54,8 @@ The newer **700 and 900** models feature a greatly expanded Target ID range (0-9
 - <strong>Build Quality (Older Models):</strong> The older 600/800 had issues with coil ear breakage (fixed in 700/900).
 - <strong>Target Compression:</strong> The older 600/800 compresses IDs (0-40), making some trash signal similar to coins.
 - <strong>No Visual Trace:</strong> Lacks the visual "Target Trace" screen found on the CTX 3030 and Manticore.
+
+---
 
 ## Available Search Coils
 
@@ -83,13 +86,17 @@ A large round coil offering significant depth and punch. Great for open fields w
 <strong>Coiltek 18" NOX:</strong>\
 The largest coil available. Strictly for deep hoard hunting or clean beaches.
 
+---
+
 {{youtube id="wmwskgU3xIs" title="Set up and using the minelab equinox 900 for successful beach metal detecting"}}
 
 {{youtube id="o6n_H_onH3o" title="minelab equinox iron bias explained by Minelab enginners"}}
 
 [![Minelab Equinox 900 held over a ploughed field with Programs Getting Started text](/img/900-programs_4vpc3sw8.webp "Getting started tutorial: the Equinox 900 field and park modes")](https://youtu.be/gK9kbAqI62w)
 
-For setting up your Equinox we look at the pre-set search modes on the equinox 900, the settings and what you can change, this one is about field and park modes.
+---
+
+For **_setting up your Equinox_** we look at the pre-set search modes on the equinox 900, the settings and what you can change, this one is about field and park modes.
 
 #### Minelab Equinox offer price
 
