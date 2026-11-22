@@ -4,19 +4,17 @@ noindex: false
 showEvents: false
 seo:
   title: How to Set Up Minelab Vanquish 560
-  description: Learn the best settings for your Minelab Vanquish 60 series. We cover sensitivity, discrimination, beach setups
-  keywords: minelab Vanquish, minelab vanquish discrimination, minelab vanquish settings, minelab vanquish help, minelab vanquish pin point, minelab vanquish 560 discrimination, vanquish 560 pro, minelab vanquish uk, minelab metal detectors uk
+  description: Master your Minelab Vanquish 60 series with our setup tutorials. Learn the best sensitivity, discrimination, and settings for beach, field, and relic hunting.
+  keywords: minelab Vanquish 60, minelab vanquish discrimination, minelab vanquish settings, minelab vanquish help, minelab vanquish 360, minelab vanquish 560 discrimination, vanquish 560, minelab vanquish 460, minelab metal detectors
 ---
 
 ## How to Set Up Minelab Vanquish 60 Series: Expert Settings &amp; Guide Tutorials
-
-<strong>Meta Description:</strong> Master your Minelab Vanquish 60 series with our setup tutorial guide. Learn the best sensitivity, discrimination, and Multi-IQ settings for beach, field, and relic hunting to maximize your depth and finds.
 
 ![Paul Cee, Minelab Detexpert, smiling with arms folded in a field](/img/2026-thumb_fi4vubdi.webp "Paul Cee walks through the Vanquish 560 setup")
 
 ![Minelab Vanquish 560 Pro-Pack red logo](/img/VANQUISH-560PROPACK-RED.webp "The 560 Pro-Pack sits at the top of the 60 series")
 
-### Minelab Vanquish 60 Series settings.
+## Minelab Vanquish 60 Series settings.
 
 ### 1. How to Set Up Sensitivity &amp; Discrimination
 
@@ -34,9 +32,9 @@ The Multi-IQ engine handles different grounds automatically, but your mode selec
 
 ## Minelab VANQUISH 60 Series
 
-## The Ultimate Beginner’s Field Guide
+**_The Ultimate Beginner’s Field Guide_**
 
-### By Paul Cee  Crawfords Metal Detectors UK
+**_By Paul Cee  Crawfords Metal Detectors UK_**
 
 Welcome to the definitive guide for the Minelab Vanquish 60. Whether you are unboxing your machine for the first time or looking to sharpen your field skills, this guide—created by Minelab Detexperts **Paul Cee and Luc Van Assche**—is designed to turn confusing numbers into treasure in your pouch.
 
@@ -76,7 +74,7 @@ This Tutorial Video will show you all About.
 
 ### Your Setup Checklist
 
-### Target ID &amp; Tone Audio
+**_Target ID &amp; Tone Audio_**
 
 #### Audio Tone Pitch
 
@@ -88,7 +86,7 @@ Crawfords Metal Detectors • Paul Cee Expert Series
 
 Authorized Minelab Dealer • UK Stock • Free Delivery over £50
 
-### 🔥 Save MONEY on Accessories
+🔥 Save MONEY on Accessories
 
 Buying a new coil, bag, or digging tool? Use my code at **Crawfords MD** for an exclusive discount!
 
