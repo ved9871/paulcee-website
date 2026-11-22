@@ -5,11 +5,8 @@ draft: false
 noindex: false
 topic: other-detectors
 tags:
-  - Garrett
-  - seahunter
-  - dry
-  - sand
-  - best
+  - Garrett pulse
+  - seahunter mk2
   - settings
 cover: /img/b-Web-seahunter-settings.webp
 heroVideo: ''
@@ -17,14 +14,14 @@ summary: Garrett Seahunter mk2 Settings
 seo:
   title: Garrett Seahunter Mk2 best settings for dry sand metal detecting - Blog
   description: garrett seahunter mk2 best settings for uk beach
-  keywords: garrett seahunter, metal detecting uk, pulse induction metal detector uk
+  keywords: garrett seahunter, metal detecting uk, pulse induction metal detector uk, garrett seahunter mk 2 settings
 ---
 
-[![Garrett Sea Hunter Mk2 threshold and discrimination knobs with a sand scoop](/img/Web-seahunter-settings.webp "small: Sea Hunter 2 settings for dry sand")](https://www.youtube.com/subscription_center?add_user=flash1968)Its not too often I'll write a "how to piece" on setting up a [metal detector](/beginners-guide-to-metal-detecting/) as everyone has their own preferences, although everytime i do get asked when im out people often comment "You use Discrimination?"
+![Garrett Sea Hunter Mk2 threshold and discrimination knobs with a sand scoop](/img/Web-seahunter-settings.webp "small: Sea Hunter 2 settings for dry sand")Its not too often I'll write a "how to piece" on setting up a [metal detector](/beginners-guide-to-metal-detecting/) as everyone has their own preferences, although every time i do get asked when im out people often comment "You use Discrimination?"
 
 Well when i use the either the Garrett Seahunter MkII or the Garrett ATX, yes they both have a somewhat crude form of discrimination even though they are [Pulse Induction metal Detectors](https://en.wikipedia.org/wiki/Metal_detector).
 
-The Seahunter has the discrimination knob on the rear of the control panel
+## The Garrett Seahunter Mk has the discrimination knob on the rear of the control panel
 
 ![Close-up of the Garrett Sea Hunter Mk2 threshold dial held between finger and thumb](/img/seahunter-settings.webp "Threshold dial on the rear control panel")
 
@@ -38,7 +35,7 @@ This is my setting for the threshold
 
 ![Garrett seahunter settings For Beach Metal Detecting](/img/a-8.webp "Another look at the Sea Hunter 2 control settings")
 
-### My Discrimination Setting for "Wet" Sand
+## My Discrimination Setting for "Wet" Sand
 
 Now the Setting for Discrimination on the Dry Sand. I use this mainly to not pick up bottle tops and Bobby/Hair pins.
 
@@ -61,7 +58,3 @@ But on the wet sand i have this on standard as to hear everything thats going on
 ![Front of the Garrett Sea Hunter Mark II showing the diver logo](/img/a-11.webp "The Sea Hunter 2 is a simple coin shooter for the beach")
 
 So there you have it, these are the best setting for me when coin shooting with the Garrett Seahunter 2. you may find them useful, or they may not work for you and where you detect. At the end of the day there arn't many controls so just have a twiddle..
-
-Feel Free to comment if they work for you or not..
-
-GARRETT SEAHUNTER MK2 Videos Click here
