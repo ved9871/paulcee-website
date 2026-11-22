@@ -1,6 +1,7 @@
 ---
 title: Minelab X-Terra Elite vs Pro Review
 noindex: false
+showEvents: false
 seo:
   title: Minelab X Terra Pro Vs Elite
   description: Compare the Minelab X-Terra Elite and X-Terra Pro. Discover the pros, cons, Multi-IQ features, and full compatibility guide for Equinox and Coiltek Nox coils
@@ -77,7 +78,7 @@ Use this table to quickly compare the specifications. We have highlighted the ke
 
 One of the massive advantages of the new X-Terra series is the ecosystem Minelab has built. Both the X-Terra Elite and X-Terra Pro have cross-compatibility with a huge range of search coils.
 
-### 1. Minelab Equinox Range Compatibility
+## 1. Minelab Equinox Range Compatibility
 
 Both the X-Terra Elite and X-Terra Pro can use the official Minelab coils designed for the Equinox 600, 700, 800, and 900.
 
@@ -85,7 +86,7 @@ Both the X-Terra Elite and X-Terra Pro can use the official Minelab coils design
 - <strong>EQX 11 (11-inch):</strong> The standard all-rounder.
 - <strong>EQX 15 (15x12-inch):</strong> For maximum depth on open pasture.
 
-### 2. Coiltek Nox Coil Compatibility
+## 2. Coiltek Nox Coil Compatibility
 
 For the serious enthusiast, <strong>Coiltek's "Nox" series coils are fully compatible with both the X-Terra Elite and X-Terra Pro.</strong> These aftermarket coils are renowned for their build quality and performance.
 
@@ -95,7 +96,7 @@ For the serious enthusiast, <strong>Coiltek's "Nox" series coils are fully compa
 
 <em>Note: When using an Equinox or Coiltek coil on an X-Terra Pro, the detector will function perfectly, though it will operate in the single frequency you have selected.</em>
 
-## Verdict
+### Verdict
 
 If you are on a strict budget and detect mostly on inland fields or dry sand, the **X-Terra Pro** is an incredible bargain. However, if you detect on wet saltwater beaches or want the "do-it-all" power of Simultaneous Multi-Frequency, the **X-Terra Elite** is worth the extra investment.
 
