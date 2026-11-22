@@ -18,7 +18,7 @@ Step-by-step video walkthroughs covering setup, button functions, sensitivity ad
 
 ## 
 
----
+***
 
 #### Minelab PRO-FIND 35 User Guide — Settings, Features & Functions
 
@@ -31,10 +31,9 @@ Step-by-step video walkthroughs covering setup, button functions, sensitivity ad
 
 {{youtube id="TgGDcPCVXDQ" title="Minelab Pro find 35 User Guide"}}
 
+{{product key="profind35"}}
 
-
-
----
+***
 
 ### Minelab PRO-FIND 40 User Guide — Setup, Settings & Fault Finding
 
@@ -46,8 +45,9 @@ Step-by-step video walkthroughs covering setup, button functions, sensitivity ad
 
 {{youtube id="fFCVaYQ1-uE" title="how to use a minelab Profind 40. settings and fault finding"}}
 
+{{product key="pro-find-40"}}
 
----
+***
 
 ### Quick-Reference Button & Reset Cheat Sheet
 
@@ -56,6 +56,6 @@ Step-by-step video walkthroughs covering setup, button functions, sensitivity ad
 * **Lost-Alarm:** Leave the pinpointer switched on and inactive for 5 minutes—it will emit an escalating audio alarm to help you find it in long grass.
 * **Factory Reset:** Start with the pinpointer **OFF**, then press and hold the **Power button** for **5–10 seconds** until you hear the reset confirmation beeps.
 
----
+***
 
 ![Crawfords Metal Detectors discount banner showing the code paulcee10](/img/WEB_AD2026a.webp "Save with the paulcee10 code at crawfordsmd.com")
