@@ -16,11 +16,15 @@ seo:
 
 <a href="https://crawfordsmd.com/minelab-x-terra-pro?tracking=fa202437c9" class="btn">Buy Pro</a>
 
-## Minelab X-Terra Elite vs. X-Terra Pro: Which Detector is Right for You?
+## Minelab X-Terra Elite vs. X-Terra Pro: 
+
+Which X-TerraDetector is Right for You?
 
 When it comes to modern, high-performance metal detecting at an affordable price point, Minelab has changed the game with the **X-Terra** series. Whether you are a beginner looking for your first serious machine or a seasoned detectorist needing a reliable backup, the **Minelab X-Terra Pro** and the all-new **Minelab X-Terra Elite** are top contenders.
 
-But what is the difference between them? And can they really use the high-performance coils from the Equinox range? (Spoiler: <strong>Yes, they can!</strong>)
+But what is the difference between them? And can they really use the high-performance coils from the Equinox range? (Spoiler: **_Yes, they can!)_**
+
+---
 
 ## At a Glance: The Core Difference
 
@@ -61,6 +65,8 @@ The X-Terra Elite takes the same rugged body as the Pro but upgrades the interna
 - <strong>Price:</strong> Higher cost than the X-Terra Pro (though still cheaper than an Equinox).
 - <strong>Battery Consumption:</strong> Multi-frequency processing can drain the battery slightly faster than single-frequency operation.
 
+---
+
 ## Technical Comparison
 
 Use this table to quickly compare the specifications. We have highlighted the key upgrades in the Elite model.
@@ -73,6 +79,8 @@ Use this table to quickly compare the specifications. We have highlighted the ke
 
 - <strong>The Engine:</strong> The Pro requires you to choose a frequency (e.g., 5kHz for silver, 15kHz for gold). The Elite uses Multi-IQ to listen for both simultaneously, making it much easier to use on beaches where salt interferes with single frequencies.
 - <strong>Iron Bias:</strong> The Elite features an Adjustable Iron Bias (-1 to 2). This professional setting allows you to filter out bottle caps and iron falsing much more effectively than the fixed setting on the Pro.
+
+---
 
 ## The Secret Weapon: Coil Compatibility
 
@@ -91,10 +99,12 @@ Both the X-Terra Elite and X-Terra Pro can use the official Minelab coils design
 For the serious enthusiast, <strong>Coiltek's "Nox" series coils are fully compatible with both the X-Terra Elite and X-Terra Pro.</strong> These aftermarket coils are renowned for their build quality and performance.
 
 - <strong>Coiltek 10x5 Nox:</strong> A sniper coil that offers incredible separation in iron-infested sites.
-- <strong>Coiltek 14x9 Nox:</strong> An elliptical coil that balances depth with easy maneuverability in water.
+- <strong>Coiltek 14x9 Nox:</strong> An elliptical coil that balances depth with easy manoeuvrability in water.
 - <strong>Coiltek 15-inch &amp; 18-inch Nox:</strong> Beastly coils for deep-seeking hoards and relics on clear ground.
 
 <em>Note: When using an Equinox or Coiltek coil on an X-Terra Pro, the detector will function perfectly, though it will operate in the single frequency you have selected.</em>
+
+---
 
 ### Verdict
 
@@ -102,6 +112,12 @@ If you are on a strict budget and detect mostly on inland fields or dry sand, th
 
 Both machines give you the flexibility to upgrade your performance later by adding **Minelab Equinox** or **Coiltek Nox** coils to your arsenal.
 
+{{product key="x-terra-elite"}}
+
+{{product key="x-terra-pro"}}
+
+---
+
 {{youtube id="LDcEDpRyk3c" title="using the Minelab X-Terra Pro, compare to the X-Terra Elite"}}
 
-![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Buy the Elite or Pro at Crawfords with code paulcee10")
+![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "*small*Buy the Elite or Pro at Crawfords with code paulcee10")
