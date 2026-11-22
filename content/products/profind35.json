@@ -7,9 +7,9 @@
   "compare": [
     {
       "path": "/minelab-pro-find-40",
-      "label": "pro-?\\s?find|pinpoint"
+      "label": "minelab pro find"
     }
   ],
-  "match": "pinpointer",
+  "match": "profind",
   "order": null
 }
