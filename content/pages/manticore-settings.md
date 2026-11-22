@@ -10,41 +10,35 @@ seo:
 
 [![Minelab wireless headphones with text on connecting to the Equinox 900](/img/headphones1_xdmsr7n5.webp "Pairing the ML-105 headphones with the WM09 module")](https://youtu.be/euB3aMoG_N0)
 
-Pairing ML-105 Headphones
+## How to Pair Minelab ML-105 Headphones with the Manticore
 
-(The standard wireless headphones included with your Manticore)
+The ML-105 wireless headphones come included as standard with your Minelab Manticore and should be within 1 metre / 3 feet of the detector during pairing.
 
-<strong>Step 1:</strong> Set Headphones to Pair Ensure the headphones are OFF. Press and hold the Multi-Function Button (Power) on the side of the headphones for 2 seconds.
+1. **Set Headphones to Pair:** Ensure the headphones are **OFF**. Press and hold the **Multi-Function Button (Power)** on the side of the headphones for 2 seconds until the Status LED flashes **red and blue** rapidly.
+2. **Set Manticore to Pair:** On your detector control pod, press and hold the **Wireless Button** (**top right**) for 2 seconds until the **Wireless icon** at the top of the LCD screen flashes rapidly.
+3. **Confirm Connection:** The headphones will beep, the Manticore wireless icon will stop flashing and stay solid, and the headphone LED will flash **blue once every 3 seconds**.
 
-<strong>Look for:</strong> The Status LED will flash Red and Blue rapidly.
+> 💡 **Troubleshooting Tip:** If the ML-105 headphones won't pair, perform a **Factory Reset**: with the headphones **OFF**, press and hold the Power button for 10 seconds until you hear 2 beeps and the LED flashes pink twice. Release the button and repeat steps 1 and 2.
 
-Set Manticore to Pair On your detector screen, press and hold the Wireless Button (top right of the control pod) for 2 seconds.
+---
 
-<strong>Look for:</strong> The Wireless icon on the top of the LCD screen will flash rapidly.
+## Minelab Manticore All-Terrain Search Modes Explained
 
-<strong>Success:</strong> The headphones will beep, and the Manticore wireless icon will stop flashing and stay solid. The Headphone LED will flash blue once every 3 seconds.
+**Best For:** Parks, pasture, ploughed fields, ruins, and woodland.  
 
-<strong>💡 Troubleshooting:</strong> If they won't pair, perform a Factory Reset: With headphones OFF, hold the Power button for 10 seconds until you hear 2 beeps and the LED flashes pink. Then try again.
+**Note:**  _All-Terrain Fast and All-Terrain Trash Reject_ share the core processing of **_All-Terrain General_** with adjusted recovery and discrimination defaults. You can also save your own tweaks into custom search profiles for different sites.
 
-<strong>Best for:</strong> Parks, Fields, Ruins, and Forests.
+* **All-Terrain General:** The best "turn-on-and-go" mode. It balances target separation and depth—start here whenever you arrive at a new site.
+* **All-Terrain Fast:** Built for trashy parks and heavy "iron carpets." It increases recovery speed to separate good targets (like coins) sitting right next to iron nails.
+* **All-Terrain Low Conductors:** Uses Frequencies more suited for small, thin, low-conductive targets such as hammered silver coins, small jewellery, and fine gold chains.
+* **All-Terrain High Conductors:** Tuned for large silver coins and chunky copper relics, Favouring the LOW Frequencies, hitting hard on Deeper high conductors.
+* **All-Terrain Trash Reject:** Uses heavy discrimination to silence aluminium foil and pull-tabs \*(use with caution, as mid-conductive gold rings can also be rejected)\*.
 
-Note. All Terrain Fast, All Terrain Trash Reject are the same functioning as All Terrain General, with slightly different settings, you can customise to have 3 similar search profiles saved as CUSTOM modes for where you detect.
+> **💡 Manticore Pro Tip**: Don't be afraid to switch modes mid-session! If you're detecting a field in **All-Terrain General** and hit a dense patch of iron trash, switch straight to **All-Terrain Fast** you'll instantly hear the target separation sharpen up. This can be done by having 2 profiles saved and switching between them.
 
-<strong>All-Terrain General:</strong> The best "turn-on-and-go" mode. It provides excellent all-around separation and depth. Start here if you are new to the site.
-
-<strong>All-Terrain Fast:</strong> Optimized for trashy parks or "iron carpets." It uses a faster recovery speed to separate good targets (coins) from bad targets (nails) that are touching.
-
-<strong>All-Terrain Low Conductors:</strong> Boosts sensitivity to small, thin targets like hammered silver coins, small jewellery, or fine gold chains.
-
-<strong>All-Terrain High Conductors:</strong> Optimized for large silver coins and copper relics. It suppresses "foil" signals and hits hard on high-conductive metals.
-
-<strong>All-Terrain Trash Reject:</strong> A specialized mode with high discrimination to silence aluminium foil and pull-tabs (use with caution, as you may miss gold rings!)
-
-💡 <strong>Manticore Pro Tip:</strong> Don't be afraid to switch modes mid-hunt! If you are in a field and the iron trash suddenly gets thick, switch from All-Terrain General to All-Terrain Fast. You will instantly hear the separation improve
+---
 
 Check out some of the Manticore videos, Minelab and CMD created to help with your Manticore.
-
-### Click the images to view the Videos
 
 {{youtube id="HbdnRKHElJk" title="Minelab Manticore getting started guide"}}
 
