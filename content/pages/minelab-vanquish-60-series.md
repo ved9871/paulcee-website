@@ -1,6 +1,7 @@
 ---
 title: Minelab Vanquish 60 series
 noindex: false
+showEvents: false
 seo:
   title: Minelab Vanquish 60 series
   description: Discover metal detecting with the Minelab Vanquish 60 series! The waterproof detector is ideal for beginners, featuring user-friendly options and performance.
@@ -11,13 +12,15 @@ seo:
 
 ![Minelab Vanquish 560 logo in red lettering](/img/VANQUISH-560-Colour.webp "The waterproof 560 tops the Vanquish 60 series")
 
-## Minelab Vanquish 560 Review: The Waterproof "Multi-IQ" Beast We’ve Been Waiting For
+## Minelab Vanquish 560 Review 
+
+**_The Waterproof "Multi-IQ" Mini Beast We’ve Been Waiting For_**
 
 If you’ve been following the metal detecting world lately, you know the Minelab Vanquish series changed the game. It brought Multi-IQ technology usually reserved for high-end machines, to the entry-level market. But there was always one gripe: the control box wasn't fully waterproof.
 
 <strong>Enter the Minelab Vanquish 560.</strong>
 
-Minelab has officially listened to the community. The new "60-Series" (replacing the beloved 340/440/540) has arrived, and the flagship Vanquish 560 is making serious waves. With full IP68 waterproofing, expanded target IDs, and finally compatibility with Equinox coils, is this the best mid-range detector on the market in 2026?
+Minelab has officially listened to the community. The new "60-Series" (replacing the beloved 340/440/540) has arrived, and the flagship Vanquish 560 is making serious waves. With full IP68 waterproofing, expanded target IDs, and finally compatibility with Equinox coils, is this the best mid-range detector on the market at the moment?
 
 Let's dive into the specs, features, and performance.
 
@@ -29,6 +32,8 @@ Comparison Chart Vanquish 360 Vanquish 460 Vanquish 560
 
 <div class="table-wrap"><table><tr><th>Feature</th><th>Vanquish 360</th><th>Vanquish 460</th><th>Vanquish 560</th></tr><tr><td><strong>User Level</strong></td><td>Basic</td><td>Intermediate</td><td>Intermediate</td></tr><tr><td><strong>Iron Bias</strong></td><td>High (Fixed)</td><td>3 Levels</td><td>4 Levels</td></tr><tr><td><strong>Ferrous Volume</strong></td><td>Fixed</td><td>Fixed</td><td>10 Levels</td></tr><tr><td><strong>Waterproof</strong></td><td>Yes (Submersible)</td><td>Yes (Submersible)</td><td>Yes (Submersible)</td></tr><tr><td><strong>Battery</strong></td><td>Li-Ion Rechargeable</td><td>Li-Ion Rechargeable</td><td>Li-Ion Rechargeable</td></tr><tr><td><strong>Discrimination</strong></td><td>6 Segments</td><td>30 Segments</td><td>30 Segments</td></tr><tr><td><strong>Ground Balance</strong></td><td>Fixed</td><td>Auto &amp; Tracking</td><td>Auto &amp; Tracking</td></tr><tr><td><strong>Audio</strong></td><td>Wired Only</td><td>Bluetooth LE (LC3)</td><td>Bluetooth LE (LC3)</td></tr><tr><td><strong>Target Tones</strong></td><td>3 Tones</td><td>3 Tones</td><td>5 Tones</td></tr><tr><td><strong>Lighting</strong></td><td>None</td><td>Torch &amp; Keypad</td><td>Torch &amp; Keypad</td></tr><tr><td><strong>Handle Vibrate</strong></td><td>No</td><td>No</td><td>Yes</td></tr></table></div>
 
+---
+
 ### Vanquish 360: Basic Detector
 
 A capable, waterproof **basic detector** designed for simplicity.
@@ -37,9 +42,12 @@ A capable, waterproof **basic detector** designed for simplicity.
 - <strong>Ferrous Volume:</strong> Fixed.
 - <strong>User Level:</strong> Basic / Beginner.
 - <strong>Discrimination:</strong> 6 Segments.
-- <strong>Ground Balance:</strong> Fixed (Factory Preset).
+- <strong>Ground Balance:</strong> Fixed (Factory Pre-set).
 - <strong>Audio:</strong> Wired Headphones included.
-- <strong>Included:</strong> V10X Coil, Pinpoint Mode, Custom Profile.
+
+<strong>Included:</strong> V10X Coil, Pinpoint Mode, Custom Profile.
+
+---
 
 ### Vanquish 460: Intermediate
 
@@ -51,6 +59,8 @@ Designed for **Intermediate Users** who need more precision and control.
 - <strong>Ground Balance:</strong> Auto &amp; Tracking.
 - <strong>Audio:</strong> Bluetooth LE Audio (LC3 Codec).
 - <strong>Lighting:</strong> Built-in Torch and Keypad Light.
+
+---
 
 ### Vanquish 560: Intermediate / Pro
 
@@ -72,27 +82,33 @@ The high-performance choice for maximum audio control and depth.
 
 The Vanquish 560 isn't just a fresh coat of paint; it’s a significant hardware evolution. Here are the GREAT changes that set it apart from the older Vanquish 540:
 
-### 1. Fully Waterproof (IP68 Rated)
+1. **Fully Waterproof (IP68 Rated)**
 
 This is the big one. The previous Vanquish models only had waterproof coils. The Vanquish 560 is fully submersible up to 5 meters (16 ft).
 
 <strong>Why it matters:</strong> You can now hunt rivers, creeks, underwater and surf lines without fearing a rogue wave will kill your control box. It’s a true amphibian machine.
 
-## 2. Expanded Target ID Range (-19 to 99)
+2. **Expanded Target ID Range (-19 to 99)**
 
 The old 540 had a limited ID range (-9 to 40), which compressed signals and made it harder to distinguish between trash and treasure. The 560 expands this to a massive -19 to 99 range (119 total IDs).
 
 <strong>Why it matters:</strong> This "high-resolution" discrimination is similar to the Manticore and Equinox 900. It gives you far more nuance, helping you tell the difference between a pull-tab and a gold ring.
 
-3. **Minelab Equinox Coil Compatibility**
+---
+
+### **Minelab Equinox Coil Compatibility**
 
 In a surprising move, Minelab has made the Vanquish 560 compatible with Equinox coils.
 
 <strong>Why it matters:</strong> You are no longer locked into the specific "V-series" coils. You can strap on a massive 15-inch Coiltek or a 6" "sniper coil" from the Equinox range, giving you professional versatility.
 
-### 4. Built-in Li-Ion Battery
+---
+
+### Built-in Li-Ion Battery
 
 Gone are the AA batteries. The 560 features a built-in rechargeable Lithium-Ion battery that offers up to 10 hours of runtime. It uses the magnetic charging connector seen on the Equinox/Manticore series for easy, waterproof charging.
+
+---
 
 ## Key Features comparison of vanquish 50 series and 60 series
 
@@ -112,9 +128,11 @@ Lighting Backlight only Backlight + Flashlight
 
 Ground Balance Fixed (Park/Field) Manual &amp; Auto
 
+---
+
 ![Minelab Vanquish 560 Pro-Pack logo in red lettering](/img/VANQUISH-560PROPACK-RED_5inmo2cy.webp "The Pro-Pack bundles extra kit with the detector")
 
-## The "Pro-Pack" Bonus
+### The "Pro-Pack" Bonus
 
 If you buy the Vanquish 560 Pro-Pack, you generally get two coils out of the box:
 
@@ -124,21 +142,29 @@ If you buy the Vanquish 560 Pro-Pack, you generally get two coils out of the box
 
 ![Paul Cee holding a Vanquish 560 and a spade on a freshly ploughed field](/img/560-web.webp "Ploughed field session with the Vanquish 560")
 
-### Performance in the Field
+---
 
-### The Power of Multi-IQ
+#### Performance in the Field
+
+The Power of Multi-IQ
 
 Despite the hardware changes, the heart of the machine remains Minelab's Multi-IQ. This means the detector transmits multiple frequencies simultaneously (low frequencies for depth/silver, high frequencies for small gold and hammered coins).
 
-<strong>Result:</strong> You don't need to be a scientist to tune it. Whether you are on a saltwater beach or a mineralized farm field, the 560 handles the ground mineralization automatically.
+**Result:** You don't need to be a scientist to tune it. Whether you are on a saltwater beach or a mineralized farm field, the 560 handles the ground mineralization automatically.
+
+---
 
 ### Separation and Recovery Speed
 
 With the new Iron Bias control and faster processor, the 560 feels snappier. In "Iron Volume" tests, it successfully picks out non-ferrous targets (like coins) masked by iron nails better than its predecessor.
 
-### Ergonomics
+---
+
+**Ergonomics**
 
 The 560 retains the collapsible shaft system, making it perfect for travel. It shrinks down to pack into a backpack, but now feels sturdier with the new waterproofing seals.
+
+---
 
 ![Paul Cee sitting on a wooden bench with a Vanquish 560 across his knees](/img/560-web1.webp "The collapsible shaft adjusts quickly and packs away small")
 
@@ -150,27 +176,27 @@ The 560 retains the collapsible shaft system, making it perfect for travel. It s
 
 <strong>The Upgrader:</strong> If you own a Vanquish 340 or 440, the jump to the 560 is massive. If you own a 540, the upgrade is worth it only if you need waterproofing or want to use Equinox coils.
 
+---
+
 ![Paul Cee sweeping a Vanquish 560 across a harvested stubble field](/img/560-web2.webp "Verdict time: the 560 working a stubble field")
 
 #### Verdict: The New King of Mid-Range Detectors?
 
-Minelab didn't just tweak the Vanquish; they evolved it. The Vanquish 560 effectively bridges the gap between the entry-level "turn-on-and-go" machines and the professional Equinox/Manticore lines.
+Minelab didn't just tweak the Vanquish; they evolved it. The Vanquish 560 effectively bridges the gap between the entry-level "turn-on-and-go" machines and the professional [Equinox](/minelab-equinox/)/[Manticore](/minelab-manticore/) lines.
 
 By adding waterproofing, vibration, and high-res IDs, they have removed the only real issue of the original Vanquish series, it is arguably the best value-for-money detector on the market right now.
 
-<strong>Pros:</strong>
+**Pros:**
 
-True Multi-Frequency (Multi-IQ)
+- True Multi-Frequency (Multi-IQ)
+- Fully Waterproof (5m)
+- Equinox Coil ecosystem access
+- Excellent Target ID resolution
 
-Fully Waterproof (5m)
+**Cons:**
 
-Equinox Coil ecosystem access
-
-Excellent Target ID resolution
-
-<strong>Cons:</strong>
-
-Slightly heavier than the 540 due to waterproofing seals
+- Slightly heavier than the 540 due to waterproofing and built in batteries
+- ---
 
 ### Ready to start your minelab vanquish 560 journey?
 
