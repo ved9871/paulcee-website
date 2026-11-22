@@ -42,7 +42,7 @@ Beaches are constantly shifting. Wind, spring tides, and storms move tonnes of s
 
 * **Look for Black Worm Casts:** Lugworm casts are normally brown, so if you spot **black worm casts** on the surface, the worms are pushing up shallow **black sand** from just underneath. Heavy minerals and older targets settle in black sand layers—if you see black casts, slow down and grid the area thoroughly.
 
-- **Work Around Rocks, Boulders, and Old Rubble:** Boulders and exposed old rubble act as natural traps for heavy items washing along the shoreline, and they also indicate historical activity. Fit a smaller coil—like the [[Minelab Manticore M8 or M9 coil]](/blog/m8-vs-m9-coil) to get cleanly into the nooks and crannies between rocks.
+- **Work Around Rocks, Boulders, and Old Rubble:** Boulders and exposed old rubble act as natural traps for heavy items washing along the shoreline, and they also indicate historical activity. Fit a smaller coil—like the [[Minelab Manticore M8 or M9 coil]](/manticore-m8-vs-m9-coil/) to get cleanly into the nooks and crannies between rocks.
 
 - **Find the Exposed Clay Layer:** When heavy erosion strips away the top sand, it often reveals the underlying **clay layer**. Coins, weights, and older relics cannot sink through solid clay, meaning targets sit right on top of it.
 
@@ -66,7 +66,7 @@ During warm weather, busy UK beaches replenish themselves daily with fresh drops
 
 - **Up Against Promenade Walls:** People sit leaning against sea walls all afternoon, and coins, keys, and lighters regularly slip out of shorts and trouser pockets. Because sea walls contain steel rebar that will overload your detector, **turn your sensitivity right down**. You are only looking for fresh surface drops, so low sensitivity lets you sweep right up to the concrete without picking up the internal steel.
 
-- **Wading in the Shallows:** If you are using a waterproof machine like a [[Minelab Manticore]](/blog/manticore-settings), Minelab Equinox, or CTX 3030, wading knee-to-chest deep where swimmers gather puts you over targets dry-sand detectorists cannot reach. Even with a splash-proof detector like the [Minelab Vanquish 60 series](/minelab-vanquish-60-series/), you can detect safely in the shallows.
+- **Wading in the Shallows:** If you are using a waterproof machine like a [[Minelab Manticore]](/manticore-settings/), Minelab Equinox, or CTX 3030, wading knee-to-chest deep where swimmers gather puts you over targets dry-sand detectorists cannot reach. Even with a splash-proof detector like the [Minelab Vanquish 60 series](/minelab-vanquish-60-series/), you can detect safely in the shallows.
 
 ---
 
