@@ -1,5 +1,5 @@
 {
-  "name": "profind35",
+  "name": "Minelab-Pro-Find-35",
   "key": "profind35",
   "path": "/minelab-pro-find-35",
   "cat": "pinpointer",
@@ -10,6 +10,6 @@
       "label": "minelab pro find"
     }
   ],
-  "match": "profind",
+  "match": "pro-?\\s?find|pinpoint",
   "order": null
 }
