@@ -4,8 +4,8 @@ noindex: false
 showEvents: false
 seo:
   title: Minelab Pro find help
-  description: Minelab Pro Find, waterproof pinpointer, how to set ferrous tone on the pro find, how to factory reset a pinpointer, the best minelab pinpointer
-  keywords: minelab Pro find, Minelab profind help, Minelab pro find waterproof pinpointer, metal detecting probe, set up, settings, problems, manual,  instructions
+  description: Step-by-step video user guides for the Minelab PRO-FIND 35 & 40 pin pointers. Learn how to set Ferrous Tone, adjust sensitivity, rapid re-tune & factory reset.
+  keywords: Minelab PRO-FIND 40, Minelab PRO-FIND 35, Minelab Pinpointer, Pinpointer User Guide, Metal Detecting Accessories, Minelab Detexpert, Waterproof Pin pointer, Metal Detecting Tips
 ---
 
 ## Minelab PRO-FIND 35 & 40 Video User Guides
