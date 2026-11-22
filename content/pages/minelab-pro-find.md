@@ -12,9 +12,9 @@ seo:
 
 Step-by-step video walkthroughs covering setup, button functions, sensitivity adjustment, Ferrous Tone, and troubleshooting for the **Minelab PRO-FIND 35** and **Minelab PRO-FIND 40** waterproof Pinpointers.
 
-![Minelab Pro-Find 35 pinpointer with orange grip and the words User Guide](/img/pro-find-web.webp "*small*Minelab Pro-Find 35 set-up Tutorial")
+![Minelab Pro-Find 35 pinpointer with orange grip and the words User Guide](/img/pro-find-web.webp "Minelab Pro-Find 35 set-up Tutorial")
 
-![Minelab Pro-Find 40 pinpointer with red grip lying in dry grass, titled User Guide](/img/pro-find-40-guide--WEB-_c4zg82n2.webp "*small*Pro-Find 40 Set-up Tutorial")
+![Minelab Pro-Find 40 pinpointer with red grip lying in dry grass, titled User Guide](/img/pro-find-40-guide--WEB-_c4zg82n2.webp "Pro-Find 40 Set-up Tutorial")
 
 ## 
 
@@ -58,4 +58,4 @@ Step-by-step video walkthroughs covering setup, button functions, sensitivity ad
 
 ***
 
-![Crawfords Metal Detectors discount banner showing the code paulcee10](/img/WEB_AD2026a.webp "*small*Save with the paulcee10 code at crawfordsmd.com")
+![Crawfords Metal Detectors discount banner showing the code paulcee10](/img/WEB_AD2026a.webp "Save with the paulcee10 code at crawfordsmd.com")
