@@ -3,7 +3,7 @@ title: 'Swagier Sand Scoops: The Best Choice for Beach Detecting'
 noindex: false
 showEvents: false
 seo:
-  title: Swagier Scoops
+  title: 'Swagier Sand Scoops: The Best Choice for Beach Detecting'
   description: Swagier Sand Scoops—Premium stainless steel digging tools for metal detecting. Featuring hexagonal holes and marine-grade durability. Built in Poland.
   keywords: Swagier scoops, sand scoop, sand sifter, sand scoop Uk, best sand scoop, motley digging tools, motley sand scoops
 ---
