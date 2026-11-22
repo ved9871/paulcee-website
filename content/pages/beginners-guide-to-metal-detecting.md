@@ -8,11 +8,11 @@ seo:
   keywords: how to metal detect, metal detector settings, set up metal detector, where to metal detect, minelab equinox settings, target id, beach detecting help, metal detector tones, metal detecting tips
 ---
 
-![Two detectorists chatting at a rally campsite, one in a Minelab Detexpert T-shirt](/img/IMG_20220611_152449.webp "Learning from other detectorists at a rally is the quickest way to start") 
+![Two detectorists chatting at a rally campsite, one in a Minelab Detexpert T-shirt](/img/IMG_20220611_152449.webp "*small*Learning from other detectorists at a rally is the quickest way to start") 
 
 ![Paul Cee, Minelab Detexpert, smiling with arms folded in a field](/img/2026-thumb_fwz7ag9m.webp "Tutorials from Paul Cee, from first switch-on to advanced settings")
 
----
+***
 
 ## Metal detecting for beginners.
 
@@ -24,7 +24,7 @@ seo:
 6. why am i digging lots of iron ?
 7. why cant i find coins ?
 
----
+***
 
 ### Setting up your metal detector for relic and treasure hunting
 
