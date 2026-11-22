@@ -1,5 +1,7 @@
 ---
-title: Garrett Seahunter Mk2 best settings for dry sand metal detecting
+aliases:
+  - /blog/garrett-seahunter-mk2-best-settings-for-dry-sand-metal-detecting/
+title: Garrett Seahunter Mk2 best settings
 datePublished: 2019-08-27T12:56:00
 draft: false
 noindex: false
@@ -12,7 +14,7 @@ cover: /img/b-Web-seahunter-settings.webp
 heroVideo: ''
 summary: Garrett Seahunter mk2 Settings
 seo:
-  title: Garrett Seahunter Mk2 best settings for dry sand metal detecting - Blog
+  title: Garrett Seahunter Mk2 best settings
   description: garrett seahunter mk2 best settings for uk beach
   keywords: garrett seahunter, metal detecting uk, pulse induction metal detector uk, garrett seahunter mk 2 settings
 ---
