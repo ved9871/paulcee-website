@@ -1,13 +1,14 @@
 ---
 title: Crawfords metal detectors
 noindex: false
+showEvents: false
 seo:
   title: Crawfords Metal Detectors | UK Minelab Distributor
   description: Crawfords Metal Detectors the UK's leading Metal Detector Specialists. Official Minelab distributors in Lincolnshire & Dorset. Expert advice for beginners to pros
   keywords: minelab uk, crawfords metal detector shop, regtons, spin a disc, metal detector shops uk, metal detectors ebay uk, crawfords discount code, metal detecting shops near me
 ---
 
-![Crawfords Metal Detectors CMD logo in white](/img/cmd-white-alpha.webp "Crawfords Metal Detectors, the UK shop Paul Cee works with")
+![Crawfords Metal Detectors CMD logo in white](/img/cmd-white-alpha.webp "*small*Crawfords Metal Detectors, the UK shop Paul Cee works with")
 
 [![Paul Cee smiling in a Detexpert t-shirt and cap with arms folded](/img/2026-thumb_0bwkmdko.webp "Crawfords Metal Detectors and Paul Cee")](/crawfords-metal-detectors/)
 
@@ -17,11 +18,15 @@ Celebrating 30 years of excellence, Crawfords Metal Detectors is a celebrated na
 
 Founded in 1994 as a dream to serve the community, we have flourished into a nationwide leader with our headquarters nestled in Scunthorpe Lincolnshire.
 
+---
+
 ### Official UK Minelab Distributor
 
 A significant milestone in our history was our selection as the official UK distributor for Minelab in 2014. This prestigious partnership catapulted Crawfords to the forefront of the metal detector sales sector. Since then, we have driven a remarkable surge in Minelab metal detector sales and championed the popularity of the hobby across the country.
 
 This distinction showcases our ability to understand and cater to the nuanced needs of the metal detecting community, ensuring you get access to the world's best technology.
+
+---
 
 ### Equipment for Every Treasure Hunter
 
@@ -33,11 +38,15 @@ At Crawfords, we are renowned for aligning each customer with a machine that per
 
 [Essential Accessories: Everything you need to uncover the treasures.](/detecting-accessories/)
 
+---
+
 ### Why Choose Crawfords Metal Detectors?
 
 As we look to the future, Crawfords Metal Detectors continues its legacy as the go-to destination for enthusiasts. We stand ready to equip you with the best metal detectors and accessories, offering steadfast advice and service that goes beyond your purchase.
 
 For anyone captivated by the allure of unearthing the mysteries hidden beneath our feet, Crawfords is your guide and companion.
+
+---
 
 ### Start Your Next Adventure Today
 
