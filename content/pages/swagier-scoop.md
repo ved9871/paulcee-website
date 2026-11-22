@@ -1,6 +1,7 @@
 ---
 title: 'Swagier Sand Scoops: The Best Choice for Beach Detecting'
 noindex: false
+showEvents: false
 seo:
   title: Swagier Scoops
   description: Swagier Sand Scoops—Premium stainless steel digging tools for metal detecting. Featuring hexagonal holes and marine-grade durability. Built in Poland.
@@ -9,11 +10,9 @@ seo:
 
 ## Swagier Sand Scoops: The Heavy-Duty Choice for Beach Detecting
 
-### Built for the Beach. Engineered to Last.
-
 [![Swagier hexagon-hole stainless steel sand scoop in wet sand beside a pier](/img/swagier-2.webp "Swagier scoops are made from marine-grade stainless steel")](https://swagierscoop.com/)
 
-Stop replacing cheap sand scoops. Swagier sand scoops are crafted from marine-grade stainless steel to handle the toughest wet sand, clay, and rocky shorelines. Whether you are hunting for rings in the surf or coins in the dry sand, Swagier offers the professional reliability you need at a price you can afford.
+Stop replacing cheap sand scoops. **Swagier sand scoops** are crafted from marine-grade stainless steel to handle the toughest wet sand, clay, and rocky shorelines. Whether you are hunting for rings in the surf or coins in the dry sand, Swagier offers the professional reliability you need at a price you can afford.
 
 [![Swagier sand scoops on wet sand beside a detectorist in a Swagier T-shirt](/img/swagier1.webp "Swagier scoops in the field: built for rocky, heavy sand")](https://swagierscoop.com/)
 
@@ -33,57 +32,56 @@ Swagier uses a signature hexagonal hole pattern (honeycomb design). This structu
 
 Swagier don't just paint their scoops; they treat them. The electropolishing process smooths the steel surface on a microscopic level, creating a chrome-like shine that sheds sand easily and Stainless steel wont rust.
 
+---
+
 Meet the Line up
 
 ### The "Tank": Swagier V5
 
 [![Swagier V5 heavy-duty sand scoop standing in wet sand with a pier behind](/img/swagier-V5.webp "The V5 Tank: for deep wading, heavy wet sand and rocky bottoms")](https://swagierscoop.com/)
 
-<strong>Best For: Deep water wading, wet heavy sand, and rocky bottoms.</strong>
+### **Swagier V5 Sand Scoop**
 
-<strong>The Lowdown:</strong> Our Favourite heavy-duty model. With a large basket volume and thick steel plate, the V5 is designed to recover deep targets in one scoop before the hole fills in.
+**Best For:** Our Favourite heavy-duty model. With a large basket volume and thick steel plate, the V5 is designed to recover deep targets in one scoop before the hole fills in. Deep water wading, wet heavy sand, and rocky bottoms.  
 
-<strong>Specs:</strong> AISI 304, 2mm Stainless steel.
+**The Lowdown: Significantly Heavier.**
 
-7mm and 10mm hex holes.
+**Spec:**
 
-29mm shaft size.
+* **Hole Pattern: [Add hole size]**
+* **Material: Stainless steel AISI 304**
+* **Weight: 1700 Gr**
+* **Dimensions:** 290mm x 180mm x 119mm
+* **29mm Shaft Size**
 
-Dimensions 290mm x 180mm x 119mm
-
-Weight 1700gr
+---
 
 ### The "Sniper": Swagier V2 (Sito)
 
 [![Swagier V2 Sito scoop with dry sand next to a Minelab Vanquish 540](/img/v2-sito1.webp "The V2 Sito sifts dry sand fast for coins and fine jewellery")](https://swagierscoop.com/)
 
-<strong>Best For: Dry Sand, Coins, Micro-jewellery, stud earrings, and fine chains.</strong>
+### **Swagier V2 Sand Scoop**
 
-<strong>The Lowdown:</strong> Don’t lose the small gold. The V2 features a hybrid mesh of 7mm and 10mm holes. It captures tiny finds that slip through standard scoops while still clearing sand quickly.
+**Best For: Water hunting, surf detecting, and trapping targets fast in wet sand.**  
 
-<strong>Spec.</strong>
+**The Lowdown: Built with extra weight to help drive into the seabed and a generous basket volume so moving targets don't wash away in the surf.**  
 
-Finish. Electro Polished
+**Spec:**
 
-Material AISI 304 (Stainless Steel)
+* **Hole Pattern: Hybrid 7mm & 10mm mesh**
+* **Material: Stainless steel**
+* **Weight: [1360Gr]**
+* **Dimensions:** 290mm x 180mm x 119mm
 
-Thickness 2mm
+---
 
-Shaft Size 29mm
+### Which Sand Scoop Should I Choose: V2, V8, or V12?
 
-Hex Hole Size 10mm
+* **Best for Deep Water & Surf Detecting (V2):** Choose the V2 if you hunt mostly in the water—its heavier build helps cut into the seabed, while the larger basket volume traps moving targets fast.
+* **Best for Lightweight Comfort & Shoulder Relief (V8):** Choose the V8 if you have shoulder issues or want less fatigue during 3+ hour beach hunts, thanks to its significantly lighter weight.
+* **Best for Tiny Coins & Fine Jewellery (V12):** Choose the V12 if you detect in Europe or hunt micro-targets—its smaller drainage holes prevent tiny coins, chains, and ear studs from slipping through.
 
-Dimensions. 290mm x 180mm x 119mm
-
-Weight. 1360 Gr
-
-## Which sand scoop is right for me?
-
-<strong>I hunt mostly in the water:</strong> Go for the V2. The weight helps dig into the bottom, and the volume helps you trap the target quickly.
-
-<strong>I have shoulder issues / I am older:</strong> Go for the V8. It is significantly lighter and easier to swing for 3+ hours.
-
-<strong>I hunt in Europe/areas with tiny coins:</strong> Go for the V12. The smaller holes are essential for jewellery.
+---
 
 ### Buyer’s Guide: What You Need to Know
 
