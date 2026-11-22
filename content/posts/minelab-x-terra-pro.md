@@ -30,11 +30,11 @@ The X-terra Pro uses 4 frequencies 5, 8, 10 and 15 khz) with Minelab pro-switch.
 
 The X-Terra pro is fully waterproof to a depth of 5 meters which means you can go diving and detecting in the sea or rivers as well as detecting on beaches or fields.
 
-Other features include a collapsable telescopic shaft which goes all the way down to a size of 63cm so will fit in a backpack or suitcase if you travel.
+Other features include a collapsible telescopic shaft which goes all the way down to a size of 63cm so will fit in a backpack or suitcase if you travel.
 
 Pre set search modes which for a beginner is great as all the settings are pre-set just select where you are going to detect and off you go.
 
-Search modes are PARK, FIELD and BEACH, each modes has the discrimination set recovery speed and also most desired Freqency . As you become more confident at using the X-Terra pro you can take advantage of the multi frequncy shaft called PRO-SWITCH, this allows you to change the operating frequency of the detector and also creating as CUSTOM SEARCH PROFILE.
+Search modes are PARK, FIELD and BEACH, each modes has the discrimination set recovery speed and also most desired Frequency . As you become more confident at using the X-Terra pro you can take advantage of the multi frequncy shaft called PRO-SWITCH, this allows you to change the operating frequency of the detector and also creating as CUSTOM SEARCH PROFILE.
 
 Adjustable discrimination so you can select which targets you want to find and also FERROUS target id's to tell you when IRON is detected under the search coil
 
@@ -46,7 +46,9 @@ The X-terra Pro comes with the Huge 12 inch V12X (12"x9") DD Search coil, and al
 
 IF you enjoy metal detecting at night or early mornings fear not the X-Terra Pro comes with a built in Flashlight and also a RED backlit LCD screen so this illuminates in darkness.
 
-Another great feature of the X-Terra pro is the Vibrating handle which as we have seen on the Minelab Test lanes and out at rallies is a great addition as people that are hard of hearing can feel the handle vibrate when a target is detected.
+## Another great feature of the X-Terra pro: 
+
+Is the Vibrating handle which as we have seen on the Minelab Test lanes and out at rallies is a great addition as people that are hard of hearing can feel the handle vibrate when a target is detected.
 
 And Fear Not the feature filled budget metal detector weighs in at only 1.3kg
 
