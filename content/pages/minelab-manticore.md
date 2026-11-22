@@ -1,45 +1,50 @@
 ---
 title: Minelab Manticore
 noindex: false
+showEvents: false
 seo:
   title: Minelab Manticore User guides and specifications
   description: Explore the Minelab Manticore and unlock its full potential with our comprehensive user guides and in-depth specifications.
   keywords: Paul Cee, Metal Detecting, Minelab, Manticore, User Guides, Specifications
 ---
 
+## Minelab Manticore Uk user guide
+
 ![Crawfords Metal Detectors graphic offering discount code paulcee10 for Manticore buyers](/img/WEB_AD2026a.webp "Discount code for Manticore accessories at Crawfords")
 
-## Minelab Manticore uk user guide
+## 
 
-### Unleash The Beast: The Minelab Manticore Metal Detector
-
-### Introduction
+### Minelab Manticore Metal Detector Introduction
 
 Experience the next evolution in treasure hunting with the Minelab Manticore. Dubbed "The Beast," this high-performance machine redefines what is possible in metal detecting. Whether you are a seasoned relic hunter, a beach combing pro, or searching for gold nuggets, the Manticore delivers 50% more power than the legendary Equinox series.
 
 Driven by Minelab's revolutionary Multi-IQ+ technology, the Manticore is the deepest metal detector in its class, offering faster recovery speeds and elite target separation. Don't just detect—identify targets with precision before you dig.
 
+---
+
 ### Why Choose the Minelab Manticore?
 
-### 1. Revolutionary Multi-IQ+ Technology
+**1. Revolutionary Multi-IQ+ Technology**
 
 The Manticore is built on the most powerful simultaneous multi-frequency engine ever created: Multi-IQ+. This allows the detector to push deeper into the ground and provide more accurate IDs, even in the most challenging mineralized soils. It’s like having multiple detectors in one, scanning all frequencies at once to ensure you never miss a target.
 
-### 2. See What Lies Beneath with 2D Target ID
+**2. See What Lies Beneath with 2D Target ID**
 
 Stop guessing and start finding. The Manticore features an exclusive 2D Target ID Map (Target Trace). Unlike traditional detectors that only show a single ID number, the Manticore displays both conductivity and ferrous properties visually. You can instantly distinguish between trash (like bottle caps and nails) and treasure (like silver coins and gold rings).
 
-### 3. Fast Recovery Speed &amp; Separation
+**3. Fast Recovery Speed &amp; Separation**
 
 Trashy sites are no match for the Manticore. With its adjustable recovery speed, you can separate closely spaced targets with surgical precision. Hear the faint whisper of a silver dime hiding right next to an iron nail.
 
-### 4. Fully Waterproof &amp; Rugged Design
+**4. Fully Waterproof &amp; Rugged Design**
 
 Take your hunt anywhere. The Manticore is a fully waterproof metal detector submersible up to 16 feet (5 meters) (IP68 rating). Whether you are diving in the surf or caught in a rainstorm, the robust carbon-fibre shaft keeps the machine lightweight (only 1.3 kg / 2.9 lbs) and durable for all-day swinging.
 
-Key Features at a Glance
+---
 
-<strong>10 Customizable Search Modes:</strong> Optimized presets for All-Terrain, Beach, and Goldfield hunting.
+## Key Features at a Glance
+
+<strong>10 Customizable Search Modes:</strong> Optimized pre-sets for All-Terrain, Beach, and Goldfield hunting.
 
 <strong>Enhanced Audio Control:</strong> Customize your listening experience with rich, adjustable audio tones to hear targets your way.
 
@@ -51,7 +56,7 @@ Key Features at a Glance
 
 ![Minelab Manticore software update graphic listing six new features](/img/manticore-update_wpao2wwa.webp "Latest Manticore update: stabiliser, red iron IDs, more soft keys")
 
-![Minelab Manticore screen beside a high voltage cable warning sign with EMI text](/img/manticore_emi_qp4voxcu.webp "Dealing with interference near high voltage cables")
+---
 
 ### Technical Specifications
 
@@ -71,6 +76,8 @@ Battery Life. Approx. 10 Hours (Li-Ion Rechargeable)
 
 Audio Built-in Speaker, 3.5mm Headphone, Wireless (Low Latency)
 
+---
+
 #### Who Is the Minelab Manticore For?
 
 <strong>Relic Hunters:</strong> Punch through iron-infested sites to find Old coins, Gold and ancient artifacts.
@@ -84,6 +91,8 @@ Audio Built-in Speaker, 3.5mm Headphone, Wireless (Low Latency)
 Don't let the best finds stay buried. Upgrade to the Minelab Manticore today and experience the most advanced detector Minelab has ever built.
 
 [Buy Minelab Manticore Now](https://crawfordsmd.com/minelab-manticore?tracking=fa202437c9)
+
+---
 
 {{youtube id="bSgPk84mtcE" title="How to set up the minelab manticore for succesful beach detecting"}}
 
