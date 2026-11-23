@@ -301,7 +301,7 @@ function renderHome() {
     <div class="hero__ctas"><a class="btn btn--lg" href="#detectors">${HOME.primary[1]} ${icon.arrow}</a><a class="btn btn--ghost btn--lg" href="${url(HOME.secondary[0])}">${icon.yt} ${HOME.secondary[1]}</a></div>
     <dl class="proof"><div><dt>${YT.stats.views}</dt><dd>YouTube views</dd></div><div><dt>${YT.stats.videos}</dt><dd>detecting videos</dd></div><div><dt>${posts.length}</dt><dd>articles &amp; field reports</dd></div></dl>
   </div>
-  <figure class="hero__photo hero__photo--left">${img('photos/paul-beach-minelab.jpg', '', { eager: true, sizes: '(min-width: 900px) 40vw, 100vw' })}${img(BRAND.detexpertShield, 'Minelab Detexpert', { cls: 'hero__shield' })}<figcaption class="mono">Paul Cee · Minelab Detexpert</figcaption></figure>
+  <figure class="hero__photo hero__photo--left">${img(HOME.photo && RES.resolve(HOME.photo) ? HOME.photo : 'photos/paul-beach-minelab.jpg', 'Paul Cee metal detecting on a UK beach with a Minelab detector', { eager: true, sizes: '(min-width: 900px) 40vw, 100vw' })}${img(BRAND.detexpertShield, 'Minelab Detexpert', { cls: 'hero__shield' })}<figcaption class="mono">Paul Cee · Minelab Detexpert</figcaption></figure>
 </div></section>
 
 <section class="creds" aria-label="Partners"><div class="wrap creds__row"><p class="creds__label"><span class="mono">Brands Paul works with</span></p><div class="creds__logos">${img(BRAND.minelab, 'Minelab', { cls: 'logo--tall' })}${img(BRAND.detexpertWord, 'Minelab Detexpert', { cls: '' })}${img(BRAND.crawfordsBlue, 'Crawfords Metal Detectors', { cls: 'logo--wide' })}${img(BRAND.coiltek, 'Coiltek')}${img(BRAND.swagier, 'Swagier Sand Scoops', { cls: 'logo--wide' })}</div></div></section>

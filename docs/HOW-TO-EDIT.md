@@ -115,7 +115,9 @@ Press **Save**. The product is in the Product box list straight away, in any pos
 
 ## Settings
 
-**Settings** holds the bits that appear everywhere: the discount code and where it applies, the affiliate disclosure line, the homepage headline, and the subscriber and video counts shown in the header. Edit, save, and they update across the site.
+**Settings** holds the bits that appear everywhere: the discount code and where it applies, the affiliate disclosure line, the homepage headline and photo, and the subscriber and video counts shown in the header. Edit, save, and they update across the site.
+
+**Homepage photo.** Under Homepage, pick or upload a landscape photo (at least 1200px wide, a phone photo is fine) and save. Leave it empty to keep the current one.
 
 **Search engine verification codes** (at the bottom of Settings) hold the Google Search Console and Bing Webmaster Tools codes. They are already filled in from the old site, so both tools stay verified. Only touch them if Google or Bing asks you to verify the site again: paste just the code from inside `content="..."` of the tag they give you.
 

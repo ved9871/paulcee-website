@@ -63,6 +63,7 @@ export const HOME = {
   eyebrow: 'Minelab Detexpert · Crawfords MD Ambassador',
   h1: SETTINGS.home.h1,
   sub: SETTINGS.home.sub,
+  photo: SETTINGS.home.photo || '', // optional /img/... upload from Settings; the build falls back to the stock beach photo
   primary: ['#detectors', 'Find settings for my detector'],
   secondary: ['videos/', 'Watch the tutorials'],
   pillars: [

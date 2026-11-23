@@ -56,4 +56,4 @@ Check out some of the Manticore videos, Minelab and CMD created to help with you
 
 {{youtube id="VimSTbHMGi4" title="How to pair Manticore Headphones, what problems and how to solve them"}}
 
-![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Manticore deals at Crawfords: use code paulcee10")
+[![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Manticore deals at Crawfords: use code paulcee10")](https://crawfordsmd.com/minelab-manticore)
