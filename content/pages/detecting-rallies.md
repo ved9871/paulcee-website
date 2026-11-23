@@ -38,7 +38,7 @@ This event is perfect for both seasoned detectorists and newcomers looking to di
 
 [Full Listing on Minelab 500 event page!](https://www.paulcee.co.uk/minelab-500-rally/)
 
-[![Minelab 500 metal detecting rally in 2027](/img/500-2027.webp "what metal detecting weekends are on in 2027")](https://www.paulcee.co.uk/minelab-500-rally/)
+[![Minelab 500 metal detecting rally in 2027](/img/blogs/500_27.webp "Minelab 500 Metal Detecting Weekend in 2027")](https://www.paulcee.co.uk/minelab-500-rally/)
 
 {{youtube id="_3l6_dv-6M8" title="Minelab 500 metal detecting rally Hoard of Saxon Coins"}}
 
