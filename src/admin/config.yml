@@ -123,7 +123,11 @@ collections:
         fields:
           - { name: path, label: Crawfords path, widget: string, pattern: ["^/", "Start with / (e.g. /blog/minelab-equinox-900-vs-minelab-manticore). Tracking is added automatically."] }
           - { name: label, label: Link text, widget: string }
-      - { name: match, label: "Show on pages whose title matches (developer)", widget: string, required: false }
+      - name: match
+        label: Show automatically on pages about…
+        widget: string
+        required: false
+        hint: "One or more words separated by a | bar, for example  accessories|scoop|beach  or  vanquish|simplex. The product is offered on any page or post whose title contains one of the words (capitals don't matter). A page shows up to three matching products, a blog post two, detectors first, then by Order. Leave blank to place it only by hand with Insert → Product box."
       - { name: order, label: Order, widget: number, value_type: int, required: false }
 
   - name: topics
@@ -139,7 +143,11 @@ collections:
       - { name: label, label: Topic name, widget: string }
       - { name: key, label: Short ID, widget: string, pattern: ["^[a-z0-9-]+$", "Lower-case letters, numbers and dashes"] }
       - { name: description, label: Description, widget: text, required: false }
-      - { name: match, label: "Auto-assign posts whose title matches (developer)", widget: string, required: false }
+      - name: match
+        label: Auto-assign posts whose title contains…
+        widget: string
+        required: false
+        hint: "One or more words separated by a | bar, for example  equinox|eqx. A post without a topic set by hand goes into the first topic (by Order) whose words appear in its title."
       - { name: order, label: Order, widget: number, value_type: int, required: false }
 
   - name: settings
