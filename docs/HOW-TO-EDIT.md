@@ -68,17 +68,15 @@ Each block has a small form. Fill it in and keep typing underneath. The **x** on
 
 To put an interactive map or a widget on a page, paste its HTML into a **Code Block** (¶ menu, then Code Block) and set the language of the block to **HTML**. On the site it appears as an embedded frame about 600px tall. The frame is sealed off from the rest of the page, so scripts inside it cannot touch the site. Code blocks in any other language show as code, which is what you want for settings listings.
 
-### Tables and anything unusual
+### Tables
 
-The editor doesn't have a table button yet. For a comparison table, or if something looks odd, click **Edit in Markdown** on the toolbar. That shows the raw text, where a table looks like this:
+Use **Insert → Table** on the toolbar. Pick the number of rows and columns, then click into a cell and type; the Tab key moves to the next cell. Use the small menu on a cell to add or remove rows and columns. The first row is the heading row and is shown in bold on the site. Tables scroll sideways on phones, so four or five columns is a sensible maximum.
 
-```
-| Feature | M8 coil | M9 coil |
-|---|---|---|
-| Shape | Elliptical | Round |
-```
+Pasting a table from Word or Google Docs also works: paste it into the article and it becomes an editor table.
 
-Click the same button to go back to the normal view. If in doubt, leave the Markdown view alone and ask Ved.
+### Anything unusual
+
+If something looks odd, click **Edit in Markdown** on the toolbar to see the raw text, and click the same button to go back. If in doubt, leave the Markdown view alone and ask Ved.
 
 ## Editing a page
 

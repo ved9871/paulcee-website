@@ -48,12 +48,12 @@ test('hard line breaks, lists and components round-trip', () => {
   assert.deepEqual(rt(blocks), blocks);
 });
 
-test('tables and CTA buttons survive as raw HTML with token links', () => {
+test('tables round-trip as Markdown tables with token links; CTA buttons survive as HTML', () => {
   const out = rt([
     { t: 'table', rows: [['Model', 'Price'], ['<a href="@minelab-equinox/" data-kind="internal">Equinox</a>', '£649']] },
     { t: 'cta', html: '<a href="https://crawfordsmd.com/y" data-kind="affiliate" class="btn">Buy</a>' },
   ]);
-  assert.equal(out[0].t, 'raw'); assert.match(out[0].html, /^<div class="table-wrap"><table><tr><th>Model<\/th>/); assert.match(out[0].html, /<a href="@minelab-equinox\/" data-kind="internal">Equinox<\/a>/);
+  assert.equal(out[0].t, 'table'); assert.deepEqual(out[0].rows[0], ['Model', 'Price']); assert.match(out[0].rows[1][0], /<a href="@minelab-equinox\/" data-kind="internal">Equinox<\/a>/); assert.equal(out[0].rows[1][1], '£649');
   assert.equal(out[1].html, '<p class="cta-row"><a href="https://crawfordsmd.com/y" data-kind="affiliate" class="btn">Buy</a></p>');
 });
 
@@ -180,4 +180,19 @@ test('image captions ride in the markdown title and survive the round trip', () 
   const [fig] = rt([{ t: 'figure', html: '<img src="@img:images/a.jpg" alt="A" title="Caption here" width="800" height="600">' }]);
   assert.equal(fig.html, '<img src="@img:images/a.jpg" alt="A" title="Caption here" width="800" height="600">');
   assert.equal(blocksToMarkdown([{ t: 'figure', html: '<img src="@img:images/logo.png" alt="Logo" width="60" height="89" title="Tiny">' }], ctx).trim(), '![Logo](/img/logo.webp "small: Tiny")');
+});
+
+test('pipe tables become table blocks, with or without the delimiter row, and round-trip as GFM', () => {
+  const gfm = '| Feature | CTX 3030 | Manticore |\n|---|---|---|\n| GPS | **Yes** | No |\n| Weight | 2.36 kg | 1.3 kg |';
+  const [b] = markdownToBlocks(gfm, ctx);
+  assert.equal(b.t, 'table');
+  assert.equal(b.rows.length, 3);
+  assert.deepEqual(b.rows[0].map(c => c.replace(/<[^>]+>/g, '')), ['Feature', 'CTX 3030', 'Manticore']);
+  assert.match(b.rows[1][1], /<strong>Yes<\/strong>/);
+  const noDelim = '| Suffix | Meaning |\n| -by | Farmstead |\n| -thorpe | Hamlet |';
+  const [c] = markdownToBlocks(noDelim, ctx);
+  assert.equal(c.t, 'table'); assert.equal(c.rows.length, 3);
+  assert.equal(blocksToMarkdown([c], ctx).trim(), '| Suffix | Meaning |\n| --- | --- |\n| -by | Farmstead |\n| -thorpe | Hamlet |');
+  assert.deepEqual(rt([b]), [b]);
+  assert.equal(markdownToBlocks('Just a line with a | pipe in it', ctx)[0].t, 'p');
 });

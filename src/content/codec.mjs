@@ -108,7 +108,12 @@ export function blocksToMarkdown(blocks, ctx) {
       case 'h2': case 'h3': case 'h4': { const h = inlineToMd(b.html, ctx).replace(/\\\n/g, ' ').trim().replace(/#+\s*$/, m => '\\' + m); if (h) out.push(`${'#'.repeat(+b.t[1])} ${h}`); break; }
       case 'p': case 'figure': { const md = para(b.html); if (md) out.push(md); break; }
       case 'ul': case 'ol': out.push(b.items.map((it, i) => `${b.t === 'ol' ? `${i + 1}.` : '-'} ${para(it).replace(/\n/g, '\n   ')}`).join('\n')); break;
-      case 'table': out.push(`<div class="table-wrap"><table>${b.rows.map((r, i) => `<tr>${r.map(c => i === 0 ? `<th>${tokenHtmlToPlain(c, ctx)}</th>` : `<td>${tokenHtmlToPlain(c, ctx)}</td>`).join('')}</tr>`).join('')}</table></div>`); break;
+      case 'table': {
+        const cell = c => inlineToMd(c, ctx).replace(/\s*\n+\s*/g, ' ').replace(/\|/g, '\\|').trim();
+        const lines = b.rows.map(r => '| ' + r.map(cell).join(' | ') + ' |');
+        if (lines.length) lines.splice(1, 0, '|' + b.rows[0].map(() => ' --- ').join('|') + '|');
+        out.push(lines.join('\n')); break;
+      }
       case 'cta': out.push(`<p class="cta-row">${tokenHtmlToPlain(b.html, ctx)}</p>`); break;
       case 'raw': out.push(tokenHtmlToPlain(b.html, ctx)); break;
       case 'video': out.push(`{{youtube id="${b.id}"${b.title ? ` title="${encodeAttr(b.title)}"` : ''}}}`); break;
@@ -174,12 +179,39 @@ const inlineBlock = (text, ctx) => {
 };
 const isImageOnly = html => /<img /.test(html) && !html.replace(/<a [^>]*>|<\/a>|<img [^>]*>|<br>|\s|&nbsp;/g, '');
 
+// Pipe tables. marked runs without GFM here, so a table arrives as one paragraph of "| a | b |" lines; the
+// delimiter row ("|---|---|") is optional because the editor used until Nov 2026 saved tables without one.
+const TABLE_ROW = /^\s*\|.*\|\s*$/;
+const TABLE_DELIM = /^\s*\|?\s*:?-{2,}:?\s*(?:\|\s*:?-{2,}:?\s*)*\|?\s*$/;
+const splitRow = line => {
+  const cells = []; let cur = '';
+  const s = line.trim().replace(/^\|/, '').replace(/\|$/, '');
+  for (let i = 0; i < s.length; i++) {
+    const ch = s[i];
+    if (ch === '\\' && s[i + 1] === '|') { cur += '|'; i++; }
+    else if (ch === '|') { cells.push(cur); cur = ''; }
+    else cur += ch;
+  }
+  cells.push(cur);
+  return cells.map(c => c.trim());
+};
+const tableRows = text => {
+  const lines = String(text).split('\n').filter(l => l.trim());
+  if (lines.length < 2 || !lines.every(l => TABLE_ROW.test(l) || TABLE_DELIM.test(l))) return null;
+  const rows = lines.filter(l => !TABLE_DELIM.test(l)).map(splitRow);
+  if (rows.length < 1) return null;
+  const w = Math.max(...rows.map(r => r.length));
+  return rows.map(r => [...r, ...Array(w - r.length).fill('')]);
+};
+
 export function markdownToBlocks(md, ctx) {
   const blocks = [];
   for (const t of marked.lexer(String(md || ''), MD)) {
     switch (t.type) {
       case 'heading': blocks.push({ t: t.depth <= 2 ? 'h2' : t.depth === 3 ? 'h3' : 'h4', html: plainHtmlToToken(inline(t.text), ctx).trim() }); break;
       case 'paragraph': {
+        const rows = tableRows(t.text);
+        if (rows) { blocks.push({ t: 'table', rows: rows.map(r => r.map(c => inlineBlock(c, ctx))) }); break; }
         // The rich-text editor can save a block inserted right after an image on the same line as the image
         // (and other blocks), so components are split out wherever they appear, not only when alone.
         for (const piece of t.text.split(COMP_SPLIT)) {

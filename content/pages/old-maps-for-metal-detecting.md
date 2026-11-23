@@ -105,6 +105,7 @@ When the Danish Great Army arrived in the late 9th century and Lincolnshire beca
 ### Key Old Norse Place-Name Clues
 
 | **Suffix** | **Old Norse Root** | **Meaning** | **Typical Lincolnshire Landscape** | **Examples** |
+| --- | --- | --- | --- | --- |
 | **-by** | *býr* | Farmstead or village | Dry upland heaths or steep, dissected valleys in the chalk Wolds | *Tealby*, *Claxby*, *Normanby-by-Spital*, *Osgodby* |
 | **-thorpe** | *þorp* | Secondary hamlet or satellite farm | Marginal coversands, heavy coastal clays, and saltmarsh edges | *Scunthorpe*, *Cleethorpes*, *Grainthorpe*, *Caythorpe* |
 | **-toft** | *topt* | Homestead plot or curtilage | Reclaimed dry patches along fenland and coastal marsh margins | *Fishtoft*, *Wigtoft* |

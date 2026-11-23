@@ -45,7 +45,7 @@ collections:
       - { name: cover, label: Cover image, widget: image, required: false }
       - { name: heroVideo, label: Main YouTube video, widget: string, required: false, hint: "Paste the YouTube link." }
       - { name: summary, label: Summary, widget: text, hint: "One or two sentences shown on blog cards. Also used for Google when no meta description is given below." }
-      - { name: body, label: Article, widget: markdown, modes: [rich_text, raw] }
+      - { name: body, label: Article, widget: markdown, modes: [rich_text, raw], editor_components: [image, code-block, table, hr, youtube, product, ad] }
       - name: seo
         label: SEO (Google)
         widget: object
@@ -70,7 +70,7 @@ collections:
       - { name: title, label: Page heading, widget: string, required: false }
       - { name: noindex, label: "Hide from Google search", widget: boolean, default: false, required: false, hint: "Tick to keep this page out of search results. It stays visible on the site." }
       - { name: showEvents, label: "Show the rallies & events list on this page", widget: boolean, default: false, required: false, hint: "Tick on the events page only. Upcoming and past events from Rallies & events appear above the text." }
-      - { name: body, label: Content, widget: markdown, modes: [rich_text, raw] }
+      - { name: body, label: Content, widget: markdown, modes: [rich_text, raw], editor_components: [image, code-block, table, hr, youtube, product, ad] }
       - name: seo
         label: SEO (Google)
         widget: object
