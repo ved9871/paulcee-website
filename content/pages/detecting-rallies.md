@@ -16,13 +16,14 @@ Discover the latest listings for metal detecting rallies, Metal Detecting weeken
 
 ***
 
-### What to Expect from Our Event Listings
+### What to Expect from Our Metal Detecting Event Listings
 
 - **Diverse Digs:** Find everything from single-day local club searches to massive multi-day weekend rallies.
 - **Community-Sourced Events:** We show listings from independent groups, official organizations, and Facebook metal detecting clubs.
 - **Real-Time Updates:** Check back frequently for schedule changes, weather updates, and event cancellations, especially during the winter season when ground conditions or heavy storms can lead to short-notice postponements.
 - _Note: Winter weather and heavy winds can occasionally cause ground conditions to become unsafe for vehicles, resulting in advanced or last-minute cancellations. Always check our cancellation tracker for alternative dates before traveling._
-- _If You Do Join A Metal Detecting Group, please mention us when you join._
+- _I**f You Do Join A Metal Detecting Group, please mention us when you join.**_
+- _Disclaimer\*\*_ The information on this page is provided for general information only. Event details are supplied by third parties or public sources and may change without notice, including dates, venues, or precise locations, which may be amended at short notice by organisers.    _PAUL CEE_  **_does not_** organise or control these events and accepts no responsibility for their accuracy. Please contact event organisers directly to confirm full details and exact location before attending.
 
 ***
 
@@ -50,7 +51,7 @@ Please report all finds of interest to your local **Finds Liaison Officer (FLO)*
 
 ***
 
-### Are You a Metal Detecting Event Organizer?
+#### Are You a Metal Detecting Event Organizer?
 
 Promote your digs to thousands of active detectorists! Whether you are hosting a 1-day charity dig or a multi-day weekend rally, you can **list your event for free** by filling out our submission form (\*conditions apply).
 
