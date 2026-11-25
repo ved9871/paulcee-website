@@ -21,7 +21,9 @@ seo:
   keywords: Metal Detecting UK, Minelab Manticore Ferrous Limits, manticore settings, ferrous limits, manticore setup.
 ---
 
-## The Minelab Manticore has a feature called Ferrous Limits, which allows you to control how the detector classifies ferrous targets.
+## The Minelab Manticore has a feature called Ferrous Limits
+
+### which allows you to control how the detector classifies ferrous targets.
 
 The **upper ferrous limits** control how the detector classifies large, round ferrous objects, such as iron nails. The **lower ferrous limits** control how the detector classifies flat, thin ferrous objects, such as sheet metal and bottle-caps.
 
@@ -29,7 +31,7 @@ By adjusting the Ferrous Limits, you can customise the detector's response to fe
 
 The default Ferrous Limits settings have selective factory pre-sets These settings provide a good balance of target separation and sensitivity to ferrous targets. However, you may need to adjust the Ferrous Limits depending on the type of terrain you are detecting in and the types of targets you are looking for.
 
-To adjust the Ferrous Limits on the Minelab Manticore, follow these steps:
+## To adjust the Ferrous Limits on the Minelab Manticore, follow these steps:
 
 1. Press the **Menu** button.
 2. Use the arrow keys to select **Settings**.
@@ -37,7 +39,7 @@ To adjust the Ferrous Limits on the Minelab Manticore, follow these steps:
 4. Use the arrow keys to adjust the upper and lower ferrous limits.
 5. Press the **Enter** button to save your changes.
 
-Here are some tips for adjusting the Ferrous Limits on the Minelab Manticore:
+## Here are some tips for adjusting the Ferrous Limits on the Minelab Manticore:
 
 - Start with the default settings and adjust them from there.
 - Use a test target, such as an iron nail or a bottle cap, to help you adjust the limits.
