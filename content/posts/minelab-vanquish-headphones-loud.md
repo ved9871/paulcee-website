@@ -21,7 +21,7 @@ seo:
 
 ## Which Headphones for the [Minelab Vanquish](/minelab-vanquish-40-series/) are good?
 
-These SuperBLUE metal detector headphones are very very loud and also cut out so much outside noise you are able to turn down the volume and still hear those very faint signals from the metal detector, which with cheap or poor audio quality metal detector headphones can mean the differance between a good day detecting and targets that are missed and left behind
+These **_SuperBLUE metal detector headphones_** are very very loud and also cut out so much outside noise you are able to turn down the volume and still hear those very faint signals from the metal detector, which with cheap or poor audio quality metal detector headphones can mean the differance between a good day detecting and targets that are missed and left behind
 
 SuperBLUES are some of the best sounding headphones i use with the Minelab Vanquish, they come complete with a kind of no down time headphone connection lead, one end is the standard 6.5mm jack connection that plugs directly into the SuperBLUE headphones, and the other end is 3.5mm Jack plug which plugs directly in the headphone socket on the minelab Vanquish.![Headphone cable with two 6.35mm jack plugs and a right-angle 3.5mm plug](/img/jackplugs_1ol0pr8o.webp "Lead with 6.5mm jacks and a 3.5mm plug")![Headphone jack plug inserted into the socket of blue SuperBLUE headphones](/img/jackplugs1_izlggu7h.webp "The 6.5mm jack plugs straight into the SuperBLUE phones")
 
