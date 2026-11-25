@@ -32,4 +32,6 @@ this CoilTek coil is also suitable for the Minelab X-Terra And Vanquish 60 Serie
 
 Over the standard search area of the stock coil this coil seems huge, but it still has the super sensitivity that Coiltek are renound for, so missing small targets even at good depth is down to user error and not that the NOX 15 inch coil doesn't recieve a signal. It WILL Seek out super small target as the image above shows a cut 1/4 hammered coil, which are at best pretty hard to find
 
+{{product key="coiltek15nox"}}
+
 For more information on where to BUY the Coiltek Nox coil range in the UK visit [Crawfords Metal Detectors](https://crawfordsmd.com/search-coils)
