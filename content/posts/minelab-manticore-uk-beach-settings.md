@@ -33,7 +33,9 @@ The video is of the settings i use very successfully on Cleethorpes beach, where
 
 ![Hand holding rings and coins found with the Minelab Manticore on a beach](/img/manti-rings.webp "Rings and coins from the Manticore on a trashy beach")
 
-Understanding Beach Conditions:
+Und
+
+## Understanding Beach Conditions:
 
 <strong>Saltwater and Wet Sand:</strong> Saltwater is conductive and can cause false signals in metal detectors. Wet sand retains this conductivity.
 
@@ -45,7 +47,7 @@ Understanding Beach Conditions:
 
 ![Minelab Manticore screen showing search profiles on a sunny beach](/img/manticore-search-modes1.webp "Making your own search profile on the Manticore")
 
-Recommended Search Modes:
+### Recommended Manticore Search Modes:
 
 The Minelab Manticore has specific Beach modes designed to handle these conditions. Here are the key ones and when to use them:
 
@@ -85,7 +87,9 @@ Key Settings to Adjust:
 
 <strong>Ferrous Limits:</strong> This allows you to set a range for ferrous (iron) targets.1 Items falling within this range can be set to give an iron grunt. A common starting point is a wide-open setting (Top: 0-2, Bottom: 0) to hear most signals. You can then fine-tune this to help identify and potentially avoid dense iron patches. Be cautious not to eliminate good targets by setting the ferrous limits too high.
 
-Setting the Ferrous Limits of the Manticore detector. this is again an area specifc setting and if you are not comfortable making a custom one then use one of the preset and adjust the lower limits help to deal with bottle tops which are more common on the dry sand although a new breed of bottle tops seems to have come along with a higher level of non ferrous content
+## Setting the Ferrous Limits of the Manticore detector. 
+
+This is again an area specific setting and if you are not comfortable making a custom one then use one of the preset and adjust the lower limits help to deal with bottle tops which are more common on the dry sand although a new breed of bottle tops seems to have come along with a higher level of non ferrous content
 
 ![Minelab Manticore tutorial card for setting custom ferrous limits](/img/custom-ferrous-limits_1kfhg507.webp "Building a custom ferrous limit for your own beach")
 
@@ -93,9 +97,9 @@ you have to just accept this unless you can hear the edges "sounds like a BRRRRR
 
 ![Minelab Manticore tutorial card covering audio themes and threshold options](/img/manticore-audio_maxdhlvr.webp "Audio themes: Prospecting is sharper on dry sand")
 
-<strong>Audio Theme:</strong> Experiment with different audio themes. "Prospecting" is often recommended for enhancing subtle target signals for dry sand this is prefered as it is sharper.
+<strong>Audio Theme:</strong> Experiment with different audio themes. "Prospecting" is often recommended for enhancing subtle target signals for dry sand this is preferred as it is sharper.
 
-You could also use a multi-tone setting to get more information about potential targets but this is again a personal preferance. And the water use a flat 2 tone setting.
+You could also use a multi-tone setting to get more information about potential targets but this is again a personal preference. And the water use a flat 2 tone setting.
 
 As with every setting on the Manticore this is all to suit your style of detecting and personal choice.
 
@@ -109,9 +113,9 @@ The standard 11-inch coil is a good all-around choice for beach detecting, offer
 
 A smaller coil (like the 9-inch or 6-inch) can be beneficial in trashy areas like the dry sand for for better target separation.
 
-Larger coils offer more depth but can be more susceptible to mineralization and may have difficulty separating targets, and again give alot of resistance in the water this is where the slim 9 inch coil excels. The CoilTek MythTek 18 inch coil is really deep in areas where it can be used ie not much junk.
+Larger coils offer more depth but can be more susceptible to mineralization and may have difficulty separating targets, and again give a lot of resistance in the water this is where the slim 9 inch coil excels. The CoilTek MythTek 18 inch coil is really deep in areas where it can be used i.e. not much junk.
 
-Detecting Techniques:
+### Metal Detecting Detecting Techniques:
 
 <strong>Overlap Swings:</strong> Overlap your swings by about 25% to ensure complete coverage.
 
