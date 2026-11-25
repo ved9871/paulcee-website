@@ -29,7 +29,7 @@ These are snug and cut down much of the external noise from wind and waves.
 
 ![Rugged black headphones resting on a metal detector control box on a beach](/img/nox_predator1.webp "Snug headphones that cut wind and wave noise")
 
-Although not submersible these are ideal for wading and with the[ MINELAB HEADPHONE ADAPTOR](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/accessories-minelab-equinox/equinox-waterproof-adaptor) also allows the Equinox Control box to be submersed, unlike the EQUINOX WM08 module and bluetooth head phones which are not waterproof.
+Although _not_ submersible these are ideal for wading and with the[ MINELAB HEADPHONE ADAPTOR](https://www.crawfordsmd.com/metal-detecting-accessories/accessories-minelab/accessories-minelab-equinox/equinox-waterproof-adaptor) also allows the Equinox Control box to be submersed, unlike the EQUINOX WM08 module and bluetooth head phones which are not waterproof.
 
 I have used the Predator headphones for many year on the Minelab Etrac and [CTX 3030](/ctx3030/)
 
@@ -45,14 +45,9 @@ are the best you can buy. High quality components are used to ensure durability 
 
 Features Include:
 
-Military specification curly cable - light, flexible and virtually indestructible. So strong there is no need for it to be detachable. (Unlike the cheap PVC leads fitted to all other metal detecting headphones we know of).
-
-Lightweight 80ohm mylar speakers driven by powerful cobalt magnets to deliver pitch perfect sound. Designed for mid-range audio they are perfect for your detector.
-
-Waterproof smooth action volume control
-
-High quality 'Peltor' fold down ear defender.
-
-Reinforced &amp; water sealed jack plug.
-
-New external Stereo/Mono micro switch to ensure Predator Excelsior headphones are compatible with all of your metal detectors
+- Military specification curly cable - light, flexible and virtually indestructible. So strong there is no need for it to be detachable. (Unlike the cheap PVC leads fitted to all other metal detecting headphones we know of).
+- Lightweight 80ohm mylar speakers driven by powerful cobalt magnets to deliver pitch perfect sound. Designed for mid-range audio they are perfect for your detector.
+- Waterproof smooth action volume control
+- High quality 'Peltor' fold down ear defender.
+- Reinforced &amp; water sealed jack plug.
+- New external Stereo/Mono micro switch to ensure Predator Excelsior headphones are compatible with all of your metal detectors
