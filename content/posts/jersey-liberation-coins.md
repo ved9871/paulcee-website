@@ -1,6 +1,8 @@
 ---
 title: jersey liberation coins
 datePublished: 2019-08-29T19:19:00
+draft: false
+noindex: false
 topic: beach-detecting
 tags:
   - jersey
@@ -34,6 +36,8 @@ MINTAGE 720,000
 The obverse depicts Cecil Thomas' famous crowned portrait of the H.M. Queen Elizabeth II. This design also appears on the coins from Belize, Bermuda, British Eastern Caribbean Territories, British Honduras, British West Africa, Cyprus, East Africa, Fiji, Ghana, Hong Kong, Jamaica, Malaya and British Borneo, Mauritius, Nigeria, and Seychelles. The obverse has a simple legend of “QUEEN ELIZABETH THE SECOND.” The reverse of each coin is a slight modification of Kruger-Gray's shield design.
 
 ![Obverse of a Jersey copper coin showing the crowned head of George VI](/img/P1040916_a.webp "George VI obverse, with Metcalfe's initials below the neck")
+
+***
 
 ![Reverse of a Jersey one twelfth of a shilling coin inscribed Liberated 1945](/img/P1040917_a.webp "The 1945 Liberation reverse with the Jersey lions shield")
 
