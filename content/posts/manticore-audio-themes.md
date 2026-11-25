@@ -24,11 +24,9 @@ seo:
 
 ## Minelab Manticore audio themes and threshold settings explained
 
-Looking at what are the choices of settings for Normal audio, enhanced audio, depth audio , threshold levels including a reference threshold, True threshold tones and more.
+Looking at what are the choices of settings for Normal audio, enhanced audio, depth audio , threshold levels including a reference threshold, True threshold tones and more to help you set up your minelab manticore.
 
-to help you set up your minelab manticore.
-
-### The Normal Audio Theme
+## The Normal Audio Theme
 
 ![Minelab Manticore screen showing the Normal audio theme on a beach with a pier behind](/img/audio-mormal_gqt0mugx.webp "Normal: the all-round audio theme for everyday detecting")
 
@@ -40,49 +38,39 @@ The volume of audio responses is modulated according to the signal strength/dept
 
 With strong/shallow targets giving a louder response than a smaller or deeper target.
 
-#### Enhanced Audio Theme
+\---
+
+### Enhanced Audio Theme
 
 ![Minelab Manticore screen with the Enhanced audio theme selected on a beach](/img/audio-enhanced_y6knf6sx.webp "Enhanced: tuned for sites with lots of electrical interference")
 
 Is similar to Normal, but is optimised for detecting in high EMI scenarios.
 
-Weak detection like EMI chatter will remain audible,
-
-but will have a modulated audio sound that will sound more
-
-'thin' or 'tinny' than stronger detections (similar to using the filter in the stabiliser feature)
-
-This has the effect of suppressing EMI chatter, making it easier to listen
-
-through, to hear non random signals that consistently repeat with each swing.
+Weak detection like EMI chatter will remain audible, but will have a modulated audio sound that will sound more 'thin' or 'tinny' than stronger detections (similar to using the filter in the stabiliser feature) This has the effect of suppressing EMI chatter, making it easier to listen through, to hear non random signals that consistently repeat with each swing.
 
 Larger signals from strong/shallow targets will sound more prompt, similar to the Normal Audio Theme.
 
 This Audio Theme can also allow users to increase Sensitivity (in EMI-limited locations) higher than would be possible using the Normal Audio Theme (should you not want to use the Stabiliser Feature)
 
-The pitch of audio responses is determined by the Target ID
+The pitch of audio responses is determined by the Target ID as defined by the Target Tones setting.
 
-as defined by the Target Tones setting.
-
-Choose the amount of frequency modulation by changing
-
-the Profile.
+Choose the amount of frequency modulation by changing the Profile.
 
 This Theme uses a Reference threshold tone that blanks for rejected targets when used with FERROUS LIMITS and DISCRIMINATION.
 
-The Depth Audio Theme.
+\---
+
+### Minelab Manticore  Depth Audio Theme.
 
 ![Minelab Manticore Audio Themes menu showing the Depth theme on a sandy beach](/img/audio-depth_nbx9sajt.webp "Depth: better target separation on iron-heavy land")
 
 Is useful for improved target separation at land sites that contain high amounts of ferrous content.
 
-The Target Tones setting is disabled when using
-
-the Depth Audio Theme. This is the 1 region all tones 2 regions all tones and also the normal tone settings.
+The Target Tones setting is disabled when using the Depth Audio Theme. This is the 1 region all tones 2 regions all tones and also the normal tone settings.
 
 To enable Target Tones, change the Audio Theme to Normal or Enhanced.
 
-If used with a low conductor mode and higher recovery speed this is a superb tone profiles for detecting very small targets, but will not suit everybodys detecting style.
+If used with a low conductor mode and higher recovery speed this is a superb tone profiles for detecting very small targets, but will not suit everybody's detecting style.
 
 The pitch of non‑ferrous targets varies continuously according to the signal strength or depth of the target. (I like to use a Min pitch of 25 and Max of 64)
 
@@ -90,7 +78,9 @@ Weaker non‑ferrous signals will have a lower pitch and stronger signals will h
 
 The Ferrous Pitch Minimum Pitch (non‑ferrous) and Maximum Pitch (non‑ferrous) are adjustable. The amount of volume modulation can be modified using the
 
-Profile setting.
+### Manticore Profile setting.
+
+\---
 
 This theme uses a Reference threshold tone that blanks for rejected targets.
 
@@ -100,9 +90,9 @@ You can adjust the Threshold Level and Threshold Pitch.
 
 The Depth theme has additional unique settings that allow you to control the pitch of ferrous tones, and to set the minimum and maximum pitch of conductive tones.
 
-The Depth pitch settings have a range from 1 to 64.
+The **Depth pitch** settings have a range from 1 to 64.
 
-The Ferrous Pitch cannot be set higher than the Min Pitch.
+The **Ferrous Pitch** cannot be set higher than the Min Pitch.
 
 If you cannot adjust the Ferrous Pitch (the arrows are greyed out and there is an invalid button press tone)
 
@@ -112,15 +102,15 @@ The Profile setting for an Audio Theme controls how much
 
 the audio signal is modulated for signal strength (or target depth).
 
-In Normal and Depth Audio Themes, the volume of the audio is modulated (weaker targets have lower volume).
+In **Normal and Depth Audio Themes**, the volume of the audio is modulated (weaker targets have lower volume).
 
 In Enhanced Audio Theme, the frequency content of the audio is modulated (weaker targets sound tinnier).
 
-Simple.
+**Simple.**
 
 When the Profile is set to Simple, there is minimal modulation of weak/deep targets.
 
-All but the weakest ordeepest targets will sound similar to shallow/strong targets.
+All but the weakest or deepest targets will sound similar to shallow/strong targets.
 
 Medium.
 
@@ -128,11 +118,11 @@ When the Profile is set to Medium, there is a moderate amount of modulation appl
 
 Medium depth to weakest and deepest targets will sound different to very shallow and loud targets.
 
-Rich.
+**Rich.**
 
 When the Profile is set to Rich, there is a large amount of modulation applied. Weakest and deepest targets will sound different to medium depth targets and both of these will also sound different to very shallow and strong targets.
 
-These Audio themes are NOT AVAILABLE in the prosecting mode.
+These Audio themes are **_NOT AVAILABLE_** in the prosecting mode.
 
 #### Prospecting Theme
 
@@ -140,7 +130,7 @@ These Audio themes are NOT AVAILABLE in the prosecting mode.
 
 Is useful when maximum sensitivity to weak targets is beneficial, such as for gold prospecting or hunting for fine jewellery at the beach.
 
-This theme is best used at low trash sites. as it is quite suseptible to detecting coke.
+This theme is best used at low trash sites. as it is quite susceptible to detecting coke.
 
 The Target Tones setting (as Mentioned Above) is disabled when using the Prospecting Audio Theme.
 
@@ -156,4 +146,4 @@ This theme uses a True Threshold Tone that provides maximum sensitivity to weak 
 
 As always when you 1st start you journey with the minelab manticore, it is best to start out with the PRESET modes, and as you gain experience the start to change settings to suit you.
 
-Check out the video on where to find all these settings and how to change them.
+[Check out the video on where to find all these settings and how to change them.](/manticore-settings/)
