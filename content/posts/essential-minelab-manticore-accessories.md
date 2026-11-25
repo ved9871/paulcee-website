@@ -37,6 +37,8 @@ The standard fixed handle can make fitting your detector into a backpack or trav
 
 <strong>Rugged Design:</strong> Built to withstand the torque and pressure of a long day swinging on the beach or in the field.
 
+***
+
 ### 2. GOG Phones (WM09 Wireless Integration)
 
 Wireless audio is a must for modern detecting, but nobody likes dealing with dongles dangling from their pockets.
