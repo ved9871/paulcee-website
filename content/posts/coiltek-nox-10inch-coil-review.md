@@ -34,4 +34,4 @@ You can also keep on the Coiltek Coil for dry sand searching as it still has the
 
 Are You intrested in the New range of COILTEK Coils for the Minelab Equinox??
 
-Leave a comment below
+{{product key="coiltek10x5"}}
