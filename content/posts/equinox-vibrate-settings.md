@@ -29,10 +29,16 @@ The vibrate feature is designed to complement the audio feedback that helps dete
 
 <strong>Here's how it works:</strong> When the Equinox detects a target, it provides both audio and vibration feedback. The vibration feature is particularly useful in noisy environments where it might be difficult to hear the audio signals. For instance, if you're in a crowded or loud area, using headphones might not be enough to hear the detector's audio cues clearly. In such cases, the vibration provides a tactile response, alerting you to the presence of a target without relying solely on sound.
 
+***
+
 ### The vibrate function can be customized and adjusted in the volume and tones settings of the Equinox
 
-Allowing users to control its target ID setting, personally the Vibrate feature is best used in 5 tones and select the target id you want to be notified on, i have tutored people that are hard of hearing and this feature allows them to go out detecting, also available on the XTerra-Pro.
+Allowing users to control its target ID setting, personally the Vibrate feature is best used in 5 tones and select the target id you want to be notified on, i have tutored people that are hard of hearing and this feature allows them to go out detecting, also available on the [X-Terra-Pro.](/minelab-x-terra/)
 
 Keep in mind that while the vibrate feature enhances the Equinox's usability in various situations, it's still important to familiarize yourself with the detector's other indicators and signals to maximize its effectiveness in different detecting scenarios.
 
 Check out the video to find where and how to setup the vibrate feature.
+
+***
+
+{{youtube id="o1U1u1qW23U" title="Minelab Equinox VIBRATE, How to Use"}}
