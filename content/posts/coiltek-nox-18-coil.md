@@ -22,7 +22,7 @@ seo:
 
 ## Coiltek Nox 18 inch coil
 
-#### Coiltek 18" Round Coil for Minelab Equinox
+### Coiltek 18" Round Coil for Minelab Equinox
 
 ![Blue Coiltek Nox coil and Equinox control box lying on sand](/img/coiltek-nox-18a.webp "Coiltek Nox 18 gives big coverage on the Equinox and X-Terra Pro")
 
@@ -32,13 +32,10 @@ Today, we're diving into the world of CoilTek coils with a special focus on the 
 
 This is the largest search coil available for Minelab Equinox and X-Terra Pro, Elite And Vanquish 60 Series metal detectors. When you need maximum ground coverage or the greatest depth, this is going to be a coil of choice. Ideal for locating deep hoards where nothing shall be missed.
 
-The coil is Fully submersible to 5 meters\* (16 feet). This is only for the Equinox 700 and equinox 900 and the X-Terra Pro, the Minelab Equinox 600 and Equinox 800 are limited to 3 mtr.
-
-Coiltek are Endorsed by Minelab and manufacture the highest quality search coils for many Minelab Detectors.
-
-The coil is compliant with Multi-IQ technology and is rigorously tested to the highest standards Includes a two year warranty and coil cover.
-
-This Coil is Compatible with the Minelab Equinox, Minelab X-Terra Pro, X-Terra Elite and Vanquish 60 Series
+- The coil is Fully submersible to 5 meters\* (16 feet). This is only for the Equinox 700 and equinox 900 and the X-Terra Pro, the Minelab Equinox 600 and Equinox 800 are limited to 3 mtr.
+- Coiltek are Endorsed by Minelab and manufacture the highest quality search coils for many Minelab Detectors.
+- The coil is compliant with Multi-IQ technology and is rigorously tested to the highest standards Includes a two year warranty and coil cover.
+- This Coil is Compatible with the Minelab Equinox, Minelab X-Terra Pro, X-Terra Elite and Vanquish 60 Series
 
 Find out More about the Coiltek 18 inch coil.
 
