@@ -21,4 +21,6 @@ seo:
 
 ![Minelab X-terra 305](/img/281017_xterra_w8tp3s7c.webp "Ring found on the dry sand with the Minelab X-Terra 305")
 
-Out on the dry sand with the Minelab E-Terra 305, a [basic metal detector](/minelab-manticore/) designed for the beginner or entry level detectorist. this is truly underrated as an [entry level metal detector](/minelab-vanquish-40-series/), works really well on the dry sand and the slightly moist slope of the beach, a slow swing speed and used with no discrimination, helps to pick out targets amongst the trash, in this video i was using only 3 tones, in the previous video i used it in multl tones..
+## Minelab X-terra 305 Beach Detecting
+
+Out on the dry sand with the Minelab E-Terra 305, a [basic metal detector](/minelab-vanquish-60-series/) designed for the beginner or entry level detectorist. this is truly underrated as an [entry level metal detector](/top-5-beginners-metal-detectors/), works really well on the dry sand and the slightly moist slope of the beach, a slow swing speed and used with no discrimination, helps to pick out targets amongst the trash, in this video i was using only 3 tones, in the previous video i used it in multl tones..
