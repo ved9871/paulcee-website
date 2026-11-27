@@ -1,6 +1,8 @@
 ---
 title: Find gold with a metal detector
 datePublished: 2018-01-01T18:10:00
+draft: false
+noindex: false
 topic: ctx-3030
 tags:
   - gold
@@ -13,7 +15,7 @@ cover: /img/b-241217_New.webp
 heroVideo: UYd3sUZRDtI
 summary: Can you find gold on the beach with a metal detector
 seo:
-  title: Find gold with a metal detector - Blog
+  title: Find gold with a metal detector
   description: Minelab CTX 3030 is still a great detector for beach detecting and can find gold, metal detecting at night on the beach
   keywords: minelab ctx 3030, crawfords metal detectos, CMD Detectors, minelab uk, paul cee minelab
 ---
