@@ -18,7 +18,7 @@ Celebrating 30 years of excellence, Crawfords Metal Detectors is a celebrated na
 
 Founded in 1994 as a dream to serve the community, we have flourished into a nationwide leader with our headquarters nestled in Scunthorpe Lincolnshire.
 
----
+***
 
 ### Official UK Minelab Distributor
 
@@ -26,7 +26,7 @@ A significant milestone in our history was our selection as the official UK dist
 
 This distinction showcases our ability to understand and cater to the nuanced needs of the metal detecting community, ensuring you get access to the world's best technology.
 
----
+***
 
 ### Equipment for Every Treasure Hunter
 
@@ -38,7 +38,7 @@ At Crawfords, we are renowned for aligning each customer with a machine that per
 
 [Essential Accessories: Everything you need to uncover the treasures.](/detecting-accessories/)
 
----
+***
 
 ### Why Choose Crawfords Metal Detectors?
 
@@ -46,7 +46,7 @@ As we look to the future, Crawfords Metal Detectors continues its legacy as the 
 
 For anyone captivated by the allure of unearthing the mysteries hidden beneath our feet, Crawfords is your guide and companion.
 
----
+***
 
 ### Start Your Next Adventure Today
 
@@ -62,7 +62,7 @@ In addition to our wide range of metal detectors stocked in the UK, we also have
 
 [Review of the Minelab Equinox](/minelab-equinox/)
 
-![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD2026a.webp "Use code paulcee10 at the Crawfords checkout for a discount") 
+![Crawfords Metal Detectors paulcee10 discount code advert with Detexpert and Paul Cee badges](/img/WEB_AD2026a.webp "Crawfords Metal Detectors Discount code") 
 
 #### CRAWFORDS METAL DETECTORS
 
