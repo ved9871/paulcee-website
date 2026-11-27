@@ -1,28 +1,31 @@
 ---
 title: Equinox power bank
 datePublished: 2019-09-10T20:24:00
+draft: false
+noindex: false
 topic: minelab-equinox
 tags:
-  - power
-  - nox
-  - equinox
-  - battery
-  - pack
-  - power
-  - bank
+  - Pwr Knox
+  - nox 800 battery
+  - equinox Battery
+  - battery for a metal detector
+  - power bank for metal detecting
 cover: /img/b-pwr-nox005a.webp
+heroVideo: ''
 summary: Pwr-Nox Power Pack for Minelab Equinox Detectors
 seo:
-  title: Equinox power bank - Blog
+  title: Equinox power bank
   description: A usb high power battery for the Minelab Equinox range, will also suit other metal detectors which can be charged with USB
   keywords: RNB, minelab equinox battery, recharge , power bank for minelab detectors
 ---
 
 ![Pwr-Nox battery pack for the Minelab Equinox, front view](/img/pwr-nox004a_6fnsf0ay.webp "The Pwr-Nox adds a second battery worth of run time")
 
-## Pwr-Nox Power Pack for Minelab Equinox Detectors
+## Pwr-Nox Power Pack 
 
-Double the battery life and detecting time of your Minelab Equinox with the Pwr-Nox Power Pack.
+For Minelab Equinox and other Metal Detectors
+
+**Double the battery life** and detecting time of your Minelab Equinox with the Pwr-Nox Power Pack.
 
 ![Pwr-Nox power pack clipped to the upper stem of an Equinox shaft](/img/pwr-nox002a_ig2l0m52.webp "It clips to the upper stem beside the arm cup")
 
