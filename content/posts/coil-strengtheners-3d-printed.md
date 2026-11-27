@@ -9,7 +9,7 @@ cover: /img/b-coil-strengthener1.webp
 heroVideo: ZaJimpj9WwI
 summary: are they any good
 seo:
-  title: coil strengtheners 3d printed - Blog
+  title: coil strengtheners 3d printed
   description: coil strengtheners are not the ideal solution for stopping coil lugs breaking, cheap and not professionally made, printed wrong with most having no warranty
   keywords: minelab coil lugs, coil strengthener, 3d printed, minelab coil, minelab coil lugs, minelab equinox, minelab manticore, accessories
 ---
@@ -26,23 +26,19 @@ These are appearing for most brands of metal detectors and cheaply made.
 
 What to look for on 3d printed products.
 
-The quality of 3D printed coil lug strengtheners can vary based on several factors:
+The quality of 3D printed coil lug straighteners can vary based on several factors:
 
-<strong>Material:</strong> The type of material used in 3D printing can significantly impact the strength and durability of the strengthener. Some filaments, like certain types of ABS or nylon, offer good durability and strength, suitable for protecting the coil lug.
-
-<strong>Design:</strong> The design of the strengthener plays a critical role. A well-engineered design that provides adequate support and protection to the coil lug can be effective, regardless of the manufacturing method.
-
-<strong>Printing Quality:</strong> The precision and quality of the 3D printing process are essential. Higher-quality printers and skilled operators can produce stronger and more reliable parts compared to lower-quality printing.
-
-<strong>Fit and Compatibility:</strong> Ensuring the strengthener is designed to fit your specific metal detector model is crucial. A well-fitting strengthener will provide better protection and support.
-
-MOST of these 3d printed products are made by people just wanting to get some money out of your pocket and no thought or design has gone into these products.
-
-3D printed coil lug strengtheners can potentially be printed in ways that affect their effectiveness. Some common issues that might arise during the 3D printing process include:
-
-<strong>Poor Layer Adhesion:</strong> If the printer settings or the material used are not suitable, it can result in weak layer adhesion, making the strengthener less durable.
+- <strong>Material:</strong> The type of material used in 3D printing can significantly impact the strength and durability of the strengthener. Some filaments, like certain types of ABS or nylon, offer good durability and strength, suitable for protecting the coil lug.
+- <strong>Design:</strong> The design of the strengthener plays a critical role. A well-engineered design that provides adequate support and protection to the coil lug can be effective, regardless of the manufacturing method.
+- <strong>Printing Quality:</strong> The precision and quality of the 3D printing process are essential. Higher-quality printers and skilled operators can produce stronger and more reliable parts compared to lower-quality printing.
+- <strong>Fit and Compatibility:</strong> Ensuring the strengthener is designed to fit your specific metal detector model is crucial. A well-fitting strengthener will provide better protection and support.
+- MOST of these 3d printed products are made by people just wanting to get some money out of your pocket and no thought or design has gone into these products.
+- 3D printed coil lug strengtheners can potentially be printed in ways that affect their effectiveness. Some common issues that might arise during the 3D printing process include:
+- <strong>Poor Layer Adhesion:</strong> If the printer settings or the material used are not suitable, it can result in weak layer adhesion, making the strengthener less durable.
 
 ![Close-up of a red 3D printed strengthener clamped round a coil lug on a carbon shaft](/img/coil-strengthener.webp "Layer direction and print settings decide how strong the part is")
+
+***
 
 <strong>Incorrect Orientation:</strong> Printing orientation matters. Printing the strengthener in the wrong orientation might weaken its structural integrity or compromise its fit.
 
@@ -51,6 +47,8 @@ MOST of these 3d printed products are made by people just wanting to get some mo
 <strong>Material Choice:</strong> Not all 3D printing materials offer the same level of strength or durability. Choosing a material ill-suited for the purpose can result in a weaker strengthener.
 
 <strong>Design Flaws:</strong> A poorly designed strengthener might not provide adequate protection or support to the coil lug, regardless of the printing quality.
+
+***
 
 It's essential to have the right settings, suitable materials, and a well-designed model to ensure the 3D printed coil lug strengthener comes out correctly.
 
