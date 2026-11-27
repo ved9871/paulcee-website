@@ -19,7 +19,7 @@ cover: /img/b-emite-r-scoops.webp
 heroVideo: 1TZHAfeop8k
 summary: A Look at the Budget Sandscoops from EmiteR
 seo:
-  title: EmiteR sandscoops - Blog
+  title: EmiteR sand scoops
   description: Emiter cheap Budget sandscoops for beach metal detecting in the uk
   keywords: Emiter, cheap, sandscoop, beach, detecting, metal
 ---
