@@ -14,9 +14,9 @@ cover: /img/b-ring-recover.webp
 heroVideo: X8b27CCjuFQ
 summary: Ring recovery, help find rings and keys, lost on the beach
 seo:
-  title: Ring Recovery Bournemouth beach Detecting - Blog
-  description: ring finder in bournemouth
-  keywords: ring, finder, lost, found, recovery, special, expensive, metal, detector
+  title: Ring Recovery Bournemouth beach Detecting
+  description: ring finder in Bournemouth, looking for and finding peoples lost jewellery
+  keywords: ring finder, lost and found, ring recovery, metal, detector, jewellery recovery
 ---
 
 ![Couple on Bournemouth beach, text reads They lost it, I found it, result](/img/ring-recover_r9twm2pw.webp "Reunited a couple with their lost wedding band")
