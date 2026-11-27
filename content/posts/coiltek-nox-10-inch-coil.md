@@ -1,6 +1,8 @@
 ---
 title: Coiltek NOX 10x5 inch coil
 datePublished: 2021-02-17T20:48:00
+draft: false
+noindex: false
 topic: coils-and-gear
 tags:
   - Coiltek
@@ -10,7 +12,7 @@ cover: /img/b-10x5_web.webp
 heroVideo: MGMqlr-9sPk
 summary: Coiltek Nox 10x5 elliptical coil, Test and Review
 seo:
-  title: Coiltek NOX 10x5 coil review - Blog
+  title: Coiltek NOX 10x5 coil review
   description: New Coiltek coils for the Minelab Equinox what are they and review
   keywords: Coiltek, minelab, equinox, coils, detecting, coil review
 ---
