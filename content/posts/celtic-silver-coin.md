@@ -5,13 +5,11 @@ draft: false
 noindex: false
 topic: minelab-equinox
 tags:
-  - celtic
-  - '800'
+  - celtic coin uk
   - minelab
-  - equinox
-  - metal
-  - detector
-  - uk
+  - equinox 800
+  - metal detector
+  - detector settings
 cover: /img/b-P9020296_web.webp
 heroVideo: r-JqKu-ilLI
 summary: Iceni Bury diadenum unit (gallo belgic) 65 bc - 1ad First coin like this for me
