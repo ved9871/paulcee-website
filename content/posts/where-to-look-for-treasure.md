@@ -1,6 +1,8 @@
 ---
 title: Where to look for treasure
 datePublished: 2017-12-06T19:12:00
+draft: false
+noindex: false
 topic: ctx-3030
 tags:
   - uk
@@ -13,12 +15,14 @@ cover: /img/b-191117b.webp
 heroVideo: AERf7YZMazA
 summary: Looking for treaure on the beach, metal detecting
 seo:
-  title: find treasure metal detecting - Blog
+  title: find treasure metal detecting
   description: where and how find treasure metal detecting on the beach
   keywords: beach, minelab, ctx 3030, treasure, hunt, uk, beach, crawfords metal detectors
 ---
 
 ![Detectorist in a cap on a beach, silver again with the CTX 3030](/img/191117b.webp "Silver again from a big beach with the CTX 3030")
+
+## Minelab Ctx 3030 Beach Detecting
 
 Another Chilly early morning start, [metal detecting on the beaches of the UK](/), this time we go to a quieter
 
