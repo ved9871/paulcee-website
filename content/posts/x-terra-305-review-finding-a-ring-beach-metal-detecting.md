@@ -14,7 +14,7 @@ cover: /img/b-20171029-macro-2.webp
 heroVideo: https://www.youtube.com/0yWxsKfgdUo
 summary: Review of the Minelab E-terra 305 finding a ring beach detecting on the dry sand
 seo:
-  title: minelab X-terra Review - Blog
+  title: minelab X-terra Review
   description: minelab xterra 305 review, minelab xterra metal detector
   keywords: minelab, xterra, 305, minelab xterra metal detector, metal detector for beginners, review
 ---
