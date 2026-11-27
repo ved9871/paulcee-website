@@ -5,16 +5,13 @@ draft: false
 noindex: false
 topic: ctx-3030
 tags:
-  - coiltek
-  - 14x9
-  - elliptical
-  - ctx3030
-  - minelab
+  - CoilTek 14x9 coil
+  - ctx 3030 search coil
 cover: /img/b-CoiltekLogo.webp
 heroVideo: Et26ZiXH5F0
 summary: coiltek ctx coil, release and review
 seo:
-  title: Coiltek 14x9 coil - Blog
+  title: Coiltek 14x9 coil
   description: The coiltek 14x9 search coil for the Minelab Detectors this model is for the CTX 3030 but also available for the Minelab Equinox and X-terra Pro
   keywords: Coiltek coils uk, best coil for a metal detector, metal detecting on the beach, minelab manticore beach
 ---
