@@ -14,7 +14,7 @@ cover: /img/b-bourne-1.webp
 heroVideo: 5uh-ws2Rnro
 summary: Bournemouth beach metal detecting
 seo:
-  title: Armani and diamonds metal detecting Bournemouth - Blog
+  title: Armani and diamonds metal detecting Bournemouth
   description: bournemouth beach metal detecting with a minelab ctx 3030 the detector that finds treasures
   keywords: minelab, ctx 3030, uk, beach, detecting, metal, treasure, hunt
 ---
