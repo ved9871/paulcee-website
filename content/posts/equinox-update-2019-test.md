@@ -18,7 +18,7 @@ summary: |-
   Minelab Equinox Update V2.0 TEST
   Beach and land
 seo:
-  title: latest Equinox Update - Blog
+  title: latest Equinox Update
   description: the latest update for the minelab equinox, where to find it and how to use it
   keywords: minelab, equinox, update, iron bias, settings, nox 800
 ---
@@ -27,9 +27,11 @@ seo:
 
 ## The latest Minelab Equinox firmware Update
 
-is released by Minelab For the Equinox 800 and 600 series metal detectors
+This Update is released by Minelab For the Equinox 800 and 600 series metal detectors
 
-### Whats new in this update?
+***
+
+### What's new in this update?
 
 Better target I.D on bottlecaps, Rusty nails and other targets giving a positive false target id.
 
@@ -39,7 +41,11 @@ Also The Equinox 600 has a much needed improvement to the BACKLIGHT Function whi
 
 We have started to test out the new UPDATE to find the most useable settings without affecting performance, it may happen quickly or it may take a few weeks testing and changing setting to get optimal performance.
 
-### We note that some people have already found the best settings?? Really??
+***
+
+### We note that some people have already found the best settings
+
+ **_Really??_**
 
 Some people are having difficulty working out what settings to use and saying they are finding more iron than before the update.
 
