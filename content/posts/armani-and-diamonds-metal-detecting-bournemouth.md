@@ -5,18 +5,16 @@ draft: false
 noindex: false
 topic: beach-detecting
 tags:
-  - Bournemouth
-  - beach
-  - detecting
-  - Treasure
-  - UK
+  - Bournemouth beach Metal Detecting
+  - beach Detecting
+  - Metal detecting
 cover: /img/b-bourne-1.webp
 heroVideo: 5uh-ws2Rnro
 summary: Bournemouth beach metal detecting
 seo:
   title: Armani and diamonds metal detecting Bournemouth
-  description: bournemouth beach metal detecting with a minelab ctx 3030 the detector that finds treasures
-  keywords: minelab, ctx 3030, uk, beach, detecting, metal, treasure, hunt
+  description: Bournemouth beach metal detecting with a minelab ctx 3030
+  keywords: minelab ctx 3030, beach detecting, treasure hunt
 ---
 
 ![Detector coil and control box in clear shallow sea water at Bournemouth](/img/bourne-1_rcqvo5e2.webp "Detecting the shallows at Bournemouth and Sandbanks")
