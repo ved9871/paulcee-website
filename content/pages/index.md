@@ -10,7 +10,7 @@ seo:
 
 ## Master Your Minelab Metal Detector. Expert settings, reviews, and field tests from an official Minelab Detexpert.
 
----
+***
 
 - Explore for [metal detecting rallies and weekends](/detecting-rallies/) or day detecting events, this list is updated every week and includes the popular detecting digs and weekends.
 - If your a beginner and looking for [metal detecting advice](/minelab-vanquish-60-settings/) or settings we got you covered.
@@ -19,7 +19,7 @@ seo:
 - And of course [Sand scoops for metal detecting ](/swagier-scoop/)on the beach what scoops i use
 - And if you like [researching sites for metal detecting](/old-maps-for-metal-detecting/) we have a section on that also.
 
----
+***
 
 ## Minelab Manticore User Guide and settings
 
@@ -27,7 +27,7 @@ seo:
 
 [![Minelab Manticore settings video](/img/manticore_web1.webp "Manticore settings for beaches and fields")](/blog/minelab-manticore-uk-beach-settings/)
 
----
+***
 
 ## Minelab Equinox User Guide And Settings
 
@@ -35,7 +35,7 @@ seo:
 
 ![Minelab Equinox 900 beach settings video thumbnail with detectorist in the surf](/img/nox900_web.webp "Beach settings and user guide for the Equinox 900")
 
----
+***
 
 ## Minelab X-Terra Elite Settings
 
@@ -51,7 +51,7 @@ seo:
 
 [![Paul Cee sitting on a bench setting up a Minelab Vanquish 560 in a field](/img/560-web1_cr16wx23.webp "Paul Cee with the Vanquish 560 from the 60 Series")](/blog/minelab-vanquish-560/)
 
----
+***
 
 #### Minelab Vanquish User Guide
 
@@ -59,7 +59,7 @@ seo:
 
 [![Young detectorist with a Minelab Vanquish 540 on a grass field beside a spade](/img/vanquish-settings1.webp "Learning the Vanquish 540 out in the field")](/blog/minelab-vanquish-how-to-use/)
 
----
+***
 
 ### Minelab X-Terra PRO Settings
 
@@ -67,7 +67,7 @@ seo:
 
 [![Minelab X-Terra Pro on a shingle beach with the coil resting on driftwood](/img/xterra-pro-features.webp "X-Terra Pro features, functions and settings")](/blog/minelab-x-terra-pro/)
 
----
+***
 
 #### Minelab Voyager User Guide
 
@@ -75,7 +75,7 @@ seo:
 
 [![Minelab X-Terra Voyager control box on a field and on a beach at sunset](/img/voyager-tutorial_uymn4p4k.webp "Voyager set up guide: target IDs, discrimination, sensitivity")](/blog/minelab-voyager-how-to-use/)
 
----
+***
 
 ## Metal Detecting Accessories
 
@@ -98,12 +98,12 @@ PaulCee10
 <em>Valid Online, In-Store &amp; by Phone.\
 (Applies to accessories only. Excludes metal detectors.)</em>
 
----
+***
 
 ### Minelab Vanquish 560
 
 ###### Have a look at the 60 series (560) minelab vanquish, what is new and how it performs detecting on the beach and in fields
 
-{{youtube id="nrMw2oEBDyQ" title="Minelab Vanquish 560, what is it like, what features does it have, when is it available to buy"}}
+{{youtube id="u4WKMaN1cNs" title="Minelab Vanquish 60 Tutorials"}}
 
-{{youtube id="2blmefyIcgo" title="minelab equinox 900 metal detecting on the beach"}}
+{{youtube id="s32559kmarE" title="The Beach Police Caught Me"}}
