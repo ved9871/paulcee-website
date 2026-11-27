@@ -106,4 +106,6 @@ PaulCee10
 
 {{youtube id="u4WKMaN1cNs" title="Minelab Vanquish 60 Tutorials"}}
 
+REMEMBER IF YOU [NEED A PERMIT](/links/) To **_Metal Detect Get One._**
+
 {{youtube id="s32559kmarE" title="The Beach Police Caught Me"}}
