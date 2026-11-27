@@ -15,7 +15,7 @@ cover: /img/b-210523_manticore.webp
 heroVideo: Kt3HQN17ank
 summary: Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.
 seo:
-  title: A Beginner’s Guide to the Minelab Manticore’s 2D Screen - Blog
+  title: A Beginner’s Guide to the Minelab Manticore’s 2D Screen
   description: Confused by the Minelab Manticore's screen? Learn how to read the 2D Target ID Map to distinguish gold from bottle caps and dig less trash.
   keywords: Minelab Manticore, 2D Screen, Target ID Map, gold detection, metal detecting, beginner guide, trash identification, treasure hunting, metal detector tips
 ---
