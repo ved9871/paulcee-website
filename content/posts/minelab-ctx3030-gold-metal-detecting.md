@@ -16,6 +16,8 @@ seo:
 
 ![Gold ring on a Minelab CTX 3030 control box in front of Bournemouth pier](/img/GOPR0669.webp "The 22k gold ring from the wet sand and slopes")
 
+## Bournemouth Beach Metal Detecting
+
 Using my custom [CTX 3030](/ctx3030/) Beach program, metal detecting the wet sand and the Slopes on Bournemouth Beach pays off with a stunning 22k gold ring.
 
 [![Crawfords Metal Detectors banner with discount code paulcee10](/img/WEB_AD2026a.webp "Crawfords discount: use code paulcee10")](https://crawfordsmd.com/minelab-ctx3030?tracking=fa202437c9)
