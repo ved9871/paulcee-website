@@ -16,7 +16,7 @@ cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: ''
 summary: Long handle sandcoop shaft, sand scoop for metal detecting uk, carbon fiber scoop handle
 seo:
-  title: Anderson Neptune Carbon fibre scoop handle T Rex Scoop - Blog
+  title: Anderson Neptune Carbon fibre scoop handle T Rex Scoop
   description: Anderson neptune carbon sand scoop shaft uk fitted to TREX Sand scoop
   keywords: anderson neptune, carbon sand scoop shaft, best sand scoop handle, sand scoop uk, sand scoop pull handle, sand scoop shaft, best scoop shaft
 ---
