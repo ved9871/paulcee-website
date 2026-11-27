@@ -5,14 +5,10 @@ draft: false
 noindex: false
 topic: minelab-equinox
 tags:
-  - How
-  - to
-  - update
-  - minelab
-  - equinox
-  - '800'
-  - equinox
-  - '600'
+  - How to update
+  - update Equinox 800
+  - minelab Equinox update
+  - Equinox 600 Update
 cover: /img/b-equinox-update.webp
 heroVideo: TemGGVBz8QQ
 summary: How to Update Minelab Equinox metal detector to the latest software version
@@ -24,7 +20,9 @@ seo:
 
 ![Equinox how to update and rollback software thumbnail](/img/equinox-update.webp "Updating the Equinox, and rolling back if you need to")
 
-## How to Update the Minelab Equinox Metal detector to the Latest SOFTWARE Version
+## How to Update the Minelab Equinox Metal
+
+**_Detector to the Latest SOFTWARE Version_**
 
 How to Check Which [MINELAB Equinox](/minelab-equinox/) software is installed on your Minelab Equinox
 
