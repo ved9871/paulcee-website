@@ -5,17 +5,9 @@ draft: false
 noindex: false
 topic: ctx-3030
 tags:
-  - garrett
-  - seahunter
-  - uk
-  - garrett
-  - seahunter
-  - mk
-  - '2'
-  - garrett
-  - pi
-  - metal
-  - detector
+  - Garrett Seahunter
+  - metal Detector
+  - detector for beaches
 cover: /img/2026-thumb_0bwkmdko.webp
 heroVideo: LeFf35sIzfc
 summary: Minelab CTX 3030 and Garrett Seahunter MK2 beach metal detecting
