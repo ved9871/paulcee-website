@@ -9,8 +9,8 @@ cover: /img/b-P9020284_a.webp
 heroVideo: RpzLl8jU_bM
 summary: cut 1/4 hammered and Roman coins found metal detecting with the Equinox 800
 seo:
-  title: minelab equinox Cut Hammered coins - Blog
-  description: find very small cur hammered silver coins with a minelab equinox and the correct settings for where you are detecting, not beach to land settings
+  title: minelab equinox Cut Hammered coins
+  description: find very small cut hammered silver coins with a minelab equinox, and the correct settings for where you are detecting, not beach to land settings
   keywords: minelab equinox uk, minelab equinox settings, paul cee, crawfords metal detectors
 ---
 
