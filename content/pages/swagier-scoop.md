@@ -8,7 +8,9 @@ seo:
   keywords: Swagier scoops, sand scoop, sand sifter, sand scoop Uk, best sand scoop, motley digging tools, motley sand scoops
 ---
 
-## Swagier Sand Scoops: The Heavy-Duty Choice for Beach Detecting
+## Swagier Sand Scoops
+
+**_The Heavy-Duty Choice for Beach Detecting_**
 
 [![Swagier hexagon-hole stainless steel sand scoop in wet sand beside a pier](/img/swagier-2.webp "Swagier scoops are made from marine-grade stainless steel")](https://swagierscoop.com/)
 
@@ -32,7 +34,7 @@ Swagier uses a signature hexagonal hole pattern (honeycomb design). This structu
 
 Swagier don't just paint their scoops; they treat them. The electropolishing process smooths the steel surface on a microscopic level, creating a chrome-like shine that sheds sand easily and Stainless steel wont rust.
 
----
+***
 
 Meet the Line up
 
@@ -54,7 +56,7 @@ Meet the Line up
 * **Dimensions:** 290mm x 180mm x 119mm
 * **29mm Shaft Size**
 
----
+***
 
 ### The "Sniper": Swagier V2 (Sito)
 
@@ -73,7 +75,7 @@ Meet the Line up
 * **Weight: [1360Gr]**
 * **Dimensions:** 290mm x 180mm x 119mm
 
----
+***
 
 ### Which Sand Scoop Should I Choose: V2, V8, or V12?
 
@@ -81,7 +83,7 @@ Meet the Line up
 * **Best for Lightweight Comfort & Shoulder Relief (V8):** Choose the V8 if you have shoulder issues or want less fatigue during 3+ hour beach hunts, thanks to its significantly lighter weight.
 * **Best for Tiny Coins & Fine Jewellery (V12):** Choose the V12 if you detect in Europe or hunt micro-targets—its smaller drainage holes prevent tiny coins, chains, and ear studs from slipping through.
 
----
+***
 
 ### Buyer’s Guide: What You Need to Know
 
