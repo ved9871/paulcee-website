@@ -1,6 +1,8 @@
 ---
 title: metal detecting Cuts on the beach
 datePublished: 2017-12-26T15:46:00
+draft: false
+noindex: false
 topic: ctx-3030
 tags:
   - Beach
@@ -12,12 +14,14 @@ cover: /img/b-png-logo-2025.webp
 heroVideo: O4mWR8ccvtY
 summary: Metal Detecting cuts on the beach, in the winter storms
 seo:
-  title: metal detecting Cuts on the beach - Blog
+  title: metal detecting Cuts on the beach
   description: why you should metal detect cut on the beach
   keywords: metal, detecting, beach, minelab, metal, detectors, uk
 ---
 
 ![Man holding up a Queen Victoria Prince of Wales model half sovereign on a beach](/img/171217_POW.webp "Queen Victoria half sovereign found on a UK beach cut")
+
+## Where to metal detect on the beach
 
 When the winter storms remove sand from the beach, usually called "Cuts" these can be very productive areas to search, when you start finding coins follow the coin line where they all drop..
 
