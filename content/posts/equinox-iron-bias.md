@@ -11,7 +11,7 @@ summary: |-
   What is IRON BIAS on the Minelab Equinox
   here Minelab Equinox developer explains what is iron bias and how to use it
 seo:
-  title: minelab Equinox Iron Bias explained - Blog
+  title: minelab Equinox Iron Bias explained
   description: minelab Equinox IRON BIAS Explained by minelab engineers, at how the iron bias works
   keywords: minelab equinox iron bias, equinox iron bias setting, set up equinox metal detector, minelab equinox settings
 ---
