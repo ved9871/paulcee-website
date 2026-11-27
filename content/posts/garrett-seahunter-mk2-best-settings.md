@@ -23,7 +23,9 @@ seo:
 
 Well when i use the either the Garrett Seahunter MkII or the Garrett ATX, yes they both have a somewhat crude form of discrimination even though they are [Pulse Induction metal Detectors](https://en.wikipedia.org/wiki/Metal_detector).
 
-## The Garrett Seahunter Mk has the discrimination knob on the rear of the control panel
+## The Garrett Seahunter Mk has discrimination
+
+The knob is on the rear of the control panel, although it is a very Crude for of discrimination is does allow you to tune the detector for a happy detecting experience. 
 
 ![Close-up of the Garrett Sea Hunter Mk2 threshold dial held between finger and thumb](/img/seahunter-settings.webp "Threshold dial on the rear control panel")
 
