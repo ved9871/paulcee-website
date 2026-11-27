@@ -12,7 +12,7 @@ cover: /img/b-equinox-900-vibratea.webp
 heroVideo: o1U1u1qW23U
 summary: make the Minelab Equinox Vibrate
 seo:
-  title: Equinox Vibrate Settings - Blog
+  title: Equinox Vibrate Settings
   description: Minelab Equinox vibrate handle, easy to turn on for all target id or specific target tone, really useful for people that are hard of hearing to go detecting
   keywords: minelab equinox vibrate, vibrate handle settings, equinox 900 settings, equinox 700 settings, nox 900 settings, crawfords metal detectors
 ---
