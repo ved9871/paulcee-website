@@ -9,17 +9,13 @@ tags:
   - detector
   - headphones
   - surffones
-  - metal
-  - detecting
   - minelab
-  - Equinox
-  - '800'
-  - uk
+  - Equinox Headphones
 cover: /img/b-mal-surffones.webp
 heroVideo: ''
 summary: Custom made headphones for the Minelab ctx 3030, Minelab Equinox and excalliber metal detectors
 seo:
-  title: Mals SurfFones Minelab  - Blog
+  title: Mals SurfFones Minelab
   description: what are the best headphones for the minelab ctx 3030 minelab Excallibur or minelab equinox 800 & 600
   keywords: Minelab, Equinox 800, Minelab ctx 3030, minelab Excallibur, Mals Surffones,metal detector uk, best headphones for metal detecting
 ---
