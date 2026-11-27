@@ -9,7 +9,7 @@ cover: /img/b-15inch-coil-review.webp
 heroVideo: UbuV0Z8-P-s
 summary: Nox 15 inch Coil
 seo:
-  title: Coiltek NOX 15 inch coil Review - Blog
+  title: Coiltek NOX 15 inch coil Review
   description: Review and use of the Coiltek NOX 15 inch coil for the Minelab Equinox, and x-terra pro metal detectors
   keywords: coiltek, Nox, Equinox, Coil, Review, Test, Minelab
 ---
