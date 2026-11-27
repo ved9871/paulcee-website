@@ -16,7 +16,7 @@ cover: /img/b-custom-ferrous-limits.webp
 heroVideo: Kt3HQN17ank
 summary: Set up custom ferrous limits
 seo:
-  title: minelab manticore ferrous limits - Blog
+  title: minelab manticore ferrous limits
   description: ferrous limits on the minelab manticore, and which sould you change the upper limits or lower limits, adjusting the ferrous limits can increase your finds rate
   keywords: minelab manticore. minelab manticore ferrous limits, what are ferrous limits, when to use ferrous limits, minelab manticore settings
 ---
